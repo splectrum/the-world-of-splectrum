@@ -21,6 +21,8 @@ A field's overviews show how it maps itself — what it treats as its centre, it
 
 **Humphreys' handbook chapter, "Emergence"** (Oxford Handbook of Philosophy of Science, 2016), is the methodological survey. Its opening verdicts frame the genre: a unified theory or concise definition of emergence "is not a feasible project at the current time," and — unlike causation — the field has no agreed core set of examples against which accounts can be tested; assembling one, Humphreys suggests, would be a useful project. He sorts the senses into ontological, epistemological, inferential, and conceptual emergence, diagnoses the literature as two camps with a widening gap — one open to emergence within the sciences, one driven by metaphysics of mind, whose narrowing of the question he calls crippling — and dismantles the assumed opposition between emergence and reduction in both directions.
 
+**The Routledge Handbook of Emergence** (Gibb, Hendry and Lancaster, eds., 2019) is the genre's most cross-disciplinary collection: philosophers alongside physicists and chemists — its editors spanning metaphysics, philosophy of chemistry, and physics — with chapters running from the British tradition through the sciences' cases.
+
 ## The monograph surveys
 
 **Clayton and Davies (eds.), *The Re-Emergence of Emergence*** (Oxford, 2006) marked the revival: scientists and philosophers surveying emergence from physics to consciousness, with the theological adjacency its title signals. **Gillett's *Reduction and Emergence in Science and Philosophy*** (Cambridge, 2016) is the systematic metaphysics-side treatment, building a framework for both notions across the sciences. **Humphreys' *Emergence: A Philosophical Account*** (Oxford, 2016) is the monograph companion to his chapter, developing the diachronic and transformational accounts. **[Wilson](/positioning/persons/w/wilson-jm/)'s *Metaphysical Emergence*** (Oxford, 2021) functions as a survey through its central claim — that weak and strong metaphysical emergence, powers-defined, exhaust the coherent options — and reads the field's accounts as versions of its two schemas.
@@ -31,7 +33,7 @@ A field's overviews show how it maps itself — what it treats as its centre, it
 
 ## The shape of the genre
 
-The general overviews are philosophy's — organised by physicalism, by the British lineage, or by the analytic disputes — with the sciences appearing as cases at their edges, while the science registers are surveyed register by register: physics, sociology, and the quantitative wing each on its own. Humphreys' two-camps diagnosis, made from inside the genre, describes the division — one camp open to emergence within the sciences, one driven by the metaphysics of mind — and calls the second camp's narrowing of the question crippling to an understanding of emergence in general.
+The general overviews are mostly philosophy's — organised by physicalism, by the British lineage, or by the analytic disputes — with the sciences appearing as cases at their edges; the Routledge Handbook is the nearest the genre comes to crossing the disciplines, while the science registers otherwise survey themselves register by register: physics, sociology, and the quantitative wing each on its own. Humphreys' two-camps diagnosis, made from inside the genre, describes the division — one camp open to emergence within the sciences, one driven by the metaphysics of mind — and calls the second camp's narrowing of the question crippling to an understanding of emergence in general.
 
 ---
 
