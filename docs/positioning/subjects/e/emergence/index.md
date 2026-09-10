@@ -15,6 +15,10 @@ The emergence subject gathers the resources that address the emergence question 
 
 - **[The types of emergence](/positioning/subjects/e/emergence/the-types/)** — the spine of the subject: the named types and definitions catalogued, from Mill's heteropathic effects to the contested emergent abilities of large language models, each entry with its origin.
 
+## Relation with mechanism
+
+- **[Emergence — relation with mechanism](/positioning/subjects/e/emergence/relation-with-mechanism/)** — the definitions sorted by whether they state a mechanism, classify without one, or hold the underivability as ultimate — cross-tabulated with the vocabulary each is stated in, how each is given, and which terms each takes as primitive.
+
 ## The overviews
 
 - **[The overviews of emergence](/positioning/subjects/e/emergence/the-overviews/)** — how the field maps itself: a complete census of the overview genre — the encyclopaedia entries, the anthology, the handbook chapter, the monographs, the register-specific surveys — and the shape the census shows.
