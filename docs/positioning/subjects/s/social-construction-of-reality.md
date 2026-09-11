@@ -96,4 +96,4 @@ The subject is defined as much by the arguments over it as by its statements.
 
 ---
 
-See also: [Berger](/positioning/persons/b/berger/) · [Luckmann](/positioning/persons/l/luckmann/) · [Searle](/positioning/persons/s/searle/) · [Constructivism](/positioning/subjects/c/constructivism/) · [Phenomenology](/positioning/subjects/p/phenomenology/) · [Pragmatism](/positioning/subjects/p/pragmatism/) · [Pluralism](/positioning/subjects/p/pluralism/)
+See also: [Berger](/positioning/persons/b/berger/) · [Luckmann](/positioning/persons/l/luckmann/) · [Searle](/positioning/persons/s/searle/) · [Constructivism](/positioning/subjects/c/constructivism/) · [Phenomenology](/positioning/subjects/p/phenomenology/) · [Pragmatism](/positioning/subjects/p/pragmatism/) · [Pluralism](/positioning/subjects/p/pluralism/) · [Emergence](/positioning/subjects/e/emergence/)

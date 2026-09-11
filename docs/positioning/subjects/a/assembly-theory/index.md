@@ -35,4 +35,4 @@ The theory is a recent proposal under active and unresolved debate. Its receptio
 
 ---
 
-See also: [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) · [Mineral Evolution](/positioning/subjects/m/mineral-evolution/) · [Autopoiesis](/positioning/subjects/a/autopoiesis/) · [Kauffman](/positioning/persons/k/kauffman/)
+See also: [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) · [Mineral Evolution](/positioning/subjects/m/mineral-evolution/) · [Autopoiesis](/positioning/subjects/a/autopoiesis/) · [Kauffman](/positioning/persons/k/kauffman/) · [Emergence](/positioning/subjects/e/emergence/)

@@ -231,6 +231,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Mendel, Gregor (1822–1884)](m/mendel) · friar, naturalist<span class="kw">laws of inheritance, pea plant experiments, discrete hereditary factors, dominance and recessiveness</span>
 - [Merleau-Ponty, Maurice (1908–1961)](m/merleau-ponty) · philosopher<span class="kw">phenomenology of the body, perception, the habitual body, intercorporeality</span>
 - [Mitchell, Melanie (1969–)](m/mitchell) · computer scientist, complexity researcher<span class="kw">genetic algorithms, analogy-making, the CAS synthesis, complexity's limits and achievements</span>
+- [Moffett, Mark W. (1958–)](m/moffett) · biologist<span class="kw">anonymous societies, identity markers, the ant-human structural comparison, fission-fusion, canopy ecology, definitions as marks not explanations</span>
 - [Morgan, Thomas Hunt (1866–1945)](m/morgan) · geneticist<span class="kw">the chromosome theory of heredity, Drosophila genetics, sex-linked inheritance, chromosome mapping, the fly room</span>
 - [Murdoch, Iris (1919–1999)](m/murdoch) · philosopher, novelist<span class="kw">attention, unselfing, the sovereignty of Good, moral perception, art and morality</span>
 

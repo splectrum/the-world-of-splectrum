@@ -27,7 +27,7 @@ The vocabulary CAS has built for adaptive dynamics. The concepts group naturally
 
 ## The dynamics
 
-**Emergence.** Global patterns arising from local interaction, not reducible to the sum of individual behaviours. Holland: "Emergent phenomena in CAS... are, almost by definition, parsing-resistant" (*Emergence*, 1998). Flocking, market crashes, traffic jams, immune responses — the pattern is not in any single agent.
+**Emergence.** Global patterns arising from local interaction, not reducible to the sum of individual behaviours. Holland: "Emergent phenomena in CAS... are, almost by definition, parsing-resistant" (*Emergence*, 1998). Flocking, market crashes, traffic jams, immune responses — the pattern is not in any single agent. The field's methodological literature keeps the term distinct from self-organisation: self-organisation names the process by which order arises without external control, emergence the relation of the resulting pattern to its base.
 
 **Self-organization.** Systems shaping their own order without external imposition. Kauffman's contribution is the sharpest version of this: autocatalytic networks bootstrapping into organised wholes, "order for free" arising from network topology rather than from natural selection. The claim is that selection is not the only source of biological order — that the structure of the network itself generates organisation independently. This puts self-organization in productive tension with the neo-Darwinian emphasis on selection as the primary organising force. Kauffman does not reject selection; he argues it works alongside — and is constrained by — the order that network topology provides for free.
 

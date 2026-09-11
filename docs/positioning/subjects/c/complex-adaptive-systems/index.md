@@ -29,4 +29,4 @@ CAS vocabulary has been taken up across economics, biology, ecology, artificial 
 - [Contested receptions](/positioning/subjects/c/complex-adaptive-systems/contested-receptions/) — definitional disputes, Holland-Kauffman emphasis differences, the metaphor critique, management appropriation, the predictability debate.
 - [Adjacent traditions](/positioning/subjects/c/complex-adaptive-systems/adjacent-traditions/) — cybernetics, general systems theory, chaos and nonlinear dynamics, cellular automata, evolutionary theory.
 
-See also: [Autopoiesis](/positioning/subjects/a/autopoiesis/) · [Darwinism](/positioning/subjects/d/darwinism/) · [Assembly Theory](/positioning/subjects/a/assembly-theory/)
+See also: [Autopoiesis](/positioning/subjects/a/autopoiesis/) · [Darwinism](/positioning/subjects/d/darwinism/) · [Assembly Theory](/positioning/subjects/a/assembly-theory/) · [Emergence](/positioning/subjects/e/emergence/)
