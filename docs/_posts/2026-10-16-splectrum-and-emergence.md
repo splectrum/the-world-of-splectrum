@@ -9,6 +9,8 @@ status: draft
 words: 784
 ---
 
+<img src="https://images.unsplash.com/photo-1678899813352-f78cd41e1744?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="SPLectrum and Emergence" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+
 History keeps a file marked *strong emergence* — properties of wholes that cannot be derived, even in principle, from full knowledge of their parts. And history keeps emptying it. Vitalism filed *life* there; biochemistry restated it. [C. D. Broad](/positioning/persons/b/broad/), the most careful mind ever to organise the file, put *chemical bonding* in it in 1925 — his confident example of a relation no amount of knowledge could close. Quantum mechanics began deriving chemical bonds within the decade. Philosophers of chemistry still argue about how complete that derivation is, and the argument matters — we will come back to it — but the example did what confident examples in this file keep doing: it moved.
 
 Now set a different case beside it. For two and a half centuries, Newtonian mechanics could not account for the drift in Mercury's orbit. The relation between the theory and the observation could not be stated. And nobody called it emergence. Astronomers filed it as a *problem* — an unknown — and kept working, and general relativity closed it. The instinct was right. So here is the question the file poses: why does an unstatable orbit get filed under *unknown*, while an unstatable whole gets filed under *strong emergence*?
@@ -22,3 +24,6 @@ There is one more clause, and it is the pluralist one. SPLectrum is one voice am
 So the position, stated plainly. Novelty is real, and it arrives as a new context on top of an existing one — say what layered on what, and within which language you are speaking. Where your context cannot state the relation, file it under unknown and keep working; the file has a good record. And where a discussion of emergence is running in no well-defined context at all, it is a discussion about the word — the reference library carries [what the word's many communities each mean by it](/positioning/subjects/e/emergence/), and that is the better place to start.
 
 <small>This post is part of the [positioning series](/blog/label/positioning/). See also the reference entries on <a href="/positioning/subjects/e/emergence/">emergence</a>, <a href="/positioning/subjects/e/emergence/the-types/">the types</a> and <a href="/positioning/subjects/e/emergence/under-other-names/">emergence under other names</a>.</small>
+
+---
+<small>Photo: <a href="https://unsplash.com/@emmebience">emmebience</a> / Unsplash</small>
