@@ -31,6 +31,10 @@ The emergence subject gathers the resources that address the emergence question 
 
 - **[The overviews of emergence](/positioning/subjects/e/emergence/the-overviews/)** — how the field maps itself: a complete census of the overview genre — the encyclopaedia entries, the anthology, the handbook chapter, the monographs, the register-specific surveys — and the shape the census shows.
 
+## Under other names
+
+- **[Emergence under other names](/positioning/subjects/e/emergence/under-other-names/)** — the same territory carried in vocabularies where the word is not load-bearing: renormalisation and universality, self-organisation, autopoiesis, assembly history, sui generis and spontaneous order — each with its home on this site.
+
 ## The debate's principals
 
 - **[The principals of the emergence debate](/positioning/subjects/e/emergence/the-principals/)** — the five figures who carry the debate by name — Broad, Kim, Bedau, Wilson, Chalmers — each read for what they bring to the bundle's guiding questions.
