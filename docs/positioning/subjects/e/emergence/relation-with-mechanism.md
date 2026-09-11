@@ -13,9 +13,9 @@ description: "The types of emergence cross-tabulated by checkable properties of 
 
 ## Definitions that state a mechanism
 
-These say how the emergent comes about, and the mechanisms recur across entries: symmetry breaking (Anderson); coarse-graining, limits and the renormalisation group (asymptotic emergence, causal emergence, the multiscale variety); self-organisation and dissipative dynamics (Deacon's morphodynamic order, intrinsic emergence, the emergence/self-organisation pairing); selection and iteration across generations (the teleodynamic order, spontaneous order); constraint and context (contextual emergence, the top-down-causation classes); fusion of constituents (fusion emergence); and the association of individuals (social emergence — the mechanism supplied in Sawyer's account; Durkheim's own statement asserts it by analogy). The mechanisms overlap at their edges — self-organisation and selection combine in Deacon's ladder; coarse-graining underlies several — and appear here as recurring forms, not exclusive bins.
+These say how the emergent comes about, and the mechanisms recur across entries: symmetry breaking ([Anderson](/positioning/persons/a/anderson/)); coarse-graining, limits and the renormalisation group (asymptotic emergence, causal emergence, the multiscale variety); self-organisation and dissipative dynamics (Deacon's morphodynamic order, intrinsic emergence, the emergence/self-organisation pairing); selection and iteration across generations (the teleodynamic order, spontaneous order); constraint and context (contextual emergence, the top-down-causation classes); fusion of constituents (fusion emergence); and the association of individuals (social emergence — the mechanism supplied in Sawyer's account; [Durkheim](/positioning/persons/d/durkheim/)'s own statement asserts it by analogy). The mechanisms overlap at their edges — self-organisation and selection combine in Deacon's ladder; coarse-graining underlies several — and appear here as recurring forms, not exclusive bins.
 
-| Representative entries | Anderson; asymptotic; causal; contextual; intrinsic; multiscale; fusion; three orders; social (Sawyer) |
+| Representative entries | [Anderson](/positioning/persons/a/anderson/); [asymptotic](https://en.wikipedia.org/wiki/Robert_Batterman); [causal](https://www.pnas.org/doi/10.1073/pnas.1314922110); [contextual](http://www.scholarpedia.org/article/Contextual_emergence); [intrinsic](https://en.wikipedia.org/wiki/James_P._Crutchfield); [multiscale](https://en.wikipedia.org/wiki/Yaneer_Bar-Yam); [fusion](https://en.wikipedia.org/wiki/Paul_Humphreys_(philosopher)); [three orders](https://en.wikipedia.org/wiki/Terrence_Deacon); social ([Sawyer](https://en.wikipedia.org/wiki/R._Keith_Sawyer)) |
 |---|---|
 | Language context | The formalisms of the sciences — condensed matter, applied mathematics, information theory, computational mechanics — and, for fusion and contextual emergence, philosophy worked inside those formalisms |
 | How given | Formal or operational (Anderson's essay states its mechanism informally; the later renormalisation-group work formalises it) |
@@ -25,7 +25,7 @@ These say how the emergent comes about, and the mechanisms recur across entries:
 
 These give criteria for when something counts as emergent, compatible with any account of how: the powers-based weak/strong pair, the formalisation built for the exclusion debate, the weak/strong cut in its in-principle form, the failure-of-aggregativity conditions, nominal emergence, and the taxonomies (the options grid, the graded taxonomy, the four types). Weak emergence in the simulation sense sits between the first group and this one: its criterion is classificatory, and the incompressible micro-dynamics it points to is itself the how.
 
-| Representative entries | Powers-based weak/strong; the exclusion-debate formalisation; in-principle weak/strong; aggregativity; the taxonomies |
+| Representative entries | [Powers-based weak/strong](/positioning/persons/w/wilson-jm/); [the exclusion-debate formalisation](/positioning/persons/k/kim/); [in-principle weak/strong](/positioning/persons/c/chalmers/); [aggregativity](https://en.wikipedia.org/wiki/William_C._Wimsatt); [the taxonomies](/positioning/subjects/e/emergence/the-types/) |
 |---|---|
 | Language context | Metaphysics' own vocabulary — levels, powers, supervenience, derivability |
 | How given | Criterial (aggregativity operational) |
@@ -35,7 +35,7 @@ These give criteria for when something counts as emergent, compatible with any a
 
 The British-emergentist family: emergent evolution's genuinely new qualities and trans-ordinal laws that are ultimate, both to be accepted with natural piety; strong emergence with fundamental psychophysical laws; non-structural properties that are causally basic. In these definitions the absence of a derivation from the base is not an open task but part of what is being claimed — the connecting laws are held to be fundamental in their own right.
 
-| Representative entries | British emergentism; emergent evolution; strong emergence; non-structural properties |
+| Representative entries | [British emergentism](/positioning/persons/b/broad/); [emergent evolution](https://en.wikipedia.org/wiki/C._Lloyd_Morgan); [strong emergence](/positioning/persons/c/chalmers/); [non-structural properties](https://en.wikipedia.org/wiki/Timothy_O%27Connor_(philosopher)) |
 |---|---|
 | Language context | Metaphysics' own vocabulary, with modal and mind-directed terms |
 | How given | Criterial |

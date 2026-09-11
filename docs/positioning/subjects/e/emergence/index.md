@@ -15,9 +15,17 @@ The emergence subject gathers the resources that address the emergence question 
 
 - **[The types of emergence](/positioning/subjects/e/emergence/the-types/)** — the spine of the subject: the named types and definitions catalogued, from Mill's heteropathic effects to the contested emergent abilities of large language models, each entry with its origin.
 
+## The paradigm cases
+
+- **[The paradigm cases of emergence](/positioning/subjects/e/emergence/the-paradigm-cases/)** — each definition beside the case it was built on, checkable from the founding texts — chemistry for the founders, consciousness for the ultimate family, runnable systems for the formal accounts.
+
 ## Relation with mechanism
 
 - **[Emergence — relation with mechanism](/positioning/subjects/e/emergence/relation-with-mechanism/)** — the definitions sorted by whether they state a mechanism, classify without one, or hold the underivability as ultimate — cross-tabulated with the vocabulary each is stated in, how each is given, and which terms each takes as primitive.
+
+## The sortings
+
+- **[The sortings of emergence](/positioning/subjects/e/emergence/the-sortings/)** — the field's own instruments: weak against strong, epistemic against ontological, synchronic against diachronic, Humphreys' four modifiers, and the question of what emerges — each with its origin and its published difficulties.
 
 ## The overviews
 
