@@ -1,6 +1,6 @@
 # Working Sketch: When Does an Alliance Become a Society?
 
-*Two angles on one definition: (1) the TRANSITION Moffett's category scheme doesn't theorise — alliances that became societies; (2) the TERRITORIAL CRITERION itself, pressed by de-localised interaction and by the non-territorial societies that already existed. The second is the more fundamental.*
+*Primarily a BELONGING thread, not a politics one (Jules 2026-09-12): politics is the dynamic side — the coexistence between actors — whereas the question here is what constitutes the us in the first place (when identification becomes primary, what certifies membership, what a marker costs to hold). It converges with the OWED belonging close-affinity piece (belonging-as-gate alongside belonging-as-graded), which both Moffett posts and the person page defer to; the two should be considered together rather than separately. Two angles on one definition: (1) the TRANSITION Moffett's category scheme doesn't theorise — alliances that became societies; (2) the TERRITORIAL CRITERION itself, pressed by de-localised interaction and by the non-territorial societies that already existed. The second is the more fundamental.*
 
 Working document, opened 2026-09-12. Provisional throughout. Scope, territory test and open questions all subject to revision. This is a *scoping* document: it states what the territory is, why it is worth taking up, and what would have to be researched — it does not do the research, and it does not settle which surfaces carry which part.
 
@@ -78,7 +78,9 @@ Held as questions, not theses. The temptation to answer either with "markers" be
 - Where does this land on the site — a subject page with the field's own material, a close-affinity or fence reading, a blog post, or several? **Not to be decided by drift.** The subject comes first if the territory test holds; any reading rests on it.
 - Is territorial control a condition of society or a contingency of how interaction happened to work? If the latter, what does the definition rest on once it is removed — and is "primary abiding identity" enough on its own to do the excluding Moffett wants?
 - Do the old non-territorial cases (secret societies, diasporas, orders) and the new ones (online, transnational) differ in kind, or only in scale and reach?
-- Relation to the politics material already built (coexistence read at every scale; the one-and-the-many as the field's standing concern) — the connection is obvious enough to be worth checking rather than assuming.
+- **Placement, the live question:** this reads primarily onto BELONGING (what constitutes the us) rather than politics (the dynamic between actors) — so the first question is how it relates to the owed belonging close-affinity piece. Options: one piece carrying both (Moffett's gate, the graded reading, and the territorial/virtualisation question as its sharpest case), or the belonging piece first with this as a subject beneath it. Not to be decided by drift.
+- Relation to the politics material already built (coexistence read at every scale; the one-and-the-many as the field's standing concern) — real but secondary; worth checking rather than assuming.
+- Does the three-core-values material on belonging already carry part of this? Check before building.
 
 ## 5. Readiness
 
