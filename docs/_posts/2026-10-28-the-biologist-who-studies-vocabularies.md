@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "The Biologist Who Studies Vocabularies"
-date: 2026-10-20
-lastmod: 2026-09-11
+date: 2026-10-28
+lastmod: 2026-09-12
 labels: [conversations, science]
 description: "Mark Moffett spent decades in rainforest canopies and ant colonies, and stopped along the way to write a paper about a preposition — treating a field's vocabulary as a scientific object in its own right."
 status: draft
-words: 776
+words: 772
 ---
 
 <img src="https://plus.unsplash.com/premium_photo-1695716338892-409c4e4a65f9?q=80&w=1547&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Biologist Who Studies Vocabularies" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
@@ -15,7 +15,7 @@ In 2000, a field biologist published a paper in *Biotropica* titled "What's 'up'
 
 That is an unusual thing for a field biologist to write. It is also, I think, more interesting than the claim he is famous for.
 
-The famous claim is that human societies are, in their organisation, more like certain ant societies than like the troops of our nearest relatives — both having solved the same problem, cooperation among anonymous strangers at scale, by different means: colony scent in the one case, and in ours the whole constellation of language, dress, ritual and flag that lets strangers read each other as members. It is contested, properly and in print, and I have no verdict to offer in that argument.
+The famous claim is [the one about the ants](/blog/2026/10/the-society-that-cannot-recognise-itself/): that human societies are, in their organisation, more like certain ant societies than like the troops of our nearest relatives, both having solved the problem of cooperation among anonymous strangers by badges rather than acquaintance. It is contested, properly and in print, and I have no verdict to offer in that argument.
 
 What draws me is how he holds it. Not "ants are like us," not even "we are like ants," but something narrower and harder: two different mechanisms producing the same organisational solution, with the comparison *structural, not psychological*. He is not claiming ants think as we do. He is claiming that if you look at how a society is held together rather than at what it feels like from inside, the same shape turns up in two places that share no history of it.
 
