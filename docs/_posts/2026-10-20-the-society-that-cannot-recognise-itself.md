@@ -9,6 +9,8 @@ status: draft
 words: 935
 ---
 
+<img src="https://images.unsplash.com/photo-1582519934634-165964332f00?q=80&w=2831&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Society That Cannot Recognise Itself" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+
 In 2002, three researchers at Lausanne did something with unusual thoroughness. Tatiana Giraud, Jes Pedersen and Laurent Keller sampled Argentine ants from thirty-three populations along the coasts of Italy, France, Spain and Portugal, and then put workers from every possible pairing of those populations together to see what happened. Over eleven hundred combinations, scored on a scale from *ignores the other* to *fights to the death*.
 
 The result, [published in *PNAS*](https://pmc.ncbi.nlm.nih.gov/articles/PMC122904/), was that across some six thousand kilometres of coastline, aggression never occurred. Ants taken from Portugal and ants taken from Italy — separated by a distance no individual ant could cross in a hundred lifetimes, with no possibility of ever having met — antennated each other briefly and got on with it. The authors called it the largest cooperative unit ever recorded.
@@ -36,4 +38,4 @@ The ants, meanwhile, are not participating in this. They are carrying a smell th
 <small>This post is part of the [conversations series](/blog/label/conversations/). See also the reference entry on <a href="/positioning/persons/m/moffett/">Mark Moffett</a>.</small>
 
 ---
-<small>Photo: <a href="https://unsplash.com/@zmachacek">zmachacek</a> / Unsplash</small>
+<small>Photo: <a href="https://unsplash.com/@juanmascan1978">juanmascan1978</a> / Unsplash</small>

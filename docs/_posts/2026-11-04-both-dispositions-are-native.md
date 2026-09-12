@@ -9,6 +9,8 @@ status: draft
 words: 849
 ---
 
+<img src="https://images.unsplash.com/photo-1772551419646-e1d76cfebfc8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Both Dispositions Are Native" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+
 Two claims sit next to each other in [Mark Moffett](/positioning/persons/m/moffett/)'s account of human societies, and the interesting thing is that he holds both without ranking them.
 
 The first is unsurprising. Our evolutionary past predisposes us to sort people into us and them — to favour our own, treat strangers with suspicion, and rank outsiders below us.
@@ -28,3 +30,6 @@ This is contested, and not quietly. When he put the framework to peer review, co
 I find the framework's restraint more interesting than its verdict. Moffett declines to say which disposition is authentically human, and he declines to let a definition do explanatory work — it marks, and the explaining happens elsewhere. Both refusals are of a piece with how he handles everything, which was [the subject of the last post](/blog/2026/10/the-biologist-who-studies-vocabularies/). Whether the definition should be as strict as he makes it is precisely what his critics are asking, and that question deserves more than a paragraph here. It is going on the list.
 
 <small>This post is part of the [conversations series](/blog/label/conversations/). See also the reference entry on <a href="/positioning/persons/m/moffett/">Mark Moffett</a>.</small>
+
+---
+<small>Photo: <a href="https://unsplash.com/@andreahuls">andreahuls</a> / Unsplash</small>
