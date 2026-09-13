@@ -53,6 +53,12 @@ Which clusters first is a collaborative call. The psychology cluster (social ide
 
 `plan/political-union-formation-sketch.md` — when does an alliance become a society; the territorial criterion under de-localised interaction — is a facet of this, not a separate project. Its cast (state formation, nationalism, federalism, secession) overlaps the nationalism and political-theory facets almost exactly. Keep the sketch as the detailed working doc for that question; treat it as one facet's worth of material.
 
+## 5a. The shape to expect: three surfaces (Jules, 2026-09-13)
+
+Belonging will land as the same set emergence did — **meta subject + close affinity + reality side** — and planning it that way from the start is the point of having a strategy. The doorway is neutral and is the way in; the close-affinity piece carries the resonance in the resonance-only register; the reality-side piece carries the position's own formulation. Three jobs, not three versions of one, with links running from the position's surfaces down into the doorway.
+
+So the keyword is not finished when the doorway is built. It is finished when all three stand and agree — which is also the check on whether the backing was ever sufficient.
+
 ## 6. The position's own reading stays out
 
 The doorway is neutral. SPLectrum's reading of belonging — the core value, the gate-vs-graded question, what a marker costs to hold — belongs elsewhere: the **owed belonging close-affinity piece** (already deferred to in public by the Moffett person page and two posts), and whatever reality-side material the core value warrants. Those link down into the doorway; the doorway does not link up.
@@ -60,5 +66,7 @@ The doorway is neutral. SPLectrum's reading of belonging — the core value, the
 **Open question:** does the owed close-affinity piece come before or after the doorway? It has been promised in public, which argues for sooner; it also rests on backing that does not exist yet, which argues for later. Not to be decided by drift.
 
 ## 7. Readiness
+
+**PARKED 2026-09-13 (Jules): not being tackled now.** The doc's purpose for the moment is to hold the information — it closes the loose Moffett ends (the owed belonging piece, the routing hooks, the union-formation thread) and states a clear plan for when the phase opens.
 
 Not a build round. The decisions owed before any page: the naming/scope call, which backing cluster goes first, and the close-affinity-piece ordering.

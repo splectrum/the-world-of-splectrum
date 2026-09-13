@@ -10,6 +10,16 @@ A reader arriving at the keyword finds the field. The position's own reading of 
 
 The doorway is where someone who does not hold the position can still use the site.
 
+## Three surfaces per keyword
+
+The doorway is one of three, and the set is the shape to expect for every keyword (Jules, 2026-09-13). Emergence made it visible; belonging is planned on it:
+
+- **The meta subject** — neutral, the field's voice, the way in. Built last, once the backing exists.
+- **The close-affinity piece** — the resonance: where the field's work and the position's reading meet, in the resonance-only register.
+- **The reality-side piece** — the position's own voice on the keyword, its formulation.
+
+They are three jobs, not three versions of one job, and the register differs in each. Links run from the position's surfaces down into the doorway, never the other way. A keyword is not finished when its doorway is built; it is finished when all three stand and agree.
+
 ## The rules
 
 **1. Neutral in voice; the scope definition is a collection boundary, not the site talking.** The definition at the top of a meta subject says what the page gathers, not what SPLectrum claims. It can be strict — cognition's and emergence's both are — without the page becoming an argument.
