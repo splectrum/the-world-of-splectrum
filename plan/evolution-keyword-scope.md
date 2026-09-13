@@ -44,11 +44,13 @@ Deliberately loose. The research decides what the facets are, and whether "facet
 - **Technological, institutional and economic change** — evolutionary economics, the design literature. **Backing state unknown.**
 - **Evolutionary computation** — Holland built; genetic algorithms as the word applied to a deliberately engineered process.
 
-## 5. Relation to the agency/telescopic thread
+## 5. The agency/telescopic thread sits inside this
 
-The agency thread (`plan/agency-telescopic-sketch.md`) is **the living case of the reality side** — SPLectrum's own formulation of Darwinian evolution, extended outward. It is next in the order of work and has its own readiness criteria.
+Folded in 2026-09-13 (Jules): the agency thread is **this keyword's reality-side work on the living case** — SPLectrum's own formulation of Darwinian evolution, extended outward — not a separate project. Its working doc stays where it is (`plan/agency-telescopic-sketch.md`), because its scale warrants one: a dynamic landscape whose runners reshape it, agents headless at landscape scale yet carrying internal world models (language games) and claiming rationality for them, with the headlessness observer-relative — a description from a vantage that sees the opportunity structure the runners cannot, which makes the gap between inside and outside descriptions a candidate definition of the telescopic dimension. It carries its own readiness criteria, vocabulary calls (whether "agency" is adopted at all; "telescopic" defined or replaced), the Levin light-cone thread, the knowledge-and-understanding check on the bacterial case, and a research programme its own note calls multi-round rather than a single survey.
 
-**Keep them as two items, not one.** The agency thread proceeds on its own; this keyword scope must not become a gate in front of it. By rule 2 the doorway is built after the backing, and after — not before — the position's own work has somewhere to stand.
+**Retain or absorb is an open call.** It may end up as a piece of this keyword's reality side, or stay a thread in its own right that this keyword's neutral material serves. That is decided when the work opens, not now. What the folding settles is only that it is not a *separate keyword* — it is evolution's living case, and the doorway is the neutral ground it will stand on.
+
+Note the ordering consequence: by rule 2 the doorway comes after backing. But the agency thread is next in the order of work and has its own criteria, so it need not wait for a doorway — the two can run in either order, and the research may well say which.
 
 ## 6. Open, and staying open
 

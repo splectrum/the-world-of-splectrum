@@ -2,6 +2,8 @@
 
 Working document for a maturing thread. Opened 2026-09-09. Provisional throughout. Deliberately NOT yet a build round: the thread banks sparks here while it matures. Deferred until after the emergence round (readiness discussion 2026-09-09), which is expected to supply ground this thread will stand on.
 
+**Placement (2026-09-13, Jules): this thread sits inside the evolution keyword** (`plan/evolution-keyword-scope.md`) as its reality-side work on the living case. Whether it is ultimately absorbed into that keyword's reality pieces or retained as a thread in its own right is an open call, decided when the work opens. The readiness criteria below still govern.
+
 ## The destination (Jules, 2026-09-09)
 
 This will become an important topic: **from this thread SPLectrum will formulate its own version of Darwinian evolution, and extend it to other areas.** The sketch's job is to be ready for that formulation when the thread opens — not to pre-empt it.
