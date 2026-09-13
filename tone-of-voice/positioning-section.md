@@ -85,6 +85,19 @@ Brief framing of what the ring is for (one or two paragraphs at most), followed 
 
 Where a piece is a bundle — a landing/hub page plus branch pieces — a branch must not foreclose what the hub holds open. When the hub commits to keeping a question open (e.g. the aesthetics surface holds the meaning↔truth question open, "not foreclosed here"), the branches stay illustrative on it: state a thinker's position as theirs (Derrida's "never comes fully to rest"), and frame the contested matter as the open question, never as a settled verdict. A branch saying more than its hub does — watch flat clauses like "belonging is X rather than Y" — is the tell.
 
+## Meta subjects (keyword doorways)
+
+For each SPLectrum keyword — cognition, emergence, belonging — the section carries a **meta subject**: a neutral single access point into the field around that word. The register is the ordinary Persons/Subjects register, held strictly: the field's voice, no SPLectrum vocabulary, no argument.
+
+Two things distinguish a meta subject from an ordinary subject page:
+
+- **It is a pointer layer, never a primary source.** It says only what the person and subject pages below it explicitly back. New material flows down into those pages first (`process/backing-flows-down.md`), and the doorway is built last — after the backing exists, never as a promise of backing to come.
+- **Its scope definition is a collection boundary, not the site talking.** The definition at the top says what the page gathers. It may be strict without becoming a claim; a strict definition is still not the position speaking.
+
+Facet entries say what each facet *brings to the keyword*, not what the target page is about. The position's own reading of the keyword lives elsewhere — reality side, or close affinity — and links down into the doorway. **The doorway does not link up.**
+
+The strategy, the rules and the keyword inventory are in `process/keyword-doorways.md`.
+
 ## On the fence
 
 The only positioning surface where dissonance is engaged. Fence pages are particular and not easy — the discipline is precise and the failure modes are predictable.
