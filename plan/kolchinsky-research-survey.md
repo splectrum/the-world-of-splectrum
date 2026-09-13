@@ -4,6 +4,51 @@
 
 ---
 
+
+---
+
+## UPDATE — verification round 2026-09-13
+
+*The July survey's territory claims checked against current sources. Corrections first.*
+
+### Corrections to Part A
+
+- **Position out of date.** Kolchinsky is now **Senior Research Scientist at XOR Labs, London** (his homepage and CV, last updated 5 September 2026). The Pompeu Fabra Marie Curie fellowship (host: Ricard Solé; MSCA #101068029 "NETOLIFE") ran 2023–2026 and has **ended**. The Ramón y Cajal is still listed as "provisionally selected" — **do not state he holds it**. His recent output has turned toward stochastic thermodynamics and AI-safety-adjacent venues; semantic information is not where the current work sits.
+- **The 2018 apparatus is confirmed exactly as recorded** — viability function, scrambling, viability value of information, semantic information, semantic content, semantic efficiency, stored vs observed, the rock/hurricane/caching-bird gradient. No corrections.
+- **The concession is verbatim and quotable**, in three places:
+  - §6: "The factors generally represent 'subjective' choices of the scientist, indicating for which systems, temporal scales, and initial conditions the scientist wishes to quantify semantic information."
+  - §4: "It is important to re-emphasize that, in our framework, the viability function is exogenously determined by the scientist analysing the system, rather than being a purely endogenous characteristic of the system."
+  - §1.2 lists the three relativities: the system/environment division, the timescale τ, the initial distribution.
+  - **Fairness condition:** §4 immediately qualifies this, arguing viability is less arbitrary than a scenario-specific utility function because maintaining existence is "almost always a necessary (though usually implicit) condition" for any goal. **Quoting the concession without the qualification is tendentious** — the page must carry both.
+- **Rovelli: credited, relationalism dropped.** The paper credits him in the body ("explored by Carlo Rovelli"), cites **Rovelli, "Meaning and intentionality = information + evolution," in *Wandering towards a goal* (Springer, 2018)** — note the title differs from the July survey's — and thanks him in the acknowledgments alongside Dennett and Godfrey-Smith from SFI's "Meaning of Information" working group. **Relational quantum mechanics is nowhere in the paper.** So the lineage is acknowledged and the metaphysics silently dropped. Precise and defensible; the "he took the idea and left the relationalism on the table" reading in Part B is confirmed.
+
+### Reception — thinner than the survey assumed, and that is itself the finding
+
+- **No sustained philosophical engagement exists.** The framework argues *against* teleosemantics (K&W's own case: teleosemantics defines meaning by selection history, they want an ahistorical definition resting on dynamics) — and **no teleosemanticist reply was locatable.**
+- **The PRX Life papers are not independent reception** — Kolchinsky is a co-author on both Sowinski et al. (*PRX Life* 1, 023003, 2023) and Bartlett et al., "Physics of Life" (*PRX Life* 3, 037003, 2025).
+- **The one genuine outside engagement:** **Stuart J. Bartlett** (Caltech), "Causal Leverage Density: A General Approach to Semantic Information," **arXiv:2407.07335 (2024) — preprint, publication status unverified.** His objection is **scope and organism-centrism**, not circularity: he rejects assuming "a primary role for the viability of a subsystem" and replaces viability with observed changes in future phase-space trajectories, extending the measure to neural networks and technological systems.
+- **Nobody published has argued the viability function is circular or the scrambling arbitrary.** Attribute these to no one. Note the trap: the parallel objection *is* published and attributable for the free energy principle (Colombo & Wright, *Entropy* 23:238, 2021) and for Landauer (Earman & Norton) — which makes it easy to assume it exists here too.
+- **Honest summary for any page:** extension by a collaborating group plus one independent generalisation, with critical philosophical engagement essentially absent. A page implying a lively critical literature would misrepresent the field.
+
+### Territory verdicts
+
+- **Semantic information / physics of meaning — NOT A FIELD. Do not build a subject page.** No self-recognised name (the group publishes under "Physics of Life", which is broader); the cast is one overlapping co-authorship network, substantially SFI/FQXi-seeded via the "Meaning of Information" working group; and there is almost no critical literature, so it lacks the arguments that partly constitute a field. **Homonym warning:** Bar-Hillel & Carnap, "Semantic Information" (*BJPS*, 1953) and Floridi's "strongly semantic information" are about *truth and content* (the Bar-Hillel–Carnap paradox, factivity); K&W is about *physical correlations sustaining a low-entropy state*. Shared term, different territory — note it wherever the term appears. Names that could **not** be substantiated as contributors to this programme: Krakauer, Flack, Hidalgo, Corominas-Murtra, Seth Lloyd.
+- **Information thermodynamics — IS A FIELD.** Now folded into the larger **thermodynamics bundle** — see `plan/thermodynamics-bundle-research.md`, which carries the full research record.
+- **Free energy principle — split.** The FEP is Friston's programme; **active inference** is a genuine community around it (Parr, Pezzulo & Friston, *Active Inference*, MIT Press 2022; an Active Inference Institute). Criticisms published and attributable: Colombo & Wright (2021) on unfalsifiability and circularity; Andrews, "The math is not the territory" (*Biology & Philosophy*, 2021). A subject call for later, not this round.
+
+### Person pages — earned
+
+- **Kolchinsky** — the round's subject; carries the semantic-information material, since it gets no subject of its own.
+- **David Wolpert** — earned **independently and comfortably**: most cited for the **No Free Lunch theorems (14,000+ citations of those alone, ~51,000 total)**, plus stacked generalization (used in both winning Netflix Prize entries) and the thermodynamics of computation, his stated current programme — including "The stochastic thermodynamics of computation," *J. Phys. A* 52:193001 (2019), which is a distinct area from information thermodynamics. Semantic information is a minor sideline in his corpus; the page is not built on it.
+- **Sosuke Ito** — earned independently. Associate Professor, Universal Biology Institute, University of Tokyo. Landmark in his own name: **Ito & Sagawa, "Information Thermodynamics on Causal Networks," *PRL* 111:180603 (2013)** — generalises the second law and the fluctuation theorem to causal/Bayesian networks. Also thermodynamic uncertainty relations and **geometric thermodynamics** linking stochastic thermodynamics to information geometry and optimal transport. He was Kolchinsky's PI, not the reverse.
+- **Dretske / Millikan** — only if the teleosemantics contrast turns out load-bearing on Kolchinsky's page. Not otherwise.
+
+### The bearing on Part B's reading
+
+Part B's central move — that the subject-slot is silently occupied by the analyst, and the fix is to seat the system — survives the verification: the concession is real, in the authors' own words, and repeated. **But two things temper how it can be written.** First, the fairness qualification above. Second, and more important for the register: **the foundations literature does not consider the entropy bridge settled.** Gibbs and Shannon entropy are formally identical in expression, but whether formal identity transfers meaning is exactly what is disputed (Maroney 2005 argues thermodynamic and information-theoretic entropy are conceptually different), and thermodynamic entropy is the *target* that Boltzmann and Gibbs entropies are *candidate definitions* aiming to recover. So the physics-of-meaning strand rests on a bridge its own discipline has not closed — which is worth knowing before leaning on the physics as corroboration. See `plan/thermodynamics-bundle-research.md` §3.
+
+**And the relational reading has a physics precedent that is now verified** — Rovelli's relative entropy, "objective but relative to O", explicitly *not* the epistemic/Jaynes reading ("a cup of hot tea does not cool down because of what I know or do not know about its molecules"), with the coarse-graining fixed by physical coupling rather than by a knower. That is the same move Part B proposes for the viability function, already made in thermodynamics by the person Kolchinsky credits. **Caveats travel with it:** Rovelli marks the arrow-of-time half as speculative, the reception is thin (42 citations, no published reply from the past-hypothesis principals), and **RQM is never named in those papers** — the kinship is structural, not his stated derivation. Full record in the thermodynamics research doc §4.
+
 ## PART A — TERRITORY SURVEY
 
 ### TL;DR
