@@ -98,6 +98,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 
 ## U
 
+- [Thermodynamics](t/thermodynamics/) · physics<span class="kw">what processes can and cannot do — the four laws and the several second laws, entropy's competing readings, the reduction dispute, and the field's reach from steam engines to black holes and bits</span>
 - [Ubuntu](u/ubuntu/) · philosophy, ethics<span class="kw">the southern African philosophy of personhood through relation — "a person is a person through other persons", umuntu ngumuntu ngabantu, Ramose, Tutu, the Truth and Reconciliation Commission, the communitarian critique</span>
 - [URI](u/uri/) · web architecture, software engineering<span class="kw">uniform resource identification — the addressing layer of the Web: URL and URN, RFC 3986, Berners-Lee, Fielding</span>
 
