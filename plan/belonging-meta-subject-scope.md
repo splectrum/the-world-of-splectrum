@@ -67,6 +67,22 @@ From the deleted Moffett dossier — the hooks that had no other home and touch 
 - **Fission-fusion as process vocabulary.** Societies as things that split, merge, weaken and fall — a path-dependent life-cycle account in borrowed physics vocabulary. Touches the process/creativity/historicity threads and the community-scale question of stabilisation, drift and fork.
 - **Boundary-as-invariant.** The in/out cut passing unaltered through a change of recognition mechanism (individual recognition → marker) — a cut persisting while its medium changes. Touches the P0 / community-scale material.
 
+## 5c. Decoherence sits inside this (folded 2026-09-13, Jules)
+
+The QM/QI decoherence programme (`plan/decoherence-working-sketch.md` — retained as its own working doc; it carries a full research programme of its own) is folded in here because coherence *is* a form of belonging, and the physics supplies a mechanism-shaped account of graded membership that belonging otherwise has to assert.
+
+**What the physics offers.** Coherence is not the same as privacy: a coherent state can be **multi-party** — an entangled pair is one coherent state of two systems, a quantum register one of many. What breaks coherence is coupling to an *uncontrolled* environment, not coupling as such. So the gradient is not private → shared but:
+
+- **coherent, one party** — self-held;
+- **coherent, many parties** — genuinely shared, phase relations intact *between* them, the state not reducible to the parties taken separately. A "we" that is one state rather than an aggregate, and fragile in a specific way: it survives only while couplings to everything else stay starved. The quantum computer is the engineered case, and its cost is the point — cryogenics, isolation, error correction;
+- **decohered** — relations scrambled by outside coupling; what survives is the robust, redundantly-witnessed, public residue.
+
+**Two belonging phenomena, possibly, not one gradient.** The sketch already carries "belonging = redundancy grading — how many independent uptakes carry the facet", which grades the *decohered* fact: how public, how robust. That says nothing about the multi-party coherent case. So *shared-and-coherent* and *shared-because-redundantly-witnessed* may be different things, and telling them apart is research, not a decision to take now.
+
+**The load-bearing fence caveat, recovered here** (it lost its only written home when the Putnam sketch was deleted): the rhyme holds **only under the relational (RQM) reading** of decoherence — outcomes relative to interactions, no observer-independent collapse. Under the many-worlds gloss decoherence usually travels with, "settling into one basis" is the view from inside one branch of a still-total wavefunction, which smuggles back a universal wavefunction — a THE-reality, the super-subject the position refuses. Same mathematics, opposite metaphysics. State this as the diagnosis; do not walk the Everettian reading as a competitor.
+
+**And the is-like rule applies at full force.** This is a rhyme. Einselection is environment-induced selection of a basis; belonging is not obviously that, and the temptation to let the mathematics carry argumentative weight it has not earned is the exact collapse caught in the Moffett post drafting. One further limit: the einselection apparatus is *silent* on the coherent regime — it describes what coupling does — so the private, self-held side needs its own investigation rather than borrowing.
+
 ## 6. The position's own reading stays out
 
 The doorway is neutral. SPLectrum's reading of belonging — the core value, the gate-vs-graded question, what a marker costs to hold — belongs elsewhere: the **owed belonging close-affinity piece** (already deferred to in public by the Moffett person page and two posts), and whatever reality-side material the core value warrants. Those link down into the doorway; the doorway does not link up.

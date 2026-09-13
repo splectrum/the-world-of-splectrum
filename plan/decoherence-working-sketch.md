@@ -1,5 +1,8 @@
 # Working Sketch: Decoherence, Partial Facts, and the Subject — Discussion Capture & Research Programme
 
+**Placement (2026-09-13, Jules): this programme sits inside the belonging keyword** (`plan/belonging-meta-subject-scope.md` §5c) — coherence is a form of belonging, and the coherent/decohered gradient supplies a mechanism-shaped account of graded membership. This doc is retained as the programme's own working document; the fence caveat (the rhyme holds only under the relational/RQM reading, not the many-worlds gloss) is recorded in that section.
+
+
 Working document. Provisional throughout. Captures a conversation that ran from the absence of decoherence in popular QM history to a facet-wise picture of the subject, and lays out the research programme to build the supporting persons/subjects base for close-affinity pieces, site pages, and blog posts.
 
 ## What prompted this
