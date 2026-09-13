@@ -59,6 +59,14 @@ Belonging will land as the same set emergence did — **meta subject + close aff
 
 So the keyword is not finished when the doorway is built. It is finished when all three stand and agree — which is also the check on whether the backing was ever sufficient.
 
+## 5b. Moffett routing hooks carried forward
+
+From the deleted Moffett dossier — the hooks that had no other home and touch this thread:
+
+- **Definitional stance (how-not-what).** "A definition marks but does not explain; word it to avoid preconceived function." Resonates with the how-over-what orientation and the definitional stance in the aliveness material — a chosen vocabulary with pragmatic payoff, not an essence.
+- **Fission-fusion as process vocabulary.** Societies as things that split, merge, weaken and fall — a path-dependent life-cycle account in borrowed physics vocabulary. Touches the process/creativity/historicity threads and the community-scale question of stabilisation, drift and fork.
+- **Boundary-as-invariant.** The in/out cut passing unaltered through a change of recognition mechanism (individual recognition → marker) — a cut persisting while its medium changes. Touches the P0 / community-scale material.
+
 ## 6. The position's own reading stays out
 
 The doorway is neutral. SPLectrum's reading of belonging — the core value, the gate-vs-graded question, what a marker costs to hold — belongs elsewhere: the **owed belonging close-affinity piece** (already deferred to in public by the Moffett person page and two posts), and whatever reality-side material the core value warrants. Those link down into the doorway; the doorway does not link up.
