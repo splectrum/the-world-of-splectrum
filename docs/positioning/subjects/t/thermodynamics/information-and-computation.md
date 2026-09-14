@@ -15,7 +15,7 @@ The thought that information has thermodynamic standing began as a puzzle about 
 
 [Maxwell](/positioning/persons/m/maxwell/) posed it in a letter to Peter Guthrie Tait in December 1867, wanting, in his words, "to pick a hole" in the second law. Imagine a vessel of gas divided by a partition with a small door, and a being able to see individual molecules. It opens the door for fast molecules going one way and slow ones the other, does no work in operating a frictionless massless slide, and produces a temperature difference from nothing. The second law is broken by observation and timing alone.
 
-Two details of the story are commonly got wrong. Maxwell never called it a demon — he wrote of a "finite being", and the name was introduced by William Thomson in *Nature* in 1874, meaning the Greek *daimon*, a background agent rather than a malevolent one. And the public presentation came later, in *Theory of Heat* (1872), five years after the letter.
+Maxwell called it a "finite being"; the name demon was introduced by William Thomson in *Nature* in 1874, in the sense of the Greek *daimon*, a background agent rather than a malevolent one. The public presentation came four years after the letter, in *Theory of Heat* (1871).
 
 **Leó Szilárd** sharpened it in 1929 by reducing the demon to a single molecule in a box with a movable partition, and identifying the crucial step as *measurement*: knowing which side the molecule is on is what allows work to be extracted. That reframing turned the puzzle from a question about mechanical arrangements into a question about information.
 
@@ -37,7 +37,7 @@ Experimental confirmation of the bound and the claim that the bound exorcises th
 
 **James Ladyman, Stuart Presnell, Anthony Short and Berry Groisman** (2007) defend a qualitative version of the principle and clarify what it quantitatively asserts, granting the second law as a premise rather than deriving it; **Ladyman and Katie Robertson** replied to Norton directly in 2013. A different constructive route runs through **Takahiro Sagawa and Masahito Ueda**, who formulated a generalised second law incorporating measurement and feedback — treating the demon's information explicitly in the accounting rather than arguing about erasure.
 
-The dispute is substantially between physics and philosophy of physics, and the two camps are not disagreeing about the same thing. The experimentalists take the bound as verified, which it is. The philosophical objection is not that the experiments are wrong but that a verified bound does not by itself do the *foundational* work — exorcising the demon in a non-circular way — that the principle is often said to do. A treatment that cites the experiments as answering the objection has conflated the two claims.
+The dispute runs largely between physics and philosophy of physics, and the two camps address different claims. The experimentalists take the bound as verified, which it is. The philosophical objection is not that the experiments are wrong but that a verified bound does not by itself do the foundational work of exorcising the demon without circularity.
 
 The standard anthology is Harvey Leff and Andrew Rex's *Maxwell's Demon 2* (2003), which collects the primary literature on both sides.
 

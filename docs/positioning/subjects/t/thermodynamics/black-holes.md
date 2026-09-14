@@ -31,7 +31,7 @@ If black holes radiate and eventually evaporate, what becomes of the information
 
 Work from 2019 onward — Penington; Almheiri, Engelhardt, Marolf and Maxfield; and the replica-wormhole calculations of Almheiri, Hartman, Maldacena, Shaghoulian and Tajdini, and of Penington, Shenker, Stanford and Yang — reproduces the Page curve through new gravitational saddle points that dominate after the midpoint of evaporation. This is a genuine advance and is widely taken as strong evidence for unitarity.
 
-It is not the same as a resolution, and the difference matters. What has been computed is an *entropy*; no state-recovery process has been exhibited, so the mechanism by which information escapes is not shown. The results are largely obtained in two-dimensional and holographic settings, and whether they extend to four-dimensional astrophysical black holes is open. There is also an argument that the island formula gives the wrong radiation entropy where replica symmetry breaking is significant. The accurate summary is that the entropy is now calculated correctly and the paradox is not thereby agreed to be resolved.
+What has been computed is an *entropy*; no state-recovery process has been exhibited, so the mechanism by which information escapes is not shown. The results are largely obtained in two-dimensional and holographic settings, and whether they extend to four-dimensional astrophysical black holes is open. There is also an argument that the island formula gives the wrong radiation entropy where replica symmetry breaking is significant. The accurate summary is that the entropy is now calculated correctly and the paradox is not thereby agreed to be resolved.
 
 ---
 

@@ -23,7 +23,7 @@ This is where the subject began. Sadi Carnot's *Reflections on the Motive Power 
 
 The practical descendants are the **cycles**: Carnot as the ideal limit, Rankine for steam plant, Otto and Diesel for internal combustion, Brayton for gas turbines, and the vapour-compression cycle that makes refrigeration and heat pumps work. **Exergy analysis** — accounting for the fraction of energy in a stream that is actually available to do work — is the modern form of the same question Carnot asked, and is the standard tool for finding where a plant wastes its capacity.
 
-The historical direction is worth noting, because it inverts the usual picture of physics: the theory came out of the machines rather than the machines out of the theory.
+The historical direction runs opposite to the usual picture of physics: the theory came out of the machines rather than the machines out of the theory.
 
 ## Bioenergetics
 

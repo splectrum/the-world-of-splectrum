@@ -48,7 +48,7 @@ The most consequential recent development applies thermodynamic quantities to sy
 
 Its signature results are the **fluctuation theorems**. The Crooks fluctuation theorem (1999) relates the probability of a given amount of work in a forward process to the probability of its negative in the time-reversed process; the Jarzynski equality (1997) follows by integrating that relation, and allows equilibrium free-energy differences to be extracted from measurements on processes driven arbitrarily far from equilibrium — a result that surprised the field.
 
-What these say about the second law is easy to overstate, and one influential experimental paper is titled in a way that has encouraged it. The theorems do not show the second law is violated. They quantify the probability of *negative entropy production along a single trajectory*, a probability exponentially suppressed in the entropy produced and therefore negligible for anything macroscopic. The second law is recovered exactly as a statement about averages — indeed the theorems imply it. The accurate description is that they **refine** the second law from an inequality about averages into an equality about distributions.
+What these say about the second law is narrower than the language around them sometimes suggests — one of the experimental papers below is titled as a demonstration of second-law violations. The theorems quantify the probability of *negative entropy production along a single trajectory*, exponentially suppressed in the entropy produced and so negligible for anything macroscopic; the second law is recovered exactly as a statement about averages, which the theorems themselves imply. They **refine** it from an inequality about averages into an equality about distributions.
 
 Experimental confirmation is extensive: the Jarzynski equality tested by unfolding RNA with optical tweezers (Liphardt and colleagues, 2002), the Crooks theorem verified in RNA folding (Collin and colleagues, 2005), and a colloidal bead in a translating trap demonstrating trajectory-level negative entropy production (Wang and colleagues, 2002).
 
@@ -56,7 +56,7 @@ A further result is the **thermodynamic uncertainty relation** (Barato and Seife
 
 The field has its own open questions. The definition of heat along a trajectory carries an ambiguity under multiplicative noise — the Itô versus Stratonovich choice — and has been argued to yield second-law violations when kinetic coefficients depend on the system variables. The Jarzynski equality's convergence is dominated by rare trajectories, which is a practical limitation and arguably a foundational one. And whether the framework extends cleanly to quantum systems inherits an unresolved problem: there is no uncontroversial definition of work in quantum mechanics.
 
-Stochastic thermodynamics has largely superseded the earlier non-equilibrium frameworks for small systems, which is worth stating plainly: it is not another entry in the list above but the setting in which most current work on the mesoscale is done.
+For small systems, stochastic thermodynamics has largely superseded the earlier non-equilibrium frameworks: it is not another entry in the list above but the setting in which most current work on the mesoscale is done.
 
 ---
 

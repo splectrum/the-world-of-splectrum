@@ -19,7 +19,7 @@ The most striking structural result comes from the resource-theoretic formulatio
 
 [Landauer's](/positioning/subjects/t/thermodynamics/information-and-computation/) bound says erasing a bit costs at least *k*T ln 2. In the quantum case it can be less than zero. Del Rio, Åberg, Renner, Dahlsten and Vedral showed in 2011 that an observer whose memory is entangled with the system has *negative conditional entropy* about it, and can extract work while erasing, cooling the environment in the process.
 
-The result is widely mis-stated, and the two conditions that make it consistent are essential. The process is **not cyclic**, and the negative cost is paid for by consuming entanglement, which can only be restored by doing work. Reported without those conditions it reads as a violation of the second law, which it is not.
+Two conditions make this consistent with the second law. The process is **not cyclic**, and the negative cost is paid for by consuming entanglement, which can only be restored by doing work.
 
 ## Thermalisation without a bath
 
@@ -27,7 +27,7 @@ A closed quantum system evolving unitarily never changes its entropy, yet isolat
 
 It is a hypothesis, not a theorem. It is very well supported numerically and has been proved in restricted settings, but not for generic interacting systems, and it has known classes of exception — integrable systems, many-body localisation, quantum many-body scars, and systems with long-range interactions — each of which is itself an active research area.
 
-Whether this is the same phenomenon as **decoherence** is open, and the two should not be run together. Einselection, in Zurek's account, is an *open-system* story about which basis survives environmental monitoring — it answers *which states*. The eigenstate hypothesis is a *closed-system* story with no environment at all, and answers *which values*. Both are driven by entanglement and both concern the emergence of classical-looking behaviour, but they address different questions, and work attempting to bridge them is a research programme rather than a settled identification.
+Whether this is the same phenomenon as **decoherence** is open. Einselection, in Zurek's account, is an *open-system* story about which basis survives environmental monitoring — it answers *which states*. The eigenstate hypothesis is a *closed-system* story with no environment at all, and answers *which values*. Both are driven by entanglement and both concern the emergence of classical-looking behaviour, but they address different questions, and work attempting to bridge them is a research programme rather than a settled identification.
 
 ## Coherence as a resource, and the advantage question
 
