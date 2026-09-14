@@ -96,9 +96,12 @@ These are subjects of importance to SPLectrum, referenced within the site.
 - [Structuralism](s/structuralism) · linguistics, philosophy<span class="kw">meaning as difference, systems of relations: Saussure, Lévi-Strauss, and beyond</span>
 - [Symbolic forms](s/symbolic-forms/) · philosophy<span class="kw">Cassirer's account of mind constituting its worlds through language, myth, art, religion, and science — the neo-Kantian background, the Davos debate, and the afterlife in Langer and Goodman</span>
 
-## U
+## T
 
 - [Thermodynamics](t/thermodynamics/) · physics<span class="kw">what processes can and cannot do — the four laws and the several second laws, entropy's competing readings, the reduction dispute, and the field's reach from steam engines to black holes and bits</span>
+
+## U
+
 - [Ubuntu](u/ubuntu/) · philosophy, ethics<span class="kw">the southern African philosophy of personhood through relation — "a person is a person through other persons", umuntu ngumuntu ngabantu, Ramose, Tutu, the Truth and Reconciliation Commission, the communitarian critique</span>
 - [URI](u/uri/) · web architecture, software engineering<span class="kw">uniform resource identification — the addressing layer of the Web: URL and URN, RFC 3986, Berners-Lee, Fielding</span>
 
