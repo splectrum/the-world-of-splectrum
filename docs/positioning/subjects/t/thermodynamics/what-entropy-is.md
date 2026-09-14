@@ -11,6 +11,8 @@ description: "Several quantities share the name — Clausius's thermodynamic ent
 
 Entropy is the most quoted quantity in thermodynamics and the least settled. Several distinct quantities carry the name, related by more than coincidence and less than identity, and the question of what any of them *measures* divides the field rather than merely puzzling it.
 
+Entropy is not only a thermodynamic quantity: the word does technical work in information theory, dynamical systems and elsewhere, and whether those uses form one concept or a family is its own question. The [entropy subject](/positioning/subjects/e/entropy/) gathers them; this page is the thermodynamic side.
+
 ## The quantities
 
 **Clausius's thermodynamic entropy** (1865) is the original and is defined phenomenologically, through heat exchanged reversibly divided by temperature. It is the quantity the second law is about, and it makes no reference to microscopic structure.

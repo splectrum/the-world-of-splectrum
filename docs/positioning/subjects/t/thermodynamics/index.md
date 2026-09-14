@@ -64,4 +64,4 @@ External: [Sadi Carnot](https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi_
 
 ---
 
-See also: [Phase transitions](/positioning/subjects/p/phase-transitions/) · [Emergence](/positioning/subjects/e/emergence/) · [Relational quantum mechanics](/positioning/subjects/r/relational-quantum-mechanics/) · [Complex adaptive systems](/positioning/subjects/c/complex-adaptive-systems/)
+See also: [Entropy](/positioning/subjects/e/entropy/) — the word across its other homes · [Phase transitions](/positioning/subjects/p/phase-transitions/) · [Emergence](/positioning/subjects/e/emergence/) · [Relational quantum mechanics](/positioning/subjects/r/relational-quantum-mechanics/) · [Complex adaptive systems](/positioning/subjects/c/complex-adaptive-systems/)
