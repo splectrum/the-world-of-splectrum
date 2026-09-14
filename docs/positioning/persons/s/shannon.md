@@ -39,7 +39,7 @@ Published in two parts in the *Bell System Technical Journal* (July and October 
 
 Shannon's information entropy and Boltzmann's thermodynamic entropy share the same mathematical form. The connection was noted immediately. According to a well-known (possibly apocryphal) story, [von Neumann](/positioning/persons/v/von-neumann/) advised Shannon to call his measure "entropy" because "nobody knows what entropy really is, so in a debate you will always have the advantage."
 
-Whether the connection is merely formal (the same mathematics applied to different domains) or physically substantive (information and thermodynamic entropy are the same thing measured differently) has been debated since. [Rolf Landauer](/positioning/persons/l/landauer/)'s principle (1961) — that erasing one bit of information requires a minimum dissipation of k_B T ln 2 of energy — made the connection physical: information processing has irreducible thermodynamic costs. [Charles Bennett](/positioning/persons/b/bennett/)'s work on reversible computation and Maxwell's demon further developed the information-thermodynamics interface. The connection is now a working framework in statistical mechanics, quantum information theory, and the physics of computation.
+Whether the connection is merely formal (the same mathematics applied to different domains) or physically substantive (information and thermodynamic entropy are the same thing measured differently) has been debated since. [Rolf Landauer](/positioning/persons/l/landauer/)'s principle (1961) — that erasing one bit of information requires a minimum dissipation of k_B T ln 2 of energy — made the connection physical: information processing has irreducible thermodynamic costs. [Charles Bennett](/positioning/persons/b/bennett/)'s work on reversible computation and Maxwell's demon further developed the information-thermodynamics interface. The connection is now a working framework in statistical mechanics, quantum information theory, and the physics of computation — though the underlying question of whether the two entropies are one quantity remains open in the foundations literature, where [the reading of entropy](/positioning/subjects/t/thermodynamics/what-entropy-is/) is itself disputed.
 
 ---
 
@@ -65,4 +65,4 @@ Shannon's theory is a theory of information quantity, not information meaning. T
 
 ---
 
-See also: [Boltzmann](/positioning/persons/b/boltzmann/) · [Von Neumann](/positioning/persons/v/von-neumann/) · [Wiener](/positioning/persons/w/wiener/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/)
+See also: [Thermodynamics](/positioning/subjects/t/thermodynamics/) · [Boltzmann](/positioning/persons/b/boltzmann/) · [Von Neumann](/positioning/persons/v/von-neumann/) · [Wiener](/positioning/persons/w/wiener/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/)

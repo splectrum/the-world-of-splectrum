@@ -19,6 +19,8 @@ Maxwell called it a "finite being"; the name demon was introduced by William Tho
 
 **Leó Szilárd** sharpened it in 1929 by reducing the demon to a single molecule in a box with a movable partition, and identifying the crucial step as *measurement*: knowing which side the molecule is on is what allows work to be extracted. That reframing turned the puzzle from a question about mechanical arrangements into a question about information.
 
+What made the question answerable was a measure. [Claude Shannon](/positioning/persons/s/shannon/)'s "A Mathematical Theory of Communication" (1948) quantified information as surprise — a message's content is the improbability of receiving it, and the average over a source is an entropy whose formula is the one Gibbs had written for statistical mechanics. On a story Shannon told and which may be apocryphal, it was von Neumann who suggested the name, on the grounds that the mathematics matched and that "nobody knows what entropy really is, so in a debate you will always have the advantage." Whether the shared name marks a shared quantity is the question [the entropy page](/positioning/subjects/t/thermodynamics/what-entropy-is/) sets out; what is not in doubt is that after 1948 there was something definite for a thermodynamic cost to be a cost *of*.
+
 ## Landauer's principle
 
 [Rolf Landauer](/positioning/persons/l/landauer/) proposed in 1961 that the thermodynamic cost lies not in measurement but in **erasure**: resetting a bit to a standard state in an environment at temperature T dissipates at least *k*T ln 2 of energy. Logically irreversible operations have an unavoidable thermodynamic price; logically reversible ones do not.
