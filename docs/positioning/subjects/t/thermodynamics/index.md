@@ -35,10 +35,26 @@ One finding cuts across all of these, and Uffink is its source: **there is no si
 
 ## The bundle
 
+**The core**
+
 - **[The laws and the reduction](/positioning/subjects/t/thermodynamics/the-laws-and-the-reduction/)** — the four laws and why there is no single second law; Boltzmann and Gibbs; what the H-theorem does not prove; and the dispute over whether thermodynamics reduces to statistical mechanics.
 - **[What entropy is](/positioning/subjects/t/thermodynamics/what-entropy-is/)** — four quantities sharing a name, and the readings that divide over what they measure: objective, epistemic, relative to a physical coupling, and relative to the means of manipulation available — with Gibbs's formalism, which most of the field computes in, distinguished from any of them.
 
-*(In build. Further sections appear as their pages are written.)*
+**Regimes**
+
+- **[Away from equilibrium](/positioning/subjects/t/thermodynamics/away-from-equilibrium/)** — Onsager and the near-equilibrium regime, the several competing non-equilibrium frameworks, Prigogine's programme in its three very different parts, and the stochastic thermodynamics that now covers small systems.
+
+**Readings**
+
+- **[Information and computation](/positioning/subjects/t/thermodynamics/information-and-computation/)** — Maxwell's demon, Szilard's engine, Landauer's principle and its experimental confirmation, and the unresolved argument over whether the principle does the foundational work claimed for it.
+- **[The quantum regime](/positioning/subjects/t/thermodynamics/the-quantum-regime/)** — a family of second laws rather than one, erasure at negative cost, thermalisation without a bath, and the unresolved question of what work means in quantum mechanics.
+- **[Black holes](/positioning/subjects/t/thermodynamics/black-holes/)** — the laws of black hole mechanics, Bekenstein entropy and Hawking radiation, and whether the correspondence is literal or analogical.
+
+**The working subject**
+
+- **[The working subject](/positioning/subjects/t/thermodynamics/the-working-subject/)** — chemical thermodynamics and the free energies, the engineering cycles the field began with, and bioenergetics: the settled trunk where nearly all use lies, largely untouched by the disputes above.
+
+A note on the arrangement. These divisions are one map among possible ones, not the field's own taxonomy — there is no consensus taxonomy. Two axes cross here: a foundational one running from phenomenological thermodynamics to statistical mechanics, and a regime one running from equilibrium to the small-system limit. The readings above are not a further rung on either but cross-cutting reinterpretations applied at several points at once, and the working subject is largely independent of both.
 
 ## Principals
 
