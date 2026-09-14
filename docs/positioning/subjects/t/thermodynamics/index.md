@@ -36,7 +36,7 @@ One finding cuts across all of these, and Uffink is its source: **there is no si
 ## The bundle
 
 - **[The laws and the reduction](/positioning/subjects/t/thermodynamics/the-laws-and-the-reduction/)** — the four laws and why there is no single second law; Boltzmann and Gibbs; what the H-theorem does not prove; and the dispute over whether thermodynamics reduces to statistical mechanics.
-- **[What entropy is](/positioning/subjects/t/thermodynamics/what-entropy-is/)** — four quantities sharing a name, and four readings of what they measure: objective, epistemic, ensemble-relative, and relative to a physical coupling.
+- **[What entropy is](/positioning/subjects/t/thermodynamics/what-entropy-is/)** — four quantities sharing a name, and the readings that divide over what they measure: objective, epistemic, relative to a physical coupling, and relative to the means of manipulation available — with Gibbs's formalism, which most of the field computes in, distinguished from any of them.
 
 *(In build. Further sections appear as their pages are written.)*
 
