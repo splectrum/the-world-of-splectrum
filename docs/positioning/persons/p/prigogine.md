@@ -1,15 +1,15 @@
 ---
 layout: default
 title: "Ilya Prigogine (1917–2003)"
-description: "Belgian physical chemist — dissipative structures, non-equilibrium thermodynamics, order far from equilibrium, and the argument that time's arrow is constitutive of nature, not a statistical illusion."
-lastmod: 2026-05-25
+description: "Belgian physical chemist — dissipative structures, non-equilibrium thermodynamics, order far from equilibrium, the minimum entropy production principle, and the argument that time's arrow is constitutive of nature rather than a statistical artefact."
+lastmod: 2026-09-14
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Prigogine
 
 # Ilya Prigogine (1917–2003)
 
-Prigogine showed that order can arise far from equilibrium — that systems driven by the throughflow of energy and matter can spontaneously organise into structured patterns that classical thermodynamics cannot account for. The work earned him the Nobel Prize in Chemistry (1977) and reframed the relationship between thermodynamics and biology: life is not an improbable violation of the second law but a natural expression of what dissipative systems do. His later philosophical work argued that irreversibility — time's arrow — is constitutive of nature, not a statistical artefact imposed on time-symmetric fundamental laws.
+Prigogine showed that order can arise far from equilibrium — that systems driven by the throughflow of energy and matter can spontaneously organise into structured patterns that classical thermodynamics cannot account for. The work earned him the Nobel Prize in Chemistry (1977) and reframed the relationship between thermodynamics and biology: life is not an improbable violation of the second law but a natural expression of what dissipative systems do. His later work argued that irreversibility — time's arrow — is constitutive of nature rather than a statistical artefact imposed on time-symmetric fundamental laws, a claim that has been contested in detail.
 
 ---
 
@@ -22,6 +22,12 @@ Born 25 January 1917 in Moscow. His family left Russia in 1921, lived in Germany
 Classical thermodynamics, following Boltzmann, treats equilibrium as the natural state — the condition toward which isolated systems tend. Near equilibrium, perturbations decay and the system returns to its resting state. Prigogine's contribution was to show that far from equilibrium, the picture changes qualitatively.
 
 In systems driven far from equilibrium by external flows of energy or matter, fluctuations can be amplified rather than damped. Beyond a critical threshold, the system undergoes a bifurcation — a qualitative transition to a new state that is spatially or temporally organised. This organised state is maintained by the throughflow; remove the drive and the organisation collapses. Prigogine called these states dissipative structures: structures that exist because of dissipation, not in spite of it.
+
+## Minimum entropy production
+
+An earlier result, from the 1940s, and the one for which the Nobel citation credits him alongside dissipative structures: a system held near equilibrium by fixed constraints settles into the steady state that produces entropy at the minimum rate compatible with those constraints. It gives non-equilibrium steady states a variational characterisation of the kind equilibrium thermodynamics has, and it is widely quoted as a general organising principle for systems held out of equilibrium.
+
+Its validity is narrower than that reputation, and the narrowness is not only a matter of stated conditions. The principle holds in the linear regime and requires the phenomenological coefficients to be constant — a condition critics have argued no real material satisfies. [Landauer](/positioning/persons/l/landauer/) published a counterexample in 1975 using simple electrical resistances. The traditional proof has been argued to be incorrect outright, in *Technical Physics Letters* (2003) and in a critical analysis in the *International Journal of Heat and Mass Transfer* (2007). The principle's standing is therefore contested in a way the dissipative-structures work is not.
 
 ## Dissipative structures
 
@@ -47,6 +53,8 @@ The key works: *From Being to Becoming: Time and Complexity in the Physical Scie
 
 The reception is mixed. Within non-equilibrium statistical mechanics, Prigogine's technical contributions (the Brussels-Austin school's work on Poincaré resonances, Λ-transformations, and intrinsic irreversibility) are respected but not universally adopted. The broader philosophical claim — that irreversibility is fundamental and that being must give way to becoming — has been more influential in philosophy of science and in process-philosophical circles than in mainstream physics.
 
+The sustained critique is Jean Bricmont's "Science of Chaos or Chaos in Science?" (1996), which defends the classical statistical-mechanical account of irreversibility and argues that the case for fundamental irreversibility rests on misreadings of what the mathematics establishes. A reply literature exists, including Näpinen and Müürsepp in *Foundations of Science* (2002), arguing that Bricmont's treatment understates the conceptual problem Prigogine was addressing.
+
 ## Where Prigogine stops
 
 Prigogine's programme shows how order arises from non-equilibrium dynamics — how the throughflow of energy can produce and sustain organised structures. What it does not give is an account of adaptation. Dissipative structures are organised but they do not learn, adjust their rules, or explore their environments. A Bénard cell is ordered but not adaptive; a convection pattern does not evolve. The step from self-organisation to adaptation — from dissipative structures to adaptive agents — is the step that CAS takes and that Prigogine's framework does not. [Kauffman](/positioning/persons/k/kauffman/)'s "order for free" programme inherits the self-organisation insight and develops it in the direction of adaptive systems.
@@ -62,4 +70,4 @@ Prigogine's programme shows how order arises from non-equilibrium dynamics — h
 
 ---
 
-See also: [Stengers](/positioning/persons/s/stengers/) · [Kauffman](/positioning/persons/k/kauffman/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/)
+See also: [Stengers](/positioning/persons/s/stengers/) · [Kauffman](/positioning/persons/k/kauffman/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) · [Thermodynamics](/positioning/subjects/t/thermodynamics/)
