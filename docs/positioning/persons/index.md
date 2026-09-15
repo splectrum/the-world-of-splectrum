@@ -168,6 +168,10 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Huxley, Julian (1887–1975)](h/huxley-j) · biologist<span class="kw">coined "the Modern Synthesis", Evolution: The Modern Synthesis, ethology, allometry, clines, UNESCO, eugenics</span>
 - [Huxley, Thomas Henry (1825–1895)](h/huxley) · biologist, public intellectual<span class="kw">Darwin's bulldog, agnosticism, Man's Place in Nature, Evolution and Ethics</span>
 
+## I
+
+- [Ito, Sosuke (1987–)](i/ito) · physicist<span class="kw">information thermodynamics on causal networks, thermodynamic uncertainty relations, geometric thermodynamics, information geometry and optimal transport</span>
+
 ## J
 
 - [Jakobson, Roman (1896–1982)](j/jakobson) · linguist, literary theorist<span class="kw">the six functions of language, the poetic function, metaphor and metonymy, the Prague School, the bridge from Saussure to Peirce</span>
@@ -185,6 +189,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Kimura, Motoo (1924–1994)](k/kimura) · population geneticist<span class="kw">neutral theory of molecular evolution, diffusion equations, molecular clock, drift vs selection</span>
 - [Kitcher, Philip (1947–)](k/kitcher) · philosopher of science<span class="kw">the organisation of cognitive labour, the critique of sociobiology, mathematical naturalism, scientific progress</span>
 - [Kleppmann, Martin](k/kleppmann) · computer scientist<span class="kw">Designing Data-Intensive Applications, local-first software, CRDTs, Automerge, distributed data systems</span>
+- [Kolchinsky, Artemy (1982–)](k/kolchinsky) · physicist<span class="kw">semantic information via viability and counterfactual scrambling, stochastic thermodynamics, the thermodynamics of computation and replication</span>
 - [Kreps, Jay](k/kreps) · software engineer<span class="kw">co-creator of Apache Kafka, "The Log" essay, co-founder and CEO of Confluent</span>
 - [Kropotkin, Peter (1842–1921)](k/kropotkin) · geographer, anarchist theorist<span class="kw">mutual aid, anarchist communism, decentralised production, cooperation as evolutionary factor</span>
 - [Kuhn, Thomas (1922–1996)](k/kuhn) · philosopher of science, historian<span class="kw">paradigms, normal science, revolutions, incommensurability</span>
@@ -362,6 +367,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Wittgenstein, Ludwig (1889–1951)](w/wittgenstein) · philosopher<span class="kw">language games, forms of life, meaning as use</span>
 - [Woese, Carl (1928–2012)](w/woese) · microbiologist<span class="kw">the three domains of life, ribosomal RNA phylogenetics, the Archaea, the progenote</span>
 - [Wolfram, Stephen (1959–)](w/wolfram) · physicist, computer scientist<span class="kw">cellular automata, A New Kind of Science, computational irreducibility, the Wolfram model, Mathematica</span>
+- [Wolpert, David (1961–)](w/wolpert) · physicist, computer scientist<span class="kw">the No Free Lunch theorems, stacked generalization, the stochastic thermodynamics of computation, physical limits of inference</span>
 - [Wong, David B. (1949–)](w/wong) · philosopher<span class="kw">pluralistic relativism, universal constraints on admissible moralities, the accommodation ideal, comparative ethics, Confucian and Daoist thought</span>
 - [Wright, Sewall (1889–1988)](w/wright) · geneticist<span class="kw">adaptive landscapes, genetic drift, shifting balance theory, path coefficients, population structure</span>
 - [Wynne-Edwards, V. C. (1906–1997)](w/wynne-edwards) · zoologist<span class="kw">group selection, Animal Dispersion, population self-regulation, epideictic displays</span>
