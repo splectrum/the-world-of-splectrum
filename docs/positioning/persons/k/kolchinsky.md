@@ -1,13 +1,13 @@
 ---
 layout: default
 lastmod: 2026-09-15
-title: "Artemy Kolchinsky (b. 1982)"
+title: "Artemy Kolchinsky"
 description: "Theoretical physicist — semantic information defined through viability and counterfactual intervention, and stochastic thermodynamics: the entropic costs of computation, replication and information processing."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Kolchinsky
 
-# Artemy Kolchinsky (b. 1982)
+# Artemy Kolchinsky
 
 Kolchinsky works at the join of nonequilibrium statistical physics and information theory, on two strands that are usually kept apart. The first is stochastic thermodynamics in its meaning-free form: what it costs, thermodynamically, to compute, to copy, to erase. The second is an attempt to define *semantic* information physically — to say which of the correlations a system carries about its environment actually matter to it, and to do so in terms of the system's own dynamics rather than goals an observer assigns. The second strand is what made his name outside physics; the first is where his output has been concentrated.
 
@@ -15,7 +15,7 @@ Kolchinsky works at the join of nonequilibrium statistical physics and informati
 
 ## Life
 
-Born 1982. B.A. from New York University (2004); Ph.D. in Informatics with a complex-systems focus and a minor in cognitive science from Indiana University, Bloomington (2015), supervised by Luis Rocha, with a dissertation on integration and modularity in complex systems. His early publications — biomedical text mining, brain connectomics with Olaf Sporns and colleagues — sit in cognitive science and network neuroscience rather than physics; the turn to statistical mechanics came later.
+B.A. from New York University (2004); Ph.D. in Informatics with a complex-systems focus and a minor in cognitive science from Indiana University, Bloomington (2015), supervised by Luis Rocha, with a dissertation on integration and modularity in complex systems. His early publications — biomedical text mining, brain connectomics with Olaf Sporns and colleagues — sit in cognitive science and network neuroscience rather than physics; the turn to statistical mechanics came later.
 
 Program Postdoctoral Fellow at the Santa Fe Institute from 2015 to 2021, working with David Wolpert. Project researcher at the Universal Biology Institute, University of Tokyo (2022–2023), with Sosuke Ito. Marie Skłodowska-Curie Fellow at Universitat Pompeu Fabra in Barcelona (2023–2026), hosted by [Ricard Solé](/positioning/persons/s/sole/), on a project on the nonequilibrium thermodynamics of the origin of life. Since 2026 he has been a senior research scientist at XOR Labs in London, and his recent activity has run toward stochastic thermodynamics and questions adjacent to AI safety rather than toward semantic information.
 

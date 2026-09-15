@@ -1,13 +1,13 @@
 ---
 layout: default
 lastmod: 2026-09-15
-title: "Sosuke Ito (b. 1987)"
+title: "Sosuke Ito"
 description: "Japanese physicist — information thermodynamics on causal networks, thermodynamic uncertainty relations, and the geometric reformulation linking stochastic thermodynamics to information geometry and optimal transport."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Ito
 
-# Sosuke Ito (b. 1987)
+# Sosuke Ito
 
 Ito works on what thermodynamics becomes when the systems are small, fluctuating and coupled to one another — and specifically on how information flowing between such systems enters the thermodynamic accounting. His results generalise the second law to networks of interacting systems, and his more recent programme recasts stochastic thermodynamics in geometric terms, drawing on information geometry and the mathematics of optimal transport.
 

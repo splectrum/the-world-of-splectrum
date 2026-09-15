@@ -1,13 +1,13 @@
 ---
 layout: default
 lastmod: 2026-09-15
-title: "David Wolpert (b. 1961)"
+title: "David Wolpert"
 description: "American physicist and computer scientist — the No Free Lunch theorems, stacked generalization, the stochastic thermodynamics of computation, and physical limits on inference."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Wolpert
 
-# David Wolpert (b. 1961)
+# David Wolpert
 
 Wolpert is best known for a negative result: that no learning algorithm is better than any other when averaged over all possible problems. The No Free Lunch theorems are among the most cited results in machine learning, and they say something uncomfortable — that an algorithm's performance is a claim about the world it is being applied to, not about the algorithm. His later work runs in a different register but keeps the same interest in limits: what computation costs thermodynamically, and what a physical system can and cannot infer about the universe it is part of.
 
@@ -15,7 +15,7 @@ Wolpert is best known for a negative result: that no learning algorithm is bette
 
 ## Life
 
-Born 1961. Physicist by training, with a career that has moved between physics, computer science and their interface. He worked at NASA Ames Research Center, where he led work on collective intelligence and multi-agent systems, and has been a professor at the Santa Fe Institute, where much of the thermodynamics-of-computation work has been done. He is also affiliated with the Complexity Science Hub in Vienna. His publication record spans machine learning, game theory, statistical physics and the foundations of computation.
+Physicist by training, with a career that has moved between physics, computer science and their interface. He worked at NASA Ames Research Center, where he led work on collective intelligence and multi-agent systems, and has been a professor at the Santa Fe Institute, where much of the thermodynamics-of-computation work has been done. He is also affiliated with the Complexity Science Hub in Vienna. His publication record spans machine learning, game theory, statistical physics and the foundations of computation.
 
 ---
 
