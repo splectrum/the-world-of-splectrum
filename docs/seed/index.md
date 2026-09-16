@@ -47,5 +47,8 @@ SPLectrum's attempt at a seamless translation of the seed into engineering desig
 **[When category theory and the seed meet](category-theory)**<br>
 P0 and P1 are CT's own primitives. Given those two, CT implements the structural dynamics of the remaining principles.
 
+**[The seed and an attempt at semantic information](semantic-information)**<br>
+A physics-side attempt to define meaning in physical terms — the three choices it has to make, and why a partial model set against a partial environment is what language always does.
+
 **[The seed and Discovery](discovery)**<br>
 The unwalked relational paths — where creation meets discovery.
