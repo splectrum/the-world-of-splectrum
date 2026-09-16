@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-07-13
+lastmod: 2026-09-16
 title: "Reality"
 description: "Reality disclosed from the seat of the subject — belonging, privacy, creativity as core values, and the five pillars they disclose."
 ---
@@ -40,3 +40,5 @@ The pillars of SPLectrum's metaphysics show some substantial differences with re
 Reality is a process, it is not static. The feedback from the subject's privacy into the shared state of belonging results in complexity: the more that is shared, the richer the common ground, the more there is to differ from, the more creativity has to work with. This dynamic drives the evolution of reality across all scales.
 
 **[Evolution](/reality/evolution/)** — the major transitions and what drives them. Thresholds in interaction density producing structurally new expression. The curve, the thresholds, the thinking side.
+
+**[Emergence](/reality/emergence/)** — what it means for something to arrive without visible connection to what it came from. An emergence claim has three places — A emerges from B, within a language — and marks a relation the meaning context cannot yet state.
