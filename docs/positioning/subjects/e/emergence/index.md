@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-09-10
+lastmod: 2026-09-16
 title: "Emergence"
 description: "Groups the resources that address the emergence question directly — what the definitions say, how they differ, and where each is at home. The types catalogue is the bundle's spine."
 ---
@@ -10,6 +10,8 @@ description: "Groups the resources that address the emergence question directly 
 # Emergence
 
 The emergence subject gathers the resources that address the emergence question *directly* — the word "emergence" where it is used by name. The word runs across physics, complexity science, biology, the social sciences, artificial intelligence, and philosophy, and the disciplines do not share a definition: each has a locally stable working sense, and the cross-discipline word is contested. The bundle's guiding questions are accordingly about the word itself: what the definitions say, how they differ, and where each is at home. The bundle grows as those questions are worked.
+
+The pages below take that situation from several sides: the catalogue of what the word has been made to mean, the cases each meaning was built on, what the definitions say about mechanism, the field's own instruments for sorting its notions, the overviews it has produced of itself, the same territory carried under other vocabularies, and the figures who carry the debate by name.
 
 ## The types
 
