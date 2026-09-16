@@ -1,0 +1,95 @@
+---
+layout: none
+sitemap: false
+---
+<?xml version="1.0" encoding="utf-8"?>
+<xsl:stylesheet version="1.0"
+  xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <xsl:output method="html" encoding="utf-8" indent="yes"/>
+
+  <xsl:template match="/">
+    <html lang="en">
+      <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="robots" content="noindex"/>
+        <title><xsl:value-of select="atom:feed/atom:title"/> — feed</title>
+        <style>
+          body {
+            font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+                  Helvetica, Arial, sans-serif;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 30px 15px 60px;
+          }
+          h1 { font-size: 1.6em; font-weight: 400; margin: 0 0 .2em; }
+          h1 a { color: #333; text-decoration: none; }
+          .subtitle { color: #828282; margin: 0 0 2em; }
+          .note {
+            background: #F4F2CC;
+            border: 1px solid #e4e1b4;
+            border-radius: 3px;
+            padding: 15px 20px;
+            margin: 0 0 2.5em;
+          }
+          .note p { margin: 0 0 .7em; }
+          .note p:last-child { margin: 0; }
+          .address {
+            display: block;
+            font-family: Menlo, Consolas, monospace;
+            font-size: .9em;
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 3px;
+            padding: 8px 10px;
+            margin: .8em 0;
+            word-break: break-all;
+          }
+          h2 { font-size: 1.1em; font-weight: 400; color: #555;
+               border-bottom: 1px solid #e8e8e8; padding-bottom: .4em; margin: 0 0 1.2em; }
+          .entry { margin: 0 0 1.8em; }
+          .entry h3 { font-size: 1.05em; font-weight: 600; margin: 0 0 .2em; }
+          .entry h3 a { color: #2a7ae2; text-decoration: none; }
+          .entry h3 a:hover { text-decoration: underline; }
+          .date { color: #828282; font-size: .85em; }
+          a { color: #2a7ae2; }
+          footer { margin-top: 3em; color: #828282; font-size: .9em; }
+        </style>
+      </head>
+      <body>
+        <h1>
+          <a href="{atom:feed/atom:link[@rel='alternate']/@href}">
+            <xsl:value-of select="atom:feed/atom:title"/>
+          </a>
+        </h1>
+        <p class="subtitle"><xsl:value-of select="atom:feed/atom:subtitle"/></p>
+
+        <div class="note">
+          <p><strong>This is a web feed.</strong> It is meant for a reader rather than
+          a browser — copy the address below into one, and new posts arrive there as
+          they are published.</p>
+          <code class="address"><xsl:value-of select="atom:feed/atom:link[@rel='self']/@href"/></code>
+          <p>Any reader will do — <a href="https://feedly.com">Feedly</a> and
+          <a href="https://netnewswire.com">NetNewsWire</a> among them, or a service like
+          <a href="https://blogtrottr.com">Blogtrottr</a> if you would rather have posts by
+          email. Otherwise the posts are all on
+          <a href="{atom:feed/atom:link[@rel='alternate']/@href}">the site</a>.</p>
+        </div>
+
+        <h2>Recent posts</h2>
+        <xsl:for-each select="atom:feed/atom:entry">
+          <div class="entry">
+            <h3><a href="{atom:link/@href}"><xsl:value-of select="atom:title"/></a></h3>
+            <div class="date"><xsl:value-of select="substring(atom:published, 1, 10)"/></div>
+          </div>
+        </xsl:for-each>
+
+        <footer>
+          <a href="{atom:feed/atom:link[@rel='alternate']/@href}">The World of SPLectrum</a>
+        </footer>
+      </body>
+    </html>
+  </xsl:template>
+</xsl:stylesheet>
