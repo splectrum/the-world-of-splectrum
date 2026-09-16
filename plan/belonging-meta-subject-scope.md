@@ -10,7 +10,7 @@ It is a SPLectrum keyword with a standing the first two instances did not have: 
 
 And the field is genuinely scattered: biology and anthropology, social and developmental psychology, sociology, nationalism studies, political theory. Different vocabularies, no shared definition, work that rarely cites across the divides — the condition that made the first two doorways worth building.
 
-**The position's criterion (Jules, 2026-09-16): belonging is sharing similarities for a common purpose.** Two components, and both are load-bearing: similarity between the parties, and an orientation they hold in common. It follows that mere interaction is not belonging — systems can couple, exchange and constrain each other without sharing anything or being oriented to anything together. The criterion is what markers certify, what solidarity consists in, and what the union-formation question turns on; it also rules out the coherence rhyme (§5c). Whether the field draws the line in the same place is a research question to put to the psychology and sociology clusters directly, not an assumption.
+**The position's criterion (Jules, 2026-09-16): belonging is sharing similarities for a common purpose.** Two components, and both are load-bearing: similarity between the parties, and an orientation they hold in common. It follows that mere interaction is not belonging — systems can couple, exchange and constrain each other without sharing anything or being oriented to anything together. The criterion is what markers certify, what solidarity consists in, and what the union-formation question turns on; it also rules out the coherence rhyme, though decoherence is a separate and live candidate mechanism (§5c). Whether the field draws the line in the same place is a research question to put to the psychology and sociology clusters directly, not an assumption.
 
 ## 2. Rule 5 applies, and it is the first thing to settle
 
@@ -69,19 +69,24 @@ From the deleted Moffett dossier — the hooks that had no other home and touch 
 - **Fission-fusion as process vocabulary.** Societies as things that split, merge, weaken and fall — a path-dependent life-cycle account in borrowed physics vocabulary. Touches the process/creativity/historicity threads and the community-scale question of stabilisation, drift and fork.
 - **Boundary-as-invariant.** The in/out cut passing unaltered through a change of recognition mechanism (individual recognition → marker) — a cut persisting while its medium changes. Touches the P0 / community-scale material.
 
-## 5c. Decoherence — unfolded 2026-09-16 (Jules)
+## 5c. Decoherence — the distinction, corrected 2026-09-16 (Jules)
 
-**The 2026-09-13 folding is withdrawn.** It rested on "coherence *is* a form of belonging", and that premise does not hold.
+The 2026-09-13 folding ran coherence and decoherence together. They come apart, and only one of them is a candidate here.
 
-**Jules's correction:** belonging needs *sharing similarities for a common purpose*. Coherence carries neither. Two systems can be coherent — interacting, exchanging information, constraining each other — without sharing anything and without any orientation held in common. Coherence is a fact about phase relations; it obtains or it does not, and it is silent on similarity and on purpose. The "we that is one state rather than an aggregate" reads as belonging only because the phrasing is suggestive; the mathematics underneath is coupling, and coupling was never the thing.
+**Coherence is not belonging.** Belonging needs *sharing similarities for a common purpose* (§1), and coherence carries neither component — systems can couple, exchange information and constrain each other without sharing anything or holding any orientation in common. Coherence is a fact about phase relations. The "we that is one state rather than an aggregate" reading was suggestive phrasing laid over a mathematical fact about coupling, and that is the is-like collapse the original section warned of in its own closing paragraph. Dropped.
 
-This is the is-like collapse the old section warned about in its closing paragraph and then did not apply to its own framing — the rhyme was doing argumentative work it had not earned.
+**Decoherence is a different phenomenon, and it is a live candidate (Jules).** What decoherence produces is many parties ending up holding *the same property values* — a fact redundantly recorded across an environment, each record agreeing. That is sharing in the relevant sense, and so decoherence is a candidate **mechanism** for how belonging comes about: not a rhyme for what belonging is, but an account of how a shared holding gets established and made robust.
 
-**What this settles.** The decoherence/QM-QI programme is not a facet of belonging. `plan/decoherence-working-sketch.md` stands on its own, where the physics can be worked for what it is. If it eventually touches a SPLectrum surface, that is decided on its own merits, not through this keyword.
+Note what this changes about the register. A mechanism claim is a different thing from a resonance, and it has to answer to the criterion rather than decorate it: whether redundant agreement on property values amounts to *shared similarity for a common purpose*, or only to the first half of it, is exactly the open question — agreement is not obviously orientation.
 
-**What is worth keeping from the round, as belonging's own question rather than physics':** whether graded belonging is one gradient or two — *shared-and-coherent* against *shared-because-redundantly-witnessed* was the physics-shaped version, but the underlying question survives the correction in the field's own terms: is belonging graded by how much is shared, by how publicly it is recognised, or by both independently? That is a question for the psychology and sociology clusters, not for einselection.
+**Status: research, not settled.** Jules 2026-09-16: this is developed when the subject is taken up — research the field, look at how decoherence is defined, and discuss. Nothing above is a conclusion. `plan/decoherence-working-sketch.md` is retained as that programme's own working doc and carries the physics in detail.
 
-**And the criterion itself is now the thing to carry forward.** Sharing similarities for a common purpose is a definitional commitment with consequences for the whole phase: it is what markers certify, what solidarity consists in, and what the union-formation question turns on. It also cuts against any account that makes mere interaction, proximity or mutual constraint sufficient. Whether the field's own literature draws the line in the same place is a research question the psychology and sociology clusters should be asked directly.
+**The two guards from the original round still stand, and apply to the mechanism reading too:**
+
+- **Relational reading only.** The rhyme holds under the relational (RQM) reading — outcomes relative to interactions, no observer-independent collapse. Under the many-worlds gloss decoherence usually travels with, "settling into one basis" is the view from inside one branch of a still-total wavefunction, smuggling back a universal wavefunction — a THE-reality, the super-subject the position refuses. Same mathematics, opposite metaphysics. State it as the diagnosis; do not walk the Everettian reading as a competitor.
+- **Is-like at full force.** Einselection is environment-induced selection of a basis. Letting the mathematics carry argumentative weight it has not earned is the exact collapse caught in the Moffett post drafting.
+
+**The belonging-side question the round leaves, in the field's own terms:** is belonging graded by how much is shared, by how publicly it is recognised, or by both independently? The redundancy reading grades the second. That is a question for the psychology and sociology clusters as much as for the physics.
 
 ## 6. The position's own reading stays out
 
