@@ -10,6 +10,8 @@ It is a SPLectrum keyword with a standing the first two instances did not have: 
 
 And the field is genuinely scattered: biology and anthropology, social and developmental psychology, sociology, nationalism studies, political theory. Different vocabularies, no shared definition, work that rarely cites across the divides — the condition that made the first two doorways worth building.
 
+**The position's criterion (Jules, 2026-09-16): belonging is sharing similarities for a common purpose.** Two components, and both are load-bearing: similarity between the parties, and an orientation they hold in common. It follows that mere interaction is not belonging — systems can couple, exchange and constrain each other without sharing anything or being oriented to anything together. The criterion is what markers certify, what solidarity consists in, and what the union-formation question turns on; it also rules out the coherence rhyme (§5c). Whether the field draws the line in the same place is a research question to put to the psychology and sociology clusters directly, not an assumption.
+
 ## 2. Rule 5 applies, and it is the first thing to settle
 
 Cognition and emergence are words the field itself uses heavily; the doorway gathered work that names itself. **Belonging is not.** The field's own words are *membership*, *group identity*, *social identity*, *solidarity*, *inclusion*, *attachment*, *social integration*, *citizenship*. "Belonging" appears in the psychology of the *need* (Baumeister's belongingness) and in recent applied literature (belonging interventions in education), but it is not the umbrella term for the territory.
@@ -67,21 +69,19 @@ From the deleted Moffett dossier — the hooks that had no other home and touch 
 - **Fission-fusion as process vocabulary.** Societies as things that split, merge, weaken and fall — a path-dependent life-cycle account in borrowed physics vocabulary. Touches the process/creativity/historicity threads and the community-scale question of stabilisation, drift and fork.
 - **Boundary-as-invariant.** The in/out cut passing unaltered through a change of recognition mechanism (individual recognition → marker) — a cut persisting while its medium changes. Touches the P0 / community-scale material.
 
-## 5c. Decoherence sits inside this (folded 2026-09-13, Jules)
+## 5c. Decoherence — unfolded 2026-09-16 (Jules)
 
-The QM/QI decoherence programme (`plan/decoherence-working-sketch.md` — retained as its own working doc; it carries a full research programme of its own) is folded in here because coherence *is* a form of belonging, and the physics supplies a mechanism-shaped account of graded membership that belonging otherwise has to assert.
+**The 2026-09-13 folding is withdrawn.** It rested on "coherence *is* a form of belonging", and that premise does not hold.
 
-**What the physics offers.** Coherence is not the same as privacy: a coherent state can be **multi-party** — an entangled pair is one coherent state of two systems, a quantum register one of many. What breaks coherence is coupling to an *uncontrolled* environment, not coupling as such. So the gradient is not private → shared but:
+**Jules's correction:** belonging needs *sharing similarities for a common purpose*. Coherence carries neither. Two systems can be coherent — interacting, exchanging information, constraining each other — without sharing anything and without any orientation held in common. Coherence is a fact about phase relations; it obtains or it does not, and it is silent on similarity and on purpose. The "we that is one state rather than an aggregate" reads as belonging only because the phrasing is suggestive; the mathematics underneath is coupling, and coupling was never the thing.
 
-- **coherent, one party** — self-held;
-- **coherent, many parties** — genuinely shared, phase relations intact *between* them, the state not reducible to the parties taken separately. A "we" that is one state rather than an aggregate, and fragile in a specific way: it survives only while couplings to everything else stay starved. The quantum computer is the engineered case, and its cost is the point — cryogenics, isolation, error correction;
-- **decohered** — relations scrambled by outside coupling; what survives is the robust, redundantly-witnessed, public residue.
+This is the is-like collapse the old section warned about in its closing paragraph and then did not apply to its own framing — the rhyme was doing argumentative work it had not earned.
 
-**Two belonging phenomena, possibly, not one gradient.** The sketch already carries "belonging = redundancy grading — how many independent uptakes carry the facet", which grades the *decohered* fact: how public, how robust. That says nothing about the multi-party coherent case. So *shared-and-coherent* and *shared-because-redundantly-witnessed* may be different things, and telling them apart is research, not a decision to take now.
+**What this settles.** The decoherence/QM-QI programme is not a facet of belonging. `plan/decoherence-working-sketch.md` stands on its own, where the physics can be worked for what it is. If it eventually touches a SPLectrum surface, that is decided on its own merits, not through this keyword.
 
-**The load-bearing fence caveat, recovered here** (it lost its only written home when the Putnam sketch was deleted): the rhyme holds **only under the relational (RQM) reading** of decoherence — outcomes relative to interactions, no observer-independent collapse. Under the many-worlds gloss decoherence usually travels with, "settling into one basis" is the view from inside one branch of a still-total wavefunction, which smuggles back a universal wavefunction — a THE-reality, the super-subject the position refuses. Same mathematics, opposite metaphysics. State this as the diagnosis; do not walk the Everettian reading as a competitor.
+**What is worth keeping from the round, as belonging's own question rather than physics':** whether graded belonging is one gradient or two — *shared-and-coherent* against *shared-because-redundantly-witnessed* was the physics-shaped version, but the underlying question survives the correction in the field's own terms: is belonging graded by how much is shared, by how publicly it is recognised, or by both independently? That is a question for the psychology and sociology clusters, not for einselection.
 
-**And the is-like rule applies at full force.** This is a rhyme. Einselection is environment-induced selection of a basis; belonging is not obviously that, and the temptation to let the mathematics carry argumentative weight it has not earned is the exact collapse caught in the Moffett post drafting. One further limit: the einselection apparatus is *silent* on the coherent regime — it describes what coupling does — so the private, self-held side needs its own investigation rather than borrowing.
+**And the criterion itself is now the thing to carry forward.** Sharing similarities for a common purpose is a definitional commitment with consequences for the whole phase: it is what markers certify, what solidarity consists in, and what the union-formation question turns on. It also cuts against any account that makes mere interaction, proximity or mutual constraint sufficient. Whether the field's own literature draws the line in the same place is a research question the psychology and sociology clusters should be asked directly.
 
 ## 6. The position's own reading stays out
 
