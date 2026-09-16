@@ -2,69 +2,67 @@
 layout: default
 lastmod: 2026-09-16
 title: "Emergence"
-description: "The SPLectrum reading of emergence: a three-place claim — A emerges from B, within a language — where what is marked is a relation the meaning context cannot yet state."
+description: "Emergence as a new language game in a context above its base — the connection to that base either stated or not yet known, and the perimeter where a model stops coinciding with lived experience."
 ---
 
 [Home](/) > [Reality](/reality/) > Emergence
 
 # Emergence
 
-Something appears that was not there before, and appears without visible connection to what it came from. That arrival is what the word marks. The conventional reading asks what kind of thing has arrived — whether it is genuinely new, whether it could have been predicted, whether it is more than the sum of its parts. The SPLectrum reading asks a different question: new *to what*, underivable *in what*, unpredicted *by whom*.
+**Emergence: a new language game in a context above its base.**
+
+Put enough water molecules together and something new is there to talk about: wetness, viscosity, a freezing point, the way a river runs. None of those terms apply to a single molecule, and none of them is loose talk — they are the moves of a game played competently at that level.
+
+A game and its base are connected by construction; the only question is whether the connection has been stated.
 
 ---
 
-## The missing third place
+## The new game keeps its standing
+
+Water is deducible from its molecules. Statistical mechanics and quantum chemistry connect the two, and the connection is genuine.
+
+The deduction does not abolish the game above it. Hydrodynamics did not become a way of speaking loosely about molecules; it remained the language in which currents, waves and viscosity are handled, and it is the right language for those things. Nobody computes a river from first principles.
+
+So a stated connection leaves two games standing, joined. That is the ordinary case, and it is what makes emergence a real phenomenon rather than a confusion to be cleared up: something genuinely new arrives — a game with its own terms, its own regularities, its own work to do — and it arrives connected.
+
+## Always within a language
 
 Every instrument an emergence claim is made with is relative to a language.
 
-- **Derivability** — relative to a formalism. Nothing is derivable *simpliciter*; a derivation runs in a system with axioms, rules and a vocabulary.
-- **Predictability** — relative to a model. What is unpredicted is unpredicted by someone's model.
+- **Derivability** — relative to a formalism. A derivation runs in a system with axioms, rules and a vocabulary.
+- **Predictability** — relative to a model.
 - **Novelty** — relative to a vocabulary. New means not already said.
 - **Levels** — relative to current decompositions. A level is where a description currently cuts.
 
-None of these holds absolutely, and none of them is a property of the phenomenon on its own. So the claim has three places, not one: **A emerges from B, within L** — the language being the meaning context in which the relation between A and B is, or is not, statable.
+None of these holds absolutely. So the claim has three places rather than one: **A emerges from B, within L** — the language being the meaning context in which the relation between A and B is stated. The game above, the base below, and the language the connection is drawn in.
 
-Ordinary usage says only that A is emergent. The base is often kept; the third place is dropped. Making it explicit is the whole of the reading, and the test is simple enough to run on any claim: name the language, and see what is left.
+Naming the third place turns a question about the world into one that can be answered: connected in which language, by what account.
 
-## What the word actually marks
+## Stated, or not yet known
 
-The SPLectrum reading: **an emergence claim marks something appearing as unrelated** — arriving on the scene with no visible connection to what it arose from — and the unrelatedness is a limitation of the meaning context, not a fact about the world.
+Where a game can explain the one above it, the connection is stated. Molecular motion accounts for temperature; physics accounts for chemical bonding; what the molecular game knows about water molecules accounts for water.
 
-The relations are there, in the coupling. The context cannot yet state them. What that looks like from inside the context is an unconnected arrival.
+Where it cannot, the connection is unknown — no explanatory statements available within that context. Life arose from chemistry and parts of the path are accounted for, parts not.
 
-Both halves hold at once. The unrelatedness is real as experienced — the language genuinely has no path from B to A, and that is not an illusion to be scolded away. It is artifactual as a description of the world, because the coupling that produced A is not waiting on anyone's vocabulary.
+Unknown is a state of the language, not a kind of emergence, and it is how every stated connection began. The two categories are stated and not-yet-stated; there is no third — and an unknown is a place where work has yet to be done, not a sign that something further is at work.
 
-So emergence-talk is the shadow that not-yet-statable relations cast inside a meaning context.
+## The perimeter
 
-## What happens when the language grows
+There is an edge to the third place itself.
 
-[Mercury's perihelion](https://en.wikipedia.org/wiki/Tests_of_general_relativity) advanced by an amount Newtonian mechanics could not account for. Within that language the anomaly was unrelated to anything — an arrival with no path to it. Declared underivable in principle, it would have been declared so by someone standing inside a language that lacked the relation.
+Emergence is defined within a language, and a language is where the models live. A model coincides with live experience up to a point. Where it stops coinciding is not a further state of the connection and not an unknown awaiting work — it is the limit of what any language can hold, because a language is shared by construction and the running of experience is not. A seat is a position, and positions are not transferable.
 
-General relativity supplied the vocabulary, and the anomaly stopped being an anomaly. Not explained away: **related**. And the emergence evaporated without residue — nothing was left over once the relation could be stated.
+So the residue is a perimeter rather than a category: the cut between what is lived and what is shared. Where model and lived experience coincide, and how far, is the territory of [aesthetics](/reality/aesthetics/).
 
-The pattern repeats. Chemical bonding was underivable from physics until it was not. [Vitalism](https://en.wikipedia.org/wiki/Vitalism) named a life-force standing between chemistry and organisms, and dissolved when the relations were found. In each case the claim was true of a language-state and was uttered as though true of the world.
+Consciousness stands at that edge. There is no agreement on what the term picks out, so an account of how it emerges would be speculation twice over: about the relation, and about what stands at one end of it. The first question is what the thing is, and until that has an answer, how it arose is not yet a well-formed question.
 
-## To emerge is to become related
+The definitional impasse is not accidental. Part of what the word reaches for is the point where a model and live experience come apart — the one thing an account given within a language cannot be asked to state. What presents as a hard problem in the world reads, from here, as a term working at the edge of what terms do.
 
-The companion statement, and the positive half of the account. Whatever appears, appears as new relation among what was already in play. That is where it comes from: the coupling that instituted the relation is its provenance.
+## Where it comes from
 
-This is the same movement [discovery](/reality/discovery/) describes from the other side. A relational path held in potential is composed of paths already walked, in a different configuration; the walking brings it into reality. Creativity names the act; emergence names the result. Nothing arrives from nowhere, and nothing was sitting in an inventory waiting to be released — the possibility was real, the path was unwalked, and the walking is what made it actual.
+Whatever appears, appears as new relation among what was already in play. The coupling that instituted the relation is its provenance.
 
-The appearance of arrival-from-nowhere relocates accordingly. A relation live in the running but not yet settled into the shared language looks, from inside the shared language, like an uncaused arrival. The provenance is real and sits on the far side of that cut.
-
-## Two things this reading does not do
-
-**It does not dissolve the frontier.** The relational field exceeds any language — couplings run before they sediment, and the world can fail against a vocabulary that has no room for it. The reading says that exceeding-a-language is what the word was measuring all along. It does not say there is nothing to exceed.
-
-**It does not make established science an illusion.** Much of what physics calls emergent sits well inside a language rather than at its edge — [renormalisation](https://en.wikipedia.org/wiki/Renormalization_group) derives the large-scale behaviour from the small, and wears the word for historical reasons. Where a mechanism is stated, the claim has no emergence-content left in it; the word tends to retreat as the mechanism advances. What phenomena get called on the way to being derived is not nothing, but it is not a further fact either.
-
-## Where it does not evaporate
-
-One case is structural rather than historical.
-
-The relations of a subject's experience are indexed to that subject's own running of the process. A seat is a position, and positions are not transferable — no growth in shared vocabulary hands over the running itself. Here the limit is not a vocabulary that has not caught up, but the cut between what is lived and what is shared.
-
-That is a real residue, and it is the one place the reading expects no dissolution. It is also not what it is usually taken for: the privacy of the running mistaken for a non-relational something that runs.
+This is the same movement [discovery](/reality/discovery/) describes from the other side. A relational path held in potential is composed of paths already walked, in a different configuration; the walking brings it into reality. Creativity names the act, emergence names the result. The possibility was real, the path was unwalked, and the walking is what made it actual — nothing released from an inventory, and nothing from nowhere.
 
 ---
 
