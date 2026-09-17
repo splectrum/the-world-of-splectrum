@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "The Decentralised Cognition Revolution"
+title: "A Revolution in Cognition?"
 date: 2026-10-01
-lastmod: 2026-09-06
-labels: [engineering]
-status: Mandatory review
-words: 818
+description: "The industrial revolutions were a story of extension, and extension is life's oldest habit. The latest wave hands over thinking itself — and the machines that finally manage it are not logic engines at all."
+lastmod: 2026-09-17
+labels: [conversations, engineering]
+status: draft
+words: 742
 ---
-<img src="https://images.unsplash.com/photo-1650648065204-0b8d52b18447?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Decentralised Cognition Revolution" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1650648065204-0b8d52b18447?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="A Revolution in Cognition?" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
 It is said that we live in the period of the Fourth Industrial Revolution, a period where there is fusion of technologies across domains — digital, physical, and biological — and where the boundary between tool and agent starts dissolving. I think we are seeing the start of a revolution that goes beyond the tools and agents, and that shifts towards the driver: cognition.
 
@@ -19,15 +20,17 @@ I mean that in a precise sense. The shift is, in my opinion, of the same magnitu
 
 That's self-evident I hear you say, how else? However with AI there is a difference from the earlier waves. Here we are trying to build the simpler components of something we already possess and use with high sophistication — we are building in the image of our brain.
 
-That has two consequences. Firstly, we think we know already, and imagine we are building higher sophistication than what really takes place — hence all the chatter about AGI, superintelligence, and AI taking over the world. Secondly, and the more interesting one for me: it should force us to try to understand the simple before attempting the sophisticated. And that should open our eyes to the abundance of intelligence present in life all around us. And I am not only talking about brains here.
+That has two consequences. Firstly, we think we know already, and imagine we are building higher sophistication than what really takes place — hence all the chatter about AGI, superintelligence, and AI taking over the world.
 
-So I read the paradigm shift as an opportunity to extend cognition in two directions at once. Upward: our own mental capabilities extended, freed for the tasks our brains are actually suited for — a subject with enough in it to deserve its own post, another time. But notice how all our extending has been done so far: inside a cocoon, myopic and strongly anthropocentric. Extensions as inert instruments, the [Cartesian subject](/positioning/persons/d/descartes/) at the centre, capability radiating outward, and the assumption sealed in: that cognition is what *we* do. What breaks the cocoon open is our extensions themselves, as they begin to act with more and more autonomy — the boundary between tool and agent dissolving. And with the break comes a whole paradigm shift in the mental landscape: time to turn the attention onto the giant on whose shoulders we stand — life itself, and the cognitive capabilities present in it, there to be understood and used.
+And the same mistake runs through the fears as well as the hopes. Which company gives a new trainee full independent authority on their first day? Not because the trainee is incapable — they may be very capable — but because nobody has yet established where that capability applies and where it does not. And when something goes wrong, nobody blames the trainee. They ask who granted the access.
 
-Territories that were always there, but not easily accessible. Animal cognition. Collective intelligence across ecosystems. The coordination running through microbial networks. [Maturana](/positioning/persons/m/maturana/) described cognition as coextensive with life itself — and the question doesn't have to stop at life. Structure, pattern, adaptation, response run through systems we don't usually think of as cognitive. Will this cognitive revolution open the door to alien cognition?
+Where AI does damage, the damage comes from irresponsible design and irresponsible use — decisions taken by people, for reasons people have. Granting our artefacts a volition they do not have is a way of not looking at whose choices put them where they are, and it makes the actual work — establishing scope, deploying responsibly — sound like someone else's problem.
 
-Cognition, as seen from our vantage point, will decentralise because of us becoming aware it is decentralised, already.
+Secondly, and the more interesting one for me: it should force us to try to understand the simple before attempting the sophisticated. And that should open our eyes to the abundance of intelligence present in life all around us. And I am not only talking about brains here.
 
-If there is a revolution I think we should have then it is this Decentralised Cognition Revolution, both in insight and expression. It is technology somehow going full circle: how the artificial draws us in to go back to our roots. It should be exciting times ahead!
+Which is where I want to stop for now, because that is a door rather than a conclusion. A revolution in cognition, if that is what this is, would not be a revolution in what our machines can do. It would be a revolution in what we are prepared to count as cognition at all — and the machines are only what made the question unavoidable.
+
+<small>This post is part of the [conversations series](/blog/label/conversations/).</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@stbuccia">stbuccia</a> / Unsplash</small>

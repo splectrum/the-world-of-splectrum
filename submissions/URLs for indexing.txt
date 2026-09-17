@@ -1,4 +1,3 @@
-kolchinsky, wolpert, ito
 
 https://splectrum.world/blog/label/conversations/,1970-01-01
 https://splectrum.world/blog/label/creativity/,1970-01-01
@@ -16,8 +15,6 @@ https://splectrum.world/language/concepts/,1970-01-01
 https://splectrum.world/language/types/formal/,1970-01-01
 https://splectrum.world/language/types/software/,1970-01-01
 
-https://splectrum.world/positioning/close-affinity/basal-cognition/,1970-01-01
-https://splectrum.world/positioning/persons/b/baars/,1970-01-01
 https://splectrum.world/positioning/persons/b/bartlett/,1970-01-01
 https://splectrum.world/positioning/persons/b/berger/,1970-01-01
 https://splectrum.world/positioning/persons/f/friston/,1970-01-01
@@ -28,9 +25,6 @@ https://splectrum.world/positioning/persons/n/nussbaum/,1970-01-01
 https://splectrum.world/positioning/persons/r/renouvier/,1970-01-01
 https://splectrum.world/positioning/persons/t/tulving/,1970-01-01
 https://splectrum.world/positioning/persons/v/von-uexkull/,1970-01-01
-https://splectrum.world/positioning/persons/z/zhuangzi/,1970-01-01
-https://splectrum.world/positioning/seed/cognition/,1970-01-01
-https://splectrum.world/positioning/seed/sharing-knowledge/,1970-01-01
 
 https://splectrum.world/positioning/subjects/m/madhyamaka/,1970-01-01
 https://splectrum.world/positioning/subjects/p/political-philosophy/authority-legitimacy-and-justice/,1970-01-01
@@ -63,10 +57,7 @@ https://splectrum.world/positioning/persons/a/albert/,2026-07-05
 https://splectrum.world/positioning/subjects/d/darwinism/integration-with-genetics/,2026-07-05
 https://splectrum.world/positioning/persons/e/einstein/,2026-07-03
 https://splectrum.world/positioning/persons/d/darwin/,2026-07-03
-https://splectrum.world/positioning/subjects/p/process-philosophy/,2026-07-02
 https://splectrum.world/positioning/close-affinity/,2026-07-02
-https://splectrum.world/positioning/persons/w/whitehead/,2026-07-01
-https://splectrum.world/positioning/subjects/p/philosophy-of-organism/,2026-07-01
 https://splectrum.world/positioning/subjects/,2026-07-01
 https://splectrum.world/positioning/persons/,2026-06-25
 https://splectrum.world/positioning/persons/d/doolittle/,2026-06-18
@@ -83,10 +74,8 @@ https://splectrum.world/positioning/subjects/k/kafka/distribution-and-durability
 https://splectrum.world/positioning/persons/w/williams-b/,2026-05-30
 https://splectrum.world/positioning/wider-landscape/,2026-05-30
 https://splectrum.world/positioning/persons/s/sapolsky/human-behavioural-biology/,2026-05-29
-https://splectrum.world/positioning/persons/s/sapolsky/,2026-05-29
 https://splectrum.world/engineering/splectrum/mycelium/fabric,2026-05-24
 https://splectrum.world/blog/label/science/,2026-05-24
-https://splectrum.world/positioning/seed/two-pronged-anti-representationalism/,2026-05-18
 https://splectrum.world/positioning/on-the-fence/mutualism/original-mutualism/,2026-05-16
 http://splectrum.world/engineering/top-level-design/,2026-04-20
 https://splectrum.world/engineering/design-commitments,2026-04-18
