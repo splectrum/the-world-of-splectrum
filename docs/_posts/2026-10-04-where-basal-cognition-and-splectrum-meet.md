@@ -2,17 +2,17 @@
 layout: post
 title: "Where Basal Cognition and SPLectrum Meet"
 date: 2026-10-04
-lastmod: 2026-08-25
+lastmod: 2026-09-17
 labels: [positioning, philosophy]
-description: "The research field on cognition without brains and the SPLectrum seed arrive at the same open ground from opposite directions — and the field's cases turn out to be small studies in meaning: languages of experience and interaction, in beings with no neurons at all."
+description: "The research field on cognition without brains and SPLectrum arrive at the same open ground from opposite directions — and the field's cases turn out to be small studies in meaning: languages of experience and interaction, in beings with no neurons at all."
 status: draft
-words: 640
+words: 630
 ---
 <img src="https://images.unsplash.com/photo-1588260693037-45d3add2388d?q=80&w=1984&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Where Basal Cognition and SPLectrum Meet" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-I wrote earlier about [the field that waited a century](/blog/2026/09/the-field-that-waited-a-century/) — how basal cognition, the research programme studying cognition below the nervous system, spent a hundred years as orphaned results before Pamela Lyon inverted the question and gave the evidence a home. This post is about what happens when that field and the SPLectrum seed are put side by side. They meet — and the meeting point is more precise than a general sympathy.
+I wrote earlier about [the field that waited a century](/blog/2026/09/the-field-that-waited-a-century/) — how basal cognition, the research programme studying cognition below the nervous system, spent a hundred years as orphaned results before Pamela Lyon inverted the question and gave the evidence a home. This post is about what happens when that field and SPLectrum are put side by side. They meet — and the meeting point is more precise than a general sympathy.
 
-The field got there by method: start from what living systems actually do, and work up, instead of starting from human cognition and working down. The seed got there from first principles: its definition of cognition — [the process of acquiring knowledge and understanding through experience](/seed/cognition/) — simply never mentions a brain, and never needed one. Two very different routes, one result: the human case stops being the definition of cognition and becomes one case among many. When two approaches arrive at the same open ground from opposite directions, neither borrowing from the other, that is worth paying attention to.
+The field got there by method: start from what living systems actually do, and work up, instead of starting from human cognition and working down. SPLectrum got there from its seed principles: the definition of cognition that goes with them — [the process of acquiring knowledge and understanding through experience](/seed/cognition/) — simply never mentions a brain, and never needed one. Two very different routes, one result: the human case stops being the definition of cognition and becomes one case among many — open ground, reached from opposite directions.
 
 And what lives on that open ground, once you look? Meaning. The field's cases — read closely — are small studies in meaning being handled by beings with no neurons at all.
 
@@ -24,9 +24,9 @@ Cells talk a face into being. Before a frog embryo has any facial structure, a p
 
 A slime mould builds a map it then lives in. The famous one re-drew the Tokyo rail network across a bed of oat flakes — and the network it builds is both its memory of the world and its body, at once.
 
-Each of these is a being with its own language — partial in reach, contingent in character, disclosing a world that is that being's own. The bacterium's few seconds of chemical memory are not a lesser version of ours; they are exactly long enough for the comparison they enable, a complete case at its own scale. Much simpler beings, yes — but the simplicity is in the language's reach, not in the case's standing. Which is the seed's pluralism, arrived at by microscope: as many disclosed worlds as kinds of being.
+Each of these is a being with its own language — partial in reach, contingent in character, disclosing a world that is that being's own. The bacterium's few seconds of chemical memory are not a lesser version of ours; they are exactly long enough for the comparison they enable, a complete case at its own scale. Much simpler beings, yes — but the simplicity is in the language's reach, not in the case's standing. Which rhymes with the seed's pluralism, reached here by microscope: as many disclosed worlds as kinds of being.
 
-The full reading — the cases worked in detail, and their importance to SPLectrum — is in the reference library, at [basal cognition in close affinity](/positioning/close-affinity/basal-cognition/). The short version fits in a sentence: the field assembled the cases for an account it wasn't itself giving, and the seed had the account and nothing to run it on. They fit. That's the meeting.
+The full reading — the cases worked in detail, and their importance to SPLectrum — is in the reference library, at [basal cognition in close affinity](/positioning/close-affinity/basal-cognition/). The short version fits in a sentence: the field has the cases, worked from the organisms outward, and SPLectrum has an account of cognition that never asked for a brain. Neither was built for the other, which is what makes the fit worth looking at.
 
 <small>This post is part of the [positioning series](/blog/label/positioning/). See also the reference entries on <a href="/positioning/close-affinity/basal-cognition/">basal cognition in close affinity</a> and <a href="/positioning/subjects/b/basal-cognition/">the basal cognition subject</a>.</small>
 
