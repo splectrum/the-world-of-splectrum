@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-09-08
+lastmod: 2026-09-18
 title: "Hilary Putnam (1926–2016)"
 description: "American philosopher — internal realism, conceptual relativity, the collapse of the fact/value dichotomy, the brain in a vat, and the trajectory from scientific realism through pragmatism."
 ---
@@ -57,7 +57,7 @@ Putnam's later work — particularly *The Collapse of the Fact/Value Dichotomy* 
 
 ## Where Putnam stops
 
-Internal realism was designed to occupy the ground between metaphysical realism and relativism. Whether the ground is stable has been the central question in Putnam's reception. Putnam himself abandoned the label "internal realism" in the 1990s, moving toward what he called "natural realism" or "pragmatic realism" — a position closer to the commonsense realism of [James](/positioning/persons/j/james/) and the direct perception of ordinary experience. The shift acknowledged a problem: internal realism, by making truth internal to a conceptual scheme, risked the same scheme-dependence it attributed to metaphysical realism. If truth is what is ideally justified within a scheme, and schemes can differ, then internal realism looks like a sophisticated relativism — exactly the position Putnam set out to avoid.
+Internal realism was designed to occupy the ground between metaphysical realism and relativism. Whether the ground is stable has been the central question in Putnam's reception. Putnam himself abandoned the label "internal realism" in the 1990s, moving toward what he called "natural realism" or "pragmatic realism" — a position closer to the commonsense realism of [James](/positioning/persons/j/james/) and the direct perception of ordinary experience. The shift acknowledged a problem, though not the one the phrasing sometimes suggests: scheme-dependence is not a defect internal realism charged metaphysical realism with — it is internal realism's own commitment. The charge against metaphysical realism was that it occupied a standpoint while denying it had one. The difficulty that came back is different in kind. If truth is what would be ideally justified within a scheme, the criteria of justification — coherence, simplicity, empirical adequacy — are themselves stated within a scheme, so they go relative too, and internal realism looks like a sophisticated relativism, exactly the position Putnam set out to avoid.
 
 The model-theoretic argument Putnam deployed against metaphysical realism has been turned back against his own position. If reference cannot be fixed from a God's-eye view, how does internal realism fix it from inside? The answer — that reference is fixed by our practices, by the way we use words in the world — is pragmatist, and it is the direction Putnam moved. Whether pragmatic realism is a stable resting point or a further way station depends on whether "our practices" can bear the philosophical weight placed on them — a question [Rorty](/positioning/persons/r/rorty/) answered differently than Putnam did.
 
