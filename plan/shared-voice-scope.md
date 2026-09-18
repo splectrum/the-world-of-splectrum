@@ -52,13 +52,39 @@ So the page says: what the shared voice is; that it is a language and not a medi
 
 Scaffolded on Putnam's three realisms — the angle is not on the site yet.
 
-**Why the scaffolding works.** A real career and a real failure, not a scheme invented for the purpose. Scientific realism, internal realism, natural realism; the third abandoning the second because its standards went relative; and a fourth option he did not take. Putnam's difficulty stated accurately: internal realism replaced correspondence-truth with what would be ideally rationally acceptable within a scheme, but the criteria — coherence, simplicity, empirical adequacy — are themselves stated within a scheme, so the standard goes relative too. He needed a standard holding *across* schemes and could not have one from inside any.
+**Why the scaffolding works.** A real career and a real reversal, not a scheme invented for the purpose. Scientific realism, internal realism, natural realism — and the second transition is the useful one, because Putnam's own reasons for it are on record and the portrait post now carries them:
 
-The position's answer is structurally different: convergence is not a standard but an outcome, so the regress does not start.
+- Truth as idealised rational acceptability could not accommodate truths lying beyond any possible verification — and he held that there are such truths, the unrecoverable past being his kind of example.
+- The accompanying picture of perception put representations between subject and world — an interface rather than a contact.
+- Giving these up moved him *towards* realism, not further from it. By his own later account internal realism was an error, and he was a realist again, if not a metaphysical one.
+- What he kept from the middle period and never gave back: conceptual relativity.
+
+The critics' diagnosis — that the criteria of rational acceptability are themselves scheme-stated and so go relative too (Rorty's reading among others) — is a separate matter and is not his reason for the move. If used at all, it is attributed and kept to a clause.
+
+**The two constraints — the scaffolding the portrait hands over.** Putnam held both throughout, and both are his own:
+
+- **Nothing stands above the schemes** — his argument against metaphysical realism, applying to his own position too.
+- **It cannot be mere agreement** — a community can converge on what is false; a reform is not better for coming to seem so. The line he held against Rorty for thirty years.
+
+He looked for what satisfies both first in the criteria of rational acceptability, gave that answer up, and kept both constraints. That is the open question the portrait ends on: what a scheme answers to, given both.
+
+**The structural fit of the position's answer, one for one:**
+
+- Convergence is an *outcome*, not a standard → nothing is asked to hold above the games.
+- What crosses a language boundary is *understanding*, not *agreement* → the shared voice is not solidarity; agreement is optional, readability is the achievement.
+
+Read this way — and it is a reading, not a verdict on Putnam — the position is an option the career left untaken. **The hinge into the portrait's irony paragraph:** conceptual relativity, the piece he kept, is the ground the shared voice stands on.
+
+**Open before drafting — verification-transcendence.** With Putnam's actual objection now on record in the portrait, the follow-up cannot pass over it. The epistemology page's "converged subjectivity is the only objectivity there is" invites exactly the objection that ended internal realism: what makes a claim about the unrecoverable past true, if no one can converge on it? Two readings of the position, to be chosen between before the post is written:
+
+- **Converged verdicts** — a claim is true where subjects have converged on it. Open to Putnam's objection as it stands.
+- **Converged language** — what converges is the shared voice itself; it gives such claims their sense, their truth-conditions, and what would count as checking them. Convergence is needed on the language, not on each sentence. This reading survives the objection.
+
+Recorded as open, the second reading the candidate. The choice also bears on how the reality-side page words the claim in §2 — the page must not be drafted in a way that forecloses it.
 
 **Series:** positioning, not conversations — it argues a position rather than drawing a portrait.
 
-**Relation to the 10-08 post** (*The Man Who Kept Changing His Mind*): that one is the portrait and stays clear of the position — wrong register, and it was written before this material existed. The new post is the follow-up that uses the same three positions for a different purpose. Both can stand; the later one should not re-tell the career, only use it.
+**Relation to the 10-08 post** (*The Man Who Kept Changing His Mind*): the portrait has been revised to stay clear of the position and to end on Putnam's two constraints as his open question, without pointing toward an answer. The follow-up picks the question up from there; it uses the career and does not re-tell it. Both stand.
 
 **Ordering:** page first, post second.
 
