@@ -3,10 +3,10 @@ layout: post
 title: "A Revolution in Cognition?"
 date: 2026-10-01
 description: "The industrial revolutions were a story of extension, and extension is life's oldest habit. The latest wave hands over thinking itself — and the machines that finally manage it are not logic engines at all."
-lastmod: 2026-09-17
+lastmod: 2026-09-18
 labels: [conversations, engineering]
 status: draft
-words: 742
+words: 684
 ---
 <img src="https://images.unsplash.com/photo-1650648065204-0b8d52b18447?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="A Revolution in Cognition?" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
@@ -18,17 +18,15 @@ The latest wave brings something different in kind. Neural networks give us the 
 
 I mean that in a precise sense. The shift is, in my opinion, of the same magnitude as the move from classical physics into quantum mechanics and relativity — and comparable in nature, not just in size. Then, a physics built on a determinate, observer-independent picture met phenomena that refused to fit it, and what counted as understanding had to change. Now, centuries of science and philosophy built on rational, logical thinking — explicit rules, transparent chains of reasoning — meet the fact that the machines that finally work at thinking are not logic engines at all. They are associative. The paradigm shift forces our attention towards an associative way of processing information, and away from the assumption that the rational-logical way is what thinking *is*.
 
-That's self-evident I hear you say, how else? However with AI there is a difference from the earlier waves. Here we are trying to build the simpler components of something we already possess and use with high sophistication — we are building in the image of our brain.
+That's self-evident, I hear you say — how else? But there is a difference from the earlier waves. Every earlier extension gave us something we did not have; this time the artefact is a slice of what we ourselves are. Having this associative thinking trained on such vast output of human thinking makes it very powerful on one thing — so powerful that one can easily forget it is still far short of the brain on everything else, and the brain does all of that on a tiny budget.
 
-That has two consequences. Firstly, we think we know already, and imagine we are building higher sophistication than what really takes place — hence all the chatter about AGI, superintelligence, and AI taking over the world.
+And that is where the misreading comes from. We see the amplified capacity and read the whole brain architecture into it. More-than-us on one axis gets mistaken for a match for us on all of them. Hence the chatter about AGI, superintelligence and AI taking over the world. Don't be fooled — the danger lies in humans deploying it inappropriately, letting AI loose without an appropriate support structure.
 
-And the same mistake runs through the fears as well as the hopes. Which company gives a new trainee full independent authority on their first day? Not because the trainee is incapable — they may be very capable — but because nobody has yet established where that capability applies and where it does not. And when something goes wrong, nobody blames the trainee. They ask who granted the access.
+Should a company hire a new trainee and give them full independent authority on their first day? The trainee may be very clever but still lacks experience. They need the support of a team.
 
-Where AI does damage, the damage comes from irresponsible design and irresponsible use — decisions taken by people, for reasons people have. Granting our artefacts a volition they do not have is a way of not looking at whose choices put them where they are, and it makes the actual work — establishing scope, deploying responsibly — sound like someone else's problem.
+The power of AI calls for humility on our part. We approached rational thinking as the superior form of thinking and left cognition in the broad sense — associative included — aside. The attention went elsewhere: to the mind as the experienced end-product, and to the brain as the organ. AI's thinking is associative, so we had better understand it.
 
-Secondly, and the more interesting one for me: it should force us to try to understand the simple before attempting the sophisticated. And that should open our eyes to the abundance of intelligence present in life all around us. And I am not only talking about brains here.
-
-Which is where I want to stop for now, because that is a door rather than a conclusion. A revolution in cognition, if that is what this is, would not be a revolution in what our machines can do. It would be a revolution in what we are prepared to count as cognition at all — and the machines are only what made the question unavoidable.
+The revolution worth having is to understand cognition from the ground up, not only in AI but equally in life in general.
 
 <small>This post is part of the [conversations series](/blog/label/conversations/).</small>
 
