@@ -61,12 +61,12 @@ Scaffolded on Putnam's three realisms — the angle is not on the site yet.
 
 The critics' diagnosis — that the criteria of rational acceptability are themselves scheme-stated and so go relative too (Rorty's reading among others) — is a separate matter and is not his reason for the move. If used at all, it is attributed and kept to a clause.
 
-**The two constraints — the scaffolding the portrait hands over.** Putnam held both throughout, and both are his own:
+**The two constraints — the scaffolding, and the follow-up introduces them itself.** Putnam held both throughout, and both are his own; the portrait no longer states them, so the follow-up puts them on record, citing him:
 
 - **Nothing stands above the schemes** — his argument against metaphysical realism, applying to his own position too.
 - **It cannot be mere agreement** — a community can converge on what is false; a reform is not better for coming to seem so. The line he held against Rorty for thirty years.
 
-He looked for what satisfies both first in the criteria of rational acceptability, gave that answer up, and kept both constraints. That is the open question the portrait ends on: what a scheme answers to, given both.
+He looked for what satisfies both first in the criteria of rational acceptability, gave that answer up, and kept both constraints. The open question the follow-up opens on: what a scheme answers to, given both. **The second constraint must be on record as Putnam's, not the position's** — it is his line against Rorty (a community can converge on what is false; a reform is not better for coming to seem so) and is well documented; cite him directly, or it reads as the position pre-empting an objection.
 
 **The structural fit of the position's answer, one for one:**
 
@@ -84,7 +84,7 @@ Recorded as open, the second reading the candidate. The choice also bears on how
 
 **Series:** positioning, not conversations — it argues a position rather than drawing a portrait.
 
-**Relation to the 10-08 post** (*The Man Who Kept Changing His Mind*): the portrait has been revised to stay clear of the position and to end on Putnam's two constraints as his open question, without pointing toward an answer. The follow-up picks the question up from there; it uses the career and does not re-tell it. Both stand.
+**Relation to the 10-08 post** (*The Man Who Kept Changing His Mind*): the portrait stays clear of the position and ends on the irony paragraph — the career read as three languages, the tool from the phase he called a mistake, and conceptual relativity as the part he kept. The Rorty material and the two constraints were dropped from it (2026-09-18), so the follow-up establishes the constraints in its own frame; it uses the career and does not re-tell it. Both stand.
 
 **Ordering:** page first, post second.
 
