@@ -5,7 +5,7 @@ date: 2026-10-01
 description: "The industrial revolutions were a story of extension, and extension is life's oldest habit. The latest wave hands over thinking itself — and the machines that finally manage it are not logic engines at all."
 lastmod: 2026-09-18
 labels: [conversations, engineering]
-status: draft
+status: ready
 words: 684
 ---
 <img src="https://images.unsplash.com/photo-1650648065204-0b8d52b18447?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="A Revolution in Cognition?" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
