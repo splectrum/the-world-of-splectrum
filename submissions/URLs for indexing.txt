@@ -1,14 +1,4 @@
 
-https://splectrum.world/positioning/subjects/d/darwinism/social-darwinism/,2026-07-09
-https://splectrum.world/positioning/persons/h/heisenberg/,2026-07-07
-https://splectrum.world/positioning/persons/a/albert/,2026-07-05
-https://splectrum.world/positioning/subjects/d/darwinism/integration-with-genetics/,2026-07-05
-https://splectrum.world/positioning/persons/e/einstein/,2026-07-03
-https://splectrum.world/positioning/persons/d/darwin/,2026-07-03
-https://splectrum.world/positioning/close-affinity/,2026-07-02
-https://splectrum.world/positioning/subjects/,2026-07-01
-https://splectrum.world/positioning/persons/,2026-06-25
-https://splectrum.world/positioning/persons/d/doolittle/,2026-06-18
 https://splectrum.world/positioning/persons/e/edelman/,2026-06-18
 https://splectrum.world/positioning/subjects/a/aesthetics-in-philosophy/the-subordination-arc/,2026-06-13
 https://splectrum.world/positioning/persons/t/trivers/,2026-06-11

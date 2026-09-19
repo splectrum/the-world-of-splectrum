@@ -2,11 +2,11 @@
 layout: post
 title: "The Society That Cannot Recognise Itself"
 date: 2026-10-20
-lastmod: 2026-09-12
+lastmod: 2026-09-19
 labels: [conversations, science]
 description: "Argentine ants from opposite ends of a continent, which have never met and never will, treat each other as members of the same colony — and the argument about whether that makes them one society turns out to be an argument about a word."
 status: draft
-words: 935
+words: 952
 ---
 
 <img src="https://images.unsplash.com/photo-1582519934634-165964332f00?q=80&w=2831&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Society That Cannot Recognise Itself" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
@@ -29,11 +29,11 @@ The paper was published as a forum piece, with commentaries, and the commentarie
 
 And the ants themselves have complicated the picture since. A third European supercolony was confirmed on Corsica in 2012. A 2022 study on the northwest Iberian coast found [lethal fights between workers nominally of the same supercolony](https://neobiota.pensoft.net/article/90852/) — and found aggression in autumn where spring assays showed none, meaning the season you run the test can change the answer you get. The seamless empire of 2002 is looking more like a mosaic.
 
-What I find worth keeping is not a verdict on the ants. It is the shape of the disagreement. Nobody disputes the behaviour: the assays are the assays, and they have been replicated by independent groups on three continents. Gordon does not think the ants fight when Moffett says they do not. The disagreement is entirely about whether non-aggression plus a shared badge is *enough* to be called one society, given that ants and resources demonstrably do not circulate across the whole range.
+What I find worth keeping is not a verdict on the ants. It is the shape of the disagreement. Nobody disputes the behaviour: the assays are the assays, replicated by independent groups on three continents. Gordon does not think the ants fight when Moffett says they do not. The disagreement is entirely about whether non-aggression plus a shared badge is *enough* to be called one society, given that ants and resources demonstrably do not circulate across the whole range.
 
-That is a disagreement about a word, conducted by people who agree about the world. Which is not a criticism of either side — the word has to be settled before the question can even be asked, and settling it is the substance, not a preliminary to the substance. Moffett's definition makes the supercolony one society; Gordon's makes it many. Both definitions are coherent. Each licenses different research: his invites comparison across species that solved membership the same way, hers keeps attention on where things actually move.
+That is a disagreement about a word, conducted by people who agree about the world. Which is not a criticism of either side — the word has to be settled before the question can even be asked, and settling it is the substance, not a preliminary to it. Moffett's definition makes the supercolony one society; Gordon's makes it many. Both are coherent, and each licenses different research.
 
-The ants, meanwhile, are not participating in this. They are carrying a smell that certifies them as members of something no one of them will ever see the edge of, and they are getting on with it.
+And none of it would be happening had he not asked. The finding had sat in the literature for a decade as a remarkable fact about ants. Moffett put the question in the title of a paper — *what is a society?* — and made his colleagues answer it, which they did, in print, with definitions of their own. Whoever is right about the ants, that is the contribution: the question, asked where it could be argued rather than assumed.
 
 <small>This post is part of the [conversations series](/blog/label/conversations/). See also the reference entry on <a href="/positioning/persons/m/moffett/">Mark Moffett</a>.</small>
 
