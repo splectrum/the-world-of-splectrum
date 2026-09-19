@@ -2,14 +2,14 @@
 layout: post
 title: "The Decentralised Cognition Revolution"
 date: 2030-03-01
-lastmod: 2026-09-17
+lastmod: 2026-09-18
 labels: [conversations, engineering]
 description: "Cognition is decentralised wherever you look at it — in the brain, in the living world, and in the systems we are now building. Constructing it in our own image is what puts that in front of us."
 status: draft
-words: 864
+words: 861
 ---
 
-In [a revolution in cognition?](/blog/2026/10/a-revolution-in-cognition/) I said that what is changing is not what our machines can do, but what we are prepared to count as cognition at all. This is the part of that I find most interesting, and it is not a prediction. It is something already true that building the thing has made hard to keep ignoring.
+In [a revolution in cognition?](/blog/2026/10/a-revolution-in-cognition/) I said the revolution worth having is to understand cognition from the ground up — in AI, and equally in life. This is the part of that I find most interesting, and it is not a prediction. It is something already true that building the thing has made hard to keep ignoring.
 
 Cognition is decentralised. Not becoming decentralised — it is decentralised, in every place we can look at it closely.
 
