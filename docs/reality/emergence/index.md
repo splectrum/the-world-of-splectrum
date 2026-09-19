@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-09-16
+lastmod: 2026-09-18
 title: "Emergence"
 description: "Emergence as a new language game in a context above its base — the connection to that base either stated or not yet known, and the perimeter where a model stops coinciding with lived experience."
 ---
@@ -67,3 +67,5 @@ This is the same movement [discovery](/reality/discovery/) describes from the ot
 ---
 
 Emergence sits with [discovery](/reality/discovery/) and [evolution](/reality/evolution/): the unwalked path, its walking, and the crystallising of the new relation.
+
+See also: [Emergence](/positioning/subjects/e/emergence/) in the reference library — the word across its disciplines, what each definition says, and where each is at home.
