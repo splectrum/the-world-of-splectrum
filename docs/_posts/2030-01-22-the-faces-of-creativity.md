@@ -18,6 +18,8 @@ From a SPLectrum perspective creativity is far more general. It is any kind of c
 
 Creativity at the subject level is raw material, it is a candidate for sharing, for polishing, for adaption. It is the driver of process, reality in motion.
 
+creativity is the subject deviating from the throdden path.
+
 the faces of creativity, perspectives, how change is perceived.
 Although I am using creativity at the subject level, it is in fact a perspective on change that is stripped of value - contingent, not the same. That is because when the values of belonging, privay and creativity are associated with the subject it is recognised the subject has a 'home context' (belonging) however its ability to be different from that home context is left neutral (i.e. not judged by any standards, most importantly of its home context).
 

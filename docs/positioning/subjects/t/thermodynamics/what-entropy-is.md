@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-09-13
+lastmod: 2026-09-20
 title: "What Entropy Is"
 description: "Several quantities share the name — Clausius's thermodynamic entropy, Boltzmann's count of microstates, Gibbs's ensemble quantity, Shannon's information measure — and four readings divide over what any of them measures: objective, epistemic, relative to a coupling, relative to available means."
 ---
@@ -53,15 +53,15 @@ The Jaynesian answers do not concede the ground. Against the sealed-room case, t
 
 ### The relative reading
 
-[Rovelli](/positioning/persons/r/rovelli/) proposes that entropy is relative without being about knowledge, and is explicit that the distinction is the point. Entropy depends on a coarse-graining — but the coarse-graining is neither a convention nor a state of anyone's information. It is fixed by *which variables physically couple* one system to another:
+[Rovelli](/positioning/persons/r/rovelli/) proposes that entropy is relative without being about knowledge, and is explicit that the distinction is the point. Entropy depends on a coarse-graining — but the coarse-graining is neither a convention nor a state of anyone's information. It is fixed by *which variables physically couple* one system to another — as he put it in 2014:
 
 > A cup of hot tea does not cool down because of what I know or do not know about its molecules. The "choice" of macroscopic observables is dictated by the ways the system under consideration couples.
 
 The resulting quantity he describes as **objective but relative to O** — the ignorance reading, in his phrase, stripped of its anthropocentric and subjectivist aspects.
 
-He extends the proposal to the arrow of time, and marks the change of confidence as he does: after setting out the relative-entropy account he writes, "So far, I think all this is solid. Let me now take a speculative step." The step is a conjecture that in a sufficiently complex system there is always some subsystem whose coupling to the rest defines a coarse-graining relative to which the second law holds — so that low past entropy "can be fully perspectival," and the arrow of time is "real, but perspectival, like are real but perspectival the rotation of the sky or the setting of the sun." He describes the argument as making mild use of anthropic reasoning.
+He extends the proposal to the arrow of time, and marks the change of confidence as he does: the 2019 paper calls its second part "speculative and open ended". The conjecture is that in a sufficiently complex system there is always some subsystem whose coupling to the rest defines a coarse-graining relative to which the second law holds — so that low past entropy would be fully perspectival, and the arrow of time real but perspectival, in the way the rotation of the sky is. He describes the argument as making mild use of anthropic reasoning.
 
-The proposal has had limited published uptake. The objections he discusses — from Robert Wald on thermalisation timescales, Albert on the limited number of fundamental interactions, and James Hartle on quasiclassical domains — are ones he reports from conference discussion and answers himself rather than published critiques, and the principals of the past-hypothesis debate do not appear to have replied in print. The relationalism is also not presented as derived from his relational quantum mechanics; that kinship is structural rather than stated, and the quantum case is reached instead through entanglement entropy and the choice of how to divide a system into parts.
+The objections he discusses — from Robert Wald on thermalisation timescales, Albert on the limited number of fundamental interactions, and James Hartle on quasiclassical domains — are ones raised, he says, at an earlier presentation of the idea, which he answers himself in the 2015 paper rather than published critiques, and the principals of the past-hypothesis debate do not appear to have replied in print. The relationalism is also not presented as derived from his relational quantum mechanics; that kinship is structural rather than stated, and the quantum case is reached instead through entanglement entropy and the choice of how to divide a system into parts.
 
 ### The resource-relative reading
 

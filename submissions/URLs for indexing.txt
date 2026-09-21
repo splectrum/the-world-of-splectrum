@@ -1,18 +1,4 @@
 
-https://splectrum.world/positioning/persons/e/edelman/,2026-06-18
-https://splectrum.world/positioning/subjects/a/aesthetics-in-philosophy/the-subordination-arc/,2026-06-13
-https://splectrum.world/positioning/persons/t/trivers/,2026-06-11
-https://splectrum.world/positioning/persons/h/huxley-j/,2026-06-10
-https://splectrum.world/positioning/persons/b/bohr/,2026-06-06
-https://splectrum.world/engineering/infrastructure/bare-for-pear/avsc/types/,2026-06-05
-https://splectrum.world/positioning/persons/b/bateson-w/,2026-06-03
-https://splectrum.world/engineering/infrastructure/p2p/security-model/,2026-06-01
-https://splectrum.world/engineering/infrastructure/bare-for-pear/avsc-rpc/services/,2026-06-01
-https://splectrum.world/positioning/subjects/k/kafka/distribution-and-durability/,2026-05-31
-https://splectrum.world/positioning/persons/w/williams-b/,2026-05-30
-https://splectrum.world/positioning/wider-landscape/,2026-05-30
-https://splectrum.world/positioning/persons/s/sapolsky/human-behavioural-biology/,2026-05-29
-
 https://splectrum.world/positioning/persons/b/bartlett/,1970-01-01
 https://splectrum.world/positioning/persons/b/berger/,1970-01-01
 https://splectrum.world/positioning/persons/f/friston/,1970-01-01
@@ -34,6 +20,10 @@ https://splectrum.world/positioning/subjects/u/uri/the-syntax/,1970-01-01
 https://splectrum.world/positioning/subjects/x/xpath/addressing-and-influence/,1970-01-01
 https://splectrum.world/positioning/subjects/y/yogacara/,1970-01-01
 
+
+https://splectrum.world/engineering/infrastructure/p2p/security-model/,2026-06-01
+https://splectrum.world/engineering/infrastructure/bare-for-pear/avsc-rpc/services/,2026-06-01
+https://splectrum.world/positioning/wider-landscape/,2026-05-30
 https://splectrum.world/blog/label/conversations/,1970-01-01
 https://splectrum.world/blog/label/creativity/,1970-01-01
 https://splectrum.world/blog/label/formalisation/,1970-01-01
