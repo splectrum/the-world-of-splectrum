@@ -78,10 +78,10 @@ The three original drafts (*The Word That Means Four Things*, *The Name Nobody C
 
 ## Placement notes
 
-- The narrow-disorder paragraph (order as what the destination knows; a message with nothing new has no disorder; noise as the limit where wholly new and wholly disordered coincide) is **cut from Post 1 and held for Post 3**, where it bridges the two glosses and sets up the central question — does the same reading carry over to a gas? Already verified; no further sourcing needed.
+- The narrow-disorder paragraph (order as what the destination knows; a message with nothing new has no disorder; noise as the limit where wholly new and wholly disordered coincide) is **cut from Post 1; was held for Post 3, now dropped** — where it bridges the two glosses and sets up the central question — does the same reading carry over to a gas? Already verified; no further sourcing needed.
 - **Post 1** *The Word Travels* — scheduled 2026-10-24 (`2026-10-24-the-word-travels.md`), reviewed to ready on content; image in; status left `draft` for Jules.
 - **Post 2** retitled *Maxwell's Demon* — scheduled 2026-11-01 (`2026-11-01-maxwells-demon.md`), reviewed to ready on content; image in; status `draft`. Links back to Post 1.
-- **Post 3** *Relative, But Not to a Knower* — parked `2030-02-03`, 1,018 words, **not yet reviewed**; heater paragraph is the marked cut; Jaynesian reply grounded in Jaynes 1965 and voiced as available. Links to Post 1 at its October URL.
+- **Post 3** *Relative, But Not to a Knower* — **DROPPED 2026-09-21 (Jules): the post did not yield.** The Four Things table above stays as the record of what was checked; the Jaynes 1965 / Rovelli / Goldstein findings remain valid for the site pages (what-entropy-is, Rovelli) and for any future use.
 - **Superseded:** `2030-02-02-the-name-nobody-can-explain.md` — usable core absorbed into Post 1; left in place pending Jules's word on deletion.
 - **Site knock-ons applied, uncommitted:** Rovelli person page and what-entropy-is (see below).
 

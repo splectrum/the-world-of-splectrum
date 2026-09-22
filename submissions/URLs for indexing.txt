@@ -1,15 +1,4 @@
 
-https://splectrum.world/positioning/persons/b/bartlett/,1970-01-01
-https://splectrum.world/positioning/persons/b/berger/,1970-01-01
-https://splectrum.world/positioning/persons/f/friston/,1970-01-01
-https://splectrum.world/positioning/persons/g/gibson-e/,1970-01-01
-https://splectrum.world/positioning/persons/g/gibson-j/,1970-01-01
-https://splectrum.world/positioning/persons/l/luckmann/,1970-01-01
-https://splectrum.world/positioning/persons/n/nussbaum/,1970-01-01
-https://splectrum.world/positioning/persons/r/renouvier/,1970-01-01
-https://splectrum.world/positioning/persons/t/tulving/,1970-01-01
-https://splectrum.world/positioning/persons/v/von-uexkull/,1970-01-01
-
 https://splectrum.world/positioning/subjects/m/madhyamaka/,1970-01-01
 https://splectrum.world/positioning/subjects/p/political-philosophy/authority-legitimacy-and-justice/,1970-01-01
 https://splectrum.world/positioning/subjects/p/political-philosophy/liberty-and-the-self/,1970-01-01

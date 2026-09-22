@@ -2,7 +2,7 @@
 layout: post
 title: "Practices Without a Referee"
 date: 2026-08-28
-lastmod: 2026-08-01
+lastmod: 2026-09-22
 labels: [conversations, philosophy]
 description: "Isabelle Stengers — from Prigogine's laboratory, where time's arrow became real, to cosmopolitics: an ecology of practices with no transcendent arbiter, reciprocal capture, the idiot, and thinking with Whitehead."
 status: ready
@@ -16,7 +16,7 @@ Readers of this blog have met an unfinished universe before — [James](/blog/20
 
 Her seven-volume answer is called *Cosmopolitics*, and the name picks a deliberate fight. Cosmopolitanism dreams of one world order grounded in shared humanity — the constitution, in effect, already written. Cosmopolitics denies that the cosmos is given in advance: it is not the container the practices sit in but what would have to be *constructed* for them to hold together, slowly, with no transcendent vantage to arbitrate. And her refusal of the referee's chair cuts deeper than tolerance — tolerance, she notes, is just the referee smiling, permission issued from the very seat that was supposed to be empty. What she proposes instead is an ecology of practices, and the ecology is meant literally: practices occupy niches, compete, cooperate, and transform one another's environments; the philosopher's work is to study how they present themselves to one another, not to grade them from above.
 
-Two of her concepts do the fine work. *Reciprocal capture* names the good case: conflicting practices that develop a relation in which each is changed by the other and both remain distinct — not compromise, not conversion, but mutual transformation without merger. And *the idiot*, a figure she borrows from Deleuze, guards the process: the one who slows down the consensus, who cannot argue the urgent question everyone treats as self-evident but insists — without being able to say what it is — that "there is something more important." Not stupidity; a principled brake on the rush to agreement, kept inside the room.
+Two of her concepts do the fine work. *Reciprocal capture* names the good case: conflicting practices that develop a relation in which each is changed by the other and both remain distinct — not compromise, not conversion, but mutual transformation without merger. And *the idiot*, a figure she borrows from [Deleuze](/positioning/persons/d/deleuze/), guards the process: the one who slows down the consensus, who cannot argue the urgent question everyone treats as self-evident but insists — without being able to say what it is — that "there is something more important." Not stupidity; a principled brake on the rush to agreement, kept inside the room.
 
 The process flavour of all this is no accident. In 2002 she published the book of a thirty-year engagement, *Thinking with Whitehead*, and is widely credited with returning [Whitehead](/positioning/persons/w/whitehead/) to serious philosophical reading after decades of neglect. Her Whitehead is a constructivist — speculative philosophy as the free and wild creation of concepts, built to civilise the abstractions modern thought inherits, never a system claiming completeness; she even takes his God seriously, as a constraint the construction needs rather than an embarrassment to excise. The chemist who had watched order grow out of chaos found the metaphysician who had built becoming into the world's furniture. She has been thinking with him, on her own terms, ever since.
 

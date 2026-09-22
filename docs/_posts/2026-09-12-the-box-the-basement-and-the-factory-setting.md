@@ -2,7 +2,7 @@
 layout: post
 title: "The Box, the Basement, and the Factory Setting"
 date: 2026-09-12
-lastmod: 2026-08-02
+lastmod: 2026-09-22
 labels: [seed, philosophy]
 description: "Three schools draw the inside of the subject three ways — empty, split, and pre-filled — and each spends its best effort defending the drawing. Beside them, the acquisition mechanisms were drawn from watching, with no position to defend."
 status: ready
@@ -24,7 +24,7 @@ If the child couldn't have got it from experience, says [nativism](/positioning/
 
 What happens over the next sixty years is the part worth watching. The endowment starts out rich — whole systems of innate rules. By the 1980s it is universal principles plus a set of binary switches. By the 1990s the Minimalist Program has stripped it toward a single operation, *Merge*, that joins two things into one and can run on its own output. And the field is explicit about why it shrank: universal grammar has to be rich enough to explain what the child gets from thin evidence, and small enough to have plausibly evolved. Those two pull opposite ways. The theory retreated under the second, not because the first found new evidence.
 
-Meanwhile the question of where the *pieces* come from — the things Merge combines — stays open. Chomsky's answer is that lexical concepts are too complex to have been extracted from experience, so they must already be there too, triggered rather than learned; he has said this holds even for *carburetor*. [Jerry Fodor](/positioning/persons/f/fodor/) took it to the end of the line: concepts can't be learned at all, only triggered, so *car* is innate. [Putnam](/positioning/persons/p/putnam/) could hardly conceal his astonishment. [Dennett](/positioning/persons/d/dennett/) observed that on this view Aristotle had the concept of an aeroplane in his brain. The field's own verdict is that Fodor went too far — but nobody leaves the position that pushed him there. And in *Why Only Us*, [Berwick](https://en.wikipedia.org/wiki/Robert_C._Berwick) and Chomsky write that the origin of those atoms "remains for us a mystery."
+Meanwhile the question of where the *pieces* come from — the things Merge combines — stays open. Chomsky's answer is that lexical concepts are too complex to have been extracted from experience, so they must already be there too, triggered rather than learned; he has said this holds even for *carburetor*. [Jerry Fodor](/positioning/persons/f/fodor/) took it to the end of the line: concepts can't be learned at all, only triggered, so *car* is innate. [Putnam](/positioning/persons/p/putnam/) could hardly conceal his astonishment. [Dennett](/positioning/persons/d/dennett/) observed that on this view [Aristotle](/positioning/persons/a/aristotle/) had the concept of an aeroplane in his brain. The field's own verdict is that Fodor went too far — but nobody leaves the position that pushed him there. And in *Why Only Us*, [Berwick](https://en.wikipedia.org/wiki/Robert_C._Berwick) and Chomsky write that the origin of those atoms "remains for us a mystery."
 
 What the sixty years show is a stance taken early that then had to be held. This is science fighting a war in the trenches, actively non-pluralistic, each holding one position. The war was never about the findings — it was only about the tribe.
 

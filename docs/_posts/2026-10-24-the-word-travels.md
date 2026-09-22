@@ -2,7 +2,7 @@
 layout: post
 title: "The Word Travels"
 date: 2026-10-24
-lastmod: 2026-09-20
+lastmod: 2026-09-22
 labels: [conversations, science]
 description: "Clausius built the word entropy to travel — Greek, so every language could take it unchanged — and it was about change from its first day: the transformation content of a body became the transformation content of a message, undergone in the one, put in on purpose in the other."
 status: draft
@@ -17,9 +17,9 @@ In 1865 Rudolf Clausius needed a name for a quantity he had been working with fo
 
 Greek, so it would travel unchanged into every modern language. Shaped to rhyme with *energy*, deliberately, because the two belong together. And about change from the first day: τροπή is transformation, and the plain name he had just set aside said the same. It is a small masterpiece of naming, and it worked. What Clausius did not design was how far it would go.
 
-Within his own century it moved once. Clausius's entropy is heat exchanged over temperature — a quantity of a body, with a thermometer in it. Ludwig Boltzmann read it microscopically: count the arrangements of molecules that look the same from outside, take the logarithm. Josiah Willard Gibbs replaced the count with a probability distribution. Same word, and a different kind of object under it — from a body at a temperature to a way of grouping states and weighing them, and it is the probabilistic form that Shannon would recognise. Nobody disputes that they connect.
+Within his own century it moved once. Clausius's entropy is heat exchanged over temperature — a quantity of a body, with a thermometer in it. [Ludwig Boltzmann](/positioning/persons/b/boltzmann/) read it microscopically: count the arrangements of molecules that look the same from outside, take the logarithm. [Josiah Willard Gibbs](/positioning/persons/g/gibbs/) replaced the count with a probability distribution. Same word, and a different kind of object under it — from a body at a temperature to a way of grouping states and weighing them, and it is the probabilistic form that Shannon would recognise. Nobody disputes that they connect.
 
-Then, in 1948, Claude Shannon wrote down a measure of the uncertainty in a source of messages and called it entropy. His own account is on the record and undramatic. The form of *H*, he wrote in the paper, would be recognised as that of entropy as defined in certain formulations of statistical mechanics, and he pointed to Boltzmann's *H*-theorem. That is the whole of the explanation. It reads as a mathematician who had read some physics, seeing a formula he had seen before and using the name that came with it. The better-known story — John von Neumann advising the word because nobody knows what entropy is — Shannon himself doubted when asked in 1982.
+Then, in 1948, Claude Shannon wrote down a measure of the uncertainty in a source of messages and called it entropy. His own account is on the record and undramatic. The form of *H*, he wrote in the paper, would be recognised as that of entropy as defined in certain formulations of statistical mechanics, and he pointed to Boltzmann's *H*-theorem. That is the whole of the explanation. It reads as a mathematician who had read some physics, seeing a formula he had seen before and using the name that came with it. The better-known story — [John von Neumann](/positioning/persons/v/von-neumann/) advising the word because nobody knows what entropy is — Shannon himself doubted when asked in 1982.
 
 Notice what he was careful to say: the *form*. The form carried over; the use did not.
 

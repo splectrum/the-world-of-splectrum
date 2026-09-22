@@ -2,7 +2,7 @@
 layout: post
 title: "Where Basal Cognition and SPLectrum Meet"
 date: 2026-10-04
-lastmod: 2026-09-18
+lastmod: 2026-09-22
 labels: [positioning, philosophy]
 description: "The research field on cognition without brains and SPLectrum arrive at the same open ground from different directions — and the field's cases turn out to be small studies in meaning: languages of experience and interaction, in beings with no neurons at all."
 status: ready
@@ -10,7 +10,7 @@ words: 630
 ---
 <img src="https://images.unsplash.com/photo-1588260693037-45d3add2388d?q=80&w=1984&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Where Basal Cognition and SPLectrum Meet" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-I wrote earlier about [the field that waited a century](/blog/2026/09/the-field-that-waited-a-century/) — how basal cognition, the research programme studying cognition below the nervous system, spent a hundred years as orphaned results before Pamela Lyon inverted the question and gave the evidence a home. This post is about what happens when that field and SPLectrum are put side by side. They meet — and the meeting point is more precise than a general sympathy.
+I wrote earlier about [the field that waited a century](/blog/2026/09/the-field-that-waited-a-century/) — how basal cognition, the research programme studying cognition below the nervous system, spent a hundred years as orphaned results before [Pamela Lyon](/positioning/persons/l/lyon/) inverted the question and gave the evidence a home. This post is about what happens when that field and SPLectrum are put side by side. They meet — and the meeting point is more precise than a general sympathy.
 
 The field got there by method: start from what living systems actually do, and work up, instead of starting from human cognition and working down. SPLectrum got there from its seed principles through a definition of cognition to match — [the process of acquiring knowledge and understanding through experience](/seed/cognition/) — it simply never mentions a brain, and never needed one. Two very different routes, one result: the human case stops being the definition of cognition and becomes one case among many — open ground, reached from different directions.
 

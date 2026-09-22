@@ -2,7 +2,7 @@
 layout: post
 title: "The Man Who Kept Changing His Mind"
 date: 2026-10-08
-lastmod: 2026-09-18
+lastmod: 2026-09-22
 labels: [conversations, philosophy]
 description: "Hilary Putnam changed his realism three times, and colleagues kept count. Read the three as three languages in which 'real' does its work — a renunciation, then a correction, and one thing carried through all of it."
 status: draft
@@ -10,7 +10,7 @@ words: 624
 ---
 <img src="https://images.unsplash.com/photo-1742294009985-a688e521f881?q=80&w=1972&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Man Who Kept Changing His Mind" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-There was a running joke about Hilary Putnam. Every decade, a new realism. It made it into Daniel Dennett's *Philosophical Lexicon*, the philosophers' in-house dictionary of coined insults and affectionate jabs, where a **hilary** is defined as a very brief but significant period in a philosopher's career. Scientific realism in the sixties. Internal realism from the late seventies. Natural realism in the nineties. Three positions, one career, and the word "realism" stretched across all of them like a tent over a man who kept moving.
+There was a running joke about Hilary Putnam. Every decade, a new realism. It made it into [Daniel Dennett](/positioning/persons/d/dennett/)'s *Philosophical Lexicon*, the philosophers' in-house dictionary of coined insults and affectionate jabs, where a **hilary** is defined as a very brief but significant period in a philosopher's career. Scientific realism in the sixties. Internal realism from the late seventies. Natural realism in the nineties. Three positions, one career, and the word "realism" stretched across all of them like a tent over a man who kept moving.
 
 The three are quickly felt, if not quickly argued. Scientific realism says: our best theories are approximately true, and the things they posit — electrons, genes, fields — really exist; anything less would make the success of science a miracle. 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Cognition and Disclosure"
 date: 2026-09-01
-lastmod: 2026-08-16
+lastmod: 2026-09-22
 labels: [seed, philosophy]
 description: "Experience never arrives empty — Bergson sees it full of memories from outside; Heidegger finds us always already in the world, from inside. So the process of cognition is always already running: the process behind P2, through which reality discloses itself."
 status: ready
@@ -14,7 +14,7 @@ Recently a new core word was added to SPLectrum: cognition. And it got its SPLec
 
 Cognition happens within the context of language and is the dynamic process that creates meaning from meaning. Although the definition states that knowledge and understanding are acquired through experience (of reality) it glosses over the fact that the experience already contains knowledge and understanding in order to be meaningful. It is a process that is always already booted up.
 
-This is a point that has been discussed extensively by philosophers, from Kant to the present day. I want to highlight a few here, one from outside, standing back and looking at what experience contains — Bergson — and one from inside the running — Heidegger.
+This is a point that has been discussed extensively by philosophers, from [Kant](/positioning/persons/k/kant/) to the present day. I want to highlight a few here, one from outside, standing back and looking at what experience contains — Bergson — and one from inside the running — Heidegger.
 
 [Bergson](/positioning/persons/b/bergson/) wrote in *Matter and Memory* that *there is no perception which is not full of memories*. Whatever experience we may have, it is always already populated with historicity. Whatever experience there may be, it always already contains meaning expressed in language. The experience of the world today is coloured by the experiences of the world in the past — inherently subjective with regards to the individual or its community. The world does not reach a subject empty and get filled in afterwards; it reaches the subject already thick with meaning. This is the view from outside: I stand back, observe experience, and look at the tools that are in play.
 

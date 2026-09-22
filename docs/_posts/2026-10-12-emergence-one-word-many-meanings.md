@@ -2,7 +2,7 @@
 layout: post
 title: "Emergence — One Word, Many Meanings"
 date: 2026-10-12
-lastmod: 2026-09-18
+lastmod: 2026-09-22
 labels: [conversations, philosophy]
 description: "The word 'emergence' does daily work in physics, biology, sociology, AI and philosophy — with a different meaning in each. The facts of its history and its many homes, and what they say about words and their meaning contexts."
 status: draft
@@ -16,7 +16,7 @@ And yet the word will not go away, because it does daily work in a remarkable nu
 
 The history explains some of this. The word entered philosophy in 1875, when George Henry Lewes needed a term for effects that could not be traced as the sum of their causes — John Stuart Mill had described the phenomenon three decades earlier using chemistry as his example: the properties of a compound are nothing like the properties of its elements. A British school built on it in the 1920s — Samuel Alexander, C. Lloyd Morgan, and most carefully [C. D. Broad](/positioning/persons/b/broad/), who held that some properties of wholes cannot be derived, even in principle, from full knowledge of their parts. Chemistry was their confident example — and [each definition of emergence turns out to carry the case it was built on](/positioning/subjects/e/emergence/the-paradigm-cases/), which is why the school's fortunes tracked chemistry's so closely. Then quantum mechanics arrived and began deriving chemical bonding, and the school's stock fell with its example — though philosophers of chemistry still argue, today, about how complete that derivation really is. For decades the word was nearly retired. It returned — through the sciences of complexity, separately through the philosophy of mind for consciousness, and in 2022 through AI, in a dispute about scaling curves that is still running.
 
-So the word now lives in many homes, and in each it has a precise local meaning. In physics: behaviour insensitive to micro-detail, with a mathematical account of *why* the details wash out. In complexity science: what your simulation shows that its rules don't mention — derivable, but only by running it. In biology: what life does at each new scale of organisation. In sociology, the oldest working concept of all, in place before the word attached to it: Durkheim's social facts, exterior to every individual and constraining each, by 1895.
+So the word now lives in many homes, and in each it has a precise local meaning. In physics: behaviour insensitive to micro-detail, with a mathematical account of *why* the details wash out. In complexity science: what your simulation shows that its rules don't mention — derivable, but only by running it. In biology: what life does at each new scale of organisation. In sociology, the oldest working concept of all, in place before the word attached to it: [Durkheim](/positioning/persons/d/durkheim/)'s social facts, exterior to every individual and constraining each, by 1895.
 
 The field's own surveyors are candid about the situation. Paul Humphreys, in [the Oxford handbook chapter on emergence](https://uva.theopenscholar.com/files/paul-humphreys/files/emergence_8.pdf), states plainly that a unified definition of emergence is not currently feasible, and — the sharper observation — that unlike causation, the field has no agreed set of core examples against which any proposed account could be tested.
 

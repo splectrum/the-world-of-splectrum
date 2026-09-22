@@ -2,7 +2,7 @@
 layout: post
 title: "Maxwell's Demon"
 date: 2026-11-01
-lastmod: 2026-09-21
+lastmod: 2026-09-22
 labels: [conversations, science]
 description: "In 1867 Maxwell described a creature that could break the second law of thermodynamics by watching molecules and opening a door. A hundred and sixty years later the argument about whether it has been exorcised is still going."
 status: draft
@@ -11,7 +11,7 @@ words: 974
 
 <img src="https://images.unsplash.com/photo-1546942113-a6c43b63104a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Maxwell's Demon" />
 
-In December 1867, James Clerk Maxwell wrote to a friend that he wanted "to pick a hole" in the second law of thermodynamics.
+In December 1867, [James Clerk Maxwell](/positioning/persons/m/maxwell/) wrote to a friend that he wanted "to pick a hole" in the second law of thermodynamics.
 
 Take a vessel of gas at uniform temperature, divide it with a partition with a small door. Now imagine a being able to see individual molecules. When a fast one approaches from the left, it opens the door and lets it through; when a slow one approaches from the right, the same. The door is frictionless and massless, so operating it costs nothing. After a while, one side is hot and the other is cold — a temperature difference made from nothing, out of gas that started uniform, by a creature that did no work.
 
@@ -19,11 +19,11 @@ Maxwell called it a "finite being". The name it carries now was supplied by Will
 
 The puzzle is sharper than it first appears. The demon is not cheating. It is not adding energy, and it is not lying about what it sees. It is using information — which way each molecule is going — and converting that information into a temperature difference, which can then be used to drive an engine. If that works, the second law is not a law but a statement about how much we usually know.
 
-The decisive reframing came sixty years later. In 1929 Leó Szilárd stripped the problem to a single molecule in a box with a movable partition, and identified the crucial step: *measurement*. Knowing which side the molecule is on is what lets you extract work. That turned a puzzle about clever machinery into a puzzle about information, and it made a quantitative treatment possible — though the quantity itself was still missing.
+The decisive reframing came sixty years later. In 1929 [Leó Szilárd](https://en.wikipedia.org/wiki/Le%C3%B3_Szil%C3%A1rd) stripped the problem to a single molecule in a box with a movable partition, and identified the crucial step: *measurement*. Knowing which side the molecule is on is what lets you extract work. That turned a puzzle about clever machinery into a puzzle about information, and it made a quantitative treatment possible — though the quantity itself was still missing.
 
-Shannon supplied it in 1948. After that there was something definite for a thermodynamic cost to be a cost *of*. And the demon is something like a destination in Shannon's sense — a thing that reads the molecules and holds on to what it has read — which makes it the first case in this story of a body being read against something — [the very thing the last post left open](/blog/2026/10/the-word-travels/).
+[Shannon](/positioning/persons/s/shannon/) supplied it in 1948. After that there was something definite for a thermodynamic cost to be a cost *of*. And the demon is something like a destination in Shannon's sense — a thing that reads the molecules and holds on to what it has read — which makes it the first case in this story of a body being read against something — [the very thing the last post left open](/blog/2026/10/the-word-travels/).
 
-In 1961 Rolf Landauer proposed where the cost sits, and his answer was not where anyone expected. Not in measurement — in *erasure*. Resetting a bit to a standard state, in an environment at temperature T, dissipates at least kT ln 2. Charles Bennett later pointed out that Szilárd's own closing mathematics had already placed the entropy increase at the resetting step, whatever his prose said about measurement.
+In 1961 [Rolf Landauer](/positioning/persons/l/landauer/) proposed where the cost sits, and his answer was not where anyone expected. Not in measurement — in *erasure*. Resetting a bit to a standard state, in an environment at temperature T, dissipates at least kT ln 2. [Charles Bennett](/positioning/persons/b/bennett/) later pointed out that Szilárd's own closing mathematics had already placed the entropy increase at the resetting step, whatever his prose said about measurement.
 
 Bennett drew the consequence for the demon in the following decades. The demon has a memory. It fills up. Before the cycle can repeat, that memory must be cleared — and clearing it costs at least what the demon gained. The apparent violation was an artefact of not closing the loop. Run the demon once and it looks like magic; run it twice and you find the bill.
 
