@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-09-14
+lastmod: 2026-09-25
 title: "Black Holes"
 description: "The laws of black hole mechanics, Bekenstein entropy and Hawking radiation — and the unresolved question of whether a black hole literally has entropy or the correspondence is a formal analogy."
 ---
@@ -24,6 +24,10 @@ Whether this is entropy or looks like entropy remains open, with articulate posi
 **John Dougherty and Craig Callender** argue the analogy is weaker than commonly supposed. Black hole thermodynamics, on their account, corresponds not to thermodynamics but to a caricature of it; it is unclear which systems the theory is even about; and it presupposes a contested epistemic conception of entropy. They press specific mismatches: temperature is intensive and independent of system size, whereas surface gravity is not; and entropy ordinarily scales with volume rather than area.
 
 **Robert Wald and David Wallace** defend the literal reading, Wallace in a two-part treatment addressing phenomenological thermodynamics and statistical mechanics in turn, arguing that the objections either misidentify what thermodynamics requires or apply equally to ordinary systems. Erik Curiel, and Carina Prunkl with Christopher Timpson, have contributed further to the exchange, which continues in the current literature.
+
+## The microstate count
+
+The correspondence gave the horizon an entropy before anyone had a count of states behind it — as in thermodynamics itself, where the macroscopic relations came half a century before Boltzmann's count. The constructive account has been sought since. The count has been supplied for particular cases. [Andrew Strominger and Cumrun Vafa](https://arxiv.org/abs/hep-th/9601029) derived the area law in 1996 for a class of five-dimensional extremal black holes in string theory, by counting the degeneracy of bound states of the theory's solitons; the result reproduces a quarter of the horizon area exactly. Loop quantum gravity has a count of its own: [Ashtekar, Baez, Corichi and Krasnov](https://arxiv.org/abs/gr-qc/9710007) showed in 1998 that the entropy of a large non-rotating black hole is proportional to its horizon area, with agreement to the Bekenstein–Hawking coefficient depending on the choice of the Immirzi parameter. Both are counts within a candidate theory of quantum gravity, for restricted classes of black hole, and neither is a count of the microstates of an astrophysical black hole in a theory known to describe it. What they establish is that the constructive account can be built at all.
 
 ## The information paradox
 

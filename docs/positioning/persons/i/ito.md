@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-09-15
+lastmod: 2026-09-25
 title: "Sosuke Ito"
 description: "Japanese physicist — information thermodynamics on causal networks, thermodynamic uncertainty relations, and the geometric reformulation linking stochastic thermodynamics to information geometry and optimal transport."
 ---
@@ -23,7 +23,7 @@ Associate Professor at the Universal Biology Institute, Graduate School of Scien
 
 His landmark result, with Sagawa, appeared in *Physical Review Letters* in 2013. The second law and the fluctuation theorem had been extended to systems subject to measurement and feedback — the Maxwell's demon setting, one system observing another. Ito and Sagawa generalised this to arbitrary networks of interacting systems described by causal, Bayesian-network structure: the entropy production of any one system in such a network is bounded not by zero but by the *information flow* between it and the others.
 
-The significance is that it turns a two-body result into a structural one. Where the earlier work treated a demon and its target, the causal-network formulation handles biochemical signalling networks, sensory systems and any collection of components exchanging information while dissipating — settings where which system is measuring which is not fixed in advance.
+The significance is that it turns a two-body result into a structural one. Where the earlier work treated a demon and its target, the causal-network formulation handles biochemical signalling networks, sensory systems and any collection of components exchanging information while dissipating — settings where which system is measuring which is not fixed in advance. The framework was applied to a real case in 2015, again with Sagawa: the adaptation network of *E. coli* chemotaxis, where the second law with information flow included gives a tighter and more meaningful bound on the signalling component than the conventional second law.
 
 ---
 
@@ -48,6 +48,7 @@ The results are constraints and structural relations: given a network of interac
 ## Key works
 
 - Ito, S. & Sagawa, T., "Information Thermodynamics on Causal Networks," *Physical Review Letters* 111:180603 (2013) — the second law and fluctuation theorem on Bayesian networks.
+- Ito, S. & Sagawa, T., "Maxwell's demon in biochemical signal transduction with feedback loop," *Nature Communications* 6:7498 (2015) — the causal-network second law applied to *E. coli* chemotaxis.
 - Ito, S., "Stochastic thermodynamic interpretation of information geometry," *Physical Review Letters* (2018) — the geometric programme.
 - Ito, S. & Dechant, A., "Stochastic time evolution, information geometry, and the Cramér–Rao bound," *Physical Review X* (2020).
 

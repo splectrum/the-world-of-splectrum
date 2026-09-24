@@ -19,7 +19,7 @@ Pages that go stale as the site grows — check them whenever their trigger fire
 **Parked on fictitious 2030 dates**, grouped in series blocks, returning to real dates as they are ready and slots open:
 - **formalisation series** — 2030-01-01…05 (seed-and-category-theory, wrapper, is-like-is, meaning-patterns-travel, friction-with-1-categorical-thinking). Images added; the 01-01 opener still needs one.
 - **creativity series** — 01-22…26 (Faces → Unwalked Path → Diversified → Perimeter → Thinking Side). Faces still mid-rework (empty previous-post link to fill; target now exists at `/blog/2026/08/the-generative-value/`).
-- **mutualism** — 01-31.
+- *(mutualism — 01-31 — DELETED 2026-09-25 by Jules as stale.)*
 
 Build history (creativity merge/reorder/potential-vs-actual correction; the process-models split-and-rewrite of early August; the six-pass neuroscience review) is in git history.
 
