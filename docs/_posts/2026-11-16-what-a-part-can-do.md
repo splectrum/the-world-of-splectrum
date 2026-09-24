@@ -9,7 +9,7 @@ status: draft
 words: 761
 ---
 
-<img src="https://plus.unsplash.com/premium_photo-1747905993650-e130159b201b?q=80&w=1946&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="What a Part Can Do" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://plus.unsplash.com/premium_photo-1747905993630-413500985036?q=80&w=1946&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="What a Part Can Do" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
 The second law of thermodynamics, in the form most people meet it, says that entropy does not decrease in an isolated system. The qualification does a lot of work, and information thermodynamics is the field that has spent the last few decades taking it seriously.
 

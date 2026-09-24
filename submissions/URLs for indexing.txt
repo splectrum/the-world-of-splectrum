@@ -1,14 +1,4 @@
 
-https://splectrum.world/positioning/subjects/m/madhyamaka/,1970-01-01
-https://splectrum.world/positioning/subjects/p/political-philosophy/authority-legitimacy-and-justice/,1970-01-01
-https://splectrum.world/positioning/subjects/p/political-philosophy/liberty-and-the-self/,1970-01-01
-https://splectrum.world/positioning/subjects/p/political-philosophy/power-critique-and-the-radical-traditions/,1970-01-01
-https://splectrum.world/positioning/subjects/s/social-construction-of-reality/,1970-01-01
-https://splectrum.world/positioning/subjects/u/uri/identity-and-significance/,1970-01-01
-https://splectrum.world/positioning/subjects/u/uri/the-syntax/,1970-01-01
-https://splectrum.world/positioning/subjects/x/xpath/addressing-and-influence/,1970-01-01
-https://splectrum.world/positioning/subjects/y/yogacara/,1970-01-01
-
 
 https://splectrum.world/engineering/infrastructure/p2p/security-model/,2026-06-01
 https://splectrum.world/engineering/infrastructure/bare-for-pear/avsc-rpc/services/,2026-06-01

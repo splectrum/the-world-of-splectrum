@@ -208,6 +208,7 @@ When reviewing existing or new posts, check:
 6. **Photo credit** — `<small>Photo: <a href="...">Name</a> / Unsplash</small>` separated by `---`
 7. **No old Blogger artefacts** — no `Blogger-ID:`, no `Labels:` line (use front matter), no bold date lines in body, no `/search/label/`, no `/p/xxx.html`
 8. **Voice** — consistent with the post's series and category
+9. **No headings** — posts are continuous prose, no `##` section headings (those belong to reference pages)
 
 ## Tweets
 
