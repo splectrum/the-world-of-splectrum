@@ -38,6 +38,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Beauvoir, Simone de (1908–1986)](b/beauvoir) · philosopher<span class="kw">existentialist ethics, the ethics of ambiguity, The Second Sex, woman as the Other, immanence and transcendence</span>
 - [Bedau, Mark (1953–)](b/bedau) · philosopher<span class="kw">weak emergence, derivable only by simulation, artificial life, open-ended evolution, protocells, living technology</span>
 - [Bell, John (1928–1990)](b/bell) · physicist<span class="kw">Bell's theorem, Bell inequalities, the impossibility of local hidden variables, the measurement problem</span>
+- [Benjamin, Walter (1892–1940)](b/benjamin) · philosopher, critic, translator<span class="kw">aura and technological reproducibility, the task of the translator, Ideas as constellations, the Arcades Project, the concept of history</span>
 - [Bennett, Charles (1943–)](b/bennett) · physicist<span class="kw">reversible computation, Maxwell's demon resolved via erasure, quantum teleportation, quantum key distribution</span>
 - [Berger, Peter L. (1929–2017)](b/berger) · sociologist<span class="kw">The Social Construction of Reality, the sociology of everyday knowledge, the sacred canopy and sociology of religion, the recanted secularisation thesis, pluralisation</span>
 - [Bergson, Henri (1859–1941)](b/bergson) · philosopher<span class="kw">duration, creative evolution, intuition, the élan vital</span>

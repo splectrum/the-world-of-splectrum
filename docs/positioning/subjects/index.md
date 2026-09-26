@@ -77,6 +77,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 
 - [Phase transitions](p/phase-transitions/) · physics<span class="kw">first-order and continuous transitions, critical points and exponents, order parameters and symmetry breaking, universality classes, the renormalisation group and irrelevant operators, the Batterman–Butterfield dispute over limits and emergence</span>
 - [Phenomenology](p/phenomenology) · philosophy<span class="kw">the study of experience from the inside: Husserl, Heidegger, Merleau-Ponty, Jonas</span>
+- [Philosophy of history](p/philosophy-of-history/) · philosophy, historiography<span class="kw">whether history has a shape and how it is known: Vico to Toynbee, Dilthey and Collingwood, Hempel against Dray, White's narrativism, Benjamin, Löwith and Popper on progress, Koselleck, Braudel, big and deep history, Boas against social evolutionism</span>
 - [Philosophy of organism](p/philosophy-of-organism) · philosophy<span class="kw">Whitehead's speculative metaphysics: actual entities, prehension, creativity, God — the cure for the bifurcation of nature</span>
 - [Philosophy of science](p/philosophy-of-science) · philosophy<span class="kw">from logical positivism through falsification, paradigms, and methodological pluralism</span>
 - [Pluralism](p/pluralism/) · philosophy<span class="kw">the many are real and none privileged — the conclusion recurring across metaphysics, knowing, language, value and power (James, Whitehead, Berlin, Goodman, Arendt); its dimensions, and the disputes it lives in: relativism, self-refutation, anything-goes, realism</span>
@@ -100,6 +101,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 ## T
 
 - [Thermodynamics](t/thermodynamics/) · physics<span class="kw">what processes can and cannot do — the four laws and the several second laws, entropy's competing readings, the reduction dispute, and the field's reach from steam engines to black holes and bits</span>
+- [Translation theory](t/translation-theory/) · translation studies, philosophy of language<span class="kw">word-for-word against sense-for-sense, Schleiermacher's two methods, pure language, equivalence, the descriptive turn, skopos, foreignisation and domestication, untranslatability, machine translation</span>
 
 ## U
 

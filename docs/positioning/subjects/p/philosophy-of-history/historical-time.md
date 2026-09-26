@@ -1,0 +1,22 @@
+---
+layout: default
+lastmod: 2026-09-26
+title: "Historical Time"
+description: "How a society orders past, present and future — Koselleck's conceptual history and layers of time, Hartog's regimes of historicity, the postcolonial question of whose time is told, and the Annales school's long duration."
+---
+
+[Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Philosophy of history](/positioning/subjects/p/philosophy-of-history/) > Historical time
+
+# Historical Time
+
+This page follows the historians' own theories of time: how the basic concepts of experience and expectation change, how a society orders its past, present and future, whose time the resulting order describes, and how many durations a single history contains.
+
+Reinhart Koselleck's conceptual history (*Begriffsgeschichte*) treated the basic concepts of political and social language as themselves historical, and the eight-volume *Geschichtliche Grundbegriffe* (1972–97, with Otto Brunner and Werner Conze) traced their transformation across the *Sattelzeit*, the threshold decades around 1750–1850 in which the vocabulary of modernity was formed. *Futures Past* (1979) supplied the theory: every historical situation is structured by a *space of experience* and a *horizon of expectation*, and modernity is the age in which the two came apart, so that the future was no longer expected to resemble the past. His later *layers of time* (*Zeitschichten*) hold that several temporal strata, from the event to the long recurrence, coexist in any present. François Hartog's *Regimes of Historicity* (2003) asked how a society orders past, present and future at all, distinguished an ancient regime in which the past provides examples, a modern regime opened by the French Revolution in which the future commands, and a late twentieth-century *presentism* in which the present turns to past and future only to serve itself.
+
+Postcolonial history asked whose time these regimes describe. The [Subaltern Studies](https://en.wikipedia.org/wiki/Subaltern_Studies) group, founded by Ranajit Guha in 1982, set out to write the history of South Asia from below, with peasants and non-elite groups as its agents rather than the colonial or nationalist elites. [Dipesh Chakrabarty](https://en.wikipedia.org/wiki/Dipesh_Chakrabarty)'s *Provincializing Europe* (2000) turned the movement's question on the discipline: European history functions as the silent referent of all historical writing, so that other societies appear as not-yet or incomplete versions of it, and the categories of modernity, capital and secular time are at once indispensable and inadequate for describing lives lived outside them.
+
+The *Annales d'histoire économique et sociale*, founded by Marc Bloch and Lucien Febvre at Strasbourg in 1929, set out to write a history of whole societies rather than of political events. Fernand Braudel's *The Mediterranean and the Mediterranean World in the Age of Philip II* (1949) built that programme into a theory of time, stated in his 1958 essay on the *longue durée*: beneath the history of events, which is the surface, lie the slower rhythms of economic and social *conjonctures*, and beneath those the almost motionless history of geography and structure, which changes over centuries. The third generation, with Emmanuel Le Roy Ladurie and Jacques Le Goff, turned to the history of *mentalités*, the shared assumptions of an age. Braudel's scheme is a philosophy of history in a historian's hands: it answers the question of what history is made of by multiplying its durations.
+
+---
+
+See also: [Philosophy of history](/positioning/subjects/p/philosophy-of-history/) (the subject landing) · [The Speculative Tradition](/positioning/subjects/p/philosophy-of-history/the-speculative-tradition/) · [The Critical Tradition](/positioning/subjects/p/philosophy-of-history/the-critical-tradition/) · [Critiques of Progress](/positioning/subjects/p/philosophy-of-history/critiques-of-progress/) · [Deep Time and Evolution](/positioning/subjects/p/philosophy-of-history/deep-time-and-evolution/) · [Hermeneutics](/positioning/subjects/h/hermeneutics/)
