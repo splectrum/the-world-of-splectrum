@@ -88,6 +88,8 @@ Recorded as open, the second reading the candidate. The choice also bears on how
 
 **Ordering:** page first, post second.
 
+**Second voice for the follow-up post — Benjamin, one paragraph (2026-09-27).** "The Task of the Translator": *Brot* and *pain* mean the same thing in different ways of meaning — the sharpest available statement of what a shared voice has to do at the moment of crossing. His account of *why* they can, a pure language all tongues intend and reach only at the messianic end of their history, is the frame declined: it wants the kinship of languages complete and guaranteed, and pays for that in theology. The plainer account gives the same kinship dated and partial — descent, contact, a shared world — and the common bread concept is exactly as wide as the cultures that share it at the time they share it. He explicitly rules out descent as the ground of kinship, and his own Trauerspiel theory of allegory (transitoriness, things end by ending) reads against the translator essay's fulfilment-ending; his language is a medium between word and meant, not a practice. Zoom-in insight, not big picture — so a paragraph inside the Putnam-scaffolded post, not a post of its own (Jules, 2026-09-27). Person page and translation-theory bundle carry the backing.
+
 ## 6. Deferred, and not needed for this
 
 **The seed side (Jules, 2026-09-18: too early, and the page can be written without going there).** A metalanguage of the common, and a shared language particular subjects built to talk across theirs, are not obviously the same layer. The coin page's perimeter material is adjacent — the seed's domain being the common, its own edge coinciding with the structure's. The shared voice is something *built* by converging; whether that is the seed's common described from the content side, or a different thing, is a further question. Aspects will end up on the seed side; the reality page does not wait for them.
@@ -95,6 +97,8 @@ Recorded as open, the second reading the candidate. The choice also bears on how
 **The coin page's envelope.** That page already holds an envelope for pluralism — the seed side holding it open, equal standing as unbacked ranking. The shared voice is a different kind: content-side, built, particular, achieved rather than structural. They are unlikely to conflict, but both are called an envelope, and the relation should be made deliberate when the seed-side work opens.
 
 **Decoherence.** The framing arrived through the decoherence rhyme — what crosses is what survives coupling with independent others. That stays a candidate mechanism held as research under belonging, with its two guards (relational/RQM reading only; is-like at full force). **The shared-voice claim does not depend on the physics and must not be made to.**
+
+**Kinship as one relation.** Out of the Benjamin discussion: the kinship of languages (shared voice, made by contact), belonging (sharing similarities for a common purpose) and evolution (kinship's history) look like one graded relation seen from three surfaces, with the same given-by-descent / made-by-living-together split that biology (Hamilton) and anthropology (Schneider, Sahlins) argue over the word itself. Bigger than this page; goes to the belonging work when it opens. Schneider/Sahlins from memory, unverified.
 
 **Aesthetics.** Expression is where shared tools are worked into what one has to say, so the mapping-to-language step is aesthetics' territory as much as epistemology's. Not developed here.
 

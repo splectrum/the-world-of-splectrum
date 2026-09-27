@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-09-16
+lastmod: 2026-09-27
 title: "Reality"
 description: "Reality disclosed from the seat of the subject — belonging, privacy, creativity as core values, and the five pillars they disclose."
 ---
@@ -34,6 +34,12 @@ The pillars of SPLectrum's metaphysics show some substantial differences with re
 - **[Aesthetics](/reality/aesthetics/)** — About the dynamics of meaning and language, the relational interplay of concepts and concept sets.
 - **[Ethics](/reality/ethics/)** — the values a language game holds: the subject's standing toward the fellow subjects and communities it shares a world with.
 - **[Politics](/reality/politics/)** — the dynamic of coexistence among diverse actors who each hold their own values, at every scale from the single subject's colliding memberships to communities in contact.
+
+## The shared voice
+
+The two realms meet in what subjects hold in common. Each has a voice of its own; the language in common is strong enough for coexistence, and that common understanding is itself a language.
+
+**[The shared voice](/reality/shared-voice/)** — common understanding as a language game in its own right: built by interaction, particular, with edges of its own; the anchor for reading across games, the place where understanding crosses without agreement, and where the judgement "this does not make sense" is made.
 
 ## Evolution
 

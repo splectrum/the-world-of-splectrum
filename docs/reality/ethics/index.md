@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-07-13
+lastmod: 2026-09-27
 title: "Ethics — the values a language game holds"
 description: "SPLectrum's ethics pillar — values read off an actor's language game as the relational face of belonging, and the same reading at the scale of the shared community game, where those values are mandatory for members because membership is constituted by holding them."
 ---
@@ -19,7 +19,7 @@ This is the outward turn of [belonging](/reality/core-values/). The subject alwa
 
 Ethics is descriptive first. Give an actor and the language game it plays, and the values can be read off: not as rules the actor ought to follow, but as the stance its game already enacts toward the other. The actor may be a single subject or a whole community — wherever there is an actor and a language game, there are values to read. Read this way, the same configuration of values stands differently depending on the frame. From the inside, within the actor's own game, the values may be wholly coherent — they are what the game is built to hold. From outside, within another's game, the very same configuration may not hold at all. Neither reading is the true one over the other's head; there is no view from nowhere here any more than anywhere else. The values are what they are *for a game*, and the frame is part of what is read.
 
-A reading is always made from somewhere — from a language context, never from nowhere — and that does not make it arbitrary, because it has a reference point. The reference is the common understanding between the reading context and the game being read: the shared base that makes the reading possible at all. It is not the reader's own game taken whole — to read another's values against the full measure of one's own is to mistake one game for the standard — and it is not a view from nowhere, because there is none. So a reading is sound where it stays anchored in what is genuinely common between the two games, and unsound where it imports the reader's non-shared content as though it were shared. The frame is part of what is read; the common frame is what the reading is judged against.
+A reading is always made from somewhere — from a language context, never from nowhere — and that does not make it arbitrary, because it has a reference point. The reference is the common understanding between the reading context and the game being read — the [shared voice](/reality/shared-voice/), the base that makes the reading possible at all. It is not the reader's own game taken whole — to read another's values against the full measure of one's own is to mistake one game for the standard — and it is not a view from nowhere, because there is none. So a reading is sound where it stays anchored in what is genuinely common between the two games, and unsound where it imports the reader's non-shared content as though it were shared. The frame is part of what is read; the common frame is what the reading is judged against.
 
 ## The same reading, at the scale of the common
 
