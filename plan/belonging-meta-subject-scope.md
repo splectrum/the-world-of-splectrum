@@ -88,6 +88,10 @@ Note what this changes about the register. A mechanism claim is a different thin
 
 **The belonging-side question the round leaves, in the field's own terms:** is belonging graded by how much is shared, by how publicly it is recognised, or by both independently? The redundancy reading grades the second. That is a question for the psychology and sociology clusters as much as for the physics.
 
+## 5d. Kinship as one relation — pointer from the shared-voice work
+
+**Kinship as one relation.** Out of the Benjamin discussion: the kinship of languages (shared voice, made by contact), belonging (sharing similarities for a common purpose) and evolution (kinship's history) look like one graded relation seen from three surfaces, with the same given-by-descent / made-by-living-together split that biology (Hamilton) and anthropology (Schneider, Sahlins) argue over the word itself. Recorded here from the shared-voice work (2026-09-27); to be weighed when the psychology/sociology clusters are researched, alongside the graded-by-how-much-is-shared question. Schneider/Sahlins from memory, unverified.
+
 ## 6. The position's own reading stays out
 
 The doorway is neutral. SPLectrum's reading of belonging — the core value, the gate-vs-graded question, what a marker costs to hold — belongs elsewhere: the **owed belonging close-affinity piece** (already deferred to in public by the Moffett person page and two posts), and whatever reality-side material the core value warrants. Those link down into the doorway; the doorway does not link up.
