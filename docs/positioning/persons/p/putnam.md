@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-09-18
+lastmod: 2026-09-27
 title: "Hilary Putnam (1926–2016)"
 description: "American philosopher — internal realism, conceptual relativity, the collapse of the fact/value dichotomy, the brain in a vat, and the trajectory from scientific realism through pragmatism."
 ---
@@ -60,6 +60,8 @@ Putnam's later work — particularly *The Collapse of the Fact/Value Dichotomy* 
 Internal realism was designed to occupy the ground between metaphysical realism and relativism. Whether the ground is stable has been the central question in Putnam's reception. Putnam himself abandoned the label "internal realism" in the 1990s, moving toward what he called "natural realism" or "pragmatic realism" — a position closer to the commonsense realism of [James](/positioning/persons/j/james/) and the direct perception of ordinary experience. **Putnam's own stated reasons for leaving it** were two. The idealised-verificationist account of truth could not handle truths that lie beyond any possible verification. And the "interface" picture of perception — sense data or representations standing between the subject and the world — made perception a veil rather than a contact, which is what natural realism was designed to remove.
 
 **The critics' diagnosis is a separate matter, and is often run together with his.** Scheme-dependence was never a defect internal realism charged metaphysical realism with — it is internal realism's own commitment; the charge there was that metaphysical realism occupied a standpoint while denying it had one. The difficulty pressed by critics, [Rorty](/positioning/persons/r/rorty/) among them, is different in kind: if truth is what would be ideally justified within a scheme, the criteria of justification — coherence, simplicity, empirical adequacy — are themselves stated within a scheme, so they go relative too, and internal realism looks like a sophisticated relativism, exactly the position Putnam set out to avoid. Putnam resisted that reading throughout, and it should not be presented as his reason for the move.
+
+**Against Rorty, the line he held throughout.** Putnam's own answer to the relativist reading was that warrant is not agreement. In *Realism with a Human Face* he argues against Rorty that whether a reform is a change for the better is logically independent of whether most people come to see it as one; otherwise "reform" names an arbitrary preference and "progress" a shift in taste. A community can converge on what is false. That constraint, together with the refusal of any God's-eye view, is what his successive realisms were each an attempt to satisfy at once, and it is why he never accepted that internal realism was a relativism.
 
 The model-theoretic argument Putnam deployed against metaphysical realism has been turned back against his own position. If reference cannot be fixed from a God's-eye view, how does internal realism fix it from inside? The answer — that reference is fixed by our practices, by the way we use words in the world — is pragmatist, and it is the direction Putnam moved. Whether pragmatic realism is a stable resting point or a further way station depends on whether "our practices" can bear the philosophical weight placed on them — a question [Rorty](/positioning/persons/r/rorty/) answered differently than Putnam did.
 
