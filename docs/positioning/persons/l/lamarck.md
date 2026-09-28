@@ -33,7 +33,7 @@ Lamarck set out the first comprehensive theory that species are not fixed but ch
 
 Much of what was later said of Lamarck came from the éloge [Georges Cuvier](https://en.wikipedia.org/wiki/Georges_Cuvier) wrote as permanent secretary of the Académie, read on 26 November 1832, after Cuvier's own death that May, and published in 1835. It praised the invertebrate work and presented the theory as a system of imagination, attributing to Lamarck the view that animals acquire organs by wanting them. Lamarck's word was *besoins*, needs arising from changed circumstances, acting on habit rather than on will, and historians since [Richard Burkhardt](https://en.wikipedia.org/wiki/Richard_W._Burkhardt)'s *The Spirit of System* (1977) and Pietro Corsi's *The Age of Lamarck* (1988) have read the theory from his texts rather than from the éloge. The version that reached English readers came first through [Lyell](/positioning/persons/l/lyell/)'s hostile summary in the second volume of the *Principles of Geology* (1832). Darwin's own early verdict, in a letter to Hooker of January 1844, rejected "Lamarck nonsense of a 'tendency to progression' 'adaptations from the slow willing of animals'"; from the third edition of the *Origin* (1861) his historical sketch credited Lamarck with "the eminent service of arousing attention to the probability of all change in the organic, as well as in the inorganic world, being the result of law, and not of miraculous interposition."
 
-The later history of the word "Lamarckian", from the neo-Lamarckians to its uses in economics, technology and epigenetics, is covered under [Evolution](/positioning/subjects/e/evolution/).
+The later history of the word "Lamarckian", from the neo-Lamarckians to its uses in economics, technology and epigenetics, is covered under [Lamarck and the inheritance of acquired characters](/positioning/subjects/e/evolution/lamarck/).
 
 ---
 
@@ -59,4 +59,4 @@ And the second law rests on an assumption he shared with nearly everyone and did
 
 ---
 
-See also: [Evolution](/positioning/subjects/e/evolution/) · [The word](/positioning/subjects/e/evolution/the-word/) · [Progress and direction](/positioning/subjects/e/evolution/progress-and-direction/) · [Darwin](/positioning/persons/d/darwin/) · [Lyell](/positioning/persons/l/lyell/) · [Spencer](/positioning/persons/s/spencer/) · [Darwinism](/positioning/subjects/d/darwinism/)
+See also: [Evolution](/positioning/subjects/e/evolution/) · [Lamarck and the inheritance of acquired characters](/positioning/subjects/e/evolution/lamarck/) · [The word](/positioning/subjects/e/evolution/the-word/) · [Progress and direction](/positioning/subjects/e/evolution/progress-and-direction/) · [Darwin](/positioning/persons/d/darwin/) · [Lyell](/positioning/persons/l/lyell/) · [Spencer](/positioning/persons/s/spencer/) · [Darwinism](/positioning/subjects/d/darwinism/)

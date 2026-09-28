@@ -15,7 +15,7 @@ Running register of every page in the Evolution keyword build, kept current as p
 | 6 | Mineral evolution (short; existing subject beneath) | `…/mineral-evolution/` | pending — existing subject at `/positioning/subjects/m/mineral-evolution/` linked from hub |
 | 7 | Social evolutionism and the stage schemes | `…/the-stage-schemes/` | pending |
 | 8 | Biology: the word | `…/biology/` | pending |
-| 9 | Lamarck and the inheritance of acquired characters | `…/lamarck/` | pending |
+| 9 | Lamarck and the inheritance of acquired characters | `…/lamarck/` | built 2026-09-29, uncommitted |
 | 10 | Language change | `…/language-change/` | pending |
 | 11 | Cultural evolution | `…/cultural-evolution/` | pending |
 | 12 | Economic and institutional change | `…/economic-change/` | pending |
@@ -38,7 +38,7 @@ Tier 1
 |---|---|---|---|
 | Peter Godfrey-Smith | 20 | `/positioning/persons/g/godfrey-smith/` | built 2026-09-29 |
 | August Schleicher | 10 | `/positioning/persons/s/schleicher/` | pending |
-| Jean-Baptiste Lamarck | 9 | `/positioning/persons/l/lamarck/` | built 2026-09-29, uncommitted (backfilled: the word, progress and direction, hub prose and persons block; its see-also and its afterlife sentence point to the hub until page 9 exists — relink then) |
+| Jean-Baptiste Lamarck | 9 | `/positioning/persons/l/lamarck/` | built 2026-09-29, committed 0adc30d; pointer and see-also relinked to page 9 |
 | Donald T. Campbell | 14, 20 | `/positioning/persons/c/campbell/` | pending (criterion page links him externally until built) |
 | Eric Chaisson | 4 | `/positioning/persons/c/chaisson/` | pending |
 | Manfred Eigen | 5 | `/positioning/persons/e/eigen/` | pending |
