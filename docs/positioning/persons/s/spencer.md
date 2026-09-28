@@ -2,7 +2,7 @@
 layout: default
 title: "Herbert Spencer (1820–1903)"
 description: "English polymath who built a synthetic philosophy around evolution as a universal principle — enormous fame in his lifetime, near-total eclipse after his death."
-lastmod: 2026-05-28
+lastmod: 2026-09-28
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Spencer
@@ -23,7 +23,7 @@ From the mid-1850s he suffered lifelong ill health — he wrote only a few hours
 
 Spencer was an evolutionist before he read [Darwin](/positioning/persons/d/darwin/). *The Development Hypothesis* appeared in 1852, seven years before *On the Origin of Species*. His evolutionism was Lamarckian as much as Darwinian, and his commitment to progressive, directional development was his own.
 
-The magnum opus, *A System of Synthetic Philosophy* (1862–96), comprised *First Principles* (1862), *Principles of Biology* (1864–67), the revised *Principles of Psychology* (1870–72), *Principles of Sociology* (1874–96), and *Principles of Ethics* (1879–93). The whole point of the system was that one principle covered all domains. In *First Principles* he defined evolution as:
+The magnum opus, *A System of Synthetic Philosophy* (1862–96), comprised *First Principles* (1862), *Principles of Biology* (1864–67), the revised *Principles of Psychology* (1870–72), *Principles of Sociology* (1874–96), and *Principles of Ethics* (1879–93). The whole point of the system was that one principle covered all domains. In *First Principles* he defined evolution — in the first edition of 1862 as "a change from an indefinite incoherent homogeneity, to a definite, coherent heterogeneity, through continuous differentiations and integrations", and in the revised editions from 1867 in the formula that became famous:
 
 *"an integration of matter and concomitant dissipation of motion; during which the matter passes from an indefinite, incoherent homogeneity to a definite, coherent heterogeneity; and during which the retained motion undergoes a parallel transformation."*
 
