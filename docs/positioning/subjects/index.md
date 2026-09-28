@@ -47,6 +47,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 - [Entropy](e/entropy/) · physics, information theory, mathematics<span class="kw">one word across thermodynamics, information theory, dynamical systems, ecology and economics — a family related by shared mathematics with two genuine outsiders, and a live argument over whether the recurrence is unity or coincidence</span>
 - [Epistemology — the naturalistic turn](e/epistemology/) · philosophy, history of ideas<span class="kw">the one move the metaphysics map has no slot for — epistemology renegotiating its border with empirical inquiry: the analysis of knowledge and its collapse after Gettier, Quine's naturalizing handover, the externalist turn hinged on reliabilism, the social turn, and Williamson's knowledge-first counter-move</span>
 - [Ethics](e/ethics/) · philosophy<span class="kw">how moral philosophy is structured — the normative theories of what to do, and beneath them the metaethical question of what a moral claim is: realism, error theory, expressivism, constructivism, relativism, and the form-of-life line that rejects the frame</span>
+- [Evolution](e/evolution/) · meta subject<span class="kw">the word across its homes — stars, minerals, chemistry, species, languages, cultures, economies, technologies, sciences, civilisations, physical states — its history, the two senses (unfolding and descent with modification), and the criterion each field uses</span>
 
 ## G
 
