@@ -1,6 +1,6 @@
 # Build proposal — Evolution as a keyword
 
-Proposal for review, 2026-09-28; revised 2026-09-29 after seven reviews; frame settled. What the doorway consists of, which pages it needs beneath it, which person pages it asks for, and in what order. Every page below is neutral reference material in outside voice; the position's own formulation of evolution stays on the reality side and is not part of this build. Nothing here is committed until reviewed.
+Proposal for review, 2026-09-28; revised 2026-09-29 after seven reviews; frame settled; all open calls closed 2026-09-29. What the doorway consists of, which pages it needs beneath it, which person pages it asks for, and in what order. Every page below is neutral reference material in outside voice; the position's own formulation of evolution stays on the reality side and is not part of this build. Nothing here is committed until reviewed.
 
 ---
 
@@ -19,7 +19,7 @@ Proposal for review, 2026-09-28; revised 2026-09-29 after seven reviews; frame s
 
 Lines migrate between the senses and between the readings, and the hub says so: linguistics began as morphology (Schleicher's Hegelian *Entwicklung*, growth to maturity to decay) and crossed to descent; chemistry hands over at autocatalysis and molecular selection; cosmic and mineral evolution pull selection back across by widening it, and Smolin's cosmological natural selection carries the whole Darwinian mechanism into cosmology without widening anything; physics' time evolution never touches descent, since Prigogine brings self-organisation rather than heredity, but the far-from-equilibrium programme meets chemical evolution at Eigen, one more crossing to show; and physics' own dispute is which shape its evolution has at root. The hub shows the migrations; it does not rule on them.
 
-**Access.** A single list to begin with, the lines in the order below, each with one line of description. Further access angles (by mechanism, by what is inherited, by scale) can be added as hub sections later. No separate index pages.
+**Access.** The hub's first screen routes readers who arrive expecting biology to line 8 and the Darwinism bundle at once, without framing that sense as the narrow one. Then a single list to begin with, the lines in the order below, each with one line of description. Further access angles (by mechanism, by what is inherited, by scale) can be added as hub sections later. No separate index pages.
 
 **Hub contents.** Intro on the word's range across its homes and on its history: senses before biology (Huxley's 1878 account of two senses, and the Bowler–Richards dispute over how they relate), biology's technical definition as one event in that history, and biologists' own dispute over its breadth (Mayr against the allele-frequency formula, Futuyma's expansive version). The reader sees the specialisation; the hub does not name it as one. Then the two senses and their readings stated in the fields' terms, two sentences for unfolding's readings by shape, one for physics' rule-given use, one for the contrary; the migrations named; the list of lines; a persons block; see-also to the Darwinism bundle, assembly theory, mineral evolution, philosophy of history, process philosophy, emergence, thermodynamics, and translation theory for the linguistics border.
 
@@ -45,7 +45,7 @@ Sixteen lines and three cross-cutting pages. Each line page: what "evolution" me
 
 **Descent with modification**
 
-8. **Biology.** The narrow technical sense: the population-genetic definition (attribution to Dobzhansky 1937 unverified; von Baer's embryology as the other root), Futuyma's expansive one, Mayr's objection to the allele-frequency formula, the modern synthesis. Short; points down to the Darwinism bundle, which is the biology backing in full.
+8. **Biology.** The word in biology, as distinct from the theory: the population-genetic definition and the argument over it, Mayr calling the allele-frequency formula "misleading", Futuyma's broader wording, Endler and Van Valen, Mayr's "evolution as such" as one of Darwin's five theories; the Dobzhansky 1937 attribution checked here; von Baer's embryology as the other root. Short, around 400 words; points down to the Darwinism bundle for the theory and across to page 18 for the history. This is the page the hub's first screen routes outside readers to, since most arrive expecting biology, without framing that sense as the narrow one.
 9. **Lamarck and the inheritance of acquired characters.** Lamarck's own theory (1809), its place in Lyell's hostile 1832 summary where the species sense of the word first appears, Darwin's own use of use-and-disuse, Weismann's barrier, the neo-Lamarckians, Lysenko as the political afterlife, and the word "Lamarckian" as it runs through the cultural, economic and technological lines (Nelson & Winter, Ziman, Mokyr) and through epigenetics (Jablonka). The line the descent-sense homes keep reaching for when their inheritance is not blind.
 10. **Language change.** Jones, Rask, Bopp, Grimm; Schleicher's tree (1853), his Hegelian lifecycle vocabulary and his open letter to Haeckel (1863); the mutual borrowing with Darwin (*Descent* vol. 1 ch. II, quoting Müller); Whitney's language-as-institution; the neogrammarians' sound laws as regularity of transmission; Schmidt's wave model; Saussure's "static/evolutionary" axes becoming synchronic/diachronic; the modern ladder: Croft's utterance selection, Pagel, phylogenetic linguistics (Gray & Atkinson, Bouckaert), Keller's invisible hand, Lass's scepticism. Faculty evolution kept separate.
 11. **Cultural evolution.** Dual inheritance (Cavalli-Sforza & Feldman, Boyd & Richerson); memetics and why it did not establish; Sperber's attractors; cultural group selection (Henrich; Turchin's *Ultrasociety*); Fracchia & Lewontin and Ingold; Godfrey-Smith's placement of culture as marginal. Draws on the cultural-extensions page and the deep-time branch; does not repeat them.
@@ -71,7 +71,7 @@ The rule (positioning doc): a page is earned on **importance**, the person's own
 
 **Already built, to be linked internally** (checked against the persons directory 2026-09-29): Darwin, Wallace, Mayr, Maynard Smith, Margulis, Vrba, Trivers, Dawkins, Gould, Kauffman, Holland, Walker, Cronin, Boyd, Richerson, Henrich; Goethe; Smolin; Prigogine; Spencer, Lewontin, Dobzhansky, von Baer, Lyell, Haldane, Eddington, T. H. Huxley, Julian Huxley; Veblen, Schumpeter, Hayek; Hull, Popper, Kuhn; Arthur, Hazen; Dennett, Sperber; Saussure; Peirce, Bergson, Whitehead; Schrödinger; Moffett, Durkheim.
 
-**Tier 1 — principals a line cannot stand without (14)**
+**Tier 1 — principals a line cannot stand without (15)**
 
 | Person | Line | Why |
 |---|---|---|
@@ -88,24 +88,23 @@ The rule (positioning doc): a page is earned on **importance**, the person's own
 | Franz Boas | 7, 11 | The break in the arrow; historical particularism |
 | Peter Turchin | 3, 7, 11 | The quantitative return and cultural multilevel selection at civilisation scale |
 | Lewis Mumford | 13 | Technics as shaped by choice; the megamachine |
-| Samuel Alexander | 17 | Emergent evolution's principal; sits beside the emergence bundle, which names him without a page |
+| Samuel Alexander | 17 | Emergent evolution's principal; the emergence bundle names him externally, so building him here serves both |
+| Conwy Lloyd Morgan | 17 | Emergent evolution with Alexander, and standing in comparative psychology independent of it (Morgan's canon); the emergence bundle names him externally; slug `morgan-cl` |
 
-**Tier 2 — argued for, decided in review (10)**
+**Tier 2 — argued for, decided in review (8)**
 
 | Person | Line | Why, and the doubt |
 |---|---|---|
 | William Croft | 10 | Utterance selection, the fullest Darwinian apparatus in linguistics; field-internal |
-| Melvin Calvin | 5 | Coined the line and imported selection into it; standing is for other work |
-| Richard Nelson & Sidney Winter | 12 | Founded the modern field; field-internal, and two people for one book |
+| Richard Nelson | 12 | Founded the modern field with Winter (1982), and has an axis beyond the book: national innovation systems, and his later scepticism of generalised Darwinism, which the line cites; Winter stays external, since the template is built for one person and two pages would each restate one book |
 | Geoffrey Hodgson | 12 | Generalised Darwinism's principal; field-internal |
 | Stephen Toulmin | 14 | Intellectual ecology; wide standing, but philosophical rather than evolutionary |
 | Joel Mokyr | 13 | The limit on the analogy from inside economic history; wide standing |
 | Joseph Tainter | 3 | The collapse line's modern statement; field-internal |
 | Norman Lockyer | 2 | Borrowed the meaning explicitly; the stellar line's only candidate with standing beyond it |
 | Robert Nisbet | 19, 3 | The standing critique of the growth metaphor |
-| Conwy Lloyd Morgan | 17 | Emergent evolution with Alexander; already named on the emergence bundle without a page; slug `morgan-cl` |
 
-**Tier 3 — named on the pages, external links only.** Haller, Bonnet, Chambers, Swammerdam; Herschel, Russell, Bethe, Baade; Shapley, Sagan, Jantsch; Oparin; Vico, Ibn Khaldun, Sorokin, Quigley, Diamond; Hutton, Burnet, Löwith, Eliade; Comte, Tylor, Childe, Steward, Sahlins, Service, Lenski, Engels; Weismann, Lysenko, Jablonka; Jones, Rask, Bopp, Grimm, Müller, Whitney, Osthoff, Brugmann, Paul, Schmidt, Labov, Keller, Lass, Mufwene, Pagel, Gray, Atkinson; Cavalli-Sforza, Feldman, Blackmore, Fracchia, Ingold; Marshall, Alchian, Dosi, Metcalfe, Witt, Knudsen, Buenstorf, Cordes; Basalla, Ziman, Ellul, Gille, Kelly, Haff; Morris; Teilhard; Bowler, Richards, Ruse;.
+**Tier 3 — named on the pages, external links only.** Haller, Bonnet, Chambers, Swammerdam; Herschel, Russell, Bethe, Baade; Shapley, Sagan, Jantsch; Oparin, Calvin; Winter; Vico, Ibn Khaldun, Sorokin, Quigley, Diamond; Hutton, Burnet, Löwith, Eliade; Comte, Tylor, Childe, Steward, Sahlins, Service, Lenski, Engels; Weismann, Lysenko, Jablonka; Jones, Rask, Bopp, Grimm, Müller, Whitney, Osthoff, Brugmann, Paul, Schmidt, Labov, Keller, Lass, Mufwene, Pagel, Gray, Atkinson; Cavalli-Sforza, Feldman, Blackmore, Fracchia, Ingold; Marshall, Alchian, Dosi, Metcalfe, Witt, Knudsen, Buenstorf, Cordes; Basalla, Ziman, Ellul, Gille, Kelly, Haff; Morris; Teilhard; Bowler, Richards, Ruse;.
 
 **Collisions.** The site's Morgan is Thomas Hunt Morgan; its Kelly is George Kelly; its Huxley is Thomas Henry with Julian at `huxley-j`; Leslie White is not Whitehead. Slugs: `morgan-lh`, `morgan-cl`, `white-l`, `alexander-s`.
 
@@ -125,11 +124,11 @@ Build order is not important (Jules). For the record, the natural sequence: cros
 - The metaphysics line is placed on neither side and says why in the philosophers' own terms.
 - No SPLectrum vocabulary. No "is-like" commentary. The doorway is reference material.
 
-## 6. Open calls for the review
+## 6. Open calls — all closed 2026-09-29
 
-- ~~Whether pages 18 and 19 are two pages or one.~~ **Closed 2026-09-29: two pages.** A dated sequence and a standing argument need different registers. Allocation across the seam: Spencer is the hinge, the 1852 fusion on 18 and the 1857 "Progress" essay opening 19; preformation lives on 18 only, 19 points back; Darwin's avoidance of the noun sits on 18, and the historians' explanation for it, being about the progress colouring, becomes 19's opening question; Richards appears on both in different roles, against Bowler on 18, and on 19 in the 2005 *NYRB* exchange with Lewontin (Richards citing "progress towards perfection", Lewontin replying that no law of progress appears in Darwin's closing list of laws), beside Gould and Ruse.
-- Whether line 8 needs a page at all, or the hub links the Darwinism bundle directly.
-- Whether Nelson & Winter, if admitted, are one page or two.
-- Whether Chaisson and Calvin both earn pages, or the arrow side is carried by one of them.
-- Whether Alexander and Lloyd Morgan are built here or when the emergence bundle is next reworked.
-- Naming: "Evolution" for the bundle, confirmed by the territory-naming test or not.
+1. **The word and progress (pages 18, 19): two pages.** A dated sequence and a standing argument need different registers. Seam allocation: Spencer is the hinge, the 1852 fusion on 18 and the 1857 "Progress" essay opening 19; preformation lives on 18 only, 19 points back; Darwin's avoidance of the noun sits on 18, and the historians' explanation for it, being about the progress colouring, becomes 19's opening question; Richards appears on both in different roles, against Bowler on 18, and on 19 in the 2005 *NYRB* exchange with Lewontin, beside Gould and Ruse.
+2. **Biology (line 8): a short page.** The Darwinism bundle is about the theory; the word's technical definition and the argument over it are not there, the hub intro cites exactly that material, and the Dobzhansky attribution needs a home where it can be checked.
+3. **Nelson and Winter: Nelson alone, tier 2.** The person template is built for one person; two pages would each restate one book. Nelson has an axis beyond 1982. Winter external.
+4. **Chaisson and Calvin: not competing.** Chaisson is line 4's principal and tier 1. Calvin sits on line 5, whose principal is Eigen; his standing rests on photosynthesis and his coinage is carried by the line page. Calvin external.
+5. **Alexander and Lloyd Morgan: build here, both tier 1.** The emergence bundle names them externally; building them now serves two bundles. Lloyd Morgan's canon gives him standing independent of emergent evolution.
+6. **Naming: "Evolution" passes.** The keyword and every home's word, on the emergence precedent of a subject hub and a reality page sharing a name. Consequence handled in Access: the hub's first screen routes readers expecting biology to line 8 and the Darwinism bundle at once.
