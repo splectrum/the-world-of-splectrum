@@ -9,7 +9,7 @@ description: "Whether evolution goes anywhere — Spencer's law of progress, Dar
 
 # Progress and Direction
 
-[Darwin](/positioning/persons/d/darwin/) did not use the noun "evolution" until 1871, twelve years after the *Origin*, whose last word is "evolved". He never said why. The historians' explanation, and it is theirs rather than his, is that the word arrived carrying a direction: preformation's unrolling of what was already there, Lamarck's ascent up a predetermined sequence, and above all [Spencer](/positioning/persons/s/spencer/)'s law, which by the 1850s had made "evolution" and "progress" one thing. Whether Darwin's theory has a direction is the question that colouring left behind, argued ever since on both sides of his own text.
+[Darwin](/positioning/persons/d/darwin/) did not use the noun "evolution" until 1871, twelve years after the *Origin*, whose last word is "evolved". He never said why. The historians' explanation, and it is theirs rather than his, is that the word arrived carrying a direction: preformation's unrolling of what was already there, [Lamarck](/positioning/persons/l/lamarck/)'s ascent up a predetermined sequence, and above all [Spencer](/positioning/persons/s/spencer/)'s law, which by the 1850s had made "evolution" and "progress" one thing. Whether Darwin's theory has a direction is the question that colouring left behind, argued ever since on both sides of his own text.
 
 ---
 

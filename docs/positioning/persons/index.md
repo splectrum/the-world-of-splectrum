@@ -198,6 +198,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## L
 
+- [Lamarck, Jean-Baptiste (1744–1829)](l/lamarck) · naturalist<span class="kw">the first comprehensive theory of the transformation of species, two forces of complexification and adaptation, use and disuse and the inheritance of acquired characters, the invertebrates, Philosophie zoologique</span>
 - [Landauer, Rolf (1927–1999)](l/landauer) · physicist<span class="kw">Landauer's principle, the thermodynamics of computation, information as physical, Maxwell's demon resolved</span>
 - [Langer, Susanne K. (1895–1985)](l/langer) · philosopher<span class="kw">discursive and presentational symbolism, art as the creation of forms symbolic of human feeling, the virtual and the primary illusion, the biology of mind</span>
 - [Langton, Christopher (1948–)](l/langton) · computer scientist<span class="kw">artificial life, edge of chaos, self-reproducing loops, the SFI artificial life workshops</span>
