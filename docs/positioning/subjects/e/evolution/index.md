@@ -25,6 +25,8 @@ Homes migrate between the senses, and the pages show the migrations as history: 
 
 <!-- The list grows as pages are built; the hub names only pages that exist. -->
 
+- **[The word](/positioning/subjects/e/evolution/the-word/)** — the history of the word: the unrolling of a scroll, the preformed germ, Lyell's hostile first use for species, Spencer's fusion of embryo and species, Darwin's avoidance of the noun, and the dispute over whether the senses were linked or broken.
+- **[Progress and direction](/positioning/subjects/e/evolution/progress-and-direction/)** — the arrow's inheritance: Spencer's law of progress, Darwin on both sides of his own text, the twentieth-century argument from Julian Huxley to Gould and Ruse, the growth metaphor, and recurrence as the pole progress is defined against.
 - **[The criterion](/positioning/subjects/e/evolution/the-criterion/)** — biology's instrument for grading the descent sense: Lewontin's three conditions, universal and generalised Darwinism, Godfrey-Smith's space of paradigm and marginal Darwinian populations, and what the instrument does not measure.
 - **[Mineral evolution](/positioning/subjects/m/mineral-evolution/)** — the word applied by geologists to a non-living, non-reproducing domain: Earth's mineral diversity as a coupled physical, chemical and biological history, with the authors' own disclaimer of Darwinian mechanism.
 - **[Assembly theory](/positioning/subjects/a/assembly-theory/)** — construction history and selection claimed for objects without the population-genetic apparatus, from molecules to the technosphere.

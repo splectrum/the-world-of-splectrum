@@ -24,8 +24,8 @@ Running register of every page in the Evolution keyword build, kept current as p
 | 15 | Evolutionary computation | `…/evolutionary-computation/` | pending |
 | 16 | Assembly theory and the technosphere (short; existing subject beneath) | `…/assembly-theory/` | pending — existing subject at `/positioning/subjects/a/assembly-theory/` linked from hub |
 | 17 | Evolution in metaphysics | `…/metaphysics/` | pending |
-| 18 | The word | `…/the-word/` | pending |
-| 19 | Progress and direction | `…/progress-and-direction/` | pending |
+| 18 | The word | `…/the-word/` | built 2026-09-29 |
+| 19 | Progress and direction | `…/progress-and-direction/` | built 2026-09-29 |
 | 20 | The criterion | `…/the-criterion/` | built 2026-09-29 |
 
 Slugs for pending pages are provisional.
