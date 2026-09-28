@@ -15,7 +15,7 @@ Running register of every page in the Evolution keyword build, kept current as p
 | 6 | Mineral evolution (short; existing subject beneath) | `…/mineral-evolution/` | pending — existing subject at `/positioning/subjects/m/mineral-evolution/` linked from hub |
 | 7 | Social evolutionism and the stage schemes | `…/the-stage-schemes/` | pending |
 | 8 | Biology: the word | `…/biology/` | pending |
-| 9 | Lamarck and the inheritance of acquired characters | `…/lamarck/` | built 2026-09-29, uncommitted |
+| 9 | Lamarck and the inheritance of acquired characters | `…/lamarck/` | built 2026-09-29 |
 | 10 | Language change | `…/language-change/` | pending |
 | 11 | Cultural evolution | `…/cultural-evolution/` | pending |
 | 12 | Economic and institutional change | `…/economic-change/` | pending |
