@@ -48,7 +48,7 @@ Tier 1
 | Leslie White | 7 | `/positioning/persons/w/white-l/` | pending |
 | Franz Boas | 7, 11 | `/positioning/persons/b/boas/` | pending |
 | Peter Turchin | 3, 7, 11 | `/positioning/persons/t/turchin/` | pending |
-| Lewis Mumford | 13 | `/positioning/persons/m/mumford/` | pending |
+| Lewis Mumford | 13 | `/positioning/persons/m/mumford/` | built 2026-09-29 |
 | Samuel Alexander | 17 | `/positioning/persons/a/alexander-s/` | pending (emergence bundle links him externally; backfill) |
 | Conwy Lloyd Morgan | 17 | `/positioning/persons/m/morgan-cl/` | pending (emergence bundle links him externally; backfill) |
 
@@ -60,7 +60,7 @@ Tier 2 — decided when the line comes up
 | Richard Nelson | 12 | decided yes 2026-09-29; built `/positioning/persons/n/nelson/` |
 | Geoffrey Hodgson | 12 | decided external 2026-09-29 |
 | Stephen Toulmin | 14 | undecided |
-| Joel Mokyr | 13 | undecided |
+| Joel Mokyr | 13 | decided yes 2026-09-29 (2025 Nobel shifted standing); built `/positioning/persons/m/mokyr/` |
 | Joseph Tainter | 3 | undecided |
 | Norman Lockyer | 2 | undecided |
 | Robert Nisbet | 19, 3 | undecided |
@@ -75,6 +75,7 @@ Tier 2 — decided when the line comes up
 | Emergence bundle (the-types, the-principals) | relink Alexander and Lloyd Morgan internally | pending (with page 17) |
 | Lewontin | link to the criterion page | pending |
 | Schleicher | see-also to Language change | done with page 10 |
+| Mumford | see-also to Technology | pending (with page 13) |
 
 ## Index entries
 
@@ -86,6 +87,8 @@ Tier 2 — decided when the line comes up
 | Persons A–Z | Schleicher | built 2026-09-29 |
 | Persons A–Z | Campbell | built 2026-09-29 |
 | Persons A–Z | Nelson | built 2026-09-29 |
+| Persons A–Z | Mumford | built 2026-09-29 |
+| Persons A–Z | Mokyr | built 2026-09-29 |
 
 ## Closing steps (when all pages exist)
 

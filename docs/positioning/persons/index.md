@@ -241,7 +241,9 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Merleau-Ponty, Maurice (1908–1961)](m/merleau-ponty) · philosopher<span class="kw">phenomenology of the body, perception, the habitual body, intercorporeality</span>
 - [Mitchell, Melanie (1969–)](m/mitchell) · computer scientist, complexity researcher<span class="kw">genetic algorithms, analogy-making, the CAS synthesis, complexity's limits and achievements</span>
 - [Moffett, Mark W. (1958–)](m/moffett) · biologist<span class="kw">anonymous societies, identity markers, the ant-human structural comparison, fission-fusion, canopy ecology, definitions as marks not explanations</span>
+- [Mokyr, Joel (1946–)](m/mokyr) · economic historian<span class="kw">The Lever of Riches, macroinventions and microinventions, useful knowledge, the Industrial Enlightenment, A Culture of Growth, technology as an evolutionary process, 2025 Nobel prize</span>
 - [Morgan, Thomas Hunt (1866–1945)](m/morgan) · geneticist<span class="kw">the chromosome theory of heredity, Drosophila genetics, sex-linked inheritance, chromosome mapping, the fly room</span>
+- [Mumford, Lewis (1895–1990)](m/mumford) · historian of technology and cities<span class="kw">Technics and Civilization, the clock as key-machine, eotechnic/paleotechnic/neotechnic, The City in History, authoritarian and democratic technics, the megamachine</span>
 - [Murdoch, Iris (1919–1999)](m/murdoch) · philosopher, novelist<span class="kw">attention, unselfing, the sovereignty of Good, moral perception, art and morality</span>
 
 ## N
