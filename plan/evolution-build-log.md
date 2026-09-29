@@ -21,7 +21,7 @@ Running register of every page in the Evolution keyword build, kept current as p
 | 12 | Economic and institutional change | `…/economic-change/` | built 2026-09-29 |
 | 13 | Technology | `…/technology/` | built 2026-09-29 |
 | 14 | Science and knowledge | `…/science-and-knowledge/` | built 2026-09-29 |
-| 15 | Evolutionary computation | `…/evolutionary-computation/` | pending |
+| 15 | Evolutionary computation | `…/evolutionary-computation/` | built 2026-09-29 |
 | 16 | Assembly theory and the technosphere (short; existing subject beneath) | `…/assembly-theory/` | pending — existing subject at `/positioning/subjects/a/assembly-theory/` linked from hub |
 | 17 | Evolution in metaphysics | `…/metaphysics/` | pending |
 | 18 | The word | `…/the-word/` | built 2026-09-29 |
