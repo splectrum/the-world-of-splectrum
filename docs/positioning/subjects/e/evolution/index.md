@@ -30,6 +30,7 @@ Homes migrate between the senses, and the pages show the migrations as history: 
 - **[The criterion](/positioning/subjects/e/evolution/the-criterion/)** — biology's instrument for grading the descent sense: Lewontin's three conditions, universal and generalised Darwinism, Godfrey-Smith's space of paradigm and marginal Darwinian populations, and what the instrument does not measure.
 - **[Mineral evolution](/positioning/subjects/m/mineral-evolution/)** — the word applied by geologists to a non-living, non-reproducing domain: Earth's mineral diversity as a coupled physical, chemical and biological history, with the authors' own disclaimer of Darwinian mechanism.
 - **[Lamarck and the inheritance of acquired characters](/positioning/subjects/e/evolution/lamarck/)** — the idea behind the word "Lamarckian": Lamarck's theory, Darwin's use and disuse and pangenesis, Weismann's barrier and the neo-Lamarckians, the Baldwin effect, Kammerer and Lysenko, epigenetics, and the word's uses in culture, economics and technology.
+- **[Language change](/positioning/subjects/e/evolution/language-change/)** — the comparative method and the family tree before Darwin, the exchange with Darwin, Whitney's institutions, sound laws and waves, Saussure's static and evolutionary axes, and the modern field's answers from utterance selection to the invisible hand.
 - **[Assembly theory](/positioning/subjects/a/assembly-theory/)** — construction history and selection claimed for objects without the population-genetic apparatus, from molecules to the technosphere.
 
 ---

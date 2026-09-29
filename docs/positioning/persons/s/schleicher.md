@@ -51,4 +51,4 @@ The organism is where his critics pressed hardest. The American linguist [Willia
 
 ---
 
-See also: [Evolution](/positioning/subjects/e/evolution/) · [Darwin](/positioning/persons/d/darwin/) · [Hegel](/positioning/persons/h/hegel/) · [Saussure](/positioning/persons/s/saussure/)
+See also: [Evolution](/positioning/subjects/e/evolution/) · [Language change](/positioning/subjects/e/evolution/language-change/) · [Darwin](/positioning/persons/d/darwin/) · [Hegel](/positioning/persons/h/hegel/) · [Saussure](/positioning/persons/s/saussure/)

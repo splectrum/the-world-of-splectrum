@@ -16,7 +16,7 @@ Running register of every page in the Evolution keyword build, kept current as p
 | 7 | Social evolutionism and the stage schemes | `…/the-stage-schemes/` | pending |
 | 8 | Biology: the word | `…/biology/` | pending |
 | 9 | Lamarck and the inheritance of acquired characters | `…/lamarck/` | built 2026-09-29 |
-| 10 | Language change | `…/language-change/` | pending |
+| 10 | Language change | `…/language-change/` | built 2026-09-29 |
 | 11 | Cultural evolution | `…/cultural-evolution/` | pending |
 | 12 | Economic and institutional change | `…/economic-change/` | pending |
 | 13 | Technology | `…/technology/` | pending |
@@ -74,7 +74,7 @@ Tier 2 — decided when the line comes up
 | Arthur | his own "not Darwinian" statement missing | pending (with page 13) |
 | Emergence bundle (the-types, the-principals) | relink Alexander and Lloyd Morgan internally | pending (with page 17) |
 | Lewontin | link to the criterion page | pending |
-| Schleicher | see-also to Language change | pending (with page 10) |
+| Schleicher | see-also to Language change | done with page 10 |
 
 ## Index entries
 
