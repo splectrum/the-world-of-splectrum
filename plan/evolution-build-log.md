@@ -20,7 +20,7 @@ Running register of every page in the Evolution keyword build, kept current as p
 | 11 | Cultural evolution | `…/cultural-evolution/` | pending |
 | 12 | Economic and institutional change | `…/economic-change/` | pending |
 | 13 | Technology | `…/technology/` | pending |
-| 14 | Science and knowledge | `…/science-and-knowledge/` | pending |
+| 14 | Science and knowledge | `…/science-and-knowledge/` | built 2026-09-29 |
 | 15 | Evolutionary computation | `…/evolutionary-computation/` | pending |
 | 16 | Assembly theory and the technosphere (short; existing subject beneath) | `…/assembly-theory/` | pending — existing subject at `/positioning/subjects/a/assembly-theory/` linked from hub |
 | 17 | Evolution in metaphysics | `…/metaphysics/` | pending |
@@ -70,7 +70,7 @@ Tier 2 — decided when the line comes up
 | Page | Correction | Status |
 |---|---|---|
 | Spencer | *First Principles* formula dated to 1867 editions, 1862 wording added | done, committed 05351a4 |
-| Popper | evolutionary-epistemology strand missing | pending (with page 14) |
+| Popper | evolutionary-epistemology strand missing | done with page 14 (key concept, key works, see-also) |
 | Arthur | his own "not Darwinian" statement missing | pending (with page 13) |
 | Emergence bundle (the-types, the-principals) | relink Alexander and Lloyd Morgan internally | pending (with page 17) |
 | Lewontin | link to the criterion page | pending |

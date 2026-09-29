@@ -53,4 +53,4 @@ The hierarchy also joins what later philosophers of the field separated. Michael
 
 ---
 
-See also: [Evolution](/positioning/subjects/e/evolution/) · [The criterion](/positioning/subjects/e/evolution/the-criterion/) · [Popper](/positioning/persons/p/popper/) · [Hull](/positioning/persons/h/hull/) · [Lewontin](/positioning/persons/l/lewontin/) · [Emergence: the types](/positioning/subjects/e/emergence/the-types/)
+See also: [Evolution](/positioning/subjects/e/evolution/) · [Science and knowledge](/positioning/subjects/e/evolution/science-and-knowledge/) · [The criterion](/positioning/subjects/e/evolution/the-criterion/) · [Popper](/positioning/persons/p/popper/) · [Hull](/positioning/persons/h/hull/) · [Lewontin](/positioning/persons/l/lewontin/) · [Emergence: the types](/positioning/subjects/e/emergence/the-types/)

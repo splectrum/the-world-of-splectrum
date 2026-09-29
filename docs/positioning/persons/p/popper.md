@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-09-29
 title: "Karl Popper (1902–1994)"
 description: "Popper replaced verification with falsification — science advances by eliminating errors, not accumulating truths. The open society as political falsificationism."
 ---
@@ -27,6 +27,8 @@ Popper made fallibilism central to the [philosophy of science](/positioning/subj
 
 **Verisimilitude.** Popper's attempt to capture the intuition that science gets closer to truth without ever arriving. A theory has greater verisimilitude than another if it has more truth-content and less falsity-content. The concept proved technically problematic but the intuition remains: not truth but increasing approximation.
 
+**Evolutionary epistemology.** From *Objective Knowledge* (1972) onward Popper described the growth of knowledge as "a process closely resembling what Darwin called 'natural selection'; that is, the natural selection of hypotheses". Conjectures are the variants and criticism the selection, and the pattern is the same "from the amoeba to Einstein", except that the scientist can discard a mistaken theory and survive it: "Let our conjectures, our theories, die in our stead!" (1978). [Donald T. Campbell](/positioning/persons/c/campbell/)'s essay in the Library of Living Philosophers volume on Popper (1974) named the programme evolutionary epistemology and placed Popper's method at the top of a hierarchy of selection processes. Popper's view of Darwinism itself changed: *Unended Quest* (1976) called it not a testable theory but a metaphysical research programme, and in "Natural Selection and the Emergence of Mind" (1978) he withdrew the judgement: "I have changed my mind about the testability and the logical status of the theory of natural selection; and I am glad to have an opportunity to make a recantation."
+
 ---
 
 ## Where Popper stops
@@ -41,8 +43,10 @@ Popper's fallibilism is powerful — but it assumes a single game. Falsification
 - [*The Open Society and Its Enemies*](https://en.wikipedia.org/wiki/The_Open_Society_and_Its_Enemies) (1945) — against historicism and utopian politics
 - [*The Poverty of Historicism*](https://en.wikipedia.org/wiki/The_Poverty_of_Historicism) (1957) — against the idea that history has discoverable laws
 - [*Conjectures and Refutations*](https://en.wikipedia.org/wiki/Conjectures_and_Refutations) (1963) — the growth of knowledge through error-elimination
-- [*Objective Knowledge*](https://en.wikipedia.org/wiki/Objective_Knowledge) (1972) — epistemology without a knowing subject, World 3
+- [*Objective Knowledge*](https://en.wikipedia.org/wiki/Objective_Knowledge) (1972) — epistemology without a knowing subject, World 3, the natural selection of hypotheses
+- [*Unended Quest*](https://en.wikipedia.org/wiki/Unended_Quest) (1976) — intellectual autobiography; Darwinism as a metaphysical research programme
+- "Natural Selection and the Emergence of Mind", *Dialectica* 32 (1978) — the recantation on natural selection's testability
 
 ---
 
-See also: [Philosophy of science](/positioning/subjects/p/philosophy-of-science/) · [Kuhn](/positioning/persons/k/kuhn/) · [Feyerabend](/positioning/persons/f/feyerabend/)
+See also: [Philosophy of science](/positioning/subjects/p/philosophy-of-science/) · [Science and knowledge](/positioning/subjects/e/evolution/science-and-knowledge/) · [Kuhn](/positioning/persons/k/kuhn/) · [Feyerabend](/positioning/persons/f/feyerabend/) · [Campbell](/positioning/persons/c/campbell/)
