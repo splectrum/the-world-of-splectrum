@@ -51,4 +51,4 @@ From 1934 Mumford held that technics are shaped by human purposes and could be r
 
 ---
 
-See also: [Evolution](/positioning/subjects/e/evolution/) · [Arthur](/positioning/persons/a/arthur/)
+See also: [Evolution](/positioning/subjects/e/evolution/) · [Technology](/positioning/subjects/e/evolution/technology/) · [Arthur](/positioning/persons/a/arthur/)

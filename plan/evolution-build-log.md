@@ -19,7 +19,7 @@ Running register of every page in the Evolution keyword build, kept current as p
 | 10 | Language change | `…/language-change/` | built 2026-09-29 |
 | 11 | Cultural evolution | `…/cultural-evolution/` | built 2026-09-29 (Turchin linked externally until his page exists) |
 | 12 | Economic and institutional change | `…/economic-change/` | built 2026-09-29 |
-| 13 | Technology | `…/technology/` | pending |
+| 13 | Technology | `…/technology/` | built 2026-09-29 |
 | 14 | Science and knowledge | `…/science-and-knowledge/` | built 2026-09-29 |
 | 15 | Evolutionary computation | `…/evolutionary-computation/` | pending |
 | 16 | Assembly theory and the technosphere (short; existing subject beneath) | `…/assembly-theory/` | pending — existing subject at `/positioning/subjects/a/assembly-theory/` linked from hub |
@@ -71,11 +71,11 @@ Tier 2 — decided when the line comes up
 |---|---|---|
 | Spencer | *First Principles* formula dated to 1867 editions, 1862 wording added | done, committed 05351a4 |
 | Popper | evolutionary-epistemology strand missing | done with page 14 (key concept, key works, see-also) |
-| Arthur | his own "not Darwinian" statement missing | pending (with page 13) |
+| Arthur | his own "not Darwinian" statement missing | done with page 13 |
 | Emergence bundle (the-types, the-principals) | relink Alexander and Lloyd Morgan internally | pending (with page 17) |
 | Lewontin | link to the criterion page | pending |
 | Schleicher | see-also to Language change | done with page 10 |
-| Mumford | see-also to Technology | pending (with page 13) |
+| Mumford | see-also to Technology | done with page 13 |
 
 ## Index entries
 

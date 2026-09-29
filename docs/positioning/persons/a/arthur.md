@@ -2,7 +2,7 @@
 layout: default
 title: "W. Brian Arthur (1945–)"
 description: "Irish-American economist — increasing returns, path dependence, complexity economics, and the Santa Fe Institute programme that challenged equilibrium assumptions."
-lastmod: 2026-05-25
+lastmod: 2026-09-29
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Arthur
@@ -33,7 +33,7 @@ The broader claim: the economy is not in equilibrium and does not tend toward it
 
 ## Technological evolution
 
-Arthur extended the increasing-returns framework into a general account of technological evolution. *The Nature of Technology: What It Is and How It Evolves* (Free Press, 2009) argues that technologies are built from combinations of existing technologies — that innovation is combinatorial, not inventive from scratch. New technologies open new possibilities (echoing [Kauffman](/positioning/persons/k/kauffman/)'s adjacent possible), and the expanding space of possibilities drives further innovation. The economy, on this view, is an expression of its technological substrate — and that substrate evolves by recombination.
+Arthur extended the increasing-returns framework into a general account of technological evolution. *The Nature of Technology: What It Is and How It Evolves* (Free Press, 2009) argues that technologies are built from combinations of existing technologies — that innovation is combinatorial, not inventive from scratch. New technologies open new possibilities (echoing [Kauffman](/positioning/persons/k/kauffman/)'s adjacent possible), and the expanding space of possibilities drives further innovation. The economy, on this view, is an expression of its technological substrate — and that substrate evolves by recombination. Arthur is explicit that this is not Darwin's mechanism: "the base mechanism is not Darwinian. Radically novel technologies do not come into existence by the cumulation of small changes in earlier technologies. They spring from combining or integrating earlier technologies", which he calls combinatorial evolution.
 
 ## Complexity and the Economy
 
@@ -54,4 +54,4 @@ Arthur's programme gives economics a process account — how markets, technologi
 
 ---
 
-See also: [Holland](/positioning/persons/h/holland/) · [Kauffman](/positioning/persons/k/kauffman/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/)
+See also: [Holland](/positioning/persons/h/holland/) · [Kauffman](/positioning/persons/k/kauffman/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) · [Technology](/positioning/subjects/e/evolution/technology/)

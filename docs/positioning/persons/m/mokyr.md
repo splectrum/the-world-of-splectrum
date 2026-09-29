@@ -47,4 +47,4 @@ The explanation he gives for the Industrial Revolution has been pressed from two
 
 ---
 
-See also: [Evolution](/positioning/subjects/e/evolution/) · [Schumpeter](/positioning/persons/s/schumpeter/) · [Nelson](/positioning/persons/n/nelson/) · [Arthur](/positioning/persons/a/arthur/)
+See also: [Evolution](/positioning/subjects/e/evolution/) · [Technology](/positioning/subjects/e/evolution/technology/) · [Schumpeter](/positioning/persons/s/schumpeter/) · [Nelson](/positioning/persons/n/nelson/) · [Arthur](/positioning/persons/a/arthur/)
