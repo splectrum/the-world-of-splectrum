@@ -57,8 +57,8 @@ Tier 2 — decided when the line comes up
 | Person | Line | Status |
 |---|---|---|
 | William Croft | 10 | undecided |
-| Richard Nelson | 12 | undecided |
-| Geoffrey Hodgson | 12 | undecided |
+| Richard Nelson | 12 | decided yes 2026-09-29; built `/positioning/persons/n/nelson/` |
+| Geoffrey Hodgson | 12 | decided external 2026-09-29 |
 | Stephen Toulmin | 14 | undecided |
 | Joel Mokyr | 13 | undecided |
 | Joseph Tainter | 3 | undecided |
@@ -85,6 +85,7 @@ Tier 2 — decided when the line comes up
 | Persons A–Z | Lamarck | built 2026-09-29 |
 | Persons A–Z | Schleicher | built 2026-09-29 |
 | Persons A–Z | Campbell | built 2026-09-29 |
+| Persons A–Z | Nelson | built 2026-09-29 |
 
 ## Closing steps (when all pages exist)
 

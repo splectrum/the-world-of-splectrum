@@ -247,9 +247,9 @@ Individual thinkers referenced across the positioning section. Each page present
 ## N
 
 - [Nāgārjuna (c. 150–c. 250 CE)](n/nagarjuna) · Buddhist philosopher<span class="kw">śūnyatā (emptiness), dependent origination, the Mūlamadhyamakakārikā, Madhyamaka</span>
-- [Nishida, Kitarō (1870–1945)](n/nishida) · philosopher<span class="kw">pure experience, the logic of place (basho), absolute nothingness, action-intuition, the Kyoto School, Zen and Western philosophy</span>
 - [Nagel, Thomas (1937–)](n/nagel) · philosopher<span class="kw">subjectivity, the view from nowhere, against reductionism</span>
 - [Narkhede, Neha](n/narkhede) · software engineer<span class="kw">co-creator of Apache Kafka, co-founder and former CTO of Confluent, data infrastructure at LinkedIn</span>
+- [Nelson, Richard R. (1930–2025)](n/nelson) · economist<span class="kw">An Evolutionary Theory of Economic Change, routines, search and selection, the economics of basic research, national innovation systems, physical and social technologies</span>
 - [Nietzsche, Friedrich (1844–1900)](n/nietzsche) · philosopher<span class="kw">the death of God, the will to power, eternal recurrence, perspectivism, inverted Platonism, the revaluation of all values</span>
 - [Nishida, Kitarō (1870–1945)](n/nishida) · philosopher<span class="kw">pure experience, the logic of basho, absolute nothingness, action-intuition, the Kyoto School</span>
 - [Nussbaum, Martha (1947–)](n/nussbaum) · philosopher<span class="kw">the capabilities approach, central human capabilities, emotions as judgments, the fragility of goodness, human development</span>
@@ -300,10 +300,10 @@ Individual thinkers referenced across the positioning section. Each page present
 ## S
 
 - [Sandel, Michael (1953–)](s/sandel) · political philosopher<span class="kw">the encumbered self, the critique of liberal neutrality, civic republicanism, the moral limits of markets</span>
+- [Śaṅkara (c. 700–750 CE)](s/sankara) · philosopher<span class="kw">Advaita Vedānta, non-duality, Brahman, māyā, the critique of Buddhist emptiness</span>
 - [Sapolsky, Robert (1957–)](s/sapolsky/) · neuroscientist<span class="kw">human behavioural biology, integrative across layers</span>
 - [Sartre, Jean-Paul (1905–1980)](s/sartre) · philosopher<span class="kw">existentialism, radical freedom, consciousness as nothingness, engagement</span>
 - [Saussure, Ferdinand de (1857–1913)](s/saussure) · linguist<span class="kw">structural linguistics, the differential sign, langue and parole</span>
-- [Śaṅkara (c. 700–750 CE)](s/sankara) · philosopher<span class="kw">Advaita Vedānta, non-duality, Brahman, māyā, the critique of Buddhist emptiness</span>
 - [Schelling, Thomas (1921–2016)](s/schelling) · economist, game theorist<span class="kw">focal points, the segregation model, micromotives and macrobehavior</span>
 - [Schiller, Friedrich (1759–1805)](s/schiller) · poet, dramatist, philosopher<span class="kw">aesthetic education, the play drive, beauty as freedom in appearance, grace and dignity, naive and sentimental</span>
 - [Schleicher, August (1821–1868)](s/schleicher) · linguist<span class="kw">the first language family tree, reconstruction of Proto-Indo-European, languages as natural organisms, growth and decay, the open letter to Haeckel on Darwin and linguistics</span>
