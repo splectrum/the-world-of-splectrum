@@ -59,6 +59,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## C
 
+- [Campbell, Donald T. (1916–1996)](c/campbell) · social psychologist, methodologist<span class="kw">blind variation and selective retention, evolutionary epistemology, vicarious selectors, downward causation, quasi-experimental design, the multitrait-multimethod matrix, Campbell's law</span>
 - [Candrakīrti (c. 600–c. 650 CE)](c/candrakirti) · Buddhist philosopher<span class="kw">Prāsaṅgika Madhyamaka, the Prasannapadā, the Madhyamakāvatāra, reductio over independent argument</span>
 - [Carnap, Rudolf (1891–1970)](c/carnap) · philosopher<span class="kw">logical empiricism, the Aufbau, verificationism, the tolerance principle, probability and induction</span>
 - [Carroll, Sean (1966–)](c/carroll) · theoretical physicist<span class="kw">the arrow of time, the Past Hypothesis, many-worlds interpretation, the cosmological multiverse</span>

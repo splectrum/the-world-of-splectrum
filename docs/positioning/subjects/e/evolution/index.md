@@ -37,6 +37,6 @@ Homes migrate between the senses, and the pages show the migrations as history: 
 
 ## Persons
 
-[Huxley](/positioning/persons/h/huxley/) · [Mayr](/positioning/persons/m/mayr/) · [Lewontin](/positioning/persons/l/lewontin/) · [Godfrey-Smith](/positioning/persons/g/godfrey-smith/) · [Spencer](/positioning/persons/s/spencer/) · [Lamarck](/positioning/persons/l/lamarck/) · [Schleicher](/positioning/persons/s/schleicher/) · [Lyell](/positioning/persons/l/lyell/) · [Goethe](/positioning/persons/g/goethe/) · [Hazen](/positioning/persons/h/hazen/)
+[Huxley](/positioning/persons/h/huxley/) · [Mayr](/positioning/persons/m/mayr/) · [Lewontin](/positioning/persons/l/lewontin/) · [Godfrey-Smith](/positioning/persons/g/godfrey-smith/) · [Campbell](/positioning/persons/c/campbell/) · [Spencer](/positioning/persons/s/spencer/) · [Lamarck](/positioning/persons/l/lamarck/) · [Schleicher](/positioning/persons/s/schleicher/) · [Lyell](/positioning/persons/l/lyell/) · [Goethe](/positioning/persons/g/goethe/) · [Hazen](/positioning/persons/h/hazen/)
 
 See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Philosophy of history](/positioning/subjects/p/philosophy-of-history/) · [Process philosophy](/positioning/subjects/p/process-philosophy/) · [Emergence](/positioning/subjects/e/emergence/) · [Thermodynamics](/positioning/subjects/t/thermodynamics/)

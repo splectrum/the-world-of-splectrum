@@ -39,7 +39,7 @@ Tier 1
 | Peter Godfrey-Smith | 20 | `/positioning/persons/g/godfrey-smith/` | built 2026-09-29 |
 | August Schleicher | 10 | `/positioning/persons/s/schleicher/` | built 2026-09-29 |
 | Jean-Baptiste Lamarck | 9 | `/positioning/persons/l/lamarck/` | built 2026-09-29, committed 0adc30d; pointer and see-also relinked to page 9 |
-| Donald T. Campbell | 14, 20 | `/positioning/persons/c/campbell/` | pending (criterion page links him externally until built) |
+| Donald T. Campbell | 14, 20 | `/positioning/persons/c/campbell/` | built 2026-09-29 (criterion page relinked internally) |
 | Eric Chaisson | 4 | `/positioning/persons/c/chaisson/` | pending |
 | Manfred Eigen | 5 | `/positioning/persons/e/eigen/` | pending |
 | Oswald Spengler | 3 | `/positioning/persons/s/spengler/` | pending |
@@ -84,6 +84,7 @@ Tier 2 — decided when the line comes up
 | Persons A–Z | Godfrey-Smith | built 2026-09-29 |
 | Persons A–Z | Lamarck | built 2026-09-29 |
 | Persons A–Z | Schleicher | built 2026-09-29 |
+| Persons A–Z | Campbell | built 2026-09-29 |
 
 ## Closing steps (when all pages exist)
 
