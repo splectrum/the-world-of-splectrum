@@ -37,7 +37,7 @@ Tier 1
 | Person | Line | Path | Status |
 |---|---|---|---|
 | Peter Godfrey-Smith | 20 | `/positioning/persons/g/godfrey-smith/` | built 2026-09-29 |
-| August Schleicher | 10 | `/positioning/persons/s/schleicher/` | pending |
+| August Schleicher | 10 | `/positioning/persons/s/schleicher/` | built 2026-09-29 |
 | Jean-Baptiste Lamarck | 9 | `/positioning/persons/l/lamarck/` | built 2026-09-29, committed 0adc30d; pointer and see-also relinked to page 9 |
 | Donald T. Campbell | 14, 20 | `/positioning/persons/c/campbell/` | pending (criterion page links him externally until built) |
 | Eric Chaisson | 4 | `/positioning/persons/c/chaisson/` | pending |
@@ -74,6 +74,7 @@ Tier 2 — decided when the line comes up
 | Arthur | his own "not Darwinian" statement missing | pending (with page 13) |
 | Emergence bundle (the-types, the-principals) | relink Alexander and Lloyd Morgan internally | pending (with page 17) |
 | Lewontin | link to the criterion page | pending |
+| Schleicher | see-also to Language change | pending (with page 10) |
 
 ## Index entries
 
@@ -82,6 +83,7 @@ Tier 2 — decided when the line comes up
 | Subjects A–Z | Evolution (hub) | built 2026-09-29 |
 | Persons A–Z | Godfrey-Smith | built 2026-09-29 |
 | Persons A–Z | Lamarck | built 2026-09-29 |
+| Persons A–Z | Schleicher | built 2026-09-29 |
 
 ## Closing steps (when all pages exist)
 

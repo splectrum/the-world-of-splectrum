@@ -305,6 +305,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Śaṅkara (c. 700–750 CE)](s/sankara) · philosopher<span class="kw">Advaita Vedānta, non-duality, Brahman, māyā, the critique of Buddhist emptiness</span>
 - [Schelling, Thomas (1921–2016)](s/schelling) · economist, game theorist<span class="kw">focal points, the segregation model, micromotives and macrobehavior</span>
 - [Schiller, Friedrich (1759–1805)](s/schiller) · poet, dramatist, philosopher<span class="kw">aesthetic education, the play drive, beauty as freedom in appearance, grace and dignity, naive and sentimental</span>
+- [Schleicher, August (1821–1868)](s/schleicher) · linguist<span class="kw">the first language family tree, reconstruction of Proto-Indo-European, languages as natural organisms, growth and decay, the open letter to Haeckel on Darwin and linguistics</span>
 - [Schleiermacher, Friedrich (1768–1834)](s/schleiermacher) · theologian, philosopher<span class="kw">general hermeneutics, grammatical and psychological interpretation, the hermeneutic circle, the feeling of absolute dependence, On Religion</span>
 - [Schopenhauer, Arthur (1788–1860)](s/schopenhauer) · philosopher<span class="kw">the world as will and representation, aesthetic contemplation, the Ideas, music, compassion, pessimism</span>
 - [Schrödinger, Erwin (1887–1961)](s/schrodinger) · physicist<span class="kw">wave mechanics, the Schrödinger equation, What is Life?, negative entropy, the cat</span>
