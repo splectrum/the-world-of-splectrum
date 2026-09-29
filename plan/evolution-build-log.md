@@ -18,7 +18,7 @@ Running register of every page in the Evolution keyword build, kept current as p
 | 9 | Lamarck and the inheritance of acquired characters | `…/lamarck/` | built 2026-09-29 |
 | 10 | Language change | `…/language-change/` | built 2026-09-29 |
 | 11 | Cultural evolution | `…/cultural-evolution/` | built 2026-09-29 (Turchin linked externally until his page exists) |
-| 12 | Economic and institutional change | `…/economic-change/` | pending |
+| 12 | Economic and institutional change | `…/economic-change/` | built 2026-09-29 |
 | 13 | Technology | `…/technology/` | pending |
 | 14 | Science and knowledge | `…/science-and-knowledge/` | built 2026-09-29 |
 | 15 | Evolutionary computation | `…/evolutionary-computation/` | pending |

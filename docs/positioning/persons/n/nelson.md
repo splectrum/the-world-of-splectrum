@@ -55,4 +55,4 @@ The routine, the concept the 1982 book rests on, did not stay settled either. Ma
 
 ---
 
-See also: [Evolution](/positioning/subjects/e/evolution/) · [The criterion](/positioning/subjects/e/evolution/the-criterion/) · [Lamarck and the inheritance of acquired characters](/positioning/subjects/e/evolution/lamarck/) · [Schumpeter](/positioning/persons/s/schumpeter/) · [Veblen](/positioning/persons/v/veblen/) · [Arthur](/positioning/persons/a/arthur/)
+See also: [Evolution](/positioning/subjects/e/evolution/) · [Economic and institutional change](/positioning/subjects/e/evolution/economic-change/) · [The criterion](/positioning/subjects/e/evolution/the-criterion/) · [Lamarck and the inheritance of acquired characters](/positioning/subjects/e/evolution/lamarck/) · [Schumpeter](/positioning/persons/s/schumpeter/) · [Veblen](/positioning/persons/v/veblen/) · [Arthur](/positioning/persons/a/arthur/)
