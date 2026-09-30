@@ -7,7 +7,7 @@ Running register of every page in the Evolution keyword build, kept current as p
 | # | Page | Path | Status |
 |---|---|---|---|
 | — | Hub (minimal; lists only built pages, grows as they land) | `/positioning/subjects/e/evolution/` | built 2026-09-29 |
-| 1 | Time evolution in physics | `…/time-evolution/` | pending |
+| 1 | Time evolution in physics | `…/time-evolution/` | built 2026-09-30 |
 | 2 | Stellar evolution | `…/stellar-evolution/` | pending |
 | 3 | Civilisation as morphology | `…/civilisation-as-morphology/` | built 2026-09-30 |
 | 4 | Cosmic evolution | `…/cosmic-evolution/` | built 2026-09-30 |
