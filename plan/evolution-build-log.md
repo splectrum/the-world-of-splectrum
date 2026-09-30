@@ -43,7 +43,7 @@ Tier 1
 | Eric Chaisson | 4 | `/positioning/persons/c/chaisson/` | pending |
 | Manfred Eigen | 5 | `/positioning/persons/e/eigen/` | pending |
 | Oswald Spengler | 3 | `/positioning/persons/s/spengler/` | built 2026-09-30 |
-| Arnold Toynbee | 3 | `/positioning/persons/t/toynbee/` | pending |
+| Arnold Toynbee | 3 | `/positioning/persons/t/toynbee/` | built 2026-09-30 |
 | Lewis Henry Morgan | 7 | `/positioning/persons/m/morgan-lh/` | pending (site's `morgan` is Thomas Hunt) |
 | Leslie White | 7 | `/positioning/persons/w/white-l/` | pending |
 | Franz Boas | 7, 11 | `/positioning/persons/b/boas/` | pending |
@@ -76,7 +76,7 @@ Tier 2 — decided when the line comes up
 | Lewontin | link to the criterion page | pending |
 | Schleicher | see-also to Language change | done with page 10 |
 | Mumford | see-also to Technology | done with page 13 |
-| Spengler | see-also to Toynbee | pending (with Toynbee page) |
+| Spengler | see-also to Toynbee | done with Toynbee page |
 
 ## Index entries
 
@@ -91,6 +91,7 @@ Tier 2 — decided when the line comes up
 | Persons A–Z | Mumford | built 2026-09-29 |
 | Persons A–Z | Mokyr | built 2026-09-29 |
 | Persons A–Z | Spengler | built 2026-09-30 |
+| Persons A–Z | Toynbee | built 2026-09-30 |
 
 ## Closing steps (when all pages exist)
 

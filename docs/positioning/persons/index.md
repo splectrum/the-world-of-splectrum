@@ -339,6 +339,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Tomasello, Michael (1950–)](t/tomasello) · psychologist<span class="kw">shared intentionality and the human-unique "we" mode, joint attention, the usage-based theory of language acquisition against universal grammar, intention-reading and pattern-finding, cultural learning and the ratchet effect, the great-ape comparison</span>
 - [Tooby, John (1952–2023)](t/tooby) · evolutionary psychologist<span class="kw">the adapted mind, the environment of evolutionary adaptedness, the Standard Social Science Model critique</span>
 - [Torvalds, Linus (1969–)](t/torvalds) · software engineer<span class="kw">the Linux kernel, Git, Subsurface, open-source infrastructure and stewardship</span>
+- [Toynbee, Arnold J. (1889–1975)](t/toynbee) · historian<span class="kw">A Study of History, civilisations as the unit of study, challenge and response, creative minority and mimesis, universal state and universal church, the debate with Geyl</span>
 - [Trivers, Robert (1943–2026)](t/trivers) · evolutionary biologist<span class="kw">reciprocal altruism, parental investment, parent-offspring conflict, self-deception</span>
 - [Tulving, Endel (1927–2023)](t/tulving) · psychologist<span class="kw">episodic and semantic memory, encoding specificity, autonoetic consciousness, mental time travel, remember/know</span>
 - [Turing, Alan (1912–1954)](t/turing) · mathematician<span class="kw">the Turing machine, computability, the Entscheidungsproblem, the Turing test, morphogenesis</span>

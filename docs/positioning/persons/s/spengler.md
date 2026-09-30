@@ -33,7 +33,7 @@ Spengler held that world history is not one story but the lives of separate high
 
 His contemporaries pressed the method before the conclusions. [Otto Neurath](https://en.wikipedia.org/wiki/Otto_Neurath)'s *Anti-Spengler* (1921) took the book apart doctrine by doctrine, from its phases of culture to its morphology and its characterisation of cultures. [R. G. Collingwood](/positioning/persons/c/collingwood/), in "Oswald Spengler and the Theory of Historical Cycles" (*Antiquity*, 1927), objected that Spengler cut history into self-contained Cultures, each with its own essence, and so could not account for what one age inherits from another; for Collingwood history was a continuous process in which later periods take up the problems earlier ones left.
 
-The fixed life course was the point at which [Arnold Toynbee](https://en.wikipedia.org/wiki/Arnold_J._Toynbee), the other great comparative historian of civilisations, parted from him: Toynbee kept the comparison but held that civilisations rise and fall by how they meet challenges, not by a predetermined span.
+The fixed life course was the point at which [Arnold Toynbee](/positioning/persons/t/toynbee/), the other great comparative historian of civilisations, parted from him: Toynbee kept the comparison but held that civilisations rise and fall by how they meet challenges, not by a predetermined span.
 
 ---
 
@@ -47,4 +47,4 @@ The fixed life course was the point at which [Arnold Toynbee](https://en.wikiped
 
 ---
 
-See also: [Evolution](/positioning/subjects/e/evolution/) · [Philosophy of history](/positioning/subjects/p/philosophy-of-history/) · [Goethe](/positioning/persons/g/goethe/) · [Nietzsche](/positioning/persons/n/nietzsche/) · [Collingwood](/positioning/persons/c/collingwood/)
+See also: [Evolution](/positioning/subjects/e/evolution/) · [Philosophy of history](/positioning/subjects/p/philosophy-of-history/) · [Goethe](/positioning/persons/g/goethe/) · [Nietzsche](/positioning/persons/n/nietzsche/) · [Collingwood](/positioning/persons/c/collingwood/) · [Toynbee](/positioning/persons/t/toynbee/)
