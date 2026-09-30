@@ -107,6 +107,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Eco, Umberto (1932–2016)](e/eco) · semiotician, philosopher, novelist<span class="kw">a theory of codes, the open work, the limits of interpretation, the model reader, unlimited semiosis, The Name of the Rose</span>
 - [Eddington, Arthur (1882–1944)](e/eddington) · astrophysicist<span class="kw">named "the arrow of time", confirmed general relativity, stellar structure, the mass-luminosity relation</span>
 - [Edelman, Gerald (1929–2014)](e/edelman) · biologist<span class="kw">Neural Darwinism, neuronal group selection, reentrant signalling, the immunological Nobel, consciousness</span>
+- [Eigen, Manfred (1927–2019)](e/eigen) · biophysical chemist<span class="kw">relaxation methods, Nobel Prize 1967, selection among self-replicating molecules, the error threshold, the quasispecies, the hypercycle</span>
 - [Eilenberg, Samuel (1913–1998)](e/eilenberg) · mathematician<span class="kw">co-founder of category theory, Eilenberg-Steenrod axioms, homological algebra, automata theory</span>
 - [Einstein, Albert (1879–1955)](e/einstein) · physicist<span class="kw">special and general relativity, the photoelectric effect, Brownian motion, the EPR paradox, E = mc²</span>
 - [Eldredge, Niles (1943–)](e/eldredge) · paleontologist<span class="kw">punctuated equilibrium, hierarchy theory, genealogical-ecological duality, stasis, turnover pulse</span>

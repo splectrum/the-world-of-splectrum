@@ -41,7 +41,7 @@ Tier 1
 | Jean-Baptiste Lamarck | 9 | `/positioning/persons/l/lamarck/` | built 2026-09-29, committed 0adc30d; pointer and see-also relinked to page 9 |
 | Donald T. Campbell | 14, 20 | `/positioning/persons/c/campbell/` | built 2026-09-29 (criterion page relinked internally) |
 | Eric Chaisson | 4 | `/positioning/persons/c/chaisson/` | built 2026-09-30 |
-| Manfred Eigen | 5 | `/positioning/persons/e/eigen/` | pending |
+| Manfred Eigen | 5 | `/positioning/persons/e/eigen/` | built 2026-09-30 |
 | Oswald Spengler | 3 | `/positioning/persons/s/spengler/` | built 2026-09-30 |
 | Arnold Toynbee | 3 | `/positioning/persons/t/toynbee/` | built 2026-09-30 |
 | Lewis Henry Morgan | 7 | `/positioning/persons/m/morgan-lh/` | pending (site's `morgan` is Thomas Hunt) |
@@ -77,6 +77,7 @@ Tier 2 — decided when the line comes up
 | Schleicher | see-also to Language change | done with page 10 |
 | Mumford | see-also to Technology | done with page 13 |
 | Spengler | see-also to Toynbee | done with Toynbee page |
+| Eigen | see-also to Chemical evolution | pending (with page 5) |
 
 ## Index entries
 
@@ -94,6 +95,7 @@ Tier 2 — decided when the line comes up
 | Persons A–Z | Toynbee | built 2026-09-30 |
 | Persons A–Z | Turchin | built 2026-09-30 |
 | Persons A–Z | Chaisson | built 2026-09-30 |
+| Persons A–Z | Eigen | built 2026-09-30 |
 
 ## Closing steps (when all pages exist)
 
