@@ -75,4 +75,4 @@ The 1919 eclipse confirmation, while vindicated by recent re-analysis, raised me
 
 ---
 
-See also: [Boltzmann](/positioning/persons/b/boltzmann/) · [Einstein](/positioning/persons/e/einstein/) · [Penrose](/positioning/persons/r/penrose/)
+See also: [Boltzmann](/positioning/persons/b/boltzmann/) · [Einstein](/positioning/persons/e/einstein/) · [Penrose](/positioning/persons/r/penrose/) · [Stellar evolution](/positioning/subjects/e/evolution/stellar-evolution/)

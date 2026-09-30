@@ -8,7 +8,7 @@ Running register of every page in the Evolution keyword build, kept current as p
 |---|---|---|---|
 | — | Hub (minimal; lists only built pages, grows as they land) | `/positioning/subjects/e/evolution/` | built 2026-09-29 |
 | 1 | Time evolution in physics | `…/time-evolution/` | built 2026-09-30 |
-| 2 | Stellar evolution | `…/stellar-evolution/` | pending |
+| 2 | Stellar evolution | `…/stellar-evolution/` | built 2026-09-30 |
 | 3 | Civilisation as morphology | `…/civilisation-as-morphology/` | built 2026-09-30 |
 | 4 | Cosmic evolution | `…/cosmic-evolution/` | built 2026-09-30 |
 | 5 | Chemical evolution | `…/chemical-evolution/` | built 2026-09-30 |
@@ -62,7 +62,7 @@ Tier 2 — decided when the line comes up
 | Stephen Toulmin | 14 | undecided |
 | Joel Mokyr | 13 | decided yes 2026-09-29 (2025 Nobel shifted standing); built `/positioning/persons/m/mokyr/` |
 | Joseph Tainter | 3 | decided external 2026-09-30 |
-| Norman Lockyer | 2 | undecided |
+| Norman Lockyer | 2 | decided external 2026-09-30 |
 | Robert Nisbet | 19, 3 | undecided |
 
 ## Corrections to existing pages
