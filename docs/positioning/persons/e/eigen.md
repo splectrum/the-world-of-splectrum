@@ -47,4 +47,4 @@ The hypercycle was pressed at once on its stability. [John Maynard Smith](/posit
 
 ---
 
-See also: [Evolution](/positioning/subjects/e/evolution/) · [Prigogine](/positioning/persons/p/prigogine/) · [Maynard Smith](/positioning/persons/m/maynard-smith/) · [Kauffman](/positioning/persons/k/kauffman/)
+See also: [Evolution](/positioning/subjects/e/evolution/) · [Chemical evolution](/positioning/subjects/e/evolution/chemical-evolution/) · [Prigogine](/positioning/persons/p/prigogine/) · [Maynard Smith](/positioning/persons/m/maynard-smith/) · [Kauffman](/positioning/persons/k/kauffman/)

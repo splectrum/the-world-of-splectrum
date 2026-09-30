@@ -11,7 +11,7 @@ Running register of every page in the Evolution keyword build, kept current as p
 | 2 | Stellar evolution | `…/stellar-evolution/` | pending |
 | 3 | Civilisation as morphology | `…/civilisation-as-morphology/` | built 2026-09-30 |
 | 4 | Cosmic evolution | `…/cosmic-evolution/` | built 2026-09-30 |
-| 5 | Chemical evolution and the hand-over | `…/chemical-evolution/` | pending |
+| 5 | Chemical evolution | `…/chemical-evolution/` | built 2026-09-30 |
 | 6 | Mineral evolution (short; existing subject beneath) | `…/mineral-evolution/` | pending — existing subject at `/positioning/subjects/m/mineral-evolution/` linked from hub |
 | 7 | Social evolutionism and the stage schemes | `…/the-stage-schemes/` | pending |
 | 8 | Evolution in biology | `…/biology/` | built 2026-09-29 |
@@ -77,7 +77,7 @@ Tier 2 — decided when the line comes up
 | Schleicher | see-also to Language change | done with page 10 |
 | Mumford | see-also to Technology | done with page 13 |
 | Spengler | see-also to Toynbee | done with Toynbee page |
-| Eigen | see-also to Chemical evolution | pending (with page 5) |
+| Eigen | see-also to Chemical evolution | done with page 5 |
 
 ## Index entries
 
