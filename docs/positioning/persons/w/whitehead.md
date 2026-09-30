@@ -49,4 +49,4 @@ Whitehead's system is speculative and totalising — it aims to describe everyth
 
 ---
 
-See also: [Philosophy of organism](/positioning/subjects/p/philosophy-of-organism/) · [Process philosophy](/positioning/subjects/p/process-philosophy/) · [Category theory](/positioning/subjects/c/ct/) · [Connolly](/positioning/persons/c/connolly/) · [Bergson](/positioning/persons/b/bergson/) · [Stengers](/positioning/persons/s/stengers/)
+See also: [Philosophy of organism](/positioning/subjects/p/philosophy-of-organism/) · [Process philosophy](/positioning/subjects/p/process-philosophy/) · [Category theory](/positioning/subjects/c/ct/) · [Connolly](/positioning/persons/c/connolly/) · [Bergson](/positioning/persons/b/bergson/) · [Stengers](/positioning/persons/s/stengers/) · [Evolution in metaphysics](/positioning/subjects/e/evolution/metaphysics/)

@@ -44,4 +44,4 @@ Broad reviewed *Space, Time and Deity* at length and critically in *Mind* (1921)
 
 ---
 
-See also: [Evolution](/positioning/subjects/e/evolution/) · [Emergence](/positioning/subjects/e/emergence/) · [Emergence: the types](/positioning/subjects/e/emergence/the-types/) · [Broad](/positioning/persons/b/broad/) · [Whitehead](/positioning/persons/w/whitehead/) · [Lloyd Morgan](/positioning/persons/m/morgan-cl/)
+See also: [Evolution](/positioning/subjects/e/evolution/) · [Emergence](/positioning/subjects/e/emergence/) · [Emergence: the types](/positioning/subjects/e/emergence/the-types/) · [Broad](/positioning/persons/b/broad/) · [Whitehead](/positioning/persons/w/whitehead/) · [Lloyd Morgan](/positioning/persons/m/morgan-cl/) · [Evolution in metaphysics](/positioning/subjects/e/evolution/metaphysics/)

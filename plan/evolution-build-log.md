@@ -23,7 +23,7 @@ Running register of every page in the Evolution keyword build, kept current as p
 | 14 | Science and knowledge | `…/science-and-knowledge/` | built 2026-09-29 |
 | 15 | Evolutionary computation | `…/evolutionary-computation/` | built 2026-09-29 |
 | 16 | Assembly theory and the technosphere (short; existing subject beneath) | `…/assembly-theory/` | pending — existing subject at `/positioning/subjects/a/assembly-theory/` linked from hub |
-| 17 | Evolution in metaphysics | `…/metaphysics/` | pending |
+| 17 | Evolution in metaphysics | `…/metaphysics/` | built 2026-09-30 |
 | 18 | The word | `…/the-word/` | built 2026-09-29 |
 | 19 | Progress and direction | `…/progress-and-direction/` | built 2026-09-29 |
 | 20 | The criterion | `…/the-criterion/` | built 2026-09-29 |

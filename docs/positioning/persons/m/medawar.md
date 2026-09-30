@@ -45,7 +45,7 @@ Medawar's answer: the force of natural selection declines with age. In any popul
 
 ## Writing on science
 
-Medawar was an essayist of unusual range and precision. *The Art of the Soluble* (1967) and *Pluto's Republic* (1982) collected essays on the practice and philosophy of science. *Advice to a Young Scientist* (1979) was a practical and philosophical guide. His book reviews — particularly the review of Teilhard de Chardin's *The Phenomenon of Man* (1961), which he described as "the greatest work of bad science I have ever read" — are remembered for their clarity and sharpness.
+Medawar was an essayist of unusual range and precision. *The Art of the Soluble* (1967) and *Pluto's Republic* (1982) collected essays on the practice and philosophy of science. *Advice to a Young Scientist* (1979) was a practical and philosophical guide. His book reviews — particularly the review of Teilhard de Chardin's *The Phenomenon of Man* in *Mind* (1961), which held that "the greater part of it, I shall show, is nonsense, tricked out with a variety of metaphysical conceits" — are remembered for their clarity and sharpness.
 
 His philosophical position was broadly [Popperian](/positioning/persons/p/popper/): science advances by conjecture and refutation, not by induction from observation. *The Limits of Science* (1984) explored what science can and cannot address. He was widely regarded as one of the finest scientific prose stylists of his generation; [Dawkins](/positioning/persons/d/dawkins/) dedicated *The Extended Phenotype* to him.
 

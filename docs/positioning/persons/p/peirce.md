@@ -47,4 +47,4 @@ Peirce built the most rigorous version of pragmatism — but rigour came at the 
 
 ---
 
-See also: [Pragmatism](/positioning/subjects/p/pragmatism/) · [Semiotics](/positioning/subjects/s/semiotics/) · [James](/positioning/persons/j/james/) · [Dewey](/positioning/persons/d/dewey/) · [Brandom](/positioning/persons/b/brandom/) · [Process philosophy](/positioning/subjects/p/process-philosophy/)
+See also: [Pragmatism](/positioning/subjects/p/pragmatism/) · [Semiotics](/positioning/subjects/s/semiotics/) · [James](/positioning/persons/j/james/) · [Dewey](/positioning/persons/d/dewey/) · [Brandom](/positioning/persons/b/brandom/) · [Process philosophy](/positioning/subjects/p/process-philosophy/) · [Evolution in metaphysics](/positioning/subjects/e/evolution/metaphysics/)

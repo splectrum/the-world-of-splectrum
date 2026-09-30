@@ -46,4 +46,4 @@ Brian McLaughlin (1992) judged the empirical case of British emergentism, Morgan
 
 ---
 
-See also: [Evolution](/positioning/subjects/e/evolution/) · [Emergence](/positioning/subjects/e/emergence/) · [Emergence: the types](/positioning/subjects/e/emergence/the-types/) · [Alexander](/positioning/persons/a/alexander-s/) · [Broad](/positioning/persons/b/broad/) · [Huxley](/positioning/persons/h/huxley/)
+See also: [Evolution](/positioning/subjects/e/evolution/) · [Emergence](/positioning/subjects/e/emergence/) · [Emergence: the types](/positioning/subjects/e/emergence/the-types/) · [Alexander](/positioning/persons/a/alexander-s/) · [Broad](/positioning/persons/b/broad/) · [Huxley](/positioning/persons/h/huxley/) · [Evolution in metaphysics](/positioning/subjects/e/evolution/metaphysics/)

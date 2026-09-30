@@ -44,6 +44,7 @@ Homes migrate between the senses, and the pages show the migrations as history: 
 - **[Science and knowledge](/positioning/subjects/e/evolution/science-and-knowledge/)** — the growth of knowledge as variation and selection: Popper's natural selection of hypotheses, Campbell's blind variation and selective retention, Toulmin's populations of concepts, Kuhn's closing analogy, Hull's selection process, and the dispute over blind variation.
 - **[Evolutionary computation](/positioning/subjects/e/evolution/evolutionary-computation/)** — evolution as a method of computing: Turing's child machine, evolutionary programming, evolution strategies, genetic algorithms and genetic programming, a process built to have every ingredient of the recipe.
 - **[Assembly theory](/positioning/subjects/a/assembly-theory/)** — construction history and selection claimed for objects without the population-genetic apparatus, from molecules to the technosphere.
+- **[Evolution in metaphysics](/positioning/subjects/e/evolution/metaphysics/)** — evolution as a principle of metaphysics: Peirce's three modes, Bergson's creative evolution against mechanism and finalism, the emergent evolution of Alexander and Lloyd Morgan, Whitehead's organism, and Teilhard's Omega Point.
 
 ---
 

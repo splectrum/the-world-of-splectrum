@@ -45,4 +45,4 @@ Bergson mistrusted language. The intellect spatialises; language is the intellec
 
 ---
 
-See also: [Process philosophy](/positioning/subjects/p/process-philosophy/) · [Whitehead](/positioning/persons/w/whitehead/) · [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) · [Philosophy of organism](/positioning/subjects/p/philosophy-of-organism/)
+See also: [Process philosophy](/positioning/subjects/p/process-philosophy/) · [Whitehead](/positioning/persons/w/whitehead/) · [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) · [Philosophy of organism](/positioning/subjects/p/philosophy-of-organism/) · [Evolution in metaphysics](/positioning/subjects/e/evolution/metaphysics/)
