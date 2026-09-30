@@ -17,7 +17,7 @@ Harlow Shapley, retiring as director of the Harvard College Observatory, created
 
 ## Widening selection
 
-Chaisson uses "evolution" in the broad sense on purpose, and widens selection with it: "selection can be generally taken to mean preferential interaction of any object with its environment", so that "selection occurs in the inanimate world as well as among animate objects". Biological evolution becomes "just one, albeit important, subset of broader evolutionary action". The direction he describes has no goal: cosmic evolution "is an aimless, meandering process". The mineralogists who coined mineral evolution placed their subject as "a fascinating specific example of the more general process of cosmic evolution", while insisting that it is not Darwinian (see [Mineral evolution](/positioning/subjects/m/mineral-evolution/)).
+Chaisson uses "evolution" in the broad sense on purpose, and widens selection with it: "selection can be generally taken to mean preferential interaction of any object with its environment", so that "selection occurs in the inanimate world as well as among animate objects". Biological evolution becomes "just one, albeit important, subset of broader evolutionary action". The direction he describes has no goal: cosmic evolution "is an aimless, meandering process". The mineralogists who coined mineral evolution placed their subject as "a fascinating specific example of the more general process of cosmic evolution", while insisting that it is not Darwinian (see [Mineral evolution](/positioning/subjects/e/evolution/mineral-evolution/)).
 
 ## Big history
 
