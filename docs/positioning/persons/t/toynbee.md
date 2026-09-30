@@ -45,4 +45,4 @@ His description of post-biblical Jewish society as a "fossil" of an extinct Syri
 
 ---
 
-See also: [Evolution](/positioning/subjects/e/evolution/) · [Philosophy of history](/positioning/subjects/p/philosophy-of-history/) · [Spengler](/positioning/persons/s/spengler/)
+See also: [Evolution](/positioning/subjects/e/evolution/) · [Civilisation as morphology](/positioning/subjects/e/evolution/civilisation-as-morphology/) · [Philosophy of history](/positioning/subjects/p/philosophy-of-history/) · [Spengler](/positioning/persons/s/spengler/)

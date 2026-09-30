@@ -49,4 +49,4 @@ A 2019 *Nature* paper by the Seshat team, Turchin among its authors, arguing tha
 
 ---
 
-See also: [Evolution](/positioning/subjects/e/evolution/) · [Cultural evolution](/positioning/subjects/e/evolution/cultural-evolution/) · [Spengler](/positioning/persons/s/spengler/) · [Toynbee](/positioning/persons/t/toynbee/)
+See also: [Evolution](/positioning/subjects/e/evolution/) · [Civilisation as morphology](/positioning/subjects/e/evolution/civilisation-as-morphology/) · [Cultural evolution](/positioning/subjects/e/evolution/cultural-evolution/) · [Spengler](/positioning/persons/s/spengler/) · [Toynbee](/positioning/persons/t/toynbee/)
