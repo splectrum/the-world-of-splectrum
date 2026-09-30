@@ -43,4 +43,4 @@ His fellow neo-evolutionist Julian Steward pressed the single line. Steward's *T
 
 ---
 
-See also: [Evolution](/positioning/subjects/e/evolution/) · [Deep time and evolution](/positioning/subjects/p/philosophy-of-history/deep-time-and-evolution/) · [L. H. Morgan](/positioning/persons/m/morgan-lh/) · [Boas](/positioning/persons/b/boas/)
+See also: [Evolution](/positioning/subjects/e/evolution/) · [The stage schemes](/positioning/subjects/e/evolution/the-stage-schemes/) · [Deep time and evolution](/positioning/subjects/p/philosophy-of-history/deep-time-and-evolution/) · [L. H. Morgan](/positioning/persons/m/morgan-lh/) · [Boas](/positioning/persons/b/boas/)

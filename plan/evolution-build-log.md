@@ -13,7 +13,7 @@ Running register of every page in the Evolution keyword build, kept current as p
 | 4 | Cosmic evolution | `…/cosmic-evolution/` | built 2026-09-30 |
 | 5 | Chemical evolution | `…/chemical-evolution/` | built 2026-09-30 |
 | 6 | Mineral evolution (short; existing subject beneath) | `…/mineral-evolution/` | pending — existing subject at `/positioning/subjects/m/mineral-evolution/` linked from hub |
-| 7 | Social evolutionism and the stage schemes | `…/the-stage-schemes/` | pending |
+| 7 | Social evolutionism and the stage schemes | `…/the-stage-schemes/` | built 2026-09-30 |
 | 8 | Evolution in biology | `…/biology/` | built 2026-09-29 |
 | 9 | Lamarck and the inheritance of acquired characters | `…/lamarck/` | built 2026-09-29 |
 | 10 | Language change | `…/language-change/` | built 2026-09-29 |

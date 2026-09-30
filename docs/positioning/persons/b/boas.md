@@ -48,4 +48,4 @@ His record also includes the case of the Greenland Inuit, documented by Kenn Har
 
 ---
 
-See also: [Evolution](/positioning/subjects/e/evolution/) · [Philosophy of history](/positioning/subjects/p/philosophy-of-history/) · [Deep time and evolution](/positioning/subjects/p/philosophy-of-history/deep-time-and-evolution/) · [L. H. Morgan](/positioning/persons/m/morgan-lh/) · [L. White](/positioning/persons/w/white-l/)
+See also: [Evolution](/positioning/subjects/e/evolution/) · [The stage schemes](/positioning/subjects/e/evolution/the-stage-schemes/) · [Philosophy of history](/positioning/subjects/p/philosophy-of-history/) · [Deep time and evolution](/positioning/subjects/p/philosophy-of-history/deep-time-and-evolution/) · [L. H. Morgan](/positioning/persons/m/morgan-lh/) · [L. White](/positioning/persons/w/white-l/)
