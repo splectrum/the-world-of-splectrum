@@ -50,7 +50,7 @@ Tier 1
 | Peter Turchin | 3, 7, 11 | `/positioning/persons/t/turchin/` | built 2026-09-30 (cultural-evolution page relinked) |
 | Lewis Mumford | 13 | `/positioning/persons/m/mumford/` | built 2026-09-29 |
 | Samuel Alexander | 17 | `/positioning/persons/a/alexander-s/` | built 2026-09-30 (emergence bundle relinked) |
-| Conwy Lloyd Morgan | 17 | `/positioning/persons/m/morgan-cl/` | pending (emergence bundle links him externally; backfill) |
+| Conwy Lloyd Morgan | 17 | `/positioning/persons/m/morgan-cl/` | built 2026-09-30 (emergence bundle, Broad and page 9 relinked) |
 
 Tier 2 — decided when the line comes up
 
@@ -72,7 +72,7 @@ Tier 2 — decided when the line comes up
 | Spencer | *First Principles* formula dated to 1867 editions, 1862 wording added | done, committed 05351a4 |
 | Popper | evolutionary-epistemology strand missing | done with page 14 (key concept, key works, see-also) |
 | Arthur | his own "not Darwinian" statement missing | done with page 13 |
-| Emergence bundle (the-types, the-principals) | relink Alexander and Lloyd Morgan internally | pending (with page 17) |
+| Emergence bundle (the-types, the-paradigm-cases, the-overviews) | relink Alexander and Lloyd Morgan internally | done |
 | Lewontin | link to the criterion page | pending |
 | Schleicher | see-also to Language change | done with page 10 |
 | Mumford | see-also to Technology | done with page 13 |
@@ -80,7 +80,7 @@ Tier 2 — decided when the line comes up
 | Eigen | see-also to Chemical evolution | done with page 5 |
 | Boas | see-also to L. H. Morgan and L. White | done |
 | L. H. Morgan | see-also to L. White | done |
-| S. Alexander | see-also to Lloyd Morgan | pending (with Lloyd Morgan page) |
+| S. Alexander | see-also to Lloyd Morgan | done |
 
 ## Index entries
 
@@ -103,6 +103,7 @@ Tier 2 — decided when the line comes up
 | Persons A–Z | L. H. Morgan | built 2026-09-30 |
 | Persons A–Z | L. White | built 2026-09-30 |
 | Persons A–Z | S. Alexander | built 2026-09-30 |
+| Persons A–Z | Lloyd Morgan | built 2026-09-30 |
 
 ## Closing steps (when all pages exist)
 
