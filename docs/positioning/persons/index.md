@@ -15,6 +15,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 - [Abhinavagupta (c. 950–1016)](a/abhinavagupta) · philosopher, aesthetician<span class="kw">rasa as aesthetic experience, sadharanikarana, dhvani and suggestion, non-dual Kashmir Shaivism, the Tantraloka, recognition</span>
 - [Albert, David (1954–)](a/albert) · philosopher of physics<span class="kw">the Past Hypothesis, foundations of statistical mechanics, the measurement problem, GRW</span>
+- [Alexander, Samuel (1859–1938)](a/alexander-s) · philosopher<span class="kw">Space, Time and Deity, space-time as the stuff of the world, emergent qualities, levels of matter, life and mind, deity, natural piety, emergent evolution</span>
 - [Anderson, Philip (1923–2020)](a/anderson) · physicist<span class="kw">"More is Different", emergence, Anderson localisation, symmetry breaking, Santa Fe Institute</span>
 - [Aquinas, Thomas (1225–1274)](a/aquinas) · theologian, philosopher<span class="kw">synthesis of Aristotle and Christian theology, the five ways, natural law, the Summa Theologiae</span>
 - [Arendt, Hannah (1906–1975)](a/arendt) · political theorist<span class="kw">plurality as the human condition, the vita activa, totalitarianism, the banality of evil</span>

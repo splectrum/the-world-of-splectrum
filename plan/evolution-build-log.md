@@ -49,7 +49,7 @@ Tier 1
 | Franz Boas | 7, 11 | `/positioning/persons/b/boas/` | built 2026-09-30 |
 | Peter Turchin | 3, 7, 11 | `/positioning/persons/t/turchin/` | built 2026-09-30 (cultural-evolution page relinked) |
 | Lewis Mumford | 13 | `/positioning/persons/m/mumford/` | built 2026-09-29 |
-| Samuel Alexander | 17 | `/positioning/persons/a/alexander-s/` | pending (emergence bundle links him externally; backfill) |
+| Samuel Alexander | 17 | `/positioning/persons/a/alexander-s/` | built 2026-09-30 (emergence bundle relinked) |
 | Conwy Lloyd Morgan | 17 | `/positioning/persons/m/morgan-cl/` | pending (emergence bundle links him externally; backfill) |
 
 Tier 2 — decided when the line comes up
@@ -80,6 +80,7 @@ Tier 2 — decided when the line comes up
 | Eigen | see-also to Chemical evolution | done with page 5 |
 | Boas | see-also to L. H. Morgan and L. White | done |
 | L. H. Morgan | see-also to L. White | done |
+| S. Alexander | see-also to Lloyd Morgan | pending (with Lloyd Morgan page) |
 
 ## Index entries
 
@@ -101,6 +102,7 @@ Tier 2 — decided when the line comes up
 | Persons A–Z | Boas | built 2026-09-30 |
 | Persons A–Z | L. H. Morgan | built 2026-09-30 |
 | Persons A–Z | L. White | built 2026-09-30 |
+| Persons A–Z | S. Alexander | built 2026-09-30 |
 
 ## Closing steps (when all pages exist)
 

@@ -17,7 +17,7 @@ Every definition in [the types catalogue](/positioning/subjects/e/emergence/the-
 |---|---|
 | Heteropathic effects ([Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill)) | Chemical combination — the properties of compounds against those of their elements |
 | Emergent vs resultant ([Lewes](https://en.wikipedia.org/wiki/George_Henry_Lewes)) | Chemical combination, against mechanics' composable forces |
-| Emergent qualities ([Alexander](https://en.wikipedia.org/wiki/Samuel_Alexander)) | The ladder space-time → matter → life → mind → deity — deity his own next emergent, and the book's title — with mind the working case |
+| Emergent qualities ([Alexander](/positioning/persons/a/alexander-s/)) | The ladder space-time → matter → life → mind → deity — deity his own next emergent, and the book's title — with mind the working case |
 | Emergent evolution ([Morgan](https://en.wikipedia.org/wiki/C._Lloyd_Morgan)) | Life and mind arising in evolutionary sequence |
 | British emergentism ([Broad](/positioning/persons/b/broad/)) | Chemistry — the properties of compounds as his confident example, carried with its contested reception on his page — with mind the book's larger business |
 | Emergent interactionism ([Sperry](https://en.wikipedia.org/wiki/Roger_Wolcott_Sperry)) | Consciousness and the split-brain results |
