@@ -35,7 +35,7 @@ These give criteria for when something counts as emergent, compatible with any a
 
 The British-emergentist family: emergent evolution's genuinely new qualities and trans-ordinal laws that are ultimate, both to be accepted with natural piety; strong emergence with fundamental psychophysical laws; non-structural properties that are causally basic. In these definitions the absence of a derivation from the base is not an open task but part of what is being claimed — the connecting laws are held to be fundamental in their own right.
 
-| Representative entries | [British emergentism](/positioning/persons/b/broad/); [emergent evolution](https://en.wikipedia.org/wiki/C._Lloyd_Morgan); [strong emergence](/positioning/persons/c/chalmers/); [non-structural properties](https://en.wikipedia.org/wiki/Timothy_O%27Connor_(philosopher)) |
+| Representative entries | [British emergentism](/positioning/persons/b/broad/); [emergent evolution](/positioning/persons/m/morgan-cl/); [strong emergence](/positioning/persons/c/chalmers/); [non-structural properties](https://en.wikipedia.org/wiki/Timothy_O%27Connor_(philosopher)) |
 |---|---|
 | Language context | Metaphysics' own vocabulary, with modal and mind-directed terms |
 | How given | Criterial |

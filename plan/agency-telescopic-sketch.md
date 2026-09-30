@@ -2,7 +2,7 @@
 
 Working document for a maturing thread. Opened 2026-09-09. Provisional throughout. Deliberately NOT yet a build round: the thread banks sparks here while it matures. Deferred until after the emergence round (readiness discussion 2026-09-09), which is expected to supply ground this thread will stand on.
 
-**Placement (2026-09-13, Jules): this thread sits inside the evolution keyword** (`plan/evolution-keyword-scope.md`) as its reality-side work on the living case. Whether it is ultimately absorbed into that keyword's reality pieces or retained as a thread in its own right is an open call, decided when the work opens. The readiness criteria below still govern.
+**Placement (2026-09-13, Jules): this thread sits inside the evolution keyword** as its reality-side work on the living case; the keyword's neutral doorway was built 2026-09-30 at `/positioning/subjects/e/evolution/`. Whether it is ultimately absorbed into that keyword's reality pieces or retained as a thread in its own right is an open call, decided when the work opens. The readiness criteria below still govern.
 
 ## The destination (Jules, 2026-09-09)
 

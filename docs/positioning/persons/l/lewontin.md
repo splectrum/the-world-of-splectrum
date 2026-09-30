@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-26
+lastmod: 2026-09-30
 title: "Richard Lewontin (1929–2021)"
 description: "American evolutionary biologist and geneticist — the three-conditions formalisation of natural selection, the Spandrels critique, anti-reductionism, the organism-environment dialectic, and the politics of biology."
 ---
@@ -25,7 +25,7 @@ Died 4 July 2021, aged ninety-two.
 
 ## The three-conditions formalisation
 
-Lewontin's 1970 paper "The units of selection" gave natural selection its most compact formal statement: evolution by natural selection occurs in any population where three conditions hold simultaneously — phenotypic variation among individuals, differential fitness correlated with that variation, and heritability of fitness. The formalisation makes clear that natural selection is not a force acting on organisms but a statistical consequence of the three conditions holding together.
+Lewontin's 1970 paper "The units of selection" gave natural selection its most compact formal statement: evolution by natural selection occurs in any population where three conditions hold simultaneously — phenotypic variation among individuals, differential fitness correlated with that variation, and heritability of fitness. The formalisation makes clear that natural selection is not a force acting on organisms but a statistical consequence of the three conditions holding together. How the three conditions came to be used as a criterion across fields is set out under [The criterion](/positioning/subjects/e/evolution/the-criterion/).
 
 The formulation is substrate-neutral in principle — it says nothing about genes, DNA, or biology specifically. Whether this generality is a strength (making Darwinian logic applicable beyond biology) or a weakness (abstracting away the biology that makes evolution what it is) became a contested question that Lewontin himself came down firmly on the restrictive side of: extending Darwinian logic beyond biology, he argued, conflates the mechanism with a metaphor.
 
@@ -88,4 +88,4 @@ Lewontin's programme is critical and dialectical. It identifies what reductionis
 
 ---
 
-See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Darwin](/positioning/persons/d/darwin/) · [Dawkins](/positioning/persons/d/dawkins/) · [Mayr](/positioning/persons/m/mayr/) · [Fisher](/positioning/persons/f/fisher/)
+See also: [Darwinism](/positioning/subjects/d/darwinism/) · [The criterion](/positioning/subjects/e/evolution/the-criterion/) · [Darwin](/positioning/persons/d/darwin/) · [Dawkins](/positioning/persons/d/dawkins/) · [Mayr](/positioning/persons/m/mayr/) · [Fisher](/positioning/persons/f/fisher/)

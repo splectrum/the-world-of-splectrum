@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-03
+lastmod: 2026-09-30
 title: "Evolution"
 ---
 
@@ -55,4 +55,4 @@ Several sciences point at the same structural observation, independently:
 
 Similar structural observations recur across the sciences, from within their own domains.
 
-
+See also: [Evolution](/positioning/subjects/e/evolution/) in the reference library — the word across its homes, the senses it carries, and how each field grades its own use.
