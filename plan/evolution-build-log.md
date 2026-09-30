@@ -17,7 +17,7 @@ Running register of every page in the Evolution keyword build, kept current as p
 | 8 | Evolution in biology | `…/biology/` | built 2026-09-29 |
 | 9 | Lamarck and the inheritance of acquired characters | `…/lamarck/` | built 2026-09-29 |
 | 10 | Language change | `…/language-change/` | built 2026-09-29 |
-| 11 | Cultural evolution | `…/cultural-evolution/` | built 2026-09-29 (Turchin linked externally until his page exists) |
+| 11 | Cultural evolution | `…/cultural-evolution/` | built 2026-09-29 |
 | 12 | Economic and institutional change | `…/economic-change/` | built 2026-09-29 |
 | 13 | Technology | `…/technology/` | built 2026-09-29 |
 | 14 | Science and knowledge | `…/science-and-knowledge/` | built 2026-09-29 |
@@ -47,7 +47,7 @@ Tier 1
 | Lewis Henry Morgan | 7 | `/positioning/persons/m/morgan-lh/` | pending (site's `morgan` is Thomas Hunt) |
 | Leslie White | 7 | `/positioning/persons/w/white-l/` | pending |
 | Franz Boas | 7, 11 | `/positioning/persons/b/boas/` | pending |
-| Peter Turchin | 3, 7, 11 | `/positioning/persons/t/turchin/` | pending |
+| Peter Turchin | 3, 7, 11 | `/positioning/persons/t/turchin/` | built 2026-09-30 (cultural-evolution page relinked) |
 | Lewis Mumford | 13 | `/positioning/persons/m/mumford/` | built 2026-09-29 |
 | Samuel Alexander | 17 | `/positioning/persons/a/alexander-s/` | pending (emergence bundle links him externally; backfill) |
 | Conwy Lloyd Morgan | 17 | `/positioning/persons/m/morgan-cl/` | pending (emergence bundle links him externally; backfill) |
@@ -92,6 +92,7 @@ Tier 2 — decided when the line comes up
 | Persons A–Z | Mokyr | built 2026-09-29 |
 | Persons A–Z | Spengler | built 2026-09-30 |
 | Persons A–Z | Toynbee | built 2026-09-30 |
+| Persons A–Z | Turchin | built 2026-09-30 |
 
 ## Closing steps (when all pages exist)
 

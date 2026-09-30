@@ -342,6 +342,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Toynbee, Arnold J. (1889–1975)](t/toynbee) · historian<span class="kw">A Study of History, civilisations as the unit of study, challenge and response, creative minority and mimesis, universal state and universal church, the debate with Geyl</span>
 - [Trivers, Robert (1943–2026)](t/trivers) · evolutionary biologist<span class="kw">reciprocal altruism, parental investment, parent-offspring conflict, self-deception</span>
 - [Tulving, Endel (1927–2023)](t/tulving) · psychologist<span class="kw">episodic and semantic memory, encoding specificity, autonoetic consciousness, mental time travel, remember/know</span>
+- [Turchin, Peter (1957–)](t/turchin) · population ecologist, historian<span class="kw">cliodynamics, secular cycles, elite overproduction, asabiya and metaethnic frontiers, cultural multilevel selection, Ultrasociety, the Seshat databank</span>
 - [Turing, Alan (1912–1954)](t/turing) · mathematician<span class="kw">the Turing machine, computability, the Entscheidungsproblem, the Turing test, morphogenesis</span>
 
 ## V
