@@ -65,6 +65,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Carroll, Sean (1966–)](c/carroll) · theoretical physicist<span class="kw">the arrow of time, the Past Hypothesis, many-worlds interpretation, the cosmological multiverse</span>
 - [Cassirer, Ernst (1874–1945)](c/cassirer) · philosopher<span class="kw">the philosophy of symbolic forms, the animal symbolicum, neo-Kantianism, substance and function, the Davos debate</span>
 - [Castoriadis, Cornelius (1922–1997)](c/castoriadis) · philosopher<span class="kw">the imaginary institution of society, radical imagination, autonomy as conscious self-institution, the social imaginary</span>
+- [Chaisson, Eric](c/chaisson) · astrophysicist<span class="kw">cosmic evolution, energy rate density, the rise of complexity, selection as preferential interaction, big history</span>
 - [Chalmers, David (1966–)](c/chalmers) · philosopher<span class="kw">the hard problem of consciousness, zombies and the conceivability argument, naturalistic dualism, the extended mind, strong and weak emergence, the meta-problem</span>
 - [Chomsky, Noam (1928–)](c/chomsky) · linguist, cognitive scientist<span class="kw">generative grammar, universal grammar, the poverty of the stimulus, the cognitive revolution, the Chomsky hierarchy, Manufacturing Consent</span>
 - [Clark, James (1964–)](c/clark) · software engineer<span class="kw">XML technical lead, editor of XSLT 1.0 and XPath 1.0, expat, RELAX NG, groff</span>

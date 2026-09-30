@@ -61,4 +61,4 @@ The reality-of-time thesis puts Smolin at odds with most of theoretical physics 
 
 ---
 
-See also: [Rovelli](/positioning/persons/r/rovelli/) · [Kauffman](/positioning/persons/k/kauffman/) · [Einstein](/positioning/persons/e/einstein/)
+See also: [Rovelli](/positioning/persons/r/rovelli/) · [Kauffman](/positioning/persons/k/kauffman/) · [Einstein](/positioning/persons/e/einstein/) · [Cosmic evolution](/positioning/subjects/e/evolution/cosmic-evolution/)

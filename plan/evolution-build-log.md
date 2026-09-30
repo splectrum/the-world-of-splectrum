@@ -10,7 +10,7 @@ Running register of every page in the Evolution keyword build, kept current as p
 | 1 | Time evolution in physics | `…/time-evolution/` | pending |
 | 2 | Stellar evolution | `…/stellar-evolution/` | pending |
 | 3 | Civilisation as morphology | `…/civilisation-as-morphology/` | built 2026-09-30 |
-| 4 | Cosmic evolution | `…/cosmic-evolution/` | pending |
+| 4 | Cosmic evolution | `…/cosmic-evolution/` | built 2026-09-30 |
 | 5 | Chemical evolution and the hand-over | `…/chemical-evolution/` | pending |
 | 6 | Mineral evolution (short; existing subject beneath) | `…/mineral-evolution/` | pending — existing subject at `/positioning/subjects/m/mineral-evolution/` linked from hub |
 | 7 | Social evolutionism and the stage schemes | `…/the-stage-schemes/` | pending |
@@ -40,7 +40,7 @@ Tier 1
 | August Schleicher | 10 | `/positioning/persons/s/schleicher/` | built 2026-09-29 |
 | Jean-Baptiste Lamarck | 9 | `/positioning/persons/l/lamarck/` | built 2026-09-29, committed 0adc30d; pointer and see-also relinked to page 9 |
 | Donald T. Campbell | 14, 20 | `/positioning/persons/c/campbell/` | built 2026-09-29 (criterion page relinked internally) |
-| Eric Chaisson | 4 | `/positioning/persons/c/chaisson/` | pending |
+| Eric Chaisson | 4 | `/positioning/persons/c/chaisson/` | built 2026-09-30 |
 | Manfred Eigen | 5 | `/positioning/persons/e/eigen/` | pending |
 | Oswald Spengler | 3 | `/positioning/persons/s/spengler/` | built 2026-09-30 |
 | Arnold Toynbee | 3 | `/positioning/persons/t/toynbee/` | built 2026-09-30 |
@@ -93,6 +93,7 @@ Tier 2 — decided when the line comes up
 | Persons A–Z | Spengler | built 2026-09-30 |
 | Persons A–Z | Toynbee | built 2026-09-30 |
 | Persons A–Z | Turchin | built 2026-09-30 |
+| Persons A–Z | Chaisson | built 2026-09-30 |
 
 ## Closing steps (when all pages exist)
 
