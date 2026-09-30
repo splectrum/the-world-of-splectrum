@@ -17,7 +17,7 @@ Boas challenged the evolutionary scheme that nineteenth-century anthropology had
 
 ## Key concepts
 
-**Against the comparative method.** The evolutionists of his youth, Edward Tylor and Lewis Henry Morgan among them, arranged the customs of living peoples in a single sequence and read the sequence as history. In "The Limitations of the Comparative Method of Anthropology" (1896) Boas argued that the method assumed what it set out to prove: that like customs have like causes and the same place in one scheme of development. Similar forms can arise from different origins, and a custom's meaning depends on the culture it belongs to. He did not deny that laws of cultural development might exist, but held that they could only be found after the history of particular cultures had been reconstructed, by diffusion, migration and contact as well as independent invention.
+**Against the comparative method.** The evolutionists of his youth, Edward Tylor and [Lewis Henry Morgan](/positioning/persons/m/morgan-lh/) among them, arranged the customs of living peoples in a single sequence and read the sequence as history. In "The Limitations of the Comparative Method of Anthropology" (1896) Boas argued that the method assumed what it set out to prove: that like customs have like causes and the same place in one scheme of development. Similar forms can arise from different origins, and a custom's meaning depends on the culture it belongs to. He did not deny that laws of cultural development might exist, but held that they could only be found after the history of particular cultures had been reconstructed, by diffusion, migration and contact as well as independent invention.
 
 **Culture in the plural.** Where the evolutionists spoke of culture as a single ladder with higher and lower rungs, Boas and his students spoke of cultures, each an integrated way of life to be understood in its own terms. The principle that a culture's practices are to be judged by its own standards before being compared, later called cultural relativism, became a method of fieldwork as well as a moral stance.
 
@@ -48,4 +48,4 @@ His record also includes the case of the Greenland Inuit, documented by Kenn Har
 
 ---
 
-See also: [Evolution](/positioning/subjects/e/evolution/) · [Philosophy of history](/positioning/subjects/p/philosophy-of-history/) · [Deep time and evolution](/positioning/subjects/p/philosophy-of-history/deep-time-and-evolution/)
+See also: [Evolution](/positioning/subjects/e/evolution/) · [Philosophy of history](/positioning/subjects/p/philosophy-of-history/) · [Deep time and evolution](/positioning/subjects/p/philosophy-of-history/deep-time-and-evolution/) · [L. H. Morgan](/positioning/persons/m/morgan-lh/)
