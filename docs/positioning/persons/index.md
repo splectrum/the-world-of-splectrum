@@ -46,6 +46,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Berners-Lee, Tim (1955–)](b/berners-lee) · computer scientist<span class="kw">inventor of the World Wide Web, HTTP, HTML, the URL, the W3C, the open web</span>
 - [Bertalanffy, Ludwig von (1901–1972)](b/bertalanffy) · biologist, systems thinker<span class="kw">general system theory, open systems, organismic biology, equifinality</span>
 - [Blackburn, Simon (1944–)](b/blackburn) · philosopher<span class="kw">quasi-realism, projectivism, expressivism, earning back moral truth, the Frege–Geach problem, minimalism about truth</span>
+- [Boas, Franz (1858–1942)](b/boas) · anthropologist<span class="kw">against the comparative method and the stage theories, historical particularism, culture in the plural, the four fields, the immigrant study, opposition to scientific racism</span>
 - [Bohm, David (1917–1992)](b/bohm) · physicist<span class="kw">Bohmian mechanics, the pilot-wave interpretation, hidden variables, the implicate order, wholeness</span>
 - [Bohr, Niels (1885–1962)](b/bohr) · physicist<span class="kw">the Bohr model, complementarity, the Copenhagen interpretation, the Bohr-Einstein debate</span>
 - [Boltzmann, Ludwig (1844–1906)](b/boltzmann) · physicist<span class="kw">statistical mechanics, entropy, the H-theorem, the Boltzmann equation, the arrow of time</span>

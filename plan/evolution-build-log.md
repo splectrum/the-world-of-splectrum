@@ -46,7 +46,7 @@ Tier 1
 | Arnold Toynbee | 3 | `/positioning/persons/t/toynbee/` | built 2026-09-30 |
 | Lewis Henry Morgan | 7 | `/positioning/persons/m/morgan-lh/` | pending (site's `morgan` is Thomas Hunt) |
 | Leslie White | 7 | `/positioning/persons/w/white-l/` | pending |
-| Franz Boas | 7, 11 | `/positioning/persons/b/boas/` | pending |
+| Franz Boas | 7, 11 | `/positioning/persons/b/boas/` | built 2026-09-30 |
 | Peter Turchin | 3, 7, 11 | `/positioning/persons/t/turchin/` | built 2026-09-30 (cultural-evolution page relinked) |
 | Lewis Mumford | 13 | `/positioning/persons/m/mumford/` | built 2026-09-29 |
 | Samuel Alexander | 17 | `/positioning/persons/a/alexander-s/` | pending (emergence bundle links him externally; backfill) |
@@ -78,6 +78,7 @@ Tier 2 — decided when the line comes up
 | Mumford | see-also to Technology | done with page 13 |
 | Spengler | see-also to Toynbee | done with Toynbee page |
 | Eigen | see-also to Chemical evolution | done with page 5 |
+| Boas | see-also to L. H. Morgan and L. White | pending (with their pages) |
 
 ## Index entries
 
@@ -96,6 +97,7 @@ Tier 2 — decided when the line comes up
 | Persons A–Z | Turchin | built 2026-09-30 |
 | Persons A–Z | Chaisson | built 2026-09-30 |
 | Persons A–Z | Eigen | built 2026-09-30 |
+| Persons A–Z | Boas | built 2026-09-30 |
 
 ## Closing steps (when all pages exist)
 
