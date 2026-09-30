@@ -371,6 +371,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Watson, John B. (1878–1958)](w/watson) · psychologist, founder of behaviourism<span class="kw">the behaviourist manifesto, methodological behaviourism, classical conditioning in humans, Little Albert, radical environmentalism</span>
 - [Wheeler, David (1927–2004)](w/wheeler-d) · computer scientist<span class="kw">the first assembler, the invention of the subroutine, the Wheeler jump, the EDSAC</span>
 - [Wheeler, John Archibald (1911–2008)](w/wheeler) · physicist<span class="kw">"it from bit", geometrodynamics, the delayed-choice experiment, the participatory universe, quantum gravity</span>
+- [White, Leslie (1900–1975)](w/white-l) · anthropologist<span class="kw">neo-evolutionism, the energy law of cultural evolution, the symbol, culturology, the critique of Boas</span>
 - [Whitehead, Alfred North (1861–1947)](w/whitehead) · philosopher, mathematician<span class="kw">process, actual occasions, creativity, prehension</span>
 - [Wiener, Norbert (1894–1964)](w/wiener) · mathematician<span class="kw">cybernetics, feedback, communication and control, the Macy conferences, the human use of human beings</span>
 - [Williams, Bernard (1929–2003)](w/williams-b) · philosopher<span class="kw">the critique of moral theory, internal reasons, moral luck, Ethics and the Limits of Philosophy, the rejection of the ergon</span>

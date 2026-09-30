@@ -43,4 +43,4 @@ The kinship argument was contested from the start. John Ferguson McLennan, whose
 
 ---
 
-See also: [Evolution](/positioning/subjects/e/evolution/) · [Deep time and evolution](/positioning/subjects/p/philosophy-of-history/deep-time-and-evolution/) · [Boas](/positioning/persons/b/boas/) · [Spencer](/positioning/persons/s/spencer/) · [Marx](/positioning/persons/m/marx/)
+See also: [Evolution](/positioning/subjects/e/evolution/) · [Deep time and evolution](/positioning/subjects/p/philosophy-of-history/deep-time-and-evolution/) · [Boas](/positioning/persons/b/boas/) · [Spencer](/positioning/persons/s/spencer/) · [Marx](/positioning/persons/m/marx/) · [L. White](/positioning/persons/w/white-l/)
