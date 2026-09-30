@@ -326,6 +326,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Sober, Elliott (1948–)](s/sober) · philosopher of biology<span class="kw">multilevel selection, units-of-selection debate, the nature of natural selection, parsimony, selection-of vs selection-for</span>
 - [Solé, Ricard (1962–)](s/sole) · complex systems scientist<span class="kw">liquid brains, solid brains, criticality, phase transitions</span>
 - [Spencer, Herbert (1820–1903)](s/spencer) · philosopher, sociologist<span class="kw">synthetic philosophy, survival of the fittest, social organism, evolution as universal principle</span>
+- [Spengler, Oswald (1880–1936)](s/spengler) · philosopher of history<span class="kw">The Decline of the West, cultures as organisms, morphology after Goethe, culture and civilisation, the prime symbol, contemporaneity, pseudomorphosis, Man and Technics</span>
 - [Sperber, Dan (1942–)](s/sperber) · cognitive scientist, anthropologist<span class="kw">epidemiology of representations, relevance theory, the critique of memetics, cultural attraction</span>
 - [Spinoza, Baruch (1632–1677)](s/spinoza) · philosopher<span class="kw">substance monism, determination as negation, conatus</span>
 - [Stebbins, G. Ledyard (1906–2000)](s/stebbins) · botanist, geneticist<span class="kw">Variation and Evolution in Plants, polyploidy, hybridisation, plant speciation, Modern Synthesis</span>

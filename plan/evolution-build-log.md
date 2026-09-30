@@ -42,7 +42,7 @@ Tier 1
 | Donald T. Campbell | 14, 20 | `/positioning/persons/c/campbell/` | built 2026-09-29 (criterion page relinked internally) |
 | Eric Chaisson | 4 | `/positioning/persons/c/chaisson/` | pending |
 | Manfred Eigen | 5 | `/positioning/persons/e/eigen/` | pending |
-| Oswald Spengler | 3 | `/positioning/persons/s/spengler/` | pending |
+| Oswald Spengler | 3 | `/positioning/persons/s/spengler/` | built 2026-09-30 |
 | Arnold Toynbee | 3 | `/positioning/persons/t/toynbee/` | pending |
 | Lewis Henry Morgan | 7 | `/positioning/persons/m/morgan-lh/` | pending (site's `morgan` is Thomas Hunt) |
 | Leslie White | 7 | `/positioning/persons/w/white-l/` | pending |
@@ -76,6 +76,7 @@ Tier 2 — decided when the line comes up
 | Lewontin | link to the criterion page | pending |
 | Schleicher | see-also to Language change | done with page 10 |
 | Mumford | see-also to Technology | done with page 13 |
+| Spengler | see-also to Toynbee | pending (with Toynbee page) |
 
 ## Index entries
 
@@ -89,6 +90,7 @@ Tier 2 — decided when the line comes up
 | Persons A–Z | Nelson | built 2026-09-29 |
 | Persons A–Z | Mumford | built 2026-09-29 |
 | Persons A–Z | Mokyr | built 2026-09-29 |
+| Persons A–Z | Spengler | built 2026-09-30 |
 
 ## Closing steps (when all pages exist)
 

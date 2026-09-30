@@ -39,7 +39,7 @@ The subject's two questions keep returning to each other. Any claim that history
 - [G. W. F. Hegel](/positioning/persons/h/hegel/) — history as the progress of the consciousness of freedom
 - [Karl Marx](/positioning/persons/m/marx/) — modes of production; class struggle as motor
 - [Auguste Comte](https://plato.stanford.edu/entries/comte/) (1798–1857) — the law of three stages
-- [Oswald Spengler](https://en.wikipedia.org/wiki/Oswald_Spengler) (1880–1936) and [Arnold Toynbee](https://en.wikipedia.org/wiki/Arnold_J._Toynbee) (1889–1975) — morphologies of civilisations
+- [Oswald Spengler](/positioning/persons/s/spengler/) (1880–1936) and [Arnold Toynbee](https://en.wikipedia.org/wiki/Arnold_J._Toynbee) (1889–1975) — morphologies of civilisations
 - [Francis Fukuyama](https://en.wikipedia.org/wiki/Francis_Fukuyama) (1952–) — *The End of History and the Last Man*; the Hegelian line revived
 - [Friedrich Nietzsche](/positioning/persons/n/nietzsche/) — the uses and disadvantages of history for life
 - [Wilhelm Dilthey](/positioning/persons/d/dilthey/) — understanding, historicity, the human sciences
