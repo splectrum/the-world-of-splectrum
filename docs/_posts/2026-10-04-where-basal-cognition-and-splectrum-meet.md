@@ -3,7 +3,7 @@ layout: post
 title: "Where Basal Cognition and SPLectrum Meet"
 date: 2026-10-04
 lastmod: 2026-09-22
-labels: [positioning, philosophy]
+labels: [language, science]
 description: "The research field on cognition without brains and SPLectrum arrive at the same open ground from different directions — and the field's cases turn out to be small studies in meaning: languages of experience and interaction, in beings with no neurons at all."
 status: ready
 words: 630
@@ -28,7 +28,7 @@ Each of these is a being with its own language — partial in reach, contingent 
 
 The full reading — the cases worked in detail, and their importance to SPLectrum — is in the reference library, at [basal cognition in close affinity](/positioning/close-affinity/basal-cognition/). The short version fits in a sentence: the field has the cases, worked from the organisms outward, and SPLectrum has an account of cognition that never asked for a brain. Neither was built for the other, which is what makes the fit worth looking at.
 
-<small>This post is part of the [positioning series](/blog/label/positioning/). See also the reference entries on <a href="/positioning/close-affinity/basal-cognition/">basal cognition in close affinity</a> and <a href="/positioning/subjects/b/basal-cognition/">the basal cognition subject</a>.</small>
+<small>This post is part of the [language series](/blog/label/language/). See also the reference entries on <a href="/positioning/close-affinity/basal-cognition/">basal cognition in close affinity</a> and <a href="/positioning/subjects/b/basal-cognition/">the basal cognition subject</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@europeana">Europeana</a> / Unsplash</small>
