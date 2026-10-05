@@ -41,6 +41,10 @@ Two readings of this history stand against each other. Peter Bowler, in "The Cha
 
 What the word came to mean inside biology was fixed later, and biologists dispute the fixing: the population-genetic definition, change in the frequency of alleles from one generation to the next, is the modern synthesis's, and [Mayr](/positioning/persons/m/mayr/) called the formula "misleading". That argument belongs to the biology page of this subject.
 
+## The word abroad
+
+Where the word was translated, the receiving languages chose words with a direction in them. Yan Fu rendered [Huxley](/positioning/persons/h/huxley/)'s *Evolution and Ethics* as *Tianyan lun* (1898), coining 天演 from "heaven" and "develop, unfold"; within a decade Chinese writers were weighing it against the Japanese 進化, and the Japanese word won. 進化 *shinka*, "advance" and "change", is first attested in 1878 and was fixed by 1881; in 1902 Ōhara Shōichi warned that *shinka* and *shinpo*, progress, are not synonyms, since things both progress and degenerate. Ottoman writers of the 1890s settled on *tekâmül*, "perfecting". Arabic used *taraqqī* and *irtiqāʾ*, "ascent", and *nushūʾ*, "growth", before the modern *taṭawwur*, from *ṭawr*, "stage". Hindi uses *vikās*, "development, growth".
+
 ---
 
 See also: [Evolution](/positioning/subjects/e/evolution/) (the subject landing) · [Progress and direction](/positioning/subjects/e/evolution/progress-and-direction/) · [The criterion](/positioning/subjects/e/evolution/the-criterion/) · [Darwinism](/positioning/subjects/d/darwinism/) · [Spencer](/positioning/persons/s/spencer/) · [Huxley](/positioning/persons/h/huxley/) · [Lyell](/positioning/persons/l/lyell/) · [Darwin](/positioning/persons/d/darwin/)

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-05
 title: "Evolution in Metaphysics"
-description: "Evolution as a word of metaphysics — Peirce's three modes of evolution by chance, necessity and love, Bergson's creative evolution against mechanism and finalism alike, the emergent evolution of Alexander and Lloyd Morgan, Whitehead's philosophy of organism, and Teilhard's evolution toward the Omega Point."
+description: "Evolution as a word of metaphysics — Peirce's three modes of evolution by chance, necessity and love, Bergson's creative evolution against mechanism and finalism alike, the emergent evolution of Alexander and Lloyd Morgan, Whitehead's philosophy of organism, Teilhard's evolution toward the Omega Point, and Aurobindo's evolution as the reverse of involution."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Evolution](/positioning/subjects/e/evolution/) > Evolution in metaphysics
@@ -30,6 +30,10 @@ Around the turn of the twentieth century several philosophers made evolution a p
 ## Teilhard's Omega Point
 
 The Jesuit palaeontologist Pierre Teilhard de Chardin, in *Le Phénomène humain* (written 1938–40, published 1955), gave the arrow reading a theological form: evolution is a rise in complexity accompanied by a rise in consciousness, from matter through life to humanity and the layer of thought he called the noosphere, converging on a final point of unity, the Omega Point, which he identified with Christ. The book divided biologists. [Julian Huxley](/positioning/persons/h/huxley-j/) wrote the introduction to its English translation (1959), and [Theodosius Dobzhansky](/positioning/persons/d/dobzhansky/) defended Teilhard's reading of evolution as directional and gave it a place in his own thought. [Peter Medawar](/positioning/persons/m/medawar/)'s review in *Mind* (1961) held that "the greater part of it, I shall show, is nonsense, tricked out with a variety of metaphysical conceits, and its author can be excused of dishonesty only on the grounds that before deceiving others he has taken great pains to deceive himself."
+
+## Aurobindo's involution
+
+[Sri Aurobindo](https://en.wikipedia.org/wiki/Sri_Aurobindo)'s *The Life Divine* (1939–40) takes the word as his own and sets involution before it: Spirit is involved in Matter, and evolution is its manifestation through Life and Mind to Overmind and Supermind. "Evolution is an inverse action of the involution: what is an ultimate and last derivation in the involution is the first to appear in the evolution."
 
 ---
 
