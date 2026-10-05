@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-09-29
+lastmod: 2026-10-05
 title: "Evolutionary Computation"
 description: "Evolution as a method of computing — Turing's child machine, the early simulations, evolutionary programming, evolution strategies, Holland's genetic algorithms and genetic programming: the word applied to a process designed to have every ingredient of the Darwinian recipe."
 ---
@@ -9,7 +9,7 @@ description: "Evolution as a method of computing — Turing's child machine, the
 
 # Evolutionary Computation
 
-In computing, "evolution" names a method: a population of candidate solutions is varied, the variants are scored, and the better ones are kept and varied again. It is the home of the word where every ingredient of the Darwinian recipe, heredity included, is chosen by the designer; its nearest neighbours, breeders' artificial selection and the directed evolution of molecules in the laboratory, for which Frances Arnold shared the Nobel Prize in Chemistry in 2018, are built on purpose too but work with biological heredity.
+In computing, "evolution" names a method: a population of candidate solutions is varied, the variants are scored, and the better ones are kept and varied again. It is the home of the word where every ingredient of the Darwinian recipe, heredity included, is chosen by the designer; its nearest neighbours, breeders' artificial selection and the directed evolution of molecules in the laboratory are built on purpose too but work with biological heredity.
 
 ## Origins
 
@@ -17,7 +17,7 @@ In computing, "evolution" names a method: a population of candidate solutions is
 
 ## Four methods
 
-Four programmes grew up largely independently in the 1960s. Lawrence Fogel's evolutionary programming, set out with Owens and Walsh in *Artificial Intelligence through Simulated Evolution* (1966), evolved finite-state machines that predicted sequences. Ingo Rechenberg and Hans-Paul Schwefel's evolution strategies, begun in Berlin in 1964 and first run with dice, optimised engineering designs by mutation and selection. [John Holland](/positioning/persons/h/holland/)'s genetic algorithms, formalised in *Adaptation in Natural and Artificial Systems* (1975), added recombination of strings and a theory of why it works, the schema theorem. John Koza's genetic programming (1992) evolved computer programs themselves. The umbrella term "evolutionary computation" came into use in the early 1990s, when the programmes began to share conferences and journals. Their mechanisms and theory are set out under [Complex adaptive systems: methodologies](/positioning/subjects/c/complex-adaptive-systems/methodologies/).
+Four programmes grew up largely independently in the 1960s. Lawrence Fogel's evolutionary programming, set out with Owens and Walsh in *Artificial Intelligence through Simulated Evolution* (1966), evolved finite-state machines that predicted sequences. Ingo Rechenberg and Hans-Paul Schwefel's evolution strategies, begun in Berlin in 1964, optimised engineering designs by mutation and selection. [John Holland](/positioning/persons/h/holland/)'s genetic algorithms, formalised in *Adaptation in Natural and Artificial Systems* (1975), added recombination of strings and a theory of why it works, the schema theorem. John Koza's genetic programming (1992) evolved computer programs themselves. The umbrella term "evolutionary computation" came into use in the early 1990s, when the programmes began to share conferences and journals. Their mechanisms and theory are set out under [Complex adaptive systems: methodologies](/positioning/subjects/c/complex-adaptive-systems/methodologies/).
 
 ## The apparatus by design
 

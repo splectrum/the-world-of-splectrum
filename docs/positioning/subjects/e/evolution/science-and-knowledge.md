@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-09-29
+lastmod: 2026-10-05
 title: "Science and Knowledge"
 description: "Evolution applied to knowledge and to science itself — Popper's natural selection of hypotheses, Campbell's blind variation and selective retention, Toulmin's populations of concepts, Kuhn's closing analogy, Hull's selection process in science, and the two programmes of evolutionary epistemology."
 ---
@@ -13,7 +13,7 @@ Philosophers of science have used "evolution" for the growth of knowledge in two
 
 ## Popper's natural selection of hypotheses
 
-[Karl Popper](/positioning/persons/p/popper/)'s *Objective Knowledge: An Evolutionary Approach* (1972) described the growth of knowledge as "the result of a process closely resembling what Darwin called 'natural selection'; that is, the natural selection of hypotheses". Conjectures are the variants and criticism and testing the selection; "from the amoeba to Einstein, the growth of knowledge is always the same", with the difference that the amoeba perishes with its mistaken theory while a scientist can discard the theory and survive. In "Natural Selection and the Emergence of Mind" (1978) he put it in one line: "Let our conjectures, our theories, die in our stead!" The same lecture withdrew his earlier judgement, set out in *Unended Quest* (1976), that Darwinism was not a testable theory but a metaphysical research programme: "I have changed my mind about the testability and the logical status of the theory of natural selection; and I am glad to have an opportunity to make a recantation."
+[Karl Popper](/positioning/persons/p/popper/)'s *Objective Knowledge: An Evolutionary Approach* (1972) described the growth of knowledge as "the result of a process closely resembling what Darwin called 'natural selection'; that is, the natural selection of hypotheses". Conjectures are the variants and criticism and testing the selection; "from the amoeba to Einstein, the growth of knowledge is always the same", with the difference that the amoeba perishes with its mistaken theory while a scientist can discard the theory and survive. In "Natural Selection and the Emergence of Mind" (1978) he put it in one line: "Let our conjectures, our theories, die in our stead!"
 
 ## Campbell's blind variation and selective retention
 
@@ -21,7 +21,7 @@ Philosophers of science have used "evolution" for the growth of knowledge in two
 
 ## Toulmin's populations of concepts
 
-[Stephen Toulmin](https://en.wikipedia.org/wiki/Stephen_Toulmin)'s *Human Understanding* (1972) treated a scientific discipline as a population of concepts that changes over time as variants are proposed and some are taken up, in an "intellectual ecology" that sets what counts as success. The unit was the concept rather than the theory, and the standards of rationality were themselves local to the discipline and subject to the same change. David Hull reviewed the book in *Science* as "a populational approach to scientific change".
+[Stephen Toulmin](https://en.wikipedia.org/wiki/Stephen_Toulmin)'s *Human Understanding* (1972) treated a scientific discipline as a population of concepts that changes over time as variants are proposed and some are taken up, in an "intellectual ecology" that sets what counts as success. The unit was the concept rather than the theory, and the standards of rationality were themselves local to the discipline and subject to the same change.
 
 ## Kuhn's closing analogy
 

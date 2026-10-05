@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 title: "Social Evolutionism and the Stage Schemes"
 description: "The history of human society as a sequence of stages — Comte's three stages, Spencer's militant and industrial societies, Tylor and Morgan's ladder keyed to subsistence, Boas's break, the neo-evolutionist return in White, Steward, Sahlins and Service, Service's band to state and Lenski's technological information, and Childe's chosen word, revolution."
 ---
@@ -25,7 +25,7 @@ Auguste Comte's law of three stages, in the *Cours de philosophie positive* (183
 
 ## Revolution
 
-The archaeologist V. Gordon Childe kept the sequence and changed the word. *Man Makes Himself* (1936) and *What Happened in History* (1942) described a Neolithic Revolution, the beginning of farming, and an Urban Revolution, the rise of cities, writing and the state, which corresponded largely to Morgan's civilisation. Childe chose "revolution" deliberately, and defended the word in his presidential address to the Prehistoric Society in 1935.
+The archaeologist V. Gordon Childe kept the sequence and changed the word. *Man Makes Himself* (1936) and *What Happened in History* (1942) described a Neolithic Revolution, the beginning of farming, and an Urban Revolution, the rise of cities, writing and the state, which corresponded largely to Morgan's civilisation. Childe chose "revolution" deliberately.
 
 ## The border
 

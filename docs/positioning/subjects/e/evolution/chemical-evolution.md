@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 title: "Chemical Evolution"
 description: "Chemical evolution as the period of rising molecular complexity before life — Oparin and Haldane, Miller and Urey, Calvin's four evolutions and his autocatalytic selection, and Eigen's derivation of Darwinian selection among replicating molecules, where the unfolding sense hands over to descent."
 ---
@@ -13,7 +13,7 @@ description: "Chemical evolution as the period of rising molecular complexity be
 
 ## The soup
 
-In the 1920s Alexander Oparin (1924) and [J. B. S. Haldane](/positioning/persons/h/haldane/) (1929), independently, proposed that life arose from organic compounds formed in the early oceans under an atmosphere without oxygen, energised by lightning or ultraviolet light, which Haldane called a "hot dilute soup". In 1953 Stanley Miller, working with Harold Urey, passed electric sparks through a mixture of gases standing in for that atmosphere and obtained amino acids, and the synthesis of life's building blocks became an experimental programme. Later geochemistry questioned the premise: if the early atmosphere was dominated by carbon dioxide and nitrogen rather than methane and ammonia, as many geochemists came to think, the same experiments yield far less.
+In the 1920s Alexander Oparin (1924) and [J. B. S. Haldane](/positioning/persons/h/haldane/) (1929), independently, proposed that life arose from organic compounds formed in the early oceans under an atmosphere without oxygen, energised by lightning or ultraviolet light, which Haldane called a "hot dilute soup". In 1953 Stanley Miller, working with Harold Urey, passed electric sparks through a mixture of gases standing in for that atmosphere and obtained amino acids, and the synthesis of life's building blocks became an experimental programme.
 
 ## Calvin's four evolutions
 
@@ -21,7 +21,7 @@ The chemist Melvin Calvin gave the stretch its best-known formulation. In "Chemi
 
 ## Eigen's molecular selection
 
-[Manfred Eigen](/positioning/persons/e/eigen/)'s "Selforganization of Matter and the Evolution of Biological Macromolecules" (1971) derived Darwinian selection mathematically from the kinetics of self-replicating molecules: where molecules copy themselves with errors and compete for resources, the variants that copy best take over. Selection needs no organism, only replication, variation and limited supply. Eigen found a limit in the same equations, the error threshold, which caps the length of sequence that imprecise copying can maintain, and proposed the hypercycle, a cycle of mutually supporting replicators developed with Peter Schuster, as the way past it. [John Maynard Smith](/positioning/persons/m/maynard-smith/) (1979) objected that such cycles are open to parasites, and the question moved to compartments and spatial structure.
+[Manfred Eigen](/positioning/persons/e/eigen/)'s "Selforganization of Matter and the Evolution of Biological Macromolecules" (1971) derived Darwinian selection mathematically from the kinetics of self-replicating molecules: where molecules copy themselves with errors and compete for resources, the variants that copy best take over. Selection needs no organism, only replication, variation and limited supply. Eigen found a limit in the same equations, the error threshold, which caps the length of sequence that imprecise copying can maintain, and proposed the hypercycle, a cycle of mutually supporting replicators developed with Peter Schuster, as the way past it.
 
 ## Where the senses meet
 

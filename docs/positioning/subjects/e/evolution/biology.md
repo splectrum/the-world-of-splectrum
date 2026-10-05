@@ -1,8 +1,8 @@
 ---
 layout: default
-lastmod: 2026-09-29
+lastmod: 2026-10-05
 title: "Evolution in Biology"
-description: "What biologists mean by evolution, as distinct from the theory that explains it — the population-genetic definition and the argument over it, Mayr, Futuyma, Endler and Van Valen, Mayr's evolution as such, the Dobzhansky attribution, and von Baer's embryology as the other root."
+description: "What biologists mean by evolution, as distinct from the theory that explains it — the population-genetic definition and the argument over it, Mayr, Futuyma, Endler and Van Valen, Mayr's evolution as such, and von Baer's embryology as the other root."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Evolution](/positioning/subjects/e/evolution/) > Evolution in biology
@@ -13,7 +13,7 @@ Biologists distinguish evolution, the fact that populations of organisms change 
 
 ## The population-genetic definition
 
-The definition most often given in textbooks is the one the modern synthesis made possible: evolution is any change in the frequency of alleles within a population from one generation to the next. It is usually credited to [Theodosius Dobzhansky](/positioning/persons/d/dobzhansky/)'s *Genetics and the Origin of Species* (1937), which treated evolution as change in the genetic composition of populations and its mechanisms as problems of population genetics; the exact allele-frequency wording that circulates under his name, with its reference to a gene pool, has not been traced to the book.
+The definition most often given in textbooks is the one the modern synthesis made possible: evolution is any change in the frequency of alleles within a population from one generation to the next. It is usually credited to [Theodosius Dobzhansky](/positioning/persons/d/dobzhansky/)'s *Genetics and the Origin of Species* (1937), which treated evolution as change in the genetic composition of populations and its mechanisms as problems of population genetics.
 
 ## The argument over it
 
