@@ -13,7 +13,7 @@ You do research for the SPLectrum site (Jekyll, under `docs/`). Your output is a
 - Read `tone-of-voice/positioning-section.md` ("Headlines, not details"; person-page scope; who earns a person page) and `process/backing-flows-down.md`.
 - For keyword work, read `process/keyword-doorways.md` (rule 5: check the word).
 - Check what the site already holds: grep `docs/` for every name and topic before researching it. Report existing pages and slugs, and watch for same-surname collisions.
-- Use an existing note as the model for format, e.g. `plan/evolution-nonwestern-research.md`.
+- Use an existing note as the model for format, e.g. `plan/evolution-follow-on-nonwestern-research.md`.
 
 ## Discipline
 
