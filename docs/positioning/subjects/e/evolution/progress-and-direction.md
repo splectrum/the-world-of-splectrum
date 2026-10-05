@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-09-29
+lastmod: 2026-10-05
 title: "Progress and Direction"
 description: "Whether evolution goes anywhere — Spencer's law of progress, Darwin's own text on both sides, the twentieth-century argument from Julian Huxley to Gould and Ruse and the Richards–Lewontin exchange, Nisbet on the growth metaphor, and recurrence as the pole the arrow is defined against."
 ---
@@ -39,7 +39,9 @@ Robert Nisbet's *Social Change and History* (1969) put the whole question one le
 
 ## The contrary: recurrence
 
-The arrow is defined against a pole, and the pole has a history of its own. Hutton's world-machine, in the geology of the 1780s, ran in cycles of uplift and erosion with "no vestige of a beginning, no prospect of an end". [Lyell](/positioning/persons/l/lyell/)'s steady state was his case against progression in the fossil record, a world in which the ages might return and iguanodons with them. Gould's [*Time's Arrow, Time's Cycle*](https://en.wikipedia.org/wiki/Time%27s_Arrow,_Time%27s_Cycle) (1987) read Burnet, Hutton and Lyell as the discovery of deep time under two governing metaphors: the arrow, in which each event is unique and sequence carries meaning, and the cycle, in which meaning comes from lawfulness and return. None of those authors called their cycles evolution, and Lyell's one use of the word was his hostile summary of Lamarck.
+The arrow is defined against a pole, and the pole has a history of its own. Its oldest Western statements are Greek, and they are cycles of the whole cosmos. [Heraclitus](/positioning/persons/h/heraclitus/)'s fragment B30 describes a world-order "no god or human made", which "was always, is, and will be: fire ever-living, kindled in measures, quenched in measures". [Empedocles](/positioning/persons/e/empedocles/) set the four elements under Love and Strife, swinging between their complete mixture in the Sphere and their complete separation. The [Stoics](https://plato.stanford.edu/entries/stoicism/) made the return periodic: the cosmos is resolved into fire in a conflagration (*ekpyrosis*) and formed again.
+
+Hutton's world-machine, in the geology of the 1780s, ran in cycles of uplift and erosion with "no vestige of a beginning, no prospect of an end". [Lyell](/positioning/persons/l/lyell/)'s steady state was his case against progression in the fossil record, a world in which the ages might return and iguanodons with them. Gould's [*Time's Arrow, Time's Cycle*](https://en.wikipedia.org/wiki/Time%27s_Arrow,_Time%27s_Cycle) (1987) read Burnet, Hutton and Lyell as the discovery of deep time under two governing metaphors: the arrow, in which each event is unique and sequence carries meaning, and the cycle, in which meaning comes from lawfulness and return. None of those authors called their cycles evolution, and Lyell's one use of the word was his hostile summary of Lamarck.
 
 ---
 

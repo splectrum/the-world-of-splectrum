@@ -8,17 +8,11 @@ Opened 2026-10-01, after the Evolution doorway was built (2026-09-30). Five item
 
 The doorway has no Greek material. The post (§3) leans on it, so it flows down into the reference pages first, checked against the fragments and texts before writing.
 
-**a. Progress and direction — the recurrence head.** The page's recurrence section (Hutton's world-machine, Lyell's steady state, Gould's *Time's Cycle*) gains its Greek head, about 150–200 words: Heraclitus's cosmos as ever-living fire "kindled in measures, quenched in measures", no god or human made, always was, is and will be (B30); Empedocles' cosmic cycle of Love and Strife; the Stoic periodic conflagration, with the dispute over whether Heraclitus held it stated as a dispute.
-
-**b. Additions on existing person pages.** No new subject: the Greek material sits with the thinkers it belongs to (decided 2026-10-01 with Jules; a subject on coming-to-be, and one on teleology, were considered and not taken up).
-- *Aristotle:* *Physics* II.8, where he states the Empedoclean argument — parts that happened to fit survived, the rest perished — and rejects it; *On Coming-to-be and Passing-away*; the eternal heavens. As reception only: Darwin's footnote (fourth edition, 1866) quoting the II.8 argument as though it were Aristotle's own view.
-- *Empedocles:* Aristotle's reply in *Physics* II.8; the reading of the zoogony as an anticipation of selection (Sedley 2016) stated as contested.
-- *Heraclitus:* the ekpyrosis dispute — Aristotle and the Stoics attributing a periodic conflagration, against B30's "ever was and is and will be".
-- Anaximander and Lucretius have no pages; where they are named, they are linked externally.
+**b. Person-page additions — built 2026-10-05** (Empedocles, Aristotle, Heraclitus). Anaximander and Lucretius have no pages; where named, they are linked externally.
 
 Guard: no priority claims, the same guard as §2 — the Greeks answer their own question, not Darwin's.
 
-**c. Person pages for discussion.** Anaximander, Parmenides, Lucretius — proposals only, not admitted by listing; the call is made with Jules on importance.
+**c. Person pages — decided 2026-10-05:** Anaximander and Lucretius stay external (Anaximander's material is doxography read anachronistically as proto-evolution; Lucretius can be linked externally from the post). Parmenides is decided with the Being and becoming candidate (`scheduled-tasks.md`). No Presocratics subject (a contested period label; the territory is being and becoming).
 
 **Checks (done 2026-10-01; wording as found, sources in brackets).**
 - *Heraclitus B30:* "This world-order [*kosmos*], the same of all, no god nor man did create, but it ever was and is and will be: everliving fire, kindling in measures and being quenched in measures." [Stanford Encyclopedia, "Heraclitus"]
@@ -28,7 +22,7 @@ Guard: no priority claims, the same guard as §2 — the Greeks answer their own
 - *Lucretius, De rerum natura* (W. E. Leonard translation): V, the early monsters "powerless were they to reach unto / The coveted flower of fair maturity, / Or to find aliment, or to intertwine / In works of Venus", and many stocks perished, "unable / By propagation to forge a progeny"; IV, "naught is born in body so that we / May use the same, but birth engenders use". Line numbers (about V.837ff., IV.823ff.) still to be confirmed against a numbered text. [Project Gutenberg 785]
 - *Timaeus:* the Craftsman, "imitating an unchanging and eternal model, imposes mathematical order on a preexistent chaos"; the cosmos is a living thing with soul and intelligence; the governing principle is teleological. [Stanford Encyclopedia, "Plato's Timaeus"]
 - *Physics II.8* (Hardie and Gaye): Aristotle states the opposing argument — "Wherever then all the parts came about just what they would have been if they had come be for an end, such things survived, being organized spontaneously in a fitting way; whereas those which grew otherwise perished and continue to perish, as Empedocles says his 'man-faced ox-progeny' did" — and rejects it: "Yet it is impossible that this should be the true view." [MIT Internet Classics Archive]
-- *Darwin's footnote:* first appears in the fourth edition of the *Origin* (1866; absent from the third, 1861; present in the sixth, 1872). It quotes the II.8 argument in Clair Grece's translation and comments: "We here see the principle of natural selection shadowed forth, but how little Aristotle fully comprehended the principle, is shown by his remarks on the formation of the teeth." Reception point: Darwin quotes as Aristotle's view the argument Aristotle states in order to reject it. [Origin texts on archive.org and Project Gutenberg]
+- *Darwin's footnote:* first appears in the fourth edition of the *Origin* (1866; absent from the third, 1861; present in the sixth, 1872). It quotes the II.8 argument in Clair Grece's translation and comments: "We here see the principle of natural selection shadowed forth, but how little Aristotle fully comprehended the principle, is shown by his remarks on the formation of the teeth." Reception point: Darwin quotes as Aristotle's view the argument Aristotle states in order to reject it. Rechecked 2026-10-05 (sixth edition, Gutenberg 2009; SEP "Aristotle on Causality" for the structure of II.8): the teeth example is inside the opponent's argument (198b23–32), so Darwin's fault-finding with "his remarks on the formation of the teeth" confirms he read the argument as Aristotle's own. The 10-05 reframing ("Darwin saw Aristotle did not hold it") was wrong and is withdrawn. [Origin texts on archive.org and Project Gutenberg]
 
 ---
 
@@ -49,6 +43,8 @@ Guard: no priority claims, the same guard as §2 — the Greeks answer their own
 - **Backing governs placement.** Decide the destination after the round: a paragraph on existing pages (The word, Progress and direction, Evolution in metaphysics, Civilisation as morphology), a new line page, or the translation-theory bundle for the word's travels. No page by default.
 
 **Optional lens.** For each tradition, note whether its account of change is closed — given in advance, as preformed, cyclical or purposive — or open, in its own terms.
+
+**Placement state (2026-10-05).** The round's note is `plan/evolution-nonwestern-research.md`; its §7 options await review. Progress and direction's recurrence section now has its Greek head (built 2026-10-05, descriptive only); option 4, a non-Western recurrence paragraph there, is decided with the other options, not added by default.
 
 **Output.** A research note with per-claim confirmed/unverified marks, sources, and a placement proposal for review.
 
@@ -94,4 +90,11 @@ Each needs its own backing check before drafting; anything a post says goes onto
 
 ## 5. Register fix — Process philosophy
 
-The subject page's "Where process philosophy stops" contains a sentence saying that none of the tradition makes language the medium through which process is lived and shared. That is the SPLectrum position stated on a subject page. Restate the tradition's own boundaries, as its critics press them, or move the observation to the SPLectrum side.
+The subject page's "Where process philosophy stops" contains a sentence saying that none of the tradition makes language the medium through which process is lived and shared. That is the SPLectrum position stated on a subject page. Restate the tradition's own boundaries, as its critics press them, or move the observation to the SPLectrum side. Destination for the observation, if moved: the planned Being and becoming seed-ring piece (`scheduled-tasks.md`), where the position speaks.
+
+---
+
+## 6. Doorway design questions (recorded, not scheduled)
+
+- **The scala naturae** — from the non-Western research note §7, option 7: the ladder of fixed kinds is the thing most often mistaken for evolution's arrow, and the doorway does not name it.
+- **Drift — change within a persisting kind.** The hub defines the arrow as "aimed or aimless" but every example is aimed (Spencer, the stage schemes, cosmic evolution); the non-Western note found the arrow tacitly upward. Fields name the aimless case themselves: genetic drift (Wright) and Kimura's neutral theory; Sapir's "drift" in *Language* (1921), language moving "down time in a current of its own making" (from memory; check) — absent from the Language change page. Framed as change within a persisting kind, not drift against constancy. The position's reading (evolution in the evolving languages) stays on the reality side.

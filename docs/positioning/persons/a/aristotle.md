@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-10-05
 title: "Aristotle (384–322 BCE)"
 description: "Greek philosopher — teleology, the four causes, virtue ethics, the first systematic biology, the syllogism, substance and form."
 ---
@@ -41,6 +41,8 @@ The four causes work together in biological explanation, where Aristotle's teleo
 
 The relationship between Aristotelian teleology and [Darwinian](/positioning/persons/d/darwin/) natural selection is the deepest tension in the modern reception. Darwin's mechanism explains apparent purpose without final causes: eyes exist not because they are *for* seeing but because organisms with better eyes outreproduced those with worse ones. Whether this eliminates teleology or merely reinterprets it — whether natural selection is the efficient cause of features that genuinely have final causes, or whether "function" in biology is a useful shorthand for "consequence of selection" — is debated between eliminativists and neo-Aristotelian naturalists.
 
+Aristotle argued against the alternative himself, in *Physics* II.8. Rain does not fall in order to make the corn grow; why should the parts of animals not be the same, the front teeth growing sharp and the molars broad by necessity, with the animal surviving when they happen to suit it? He gives the argument the form he associates with [Empedocles](/positioning/persons/e/empedocles/): "Wherever then all the parts came about just what they would have been if they had come be for an end, such things survived, being organized spontaneously in a fitting way; whereas those which grew otherwise perished and continue to perish". And he rejects it: "Yet it is impossible that this should be the true view." What comes about always or for the most part, as the teeth do, is not the work of chance, and coincidence does not explain a regularity; the final cause does. The world itself, on his account, has no beginning: change presupposes earlier change, so motion has no first moment (*Physics* VIII), and the species are eternal.
+
 ---
 
 ## Metaphysics — substance, form, actuality
@@ -57,9 +59,11 @@ Aristotle rejects [Plato's](/positioning/persons/p/plato/) theory of separately 
 
 Aristotle was the first systematic biologist. His biological works — *Historia Animalium* ("Inquiry into Animals"), *De Partibus Animalium* ("On the Parts of Animals"), *De Generatione Animalium* ("On the Generation of Animals") — classify, describe, and explain the anatomy, physiology, reproduction, and behaviour of over 500 animal species. The observations are based on direct dissection and field study, much of it conducted on Lesbos. The scope and accuracy of the work were not surpassed for nearly two thousand years.
 
-The classificatory scheme distinguishes animals by blood (roughly: vertebrates and invertebrates), by habitat, by mode of reproduction, and by structural features. The classification is not a taxonomy in the modern sense — Aristotle did not have a theory of species as fixed natural kinds — but it provided the framework for biological classification until Linnaeus. The explanatory method is functional: parts are explained by what they do, and animals are compared by how the same function is achieved with different structures (homology, in later terminology, though Aristotle did not have the concept of common descent).
+The classificatory scheme distinguishes animals by blood (roughly: vertebrates and invertebrates), by habitat, by mode of reproduction, and by structural features. The classification is not a taxonomy in the modern sense — his terms for kinds are relative, not fixed ranks, though the kinds themselves he held to be eternal and unchanging — but it provided the framework for biological classification until Linnaeus. The explanatory method is functional: parts are explained by what they do, and animals are compared by how the same function is achieved with different structures (homology, in later terminology, though Aristotle did not have the concept of common descent).
 
 [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) acknowledged the debt: "Linnaeus and Cuvier have been my two gods, though in very different ways; but they were mere schoolboys to old Aristotle."
+
+Darwin returned to Aristotle in a footnote added to the fourth edition of the *Origin* (1866), quoting the *Physics* II.8 argument in Clair Grece's translation: "We here see the principle of natural selection shadowed forth, but how little Aristotle fully comprehended the principle, is shown by his remarks on the formation of the teeth." The remarks on the teeth belong to the argument Aristotle states in order to reject; the footnote reads it as his own view.
 
 ---
 

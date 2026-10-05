@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-28
+lastmod: 2026-10-05
 title: "Heraclitus (c. 535–c. 475 BCE)"
 description: "Heraclitus saw flux and constancy as inseparable — the river stays the same because the water flows. The logos holds."
 ---
@@ -17,7 +17,7 @@ Heraclitus put constancy-through-flux at the centre of thinking two and a half t
 
 ## Key concepts
 
-**Flux and constancy.** The famous line — *you cannot step in the same river twice* — is probably not what Heraclitus said. The fragment with the strongest claim to authenticity (B12) says: *on those stepping into the same rivers, ever-different waters flow.* The rivers are the same. The waters are different. Both in the same breath. The river is a river precisely because the water flows through it — stop the flow and it ceases to be a river. Change is not the enemy of persistence; it is its condition.
+**Flux and constancy.** The famous line — *you cannot step in the same river twice* — is Plato's paraphrase (*Cratylus* 402a), probably not what Heraclitus said. The fragment with the strongest claim to authenticity (B12) says: *on those stepping into the same rivers, ever-different waters flow.* The rivers are the same. The waters are different. Both in the same breath. The river is a river precisely because the water flows through it — stop the flow and it ceases to be a river. Change is not the enemy of persistence; it is its condition.
 
 **Unity of opposites.** "The road up and the road down are one and the same." "Disease makes health pleasant; hunger, satiety; weariness, rest." Opposites do not merely coexist — they require each other. Each is what it is only through its relation to the other. Day and night, life and death, waking and sleeping — Heraclitus treated these not as contraries but as aspects of a single process.
 

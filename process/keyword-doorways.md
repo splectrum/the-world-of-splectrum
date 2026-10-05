@@ -40,6 +40,7 @@ Keywords, and the state of each doorway. To be kept current; not every keyword w
 - **Emergence** — built. Eight-page bundle: landing, the types, paradigm cases, the field's own sortings, relation with mechanism, the overviews, the principals, under other names. Second instance; the one that established the strategy is reusable.
 - **Belonging** — next. A core value, so the position already holds it central; scoped separately. Backing is thin (Durkheim, Moffett, Tomasello, Henrich exist; the social-identity, belongingness and nationalism clusters do not), and the field's own words are membership / group identity / social identity / solidarity — so rule 5 applies.
 - **Evolution** — built 2026-09-30: the doorway at `/positioning/subjects/e/evolution/`, sorted by meaning rather than domain, with the reality page linking to it. The agency/telescopic thread is its living case and proceeds independently.
+- **Being and becoming** — candidate, opened 2026-10-05; see `scheduled-tasks.md`. Rule 5 applies (substance/process, endurance/perdurance, A/B-theory are the field's names in different homes). Its position-side surface is planned as a seed-ring piece.
 - **Privacy**, **creativity** — the other two core values. Unexamined as doorway candidates.
 - **Language**, **meaning**, **experience** — unexamined. Each may already be served by existing subject material rather than needing a doorway; check before scoping.
 
