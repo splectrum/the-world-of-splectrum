@@ -44,7 +44,7 @@ Guard: no priority claims, the same guard as §2 — the Greeks answer their own
 
 **Optional lens.** For each tradition, note whether its account of change is closed — given in advance, as preformed, cyclical or purposive — or open, in its own terms.
 
-**Placement state (2026-10-05).** The round's note is `plan/evolution-nonwestern-research.md`; its §7 options await review. Progress and direction's recurrence section now has its Greek head (built 2026-10-05, descriptive only); option 4, a non-Western recurrence paragraph there, is decided with the other options, not added by default.
+**Placement decided and built 2026-10-05** (checked by a researcher round): the word's travels as "The word abroad" on The word (Chinese, Japanese with Ōhara's shinka/shinpo warning, Ottoman, Arabic, Hindi; no coiner claims where sources disagree); non-Western recurrence (yugas, Aggañña, Nahua suns) after the Greek head on Progress and direction; Aurobindo's involution on Evolution in metaphysics, Aurobindo linked externally. Not taken: translation-theory paragraph, an Anticipations page, the Pāli evolution/devolution point (detail). Scala naturae and drift stay in §6.
 
 **Output.** A research note with per-claim confirmed/unverified marks, sources, and a placement proposal for review.
 
