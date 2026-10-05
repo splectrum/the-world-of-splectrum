@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 title: "Evolution in Metaphysics"
 description: "Evolution as a word of metaphysics — Peirce's three modes of evolution by chance, necessity and love, Bergson's creative evolution against mechanism and finalism alike, the emergent evolution of Alexander and Lloyd Morgan, Whitehead's philosophy of organism, and Teilhard's evolution toward the Omega Point."
 ---
@@ -17,7 +17,7 @@ Around the turn of the twentieth century several philosophers made evolution a p
 
 ## Bergson's creative evolution
 
-[Henri Bergson](/positioning/persons/b/bergson/)'s *L'Évolution créatrice* (1907) rejected both of the explanations of evolution available to him. Mechanism explained living forms by the accumulation of chance variations under selection; finalism explained them by a plan set in advance. Bergson held that the two rest on the same assumption, that everything is given: "Finalism thus understood is only inverted mechanism." Against both he set a vital impetus, the élan vital, which diverges into lines of development, plants and animals, instinct and intelligence, and creates forms that were in no sense contained in what preceded them. Evolution on his account is creation in time, unpredictable in principle, with no plan and no merely mechanical cause. The book made Bergson famous and drew critics on both counts: [Bertrand Russell](/positioning/persons/r/russell/)'s *The Philosophy of Bergson* (1914) attacked its method as anti-intellectual, and Julian Huxley remarked in *Essays of a Biologist* (1923) that explaining evolution by an élan vital was like explaining the movement of a train by an élan locomotif.
+[Henri Bergson](/positioning/persons/b/bergson/)'s *L'Évolution créatrice* (1907) rejected both of the explanations of evolution available to him. Mechanism explained living forms by the accumulation of chance variations under selection; finalism explained them by a plan set in advance. Bergson held that the two rest on the same assumption, that everything is given: "Finalism thus understood is only inverted mechanism." Against both he set a vital impetus, the élan vital, which diverges into lines of development, plants and animals, instinct and intelligence, and creates forms that were in no sense contained in what preceded them. Evolution on his account is creation in time, unpredictable in principle, with no plan and no merely mechanical cause. The book drew critics on both counts: [Bertrand Russell](/positioning/persons/r/russell/) attacked its method as anti-intellectual, and Julian Huxley remarked that explaining evolution by an élan vital was like explaining the movement of a train by an élan locomotif.
 
 ## Emergent evolution
 
