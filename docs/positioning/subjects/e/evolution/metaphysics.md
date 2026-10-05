@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-05
 title: "Evolution in Metaphysics"
-description: "Evolution as a word of metaphysics — Peirce's three modes of evolution by chance, necessity and love, Bergson's creative evolution against mechanism and finalism alike, the emergent evolution of Alexander and Lloyd Morgan, Whitehead's philosophy of organism, and Teilhard's evolution toward the Omega Point."
+description: "Evolution as a word of metaphysics — Peirce's three modes of evolution by chance, necessity and love, Bergson's creative evolution against mechanism and finalism alike, the emergent evolution of Alexander and Lloyd Morgan, Whitehead's philosophy of organism, Teilhard's evolution toward the Omega Point, and Aurobindo's evolution as the reverse of involution."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Evolution](/positioning/subjects/e/evolution/) > Evolution in metaphysics
