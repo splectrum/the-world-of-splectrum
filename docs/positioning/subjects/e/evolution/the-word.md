@@ -39,7 +39,7 @@ Two readings of this history stand against each other. Peter Bowler, in "The Cha
 
 ## The technical definition
 
-What the word came to mean inside biology was fixed later, and biologists dispute the fixing: the population-genetic definition, change in the frequency of alleles from one generation to the next, is the modern synthesis's and [Mayr](/positioning/persons/m/mayr/) called the formula "misleading". That argument belongs to the biology page of this subject.
+What the word came to mean inside biology was fixed later, and biologists dispute the fixing: the population-genetic definition, change in the frequency of alleles from one generation to the next, is the modern synthesis's, and [Mayr](/positioning/persons/m/mayr/) called the formula "misleading". That argument belongs to the biology page of this subject.
 
 ---
 
