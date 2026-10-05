@@ -94,4 +94,4 @@ Each needs its own backing check before drafting; anything a post says goes onto
 
 ## 5. Register fix — Process philosophy
 
-The subject page's "Where process philosophy stops" contains a sentence saying that none of the tradition makes language the medium through which process is lived and shared. That is the SPLectrum position stated on a subject page. Restate the tradition's own boundaries, as its critics press them, or move the observation to the SPLectrum side.
+The subject page's "Where process philosophy stops" contains a sentence saying that none of the tradition makes language the medium through which process is lived and shared. That is the SPLectrum position stated on a subject page. Restate the tradition's own boundaries, as its critics press them, or move the observation to the SPLectrum side. Destination for the observation, if moved: the planned Being and becoming seed-ring piece (`scheduled-tasks.md`), where the position speaks.
