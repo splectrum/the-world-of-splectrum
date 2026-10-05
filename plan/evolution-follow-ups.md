@@ -12,7 +12,7 @@ The doorway has no Greek material. The post (§3) leans on it, so it flows down 
 
 Guard: no priority claims, the same guard as §2 — the Greeks answer their own question, not Darwin's.
 
-**c. Person pages for discussion.** Anaximander, Parmenides, Lucretius — proposals only, not admitted by listing; the call is made with Jules on importance. Parmenides is decided with the Being and becoming candidate (`scheduled-tasks.md`), not here. No Presocratics subject (considered 2026-10-05: a contested period label; the territory is being and becoming).
+**c. Person pages — decided 2026-10-05:** Anaximander and Lucretius stay external (Anaximander's material is doxography read anachronistically as proto-evolution; Lucretius can be linked externally from the post). Parmenides is decided with the Being and becoming candidate (`scheduled-tasks.md`). No Presocratics subject (a contested period label; the territory is being and becoming).
 
 **Checks (done 2026-10-01; wording as found, sources in brackets).**
 - *Heraclitus B30:* "This world-order [*kosmos*], the same of all, no god nor man did create, but it ever was and is and will be: everliving fire, kindling in measures and being quenched in measures." [Stanford Encyclopedia, "Heraclitus"]
