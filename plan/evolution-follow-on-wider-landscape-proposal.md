@@ -1,6 +1,6 @@
 # Proposal: wider landscape piece on evolution
 
-Research basis: `evolution-homes-analysis.md`, which grids every home against the questions below and cross-reads the grid. The findings it numbers are cited here as (A1), (A2), and so on.
+Research basis: `evolution-follow-on-homes-analysis.md`, which grids every home against the questions below and cross-reads the grid. The findings it numbers are cited here as (A1), (A2), and so on.
 
 ## The subject and its centre of gravity
 

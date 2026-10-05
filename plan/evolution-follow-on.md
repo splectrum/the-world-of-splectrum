@@ -36,11 +36,11 @@ The core above, written as a seed-ring piece beside *Being as tension*, linking 
 
 ### Wider-landscape piece — evolution (resonance)
 
-Proposal: `plan/evolution-wider-landscape-proposal.md`, research basis `plan/evolution-homes-analysis.md` (written 2026-10-04, before the headlines-not-details rule; needs that pass before building). Every home asked the same four questions — where change comes from; what changes and what it carries, read from where (along the thing's course, from compared instances, along a lineage, over the whole, by a rule — the centre of gravity); how change gains traction; which homes are coupled. No direction built into the questions; direction as a contingent outcome, not unconstrained. **Conflict to resolve:** the proposal says "no SPLectrum opening statement", but wider-landscape pieces state the position once in the opening (`tone-of-voice/positioning-section.md`). Resolved by the core: its formulation becomes the opening statement.
+Proposal: `plan/evolution-follow-on-wider-landscape-proposal.md`, research basis `plan/evolution-follow-on-homes-analysis.md` (written 2026-10-04, before the headlines-not-details rule; needs that pass before building). Every home asked the same four questions — where change comes from; what changes and what it carries, read from where (along the thing's course, from compared instances, along a lineage, over the whole, by a rule — the centre of gravity); how change gains traction; which homes are coupled. No direction built into the questions; direction as a contingent outcome, not unconstrained. **Conflict to resolve:** the proposal says "no SPLectrum opening statement", but wider-landscape pieces state the position once in the opening (`tone-of-voice/positioning-section.md`). Resolved by the core: its formulation becomes the opening statement.
 
 ### Reality side — agency, the telescopic dimension (the living case)
 
-Working sketch: `plan/agency-telescopic-sketch.md` (maturing thread, own readiness criteria; destination: SPLectrum's own version of Darwinian evolution, extended to other areas). Governing formulation: direction is embedded in the landscape, not the agents. Spark 2026-10-05: evolution's absence, past and present — change now routinely explained as caused by rational agents, against evolution as walking the ever-changing complex landscape. `/reality/evolution/` already carries part of the reality side (growth in expression, P5); check it agrees with the core.
+Working sketch: `plan/evolution-follow-on-agency-sketch.md` (maturing thread, own readiness criteria; destination: SPLectrum's own version of Darwinian evolution, extended to other areas). Governing formulation: direction is embedded in the landscape, not the agents. Spark 2026-10-05: evolution's absence, past and present — change now routinely explained as caused by rational agents, against evolution as walking the ever-changing complex landscape. `/reality/evolution/` already carries part of the reality side (growth in expression, P5); check it agrees with the core.
 
 ---
 
@@ -52,5 +52,5 @@ The subject page's "Where process philosophy stops" says that none of the tradit
 
 ### Doorway design questions (the evolution doorway itself)
 
-- **The scala naturae** — the ladder of fixed kinds, most often mistaken for evolution's arrow; the doorway does not name it. Material: `plan/evolution-nonwestern-research.md` §6–7.
+- **The scala naturae** — the ladder of fixed kinds, most often mistaken for evolution's arrow; the doorway does not name it. Material: `plan/evolution-follow-on-nonwestern-research.md` §6–7.
 - **Drift — change within a persisting kind.** The hub's arrow is "aimed or aimless" but every example is aimed; fields name the aimless case themselves (genetic drift, Kimura's neutral theory, Sapir's "drift" in *Language*, 1921 — check). Absent from Language change.
