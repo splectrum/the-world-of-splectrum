@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-10-05
 title: "Empedocles (c. 494–c. 434 BCE)"
 description: "Greek philosopher — the four elements, love and strife as cosmic forces, the cycle of separation and reunion, the earliest pluralist cosmology."
 ---
@@ -35,7 +35,9 @@ What survives: approximately 450 lines of verse (out of a total estimated at 5,0
 
 Empedocles proposed naturalistic accounts of biological phenomena:
 
-**The origin of living things.** In the phase when Love is increasing its influence, elements combine into composite structures — first randomly (producing monstrous combinations: "many heads sprouted without necks, bare arms wandered without shoulders, eyes strayed alone lacking foreheads"), then increasingly well-fitted. The well-fitted combinations survive and reproduce; the ill-fitted perish. The passage has been read (since antiquity) as an anticipation of natural selection — random variation, differential survival — though without the Darwinian mechanism of hereditary transmission. Whether the parallel is substantive or superficial is debated.
+**The origin of living things.** In the phase when Love is increasing its influence, elements combine into composite structures — first at random, producing monstrous combinations ("many heads sprouted without necks, bare arms wandered without shoulders, eyes strayed alone lacking foreheads"), then into whole creatures, some of them ill-assorted ("races of man-prowed cattle"). Whether the fragments describe one zoogony or two, one in each half of the cosmic cycle, is disputed.
+
+The account survives in large part through [Aristotle](/positioning/persons/a/aristotle/)'s report of it in *Physics* II.8. There he states the argument he takes from it: "Wherever then all the parts came about just what they would have been if they had come be for an end, such things survived, being organized spontaneously in a fitting way; whereas those which grew otherwise perished and continue to perish, as Empedocles says his 'man-faced ox-progeny' did." He states it in order to reject it: "Yet it is impossible that this should be the true view." In Aristotle's report the fitted forms survive; nothing is said about their reproducing. [Darwin](/positioning/persons/d/darwin/) quoted the passage in a footnote added to the fourth edition of the *Origin* (1866), and modern scholars, among them David Sedley, have read the zoogony as an anticipation of natural selection. The reading is contested, on the zoogony itself and on the absence of heredity from it.
 
 **Perception through "effluences."** Objects emit streams of particles (effluences) through pores in their surfaces. Perception occurs when the effluences from an object enter the pores of the perceiving organ and find a fit — "like perceives like." Fire in the eye recognises fire in the perceived object; water recognises water. The theory is mechanistic: perception is a physical interaction between material particles, not a mental or spiritual act.
 
