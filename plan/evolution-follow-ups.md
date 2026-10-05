@@ -8,9 +8,7 @@ Opened 2026-10-01, after the Evolution doorway was built (2026-09-30). Five item
 
 The doorway has no Greek material. The post (§3) leans on it, so it flows down into the reference pages first, checked against the fragments and texts before writing.
 
-**b. Additions on existing person pages.** No new subject: the Greek material sits with the thinkers it belongs to (decided 2026-10-01 with Jules; a subject on coming-to-be, and one on teleology, were considered and not taken up).
-- *Heraclitus:* the ekpyrosis dispute — Aristotle and the Stoics attributing a periodic conflagration, against B30's "ever was and is and will be". B30 is already on the page (Fire, Kahn's translation); the dispute goes beside it. Also the two rivers, as reception: B12 ("on those stepping into the same rivers, ever-different waters flow" — the river the same, the waters different) against Plato's version in the *Cratylus* (402a, "you could not step twice into the same river"), and Cratylus's "not even once" (Aristotle, *Metaphysics* IV.5). The page already calls the famous line "probably not what Heraclitus said" without naming Plato. Frame them as two readings of what persists through change — not constancy against evolution (constancy does not exclude evolution: a species evolves and stays the species). Quotations and references to be checked before writing.
-- Anaximander and Lucretius have no pages; where they are named, they are linked externally.
+**b. Person-page additions — built 2026-10-05** (Empedocles, Aristotle, Heraclitus). Anaximander and Lucretius have no pages; where named, they are linked externally.
 
 Guard: no priority claims, the same guard as §2 — the Greeks answer their own question, not Darwin's.
 
