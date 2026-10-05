@@ -50,27 +50,9 @@ Guard: no priority claims, the same guard as §2 — the Greeks answer their own
 
 ---
 
-## 3. Blog post — explaining by how things came about
+## 3. Blog post — dropped 2026-10-05
 
-**Thesis.** The modern turn was not to a world that changes — Heraclitus had that — but to one explained by how it came about. Explanation by origin comes to weigh more than explanation by law. No claim about direction or destination.
-
-**Four positions as the spine.**
-1. *By what a thing is:* Parmenides; Aristotle's eternal heavens; Einstein adding the cosmological constant in 1917 to keep the universe static; preformation, development as the unrolling of what is already present (and the bridge from 1 to 3).
-2. *By the law of its change:* Heraclitus's fire in measures; Hutton's "no vestige of a beginning"; Lyell's steady state.
-3. *By what it is for:* Aristotle's telos; Plato's craftsman in the *Timaeus*.
-4. *By how it came about:* Empedocles and Lucretius as the ancient voice; Darwin's descent; Hubble and Lemaître; the cosmic background radiation (1965) as the universe's own record; stars and minerals with histories; Prigogine's *From Being to Becoming*.
-
-**Steady-state cosmology** goes with the cosmology material in position 4: the rival to Hubble, Lemaître and the expanding universe that the 1965 background radiation settled against. Its perfect cosmological principle concerns the universe as a whole on the large scale — galaxies form and age, matter is continuously created — so it is not presented as a static picture.
-
-Bergson's diagnosis frames 1–3 together as the closed explanations: mechanism and finalism share the assumption that "all is given" ("Finalism thus understood is only inverted mechanism"). The open reading, 4, is set against them.
-
-**Close.** Short, first person, is-like: the sciences came to explain by origin as well as by law. No advance language, and no claim that a position was vindicated.
-
-**Shape.** About 850 words, no headings, image template. Labels: positioning or conversations (to be decided; positioning keeps it apart from the scheduled emergence and entropy word posts). Park on a 2030 date until placed.
-
-**Depends on.** §1 built and committed: the recurrence head on Progress and direction and the person-page additions. Facts to check before drafting: Einstein 1917 and the cosmological constant; the steady-state theory (Bondi, Gold, Hoyle, 1948) and the 1965 discovery; Hubble 1929 and Lemaître 1927; Prigogine's title and date (1980).
-
-**Links.** The Evolution hub, The word, Progress and direction, Cosmic evolution, the Aristotle, Empedocles and Heraclitus pages, Process philosophy.
+The historical post (four positions; "what was eternal acquired a history") lacked punch, a single point. Its stronger successor point — why evolution is absent even now, with change explained as caused by rational agents, against evolution as walking an ever-changing landscape — belongs to the agency/telescopic thread and is banked in `plan/agency-telescopic-sketch.md` (spark log). Candidate single-point posts considered and not taken: Aristotle's objection and heredity; Einstein's cosmological constant; the word's travels.
 
 ---
 
