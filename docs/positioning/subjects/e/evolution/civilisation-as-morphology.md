@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 title: "Civilisation as Morphology"
 description: "The life course of civilisations read across many cases — Goethe's morphology as Spengler's method, the eight Cultures and their contemporaneous epochs, Toynbee's genesis, growth, breakdown and disintegration, Quigley's evolution of civilisations, Tainter's collapse by diminishing returns, Diamond's collapse as choice, and Nisbet's critique of the metaphor of growth."
 ---
@@ -13,7 +13,7 @@ The comparative study of civilisations reads a single course off many cases: eac
 
 ## Spengler's morphology
 
-[Oswald Spengler](/positioning/persons/s/spengler/) named the method in the subtitle of *Der Untergang des Abendlandes* (1918–22): *Umrisse einer Morphologie der Weltgeschichte*, outlines of a morphology of world history. He took it from [Goethe](/positioning/persons/g/goethe/)'s study of living form. Each of his eight high Cultures is an organism with a fixed course, from springtime to the winter of Civilisation, and epochs at the same stage of different Cultures are "contemporaneous", homologous whatever their dates. His word for the course is *Entwicklung*, development, which was also German's word for evolution, and he set it against Darwin. He named socialism and "der ihm genetisch nahe verwandte Darwinismus mit seinen so ganz ungoetheschen Formeln vom Kampf ums Dasein und der Zuchtwahl", the Darwinism closely related to it, with its wholly un-Goethean formulas of the struggle for existence and selection, among the ideals of a late age, and traced Darwin's theory to political economy. His morphology rejected progress too; the West was not the summit of a single history but one Culture entering its old age.
+[Oswald Spengler](/positioning/persons/s/spengler/) named the method in the subtitle of *Der Untergang des Abendlandes* (1918–22): *Umrisse einer Morphologie der Weltgeschichte*, outlines of a morphology of world history. He took it from [Goethe](/positioning/persons/g/goethe/)'s study of living form. Each of his eight high Cultures is an organism with a fixed course, from springtime to the winter of Civilisation, and epochs at the same stage of different Cultures are "contemporaneous", homologous whatever their dates. His word for the course is *Entwicklung*, development, which was also German's word for evolution, and he set it against Darwin. He set Darwinism, with its "wholly un-Goethean formulas" of struggle and selection, among the ideals of a late age, and traced Darwin's theory to political economy. His morphology rejected progress too; the West was not the summit of a single history but one Culture entering its old age.
 
 ## Toynbee's study
 
@@ -21,7 +21,7 @@ The comparative study of civilisations reads a single course off many cases: eac
 
 ## Quigley's evolution of civilisations
 
-Carroll Quigley put the word in his title. *The Evolution of Civilizations: An Introduction to Historical Analysis* (1961) set out seven stages through which a civilisation passes: mixture, gestation, expansion, an age of conflict, universal empire, decay and invasion. A civilisation expands while its instrument of expansion, the arrangement that directs surplus into new investment, works; when the instrument hardens into an institution that serves its own members, expansion stops, and a civilisation survives only by reforming or circumventing it. Quigley tested the scheme on the Mesopotamian, Canaanite, Minoan, Classical and Western civilisations. The evolution of his title is the stage sequence of a single civilisation.
+Carroll Quigley put the word in his title. *The Evolution of Civilizations: An Introduction to Historical Analysis* (1961) set out seven stages through which a civilisation passes: mixture, gestation, expansion, an age of conflict, universal empire, decay and invasion. A civilisation expands while its instrument of expansion, the arrangement that directs surplus into new investment, works; when the instrument hardens into an institution that serves its own members, expansion stops, and a civilisation survives only by reforming or circumventing it. The evolution of his title is the stage sequence of a single civilisation.
 
 ## Collapse without a life cycle
 

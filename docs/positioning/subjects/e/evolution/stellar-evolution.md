@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-09-30
+lastmod: 2026-10-05
 title: "Stellar Evolution"
 description: "The life course of a star read off many stars at once — Herschel's garden of nebulae, Lockyer's meteoritic hypothesis and inorganic evolution, Russell's giant-to-dwarf sequence, Eddington and Bethe's nuclear-burning track, and Baade's stellar populations and galactic chemical evolution."
 ---
@@ -21,11 +21,11 @@ The astronomer Norman Lockyer took the word from biology on purpose. His meteori
 
 ## The giant-to-dwarf sequence
 
-Ejnar Hertzsprung and Henry Norris Russell's diagram of stellar brightness against colour, presented by Russell in 1913, was read at first as a single track. Russell proposed that a star begins as a cool red giant, heats as it contracts, and then cools as a dwarf, so that the giants "represent successive stages in the heating up of a body" and the dwarfs "successive stages in later cooling", taking up Lockyer's idea that a star is hottest in the middle of its history. His 1925 paper was titled "The Problem of Stellar Evolution".
+Ejnar Hertzsprung and Henry Norris Russell's diagram of stellar brightness against colour, presented by Russell in 1913, was read at first as a single track. Russell proposed that a star begins as a cool red giant, heats as it contracts, and then cools as a dwarf, so that the giants "represent successive stages in the heating up of a body" and the dwarfs "successive stages in later cooling", taking up Lockyer's idea that a star is hottest in the middle of its history.
 
 ## The nuclear track
 
-[Arthur Eddington](/positioning/persons/e/eddington/)'s mass–luminosity relation (1924) and *The Internal Constitution of the Stars* (1926) raised the first serious objection to the giant-to-dwarf sequence, and Hans Bethe's "Energy Production in Stars" (1939) identified the fusion of hydrogen as the source of stellar energy. The modern account, built between the 1930s and the 1950s, gives each star a single irreversible path through stages of nuclear burning, fixed mainly by its mass: a long residence on the main sequence, expansion into a giant as the core's hydrogen runs out, and an end determined by how much mass remains. The course is still read off many stars at once, now with the help of models that follow a single star through time.
+[Arthur Eddington](/positioning/persons/e/eddington/)'s mass–luminosity relation (1924) raised the first serious objection to the giant-to-dwarf sequence, and Hans Bethe (1939) identified the fusion of hydrogen as the source of stellar energy. The modern account, built between the 1930s and the 1950s, gives each star a single irreversible path through stages of nuclear burning, fixed mainly by its mass: a long residence on the main sequence, expansion into a giant as the core's hydrogen runs out, and an end determined by how much mass remains. The course is still read off many stars at once, now with the help of models that follow a single star through time.
 
 ## Stellar populations
 
