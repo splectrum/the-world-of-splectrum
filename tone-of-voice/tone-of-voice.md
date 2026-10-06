@@ -28,7 +28,7 @@ These hold throughout the site. Where writing slips, the writer returns here.
 
 **Positioning — seed, close affinity, wider landscape, on the fence.** Where SPLectrum-side reading lives. Seed, close affinity, and wider landscape are resonance rings on the side of compatibility — limits noted as additive ("the principles go beyond here"), not adversarial ("fails to address"). On the fence is the only surface where dissonance is engaged; it describes colourings without ranking. Matter-of-fact, structural register throughout.
 
-**Blog post — conversational axis.** Thinking in motion. Voice follows persona label: SPLectrum (framework in conversational form), comment (behind-the-scenes, most casual), thought (personal, exploratory, raw), named source (biographical narrative; the material leads, the voice absorbs the subject's energy and vocabulary).
+**Blog post — conversational axis.** Thinking in motion. Voice follows persona label: SPLectrum (framework in conversational form), comment (behind-the-scenes, most casual), thought (personal, exploratory, raw), named source (biographical narrative; the material leads, the voice absorbs the subject's energy and vocabulary). Posts carry more freedom of expression than reference pages — artistic license. A post is judged on what it tries to convey rather than on individual words: review it first for whether it conveys its point and sits consistently with current thinking, and raise word-level points only when they change what it conveys or are factual errors. A line denying any language a privileged position ("no language is placed to do that") is equal standing, not a claim.
 
 Section-specific application notes (fence discipline, bottom-row scope, real-life structural treatment) live in section docs.
 
