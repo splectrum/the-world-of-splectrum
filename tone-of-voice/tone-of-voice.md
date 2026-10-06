@@ -14,7 +14,7 @@ These hold throughout the site. Where writing slips, the writer returns here.
 
 **Touchstone, not comprehensive.** Pages are reference points that touch on the topic enough to hold the point, then stop. Lighter wins over heavier as long as the point lands. The discipline bites against decorative naming where the category is already established, not against structural walk-throughs where each contributor adds an angle the others don't carry. Missing depth is fixable; cluttered pages aren't. When in doubt, cut.
 
-**No claims.** Don't claim the framework "shows" or "proves." Don't assert from above. Don't speak for thinkers; let them speak. Default to "this suggests," "from here we can see," "one way of reading." Offering, not imposing.
+**No claims.** Don't claim the framework "shows" or "proves." Don't assert from above. Don't speak for thinkers; let them speak. Default to "this suggests," "from here we can see," "one way of reading." Offering, not imposing. No scorings either: don't rate a reading as nearer one thinker than another, or a thinker as having got it right. Where two positions overlap, show the overlap and leave it unscored. This holds for review suggestions as much as for the page. And don't tighten away deliberate SPLectrum wording (e.g. "within the context of its language") for rhythm.
 
 ---
 
