@@ -1,6 +1,6 @@
 # Research note — Emergence against a background of knowns
 
-Source: one discussion session, 6 October 2026, while revising a blog post on the many meanings of the word "emergence". Captured to `submissions/` 2026-10-06.
+Source: discussion sessions on 6 October 2026, while revising a blog post on the many meanings of the word "emergence" (second session: epistemic vs ontological, Quine). Captured to `submissions/` 2026-10-06.
 Status: thought capture. This is not a proposal. It chooses no page type, surface, or angle. A later proposal can draw on it.
 
 ## How to read this note
@@ -25,9 +25,19 @@ Part 4 is the conversation record. The author's turns are verbatim; Claude's tur
 5. **[A]** This slots in with evolution. It is another example where a here-now position gets turned into a static forever-after.
 6. **[A]** Taking the outside view: there is a reality we describe. If that reality has evolution, then the question is *which reality?* A lot of the core concepts of discussion rely on non-evolution.
 
+7. **[A]** Emergence is a surprising disclosure against a known background — always context-bound, and prone to be cast into local definitions. "Surprising" in the sense of *unexpected*: it does not mean it cannot be deduced.
+8. **[A]** Emergence is epistemic.
+9. **[A]** The field's divide — whether the new is in our knowledge or in the world — is a funny one: isn't it always in our knowledge, and only "by belief" in the world (as they see it)?
+10. **[A]** "In the world" makes sense only if "the world" is "what we believe in".
+11. **[A]** Quine's ontological relativity makes ontology epistemic.
+12. **[A]** Quine's realism within the theory (what our best theory says exists, exists, with no further question) contradicts his ontological relativity.
+13. **[A]** Quine is an example of the tension between evolution and absolutism embodied in the thinking of one person.
+
 ### Compact statement
 
 Emergence names what comes into view against a background taken as known. The judgement that something "cannot be derived" belongs to a here-now background; read as "cannot, in principle, ever" it becomes a static forever-after. The same move — a here-now position frozen into a permanent one — recurs wherever a concept relies on non-evolution of the reality it describes.
+
+The epistemic/ontological divide does not sort emergence into two kinds. The new is always in our knowledge; "in the world" holds only by belief. Ontology relative to a background language (Quine) is epistemic, and what remains is only how firmly a claim is held: held as beyond revision, it is the forever-after move again.
 
 ---
 
@@ -55,11 +65,30 @@ Emergence names what comes into view against a background taken as known. The ju
   - physics (universality, renormalisation) — an account of *why* the unknowns (micro-details) do not matter: the unknowns are built in rather than assumed away.
 - Analogy: the closed-world assumption in logic and databases — what is not derivable from what is held is taken as false.
 
+### On claim 7: surprise without underivability
+
+- Ronald, Sipper and Capcarrère, "Design, Observation, Surprise! A Test of Emergence" (*Artificial Life*, 1999): the observer knows the design and the rules and is still surprised — surprise as the criterion, compatible with deducibility.
+- Weak emergence (claim 1) is the same combination: deducible and unexpected at once.
+
+### On claims 8–12: epistemic vs ontological, and Quine
+
+- The field's main sorting of emergence is epistemic vs ontological; "epistemic" commonly carries an implied "merely" (not really there), which makes weak emergence the lesser kind.
+- Quine, "On What There Is" (1948): a theory's ontology is what it says there is — ontological commitment ("to be is to be the value of a bound variable").
+- Quine, *Ontological Relativity* (1968): reference and ontology are relative to a background language, itself relative to a further one; the regress is stopped in practice "by acquiescing in our mother tongue and taking its words at face value" (quote to verify).
+- Quine kept a robust realism within the theory (immanent truth: what our best theory says exists, exists). Critics have pressed the tension with ontological relativity; whether it is a contradiction turns on whether acquiescence is a principled stop or an arbitrary one.
+- Quine did not describe his view as epistemic; "ontological relativity makes ontology epistemic" (claim 11) is the author's reading of Quine — attribute it as such.
+- On claim 13 — both sides in Quine's own work: the evolutionary side — *Word and Object* (1960) takes Neurath's boat as its epigraph; the web of belief revisable throughout, logic included; "Natural Kinds" (1969) grounds induction in natural selection ("Creatures inveterately wrong in their inductions have a pathetic but praiseworthy tendency to die before reproducing their kind" — quote to verify). The absolutist side — acquiescence in the mother tongue and robust realism within the theory. Evolution accepted all the way down for how we came to know; stopped at what there is.
+- The acquiescence stop is the here-now-to-forever-after move done openly: relativity admitted, a home language adopted, then treated as having no further question. Contrast with the agnostic stance of working with context-bound foundations held open ("turtles all the way down"): acquiescence treats the stop as final; the agnostic stance holds it as here-now.
+
 ---
 
 ## Part 3 — Corrections and pitfalls
 
 - **[corrected]** Claude: both readings, weak and strong, are measured against a deterministic ideal of deduction from the parts, differing only in whether the failure to derive is put down to us or to the world. Author: that is *contingent* — the deterministic ideal is where the debate happened to start, not something the concept needs. The deeper structure is the background of knowns (claim 4); determinism is one way of closing that background, not the only one.
+- **[corrected]** Claude objected (via an agent review) that "surprising" ties emergence to the psychological and conflicts with deducible cases. Author: "surprising" means *unexpected*, which does not exclude deduction. Friction withdrawn.
+- **[corrected]** Claude: "In the emergence literature the main divide is epistemic versus ontological: whether the new is in our knowledge or in the world." Author: a funny sentence — the new is always in our knowledge, and only by belief in the world (claim 9). Don't repeat the field's framing as if it named two real options.
+- **[corrected]** Claude's paraphrase of the ontological side: "the new will survive every possible description, so it must belong to the world." Author: makes no sense unless "the world" is "what we believe in" (claim 10). Claude then split the two as "what we know" vs "what we believe in"; that split does not survive claim 11 either — belief in an inventory is relative to the same language.
+- **[corrected]** Claude described Quine as keeping "a robust realism within the theory … with no further question to ask" as if that sat comfortably with ontological relativity. Author: that contradicts it (claim 12).
 - **Register.** On the site the observation is SPLectrum-side. Pages and posts that present the field's senses of emergence keep them on their own terms: show the history, do not score the positions (no "strong emergence elevates an epistemic judgement to an absolute" in a field-voice post).
 
 ---
@@ -73,3 +102,21 @@ Emergence names what comes into view against a background taken as known. The ju
 3. **Author:** "that both readings are measured against a deterministic ideal is 'contingent' in my opinion. Thinking about it - emergence: something that becomes apparent - will always be against a background of 'knowns', and we like to work with it as if there were no 'unknowns'."
    **Claude (condensed):** "Contingent" accepted. The etymology supports the reading (*emergere*, coming into view). Mapped weak, strong and physics senses onto knowns/unknowns; closed-world analogy. Flagged the post's closing "something new" as possibly adopting the closed-background view (left to the author).
 4. **Author:** "yes, note it (in a document?) because IMO it slots in with evolution. It's another example where a 'here-now' position gets turn into a static 'forever-after'. Then take the outside view - there is a reality we describe - if that has evolution then the question is 'which reality'? A lot of core concepts of discussion rely on 'non-evolution'."
+
+Second session (closing line of the post, then epistemic vs ontological):
+
+5. **Author** (on Claude's proposed close, "becomes apparent"): "becomes apparent? isn't it more a surprising disclosure against a known background?" — then: "... always context-bound and prone to be cast into local definitions. (I don't think dragging communities into it adds to clarity),"
+6. **Author** (on an agent review objecting to "surprising"): "surprising is used in the sense that it is 'unexpected', doens't mean it can't be deduced."
+   **Claude (condensed):** Withdrew the friction; unexpected sits with deducibility (Bedau; Ronald, Sipper and Capcarrère's surprise test); fits "new means not already said".
+7. **Author:** "and emergence is epistemic in my opinion, what is the issue with that?"
+   **Claude (condensed):** No issue; the objection rests on the field's framing where "epistemic" means "merely". Stated the divide as "whether the new is in our knowledge or in the world".
+8. **Author:** "I find this a funny sentence: isn't it always in our knowledge, and only 'by belief' in the world (as they see it)?"
+   **Claude (condensed):** Agreed; recast the ontological side as "survives every possible description, so it must belong to the world".
+9. **Author:** "this does not make sense, except is 'the world' is 'what we believe in'"
+   **Claude (condensed):** Agreed; brought in Quine's ontological commitment and *Ontological Relativity*; split "what we know" vs "what we believe in".
+10. **Author:** "Quine's Ontological relativity makes it epistemic"
+    **Claude (condensed):** Agreed; the divide collapses; only how firmly a claim is held remains. Cautioned that Quine kept a robust realism within the theory.
+11. **Author:** "that is a contradiction of its ontological relativity"
+    **Claude (condensed):** The tension is real and Quine knew it; he stops the regress by acquiescing in the mother tongue — the here-now-to-forever-after move done openly; contrast with the agnostic stance (context-bound foundations held open).
+12. **Author:** "actually, it is an example of the tension of evolution and absolutism embodied in the thinking of one person."
+    **Claude (condensed):** Agreed; both sides fully worked out in Quine (Neurath's boat, revisable web, "Natural Kinds" vs acquiescence and robust realism). Putnam as a softer version. Proposed recording it here and in the evolution plan.

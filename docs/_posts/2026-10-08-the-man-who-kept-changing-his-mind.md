@@ -5,7 +5,7 @@ date: 2026-10-08
 lastmod: 2026-10-06
 labels: [conversations, philosophy]
 description: "Hilary Putnam changed his realism three times, and colleagues kept count. Read the three as three languages in which 'real' does its work — a renunciation, then a correction, and one thing carried through all of it."
-status: draft
+status: ready
 words: 635
 ---
 <img src="https://images.unsplash.com/photo-1742294009985-a688e521f881?q=80&w=1972&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Man Who Kept Changing His Mind" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
