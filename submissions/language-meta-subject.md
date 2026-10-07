@@ -97,6 +97,47 @@ The discussion started from Carlo Rovelli's essay "Meaning = Information + Evolu
 
 ---
 
+## 4a. Revision — two doorways, language and vocabularies (2026-10-07, later the same day)
+
+The draft branches above predate this decision; read them through it.
+
+- **[A]** Two doorways, not one. **Language is about totality; vocabularies are about parts.** Vocabularies are an independent unit, with linking between the two.
+- **[A]** Vocabularies are the concept schemes — the registers — that language uses. Language is the relational constructs that bring all registers together.
+- **[A]** The language meta subject takes SPLectrum's wider sense of language as its subject (wherever there is interaction), not linguistics alone. The scope definition is a collection boundary, not a claim.
+- **[A]** A conceptual scheme, in the field's sense, is a construct that uses vocabulary — so it belongs to language, not to vocabularies.
+- **[C, unchecked]** Field backing for that placement: Carnap's linguistic frameworks (a vocabulary plus rules for its use); Davidson, "On the Very Idea of a Conceptual Scheme" (1974), identifying schemes with languages (sets of intertranslatable languages); Kuhn's paradigms (concepts plus exemplars and practices) and incommensurability as a relation between whole schemes.
+- **[corrected]** Claude first proposed splitting the language doorway internally into a relational and a conceptual half, then a sibling doorway named "concept" with conceptual schemes inside it. The author: two doorways, vocabularies independent, and conceptual schemes on the language side.
+- **Mirrors the site.** The two doorways match the top-level sections one to one: Language — the relational; Vocabulary — the conceptual. Each section links down into its doorway; the doorways cross-link; neither links up.
+
+**What moves where**
+
+| Vocabularies (parts) | Language (totality) |
+|---|---|
+| concepts; theories of what a concept is | conceptual schemes and frameworks (Carnap, Davidson, Kuhn) |
+| fuzziness — family resemblance, prototypes, fuzzy sets | incommensurability; translation between schemes and registers |
+| categories and categorisation | grammar and syntax; pragmatics and use; language games |
+| change *of a concept* (Kuhn on "mass"; conceptual history of a word) | change *of a scheme* (scientific revolutions, the gestalt switch) |
+| lexicon, terminology, controlled vocabularies, taxonomies | signals and codes; the kinds of language; origins and evolution |
+
+**Revised branch sketch for the language doorway** (to be tuned):
+
+0. **The word** — how far "language" has been extended, and when. With the wide scope this branch also reports the field's dispute over whether the extensions are literal (genetic code, animal communication); reported, not settled.
+1. **The kinds** — human, formal and programming, animal communication, the genetic code; parallel to the Language section's types, each pointing into the branches below.
+2. **Grammar and structure.**
+3. **Use** — pragmatics; language games (possibly a thread through several branches rather than its own branch — open).
+4. **Signals and codes** — signalling games, biosemiotics and code biology, semantic information.
+5. **Schemes and frameworks** — conceptual schemes, incommensurability, scheme change, translation.
+6. **Origins and evolution** — including the route from correlation through signal to language (§2).
+7. **Language and thought** — the seam with the vocabularies doorway; held here or there and cross-linked (open).
+
+**Splits across the two doorways.** Rovelli's route (§2.1): concept formation goes to vocabularies; signal, code and language go here. The evolution core's "concepts in motion" (`plan/evolution-follow-on.md`): a concept drifting under a constant name is vocabularies material; a transition to a new state of concepts — the discontinuity — is scheme change, here.
+
+**Watch.** Axiomatised ontologies (taxonomies plus axioms and relations, e.g. OWL) are constructs that use a vocabulary — language side; plain controlled vocabularies and taxonomies stay with vocabularies. "Register" is the working word on the position side; in linguistics it means variety by situation, so the doorway's category names use the field's words.
+
+The vocabularies doorway has its own working document: `submissions/vocabularies-meta-subject.md`.
+
+---
+
 ## 5. Backing check (site state, 2026-10-07)
 
 **Person pages that exist:** Wittgenstein, Chomsky, Saussure, Peirce, Fodor, Frege, J. L. Austin, Searle, Pinker, Tomasello, Jakobson, Quine, Rorty, Carnap, Shannon, Rovelli, Kolchinsky, Hoffmeyer.
@@ -116,4 +157,6 @@ Who earns a person page is a collaborative decision, not settled by this list.
 - Research the word: what "language" has been taken to cover across the fields, and when each extension was made — expected to tune the branches.
 - Decide the first backing to build, and whether semantic information is a subject in its own right before the doorway.
 - Open: whether "language games" is a branch or a thread running through several branches.
-- Open: how the doorway's branches relate to the Language section's types (natural, formal, software, DSL) — parallel on purpose, or cut differently because the field cuts differently.
+- ~~Open: how the doorway's branches relate to the Language section's types~~ — settled by §4a: the kinds branch runs parallel to the section's types; the conceptual side is its own doorway, mirroring the Vocabulary section.
+- Open: where language and thought is held — here or in vocabularies — with the other cross-linking.
+- The literal-extension dispute needs its own research pass before branch 0 is built.

@@ -42,7 +42,11 @@ Keywords, and the state of each doorway. To be kept current; not every keyword w
 - **Evolution** — built 2026-09-30: the doorway at `/positioning/subjects/e/evolution/`, sorted by meaning rather than domain, with the reality page linking to it. The agency/telescopic thread is its living case and proceeds independently.
 - **Being and becoming** — candidate, opened 2026-10-05; see `scheduled-tasks.md`. Rule 5 applies (substance/process, endurance/perdurance, A/B-theory are the field's names in different homes). Its position-side surface is planned as a seed-ring piece.
 - **Privacy**, **creativity** — the other two core values. Unexamined as doorway candidates.
-- **Language**, **meaning**, **experience** — unexamined. Each may already be served by existing subject material rather than needing a doorway; check before scoping.
+- **Language** — candidate, working document opened 2026-10-07 (`submissions/language-meta-subject.md`). Language as totality: SPLectrum's wider sense as the scope, the relational constructs that bring registers together, conceptual schemes included. Rule 5 applies in part (signalling, semantic information, semiotics carry the territory under other names). Mirrors the Language section.
+- **Vocabularies** — candidate, split from language 2026-10-07 (`submissions/vocabularies-meta-subject.md`). Vocabularies as parts: concepts, categories, lexicon, terminology, controlled vocabularies. An independent doorway, cross-linked with language. Rule 5 applies strongly — the field's words are concept, category, lexicon, terminology. Mirrors the Vocabulary section.
+- **Life** — candidate, raised 2026-10-07, no working document yet. Origin of life as one part of it (with assembly theory, mineral evolution and chemical evolution as existing backing); expected to take in the field's own stretches of "living" beyond the cellular case. Position-side material: `submissions/seed-and-origin-of-life.md`, `submissions/sketch-seed-native-definition-of-aliveness.md`.
+- **AI** — candidate, working document opened 2026-10-07 (`submissions/ai-meta-subject.md`). A doorway in its own right, cross-linked to cognition.
+- **Meaning**, **experience** — unexamined. Each may already be served by existing subject material rather than needing a doorway; check before scoping.
 
 ## Why it is worth the discipline
 
