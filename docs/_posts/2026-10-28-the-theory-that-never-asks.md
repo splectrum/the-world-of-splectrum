@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Theory That Never Asks What Things Are Made Of"
-date: 2026-11-08
+date: 2026-10-28
 lastmod: 2026-09-22
 labels: [conversations, science]
 description: "Thermodynamics was built before anyone knew whether matter is made of atoms, and survived the discovery untouched. Einstein's distinction between constructive and principle theories says why: a principle theory describes a context at its own level, and what the context is made of is a different question."

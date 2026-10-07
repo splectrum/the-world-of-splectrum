@@ -47,6 +47,9 @@ Build history (creativity merge/reorder/potential-vs-actual correction; the proc
 
 Backlog of scoped work awaiting its turn — kept in `submissions/`, out of the active sequence above.
 
+- **Language as a meta subject** *(working document opened 2026-10-07)* — `submissions/language-meta-subject.md`: a neutral keyword doorway for language (the field's uses of the word; the site's Language section as the position side linking down). Carries the physical-route work (correlation → signal → language: Rovelli, Kolchinsky–Wolpert, Skyrms, Steels, biosemiotics) as a signals-and-codes branch. Next step: research what "language" has been taken to cover; backing check started.
+
+
 - **AI as a meta subject** *(working document 2026-10-07)* — `submissions/ai-meta-subject.md`: discussion record and proposal for an AI keyword doorway (the word up front, a categorisation that unravels from what people meet, neutral review by annotation, history per branch, industry through the industrial-revolution angle). Next step: research the history of "AI" as a word. Relation to the **AI information field** entry below not yet settled.
 
 - **Emergence against a background of knowns** *(captured 2026-10-06)* — discussion note, `submissions/emergence-against-a-background-of-knowns.md`. Thought capture with provenance marks; no page type chosen. Emergence as what becomes apparent against a background of knowns treated as if there were no unknowns; "cannot be derived" as a here-now judgement elevated to a static forever-after (weak and strong emergence alike; the deterministic ideal contingent). **Slots in with the Evolution follow-on** (`plan/evolution-follow-on.md`): another case of a here-now position turned forever-after, and the outside-view question — if the reality we describe has evolution, *which reality?* — since many core concepts rely on non-evolution.
