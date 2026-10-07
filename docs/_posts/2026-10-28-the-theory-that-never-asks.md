@@ -2,11 +2,11 @@
 layout: post
 title: "The Theory That Never Asks What Things Are Made Of"
 date: 2026-10-28
-lastmod: 2026-09-22
+lastmod: 2026-10-07
 labels: [conversations, science]
 description: "Thermodynamics was built before anyone knew whether matter is made of atoms, and survived the discovery untouched. Einstein's distinction between constructive and principle theories says why: a principle theory describes a context at its own level, and what the context is made of is a different question."
-status: draft
-words: 673
+status: ready
+words: 646
 ---
 
 <img src="https://plus.unsplash.com/premium_photo-1728688265254-0748734fa14a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Theory That Never Asks What Things Are Made Of" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
@@ -27,9 +27,9 @@ Einstein drew the distinction to explain what he had done with relativity, not t
 
 > It is the only physical theory of universal content concerning which I am convinced that, within the framework of applicability of its basic concepts, it will never be overthrown.
 
-The missing clause is *within the framework of applicability of its basic concepts*, and it is doing real work. He is not saying thermodynamics is eternally true. He is saying that where its concepts apply, it will hold — which is a much more careful claim, and a much more interesting one, because it puts the question where it belongs: not on whether the theory is right but on where its concepts get a grip. It is the travelling said the other way round.
+The missing clause is *within the framework of applicability of its basic concepts*. He is not saying thermodynamics is eternally true. He is saying that where its concepts apply, it will hold. It puts the question where it belongs: not on whether the theory is right but on where its concepts get a grip. It is the travelling said the other way round.
 
-There is also a ground-up account of why the constraint is substrate-independent, running through [Boltzmann](/positioning/persons/b/boltzmann/)'s counting of states, and the two are not in competition; the reference library has it under [what entropy is](/positioning/subjects/t/thermodynamics/what-entropy-is/).
+There is also a ground-up account of why the constraint is substrate-independent, running through [Boltzmann](/positioning/persons/b/boltzmann/)'s counting of states; the reference library has it under [what entropy is](/positioning/subjects/t/thermodynamics/what-entropy-is/).
 
 What holds for a principle theory holds for any vocabulary that travels. It travels because it was about properties of a context and not about the substance, and which properties is the question its travelling raises.
 
