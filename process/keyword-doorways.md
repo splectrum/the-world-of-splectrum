@@ -6,7 +6,7 @@
 
 SPLectrum's own vocabulary — cognition, emergence, belonging, and the rest — names things the wider world also talks about, under its own words and in many disciplines at once. For each such keyword the site builds a **neutral meta subject**: a single access point into the field around the word, written in the field's voice, not the position's.
 
-A reader arriving at the keyword finds the field. The position's own reading of it sits elsewhere — reality side, or a close-affinity piece — and links down into the doorway. The doorway does not link up.
+A reader arriving at the keyword finds the field. The position's own reading of it sits elsewhere — interpreted in a wider-landscape piece, theorised on the reality side — and links down into the doorway. The doorway does not link up.
 
 The doorway is where someone who does not hold the position can still use the site.
 
@@ -14,9 +14,9 @@ The doorway is where someone who does not hold the position can still use the si
 
 The doorway is one of three, and the set is the shape to expect for every keyword (Jules, 2026-09-13). Emergence made it visible; belonging is planned on it:
 
-- **The meta subject** — neutral, the field's voice, the way in. Built last, once the backing exists.
-- **The close-affinity piece** — the resonance: where the field's work and the position's reading meet, in the resonance-only register.
-- **The reality-side piece** — the position's own voice on the keyword, its formulation.
+- **The meta subject** — neutral report, the field's voice, with SPLectrum-inspired categorisation; the way in. Built last, once the backing exists.
+- **The wider-landscape piece** — the SPLectrum-coloured report: how SPLectrum interprets the meta subject's material, in its own voice (redefined 2026-10-07; formerly the close-affinity piece in the resonance register).
+- **The reality-side piece** — theory building: the keyword in SPLectrum's metaphysics. Applied work on the keyword goes to real life.
 
 They are three jobs, not three versions of one job, and the register differs in each. Links run from the position's surfaces down into the doorway, never the other way. A keyword is not finished when its doorway is built; it is finished when all three stand and agree.
 
@@ -49,5 +49,5 @@ Keywords, and the state of each doorway. To be kept current; not every keyword w
 Three things fall out of the pattern that do not fall out of building ad hoc:
 
 - The keyword list becomes the plan: each keyword either has a doorway or is owed one, and the gap is visible.
-- A recurring placement question is settled in advance — field material to the meta subject, the position's reading to reality side or close affinity, links running one way.
+- A recurring placement question is settled in advance — field material to the meta subject, the position's interpretation to wider landscape and its theory to reality side, links running one way.
 - The neutrality has a reason a reader can feel, rather than being a house style.
