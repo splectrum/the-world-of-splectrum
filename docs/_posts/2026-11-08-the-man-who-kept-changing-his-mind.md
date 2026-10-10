@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Man Who Kept Changing His Mind"
-date: 2026-10-08
+date: 2026-11-08
 lastmod: 2026-10-06
 labels: [conversations, philosophy]
 description: "Hilary Putnam changed his realism three times, and colleagues kept count. Read the three as three languages in which 'real' does its work — a renunciation, then a correction, and one thing carried through all of it."

@@ -11,7 +11,7 @@ words: 862
 
 <img src="IMAGE_URL" alt="What a Scheme Answers To" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
-[The portrait](/blog/2026/10/the-man-who-kept-changing-his-mind/) ended on the part Hilary Putnam kept. Three realisms, and through all of them one piece he never gave back: conceptual relativity, the observation that the same world admits more than one true description and that none of them is the world's own.
+[The portrait](/blog/2026/11/the-man-who-kept-changing-his-mind/) ended on the part Hilary Putnam kept. Three realisms, and through all of them one piece he never gave back: conceptual relativity, the observation that the same world admits more than one true description and that none of them is the world's own.
 
 He held two constraints at once. The first is that nothing stands above the schemes. First, there is no God's-eye view from which the one true description could be read off. And second, that truth cannot be mere agreement. This was his line against Richard Rorty for thirty years: whether a reform is a change for the better, he argued, is logically independent of whether most people come to see it as one, or else "reform" names an arbitrary preference. A whole community can converge on what is false. Anyone who accepts both constraints inherits a question. If a scheme does not answer to the world's own description, and does not answer to the community's vote, what does it answer to?
 

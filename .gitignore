@@ -1,3 +1,5 @@
 # Jekyll
 docs/_site/
 docs/.jekyll-cache/
+publish/
+.wrangler/
