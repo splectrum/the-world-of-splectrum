@@ -24,6 +24,7 @@ The site's public voice lives at splectrum.world (a Jekyll site in `docs/`, buil
 **Archive and off-site assets**
 - **[archive/](archive/)** — snapshots of reworked site areas preserved as source material for future blog posts and reference.
 - **[icons/](icons/)** — alternate icons kept for reference (not served on the site).
+- **[sources/](sources/README.md)** — local reference library of third-party papers and essays; the files stay local (git-ignored), only the index is committed.
 
 ## Licence
 
@@ -32,4 +33,4 @@ The site's public voice lives at splectrum.world (a Jekyll site in `docs/`, buil
 
 Preferred attribution: **Jules ten Bos, splectrum.world**
 
-Quotations and cited material remain under the rights of their original authors, and images (e.g. Unsplash photographs) under their own licences; neither is covered by the licences above.
+The licences above cover the work of Jules ten Bos only. Everything by other authors remains under its own copyright and is not covered: quotations and cited material, images (e.g. Unsplash photographs), and the third-party documents listed in [sources/](sources/README.md), which are kept locally and not distributed with the repository.

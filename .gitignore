@@ -3,3 +3,7 @@ docs/_site/
 docs/.jekyll-cache/
 publish/
 .wrangler/
+
+# Local reference library: third-party documents stay local; only the index is committed
+sources/*
+!sources/README.md
