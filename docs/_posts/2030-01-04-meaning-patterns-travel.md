@@ -7,7 +7,7 @@ labels: [formalisation, mathematics, language]
 status: mandatory review
 words: 540
 ---
-<img src="https://images.unsplash.com/photo-1776056693062-f36abae66bbf?q=80&w=350&h=230&auto=format&fit=crop" alt="Meaning Patterns Travel" />
+<img src="https://images.unsplash.com/photo-1776056693062-f36abae66bbf?q=80&w=700&h=460&auto=format&fit=crop" alt="Meaning Patterns Travel" />
 
 The two-body problem in physics: two entities, exerting mutual influence, evolving together. Newton solved it analytically — given the positions and velocities of two gravitating masses, the future and past trajectories can be computed exactly. The problem has a name because it is a specific shape — a structural pattern, not a particular pair of planets.
 

@@ -8,7 +8,7 @@ description: "Language is for living. A dinner party unpacks the seed — cookin
 status: ready
 words: 496
 ---
-<img src="https://images.unsplash.com/photo-1519671282429-b44660ead0a7?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Friends gathered around a dinner table"/>
+<img src="https://images.unsplash.com/photo-1519671282429-b44660ead0a7?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="Friends gathered around a dinner table"/>
 
 [SPLectrum is born](/blog/2026/03/splectrum-is-born/), the seed is there. So what, you may ask. Should I be impressed? Are those six lines really so special? I happen to think so. So much is hidden in their apparent simplicity. I am not talking about subjects for discussion at high table, but about what is happening in everyone's daily life. Let's unpack a little.
 

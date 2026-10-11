@@ -8,7 +8,7 @@ description: "From binary to Python, how higher level languages make the power o
 status: ready
 words: 831
 ---
-<img src="https://images.unsplash.com/photo-1625459201773-9b2386f53ca2?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Software code" />
+<img src="https://images.unsplash.com/photo-1625459201773-9b2386f53ca2?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="Software code" />
 
 SPLectrum has a very broad view of language and recognises a wide variety of language categories. Natural languages and software languages are two categories that we as humans have a close affinity with. By nature, natural languages can be ambiguous, context-dependent, evolving, full of implication and unspoken meaning. This is a real strength. Software languages on the other hand are not. They are fully explicit. Every rule is written down, all is well-defined by definition. Software languages are languages in the way that [Russell](/positioning/persons/r/russell/) always wanted them to be. That is their strength and it makes them a good one to learn from.
 

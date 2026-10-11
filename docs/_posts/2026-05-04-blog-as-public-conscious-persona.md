@@ -8,7 +8,7 @@ description: "SPLectrum's public conscious persona — human-AI collaboration sh
 status: ready
 words: 714
 ---
-<img src="https://plus.unsplash.com/premium_photo-1748351930528-726e58f38c31?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Public conscious persona" />
+<img src="https://plus.unsplash.com/premium_photo-1748351930528-726e58f38c31?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="Public conscious persona" />
 
 I finally did it, my blog is up and running with blog posts scheduled weeks ahead. The World of SPLectrum main site is starting to get some relevant reference material. And all this is presented through a single site - under the splectrum.world domain published as GitHub pages from a git repo.
 

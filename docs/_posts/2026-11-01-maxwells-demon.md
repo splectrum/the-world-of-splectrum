@@ -9,7 +9,7 @@ status: draft
 words: 974
 ---
 
-<img src="https://images.unsplash.com/photo-1546942113-a6c43b63104a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Maxwell's Demon" />
+<img src="https://images.unsplash.com/photo-1546942113-a6c43b63104a?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Maxwell's Demon" />
 
 In December 1867, [James Clerk Maxwell](/positioning/persons/m/maxwell/) wrote to a friend that he wanted "to pick a hole" in the second law of thermodynamics.
 

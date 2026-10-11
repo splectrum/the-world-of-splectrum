@@ -8,7 +8,7 @@ description: "SPLectrum names its position: reality is multiple, the multiple in
 status: ready
 words: 717
 ---
-<img src="https://images.unsplash.com/photo-1750969185331-e03829f72c7d?q=80&w=350&h=230&auto=format&fit=crop" alt="From Seed to Interrelational Pluralism" />
+<img src="https://images.unsplash.com/photo-1750969185331-e03829f72c7d?q=80&w=700&h=460&auto=format&fit=crop" alt="From Seed to Interrelational Pluralism" />
 
 This is the post where SPLectrum shows the flag it is flying under. From the previous posts, reality is multiple in fundamental ways — contingent at the moment of creation, personal in experience, multiple in sharing, evolutionary in dynamic. Two words sit at the centre of this: pluralism and interrelational.
 

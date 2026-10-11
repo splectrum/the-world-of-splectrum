@@ -9,7 +9,7 @@ status: ready
 words: 587
 ---
 
-<img src="https://plus.unsplash.com/premium_photo-1764525658088-9df84cae99d8?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Word Travels" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://plus.unsplash.com/premium_photo-1764525658088-9df84cae99d8?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Word Travels" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
 In 1865 Rudolf Clausius needed a name for a quantity he had been working with for more than a decade. He tried a plain name first — *S*, he wrote, could be called *the transformation content of the body* — and then explained, in the paper rather than leaving it to posterity, why he preferred Greek. Here in W. F. Magie's 1935 translation:
 

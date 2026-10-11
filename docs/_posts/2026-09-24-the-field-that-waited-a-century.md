@@ -8,7 +8,7 @@ description: "The story of basal cognition's beginning: a century of orphaned re
 status: ready
 words: 639
 ---
-<img src="https://plus.unsplash.com/premium_photo-1747905993650-e130159b201b?q=80&w=1946&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Field That Waited a Century" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://plus.unsplash.com/premium_photo-1747905993650-e130159b201b?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Field That Waited a Century" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
 In 1906 the American zoologist Herbert Spencer Jennings spent long hours watching a single-celled organism shaped like a trumpet. *Stentor roeselii* is attached to its perch by a holdfast, and Jennings irritated it — gently, repeatedly — to see what it would do. It bent away; if that failed it reversed its cilia; if that failed it contracted; and if all else failed it let go and swam off to start life somewhere else. A repertoire, worked through in order, in an organism with no nervous system to hold one. Jennings's observation was dismissed for fifty years on the strength of a replication attempt that used the wrong species and the wrong stimulus.
 

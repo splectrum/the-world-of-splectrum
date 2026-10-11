@@ -8,7 +8,7 @@ description: "Wittgenstein's turn from logical structure to language games and f
 status: ready
 words: 660
 ---
-<img src="https://images.unsplash.com/photo-1645117030875-4eb47312e333?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Plant growing through cracked wall" />
+<img src="https://images.unsplash.com/photo-1645117030875-4eb47312e333?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="Plant growing through cracked wall" />
 
 Two posts ago I started [unpacking the seed](/blog/2026/03/splectrum-is-born/) — six lines about language and how we relate to reality. This view on language has not fallen from the sky. This post is the first in a positioning series that explores the evolution in thinking in philosophy and science. The focus is first on philosophy, starting with [Ludwig Wittgenstein](/positioning/persons/w/wittgenstein/) — singling out philosophers whose thinking was key in shifting the focus towards language.
 

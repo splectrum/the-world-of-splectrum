@@ -8,7 +8,7 @@ labels: [conversations, engineering]
 status: ready
 words: 684
 ---
-<img src="https://images.unsplash.com/photo-1650648065204-0b8d52b18447?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="A Revolution in Cognition?" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1650648065204-0b8d52b18447?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="A Revolution in Cognition?" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
 It is said that we live in the period of the Fourth Industrial Revolution, a period where there is fusion of technologies across domains — digital, physical, and biological — and where the boundary between tool and agent starts dissolving. I think we are seeing the start of a revolution that goes beyond the tools and agents, and that shifts towards the driver: cognition.
 

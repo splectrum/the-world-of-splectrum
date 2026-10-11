@@ -8,7 +8,7 @@ description: "Human-AI collaboration as shared authorship in action — one voic
 status: ready
 words: 567
 ---
-<img src="https://images.unsplash.com/photo-1735815952441-224afdf53016?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Two people collaborating at a screen"/>
+<img src="https://images.unsplash.com/photo-1735815952441-224afdf53016?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="Two people collaborating at a screen"/>
 
 The desire to write a blog was very much on my mind well before AI entered into the picture. I have written a number of posts on this blog before, but never got the writer fluids flowing freely. I am not born a natural writer. I also find it particularly difficult to write when I lack clear insight — now fully resolved and condensed into the [SPLectrum seed](/blog/2026/03/splectrum-is-born/).
 

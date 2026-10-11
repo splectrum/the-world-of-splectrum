@@ -8,7 +8,7 @@ description: "The creativity series opens with the generative core value: the dy
 status: ready
 words: 615
 ---
-<img src="https://images.unsplash.com/photo-1717501218347-64853a917fd8?q=80&w=350&h=230&auto=format&fit=crop" alt="The Generative Value" />
+<img src="https://images.unsplash.com/photo-1717501218347-64853a917fd8?q=80&w=700&h=460&auto=format&fit=crop" alt="The Generative Value" />
 
 This post marks a new beginning: the start of the creativity series. It is a breakout from the reality series, dealing with one specific aspect — the dynamic of change. Change happens in many places and in many different ways, but it always traces back to where reality is experienced: to the private realm of the subject.
 

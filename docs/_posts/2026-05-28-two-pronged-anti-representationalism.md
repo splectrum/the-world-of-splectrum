@@ -8,7 +8,7 @@ description: "Whitehead and Rorty reject representationalism from the same relat
 status: ready
 words: 576
 ---
-<img src="https://images.unsplash.com/photo-1506351541065-2de5d60265b3?q=80&w=350&h=230&auto=format&fit=crop" alt="Two-Pronged Anti-Representationalism" />
+<img src="https://images.unsplash.com/photo-1506351541065-2de5d60265b3?q=80&w=700&h=460&auto=format&fit=crop" alt="Two-Pronged Anti-Representationalism" />
 
 Whitehead and Rorty don't often show up in the same sentence. Process metaphysics and pragmatism keep to their own neighbourhoods. Both reject representationalism — the view that reality is out there and our experience is a deficient copy of it. Both insist that reality is at its core relational. They are two prongs of the same attack.
 

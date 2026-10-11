@@ -8,7 +8,7 @@ description: "Five centuries of Western philosophy — from Descartes' mirror to
 status: ready
 words: 770
 ---
-<img src="https://images.unsplash.com/photo-1658731041632-3a78727eaf7e?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Stepping stones" />
+<img src="https://images.unsplash.com/photo-1658731041632-3a78727eaf7e?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="Stepping stones" />
 
 In the [positioning series](/blog/label/positioning/) I talked about the turn in language — from representation of an absolute reality to something relational ([Wittgenstein](/positioning/persons/w/wittgenstein/), [Rorty](/positioning/persons/r/rorty/)). [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) anchors the body as the 'frontline' participant in this relational activity. These were not isolated events but happened after a long evolution in thinking that started at the beginning of modern philosophy and science about 500 years ago.
 

@@ -8,7 +8,7 @@ description: "The second half of the seed principles — sharing, interrelation 
 status: ready
 words: 634
 ---
-<img src="https://images.unsplash.com/photo-1736348877782-fa7ae2a9bd69?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="First principles" />
+<img src="https://images.unsplash.com/photo-1736348877782-fa7ae2a9bd69?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="First principles" />
 
 In the [previous post](/blog/2026/05/splectrum-and-first-principles/) I walked through the existential core of the seed — the first three principles. Being and language arise together (P0), language is relational (P1), and every subject experiences reality through its own medium (P2). That left us at the individual: one subject, one lived reality, no view from nowhere.
 

@@ -8,7 +8,7 @@ description: "SPLectrum's politics — the still picture of ethics set in motion
 status: ready
 words: 608
 ---
-<img src="https://images.unsplash.com/photo-1516880711640-ef7db81be3e1?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="The Politics of Coexistence" />
+<img src="https://images.unsplash.com/photo-1516880711640-ef7db81be3e1?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="The Politics of Coexistence" />
 
 This is the final post where the metaphysics position is laid down, skimming the surface before the more detailed working-out that will follow. The post deals with politics. In SPLectrum's world politics plays the dynamic counterpart to ethics in the same way aesthetics does to ontology: ethics reads the standing configuration of a subject's values toward others, and politics reads the same territory in motion.
 

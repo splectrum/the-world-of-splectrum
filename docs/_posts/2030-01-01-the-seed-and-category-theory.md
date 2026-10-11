@@ -7,7 +7,7 @@ labels: [formalisation, mathematics, philosophy]
 status: mandatory review
 words: 760
 ---
-<img src="https://plus.unsplash.com/premium_photo-1729598979199-0ad415ea36b1?q=80&w=350&h=230&auto=format&fit=crop" alt="The Seed and Category Theory" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://plus.unsplash.com/premium_photo-1729598979199-0ad415ea36b1?q=80&w=700&h=460&auto=format&fit=crop" alt="The Seed and Category Theory" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
 A conversation about a conversation has the slightly vertiginous feel of climbing a step. We're not arguing about the thing anymore — we're arguing about how we've been arguing about the thing. The content has changed. The grammar of "arguing" hasn't. Climb another step and we can talk about how we talked about how we talked, and the grammar still doesn't budge. The same shape of move, taking place on different floors.
 

@@ -7,7 +7,7 @@ labels: [creativity, science]
 status: Mandatory review
 words: 653
 ---
-<img src="https://images.unsplash.com/photo-1772413438851-f6dd22c7ebe1?q=80&w=350&h=230&auto=format&fit=crop" alt="A View from the Perimeter" />
+<img src="https://images.unsplash.com/photo-1772413438851-f6dd22c7ebe1?q=80&w=700&h=460&auto=format&fit=crop" alt="A View from the Perimeter" />
 
 The basic structural principles of reality should apply everywhere. There are too many discontinuities across domains — non-living, living, conscious, symbolic — treated as if each operates on fundamentally different laws. Physics has its principles, biology its own, culture its own. The boundaries between non-living and living, between living and conscious, between concrete and abstract — treated as fundamental breaks. They shouldn't be. Not that everything is the same — but the structural principles should be continuous. The previous posts in this series established the ground: creation conforms to discovery, and diversification is how discovery works. The evolutionary transitions were sketched. Now the full curve.
 

@@ -8,7 +8,7 @@ description: "SPLectrum's metaphysics is descriptive, not prescriptive: it descr
 status: ready
 words: 620
 ---
-<img src="https://images.unsplash.com/photo-1679210208117-d60a2e36d6bb?q=80&w=350&h=230&auto=format&fit=crop" alt="A Metaphysics of Disclosure" />
+<img src="https://images.unsplash.com/photo-1679210208117-d60a2e36d6bb?q=80&w=700&h=460&auto=format&fit=crop" alt="A Metaphysics of Disclosure" />
 
 Three posts into the [Reality series](/blog/label/reality/), it is worth stopping to see the shape of what we have built. The series started with [Building from the Seed](/blog/2026/06/building-from-the-seed/), where I made the transition from talking about the structure of reality to talking about what populates reality and the three values that come with the grain of being a subject: belonging, privacy, creativity.
 

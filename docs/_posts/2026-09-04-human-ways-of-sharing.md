@@ -8,7 +8,7 @@ description: "The developmental picture of the subject who comes into language â
 status: ready
 words: 759
 ---
-<img src="https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?q=80&w=350&h=230&auto=format&fit=crop" alt="A child reaching" />
+<img src="https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?q=80&w=700&h=460&auto=format&fit=crop" alt="A child reaching" />
 
 Watch a child come into language and it is plainly not sitting still. It is doing something â€” reaching for what a word points at, trying a phrase and watching what it does, catching a pattern in what everyone around keeps saying and pressing it into a shape of its own. Nobody hands the child language whole; the child goes and gets it, from the middle of a world already talking.
 

@@ -8,7 +8,7 @@ description: "Paul Feyerabend — the student who dismantled his teacher's progr
 status: ready
 words: 655
 ---
-<img src="https://images.unsplash.com/photo-1779701340364-4d10a4a7f07f?q=80&w=350&h=230&auto=format&fit=crop" alt="Paul Feyerabend" />
+<img src="https://images.unsplash.com/photo-1779701340364-4d10a4a7f07f?q=80&w=700&h=460&auto=format&fit=crop" alt="Paul Feyerabend" />
 
 In the last months of the war, retreating with the German army before the Russian advance, Paul Feyerabend took three bullets; one lodged in his spine. He was twenty-one, temporarily paralysed from the waist down, and he would walk with a stick and live with the pain for the next fifty years. What he came out of the war wanting was not philosophy — it was opera. He trained his voice seriously and kept singing all his life, tried stagecraft, drifted through history and sociology into physics and astronomy in Vienna. When a scholarship took him to England, the plan was to study under [Wittgenstein](/positioning/persons/w/wittgenstein/); Wittgenstein died before he arrived, and he landed with [Karl Popper](/positioning/persons/p/popper/) instead. The [philosophy of science](/positioning/subjects/p/philosophy-of-science/) got him at second choice, twice removed.
 

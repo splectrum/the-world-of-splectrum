@@ -9,7 +9,7 @@ status: ready
 words: 609
 ---
 
-<img src="https://images.unsplash.com/photo-1678899813352-f78cd41e1744?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="SPLectrum and Emergence" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1678899813352-f78cd41e1744?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="SPLectrum and Emergence" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
 History keeps a file marked *strong emergence* — properties of wholes that cannot be derived, even in principle, from full knowledge of their parts. And history has taken entries out of it more than once. Vitalism filed *life* there; biochemistry restated it. [C. D. Broad](/positioning/persons/b/broad/), the most careful mind ever to organise the file, put *silver chloride* in it in 1925 — the properties of a compound, his confident example of a relation no amount of knowledge could close. Quantum mechanics began deriving chemical bonds within the decade. Philosophers of chemistry still argue about how complete that derivation is, but the example moved. The file is not empty; experience is still in it.
 

@@ -8,7 +8,7 @@ description: "We are born wearing human-coloured spectacles — anthropocentrism
 status: ready
 words: 591
 ---
-<img src="https://images.unsplash.com/photo-1569292567777-e5d61a759322?q=80&w=350&h=230&auto=format&fit=crop" alt="The Seed and Human Reality" />
+<img src="https://images.unsplash.com/photo-1569292567777-e5d61a759322?q=80&w=700&h=460&auto=format&fit=crop" alt="The Seed and Human Reality" />
 
 I started a seed section on the site because I thought it was important to separate what can be deduced from the principles from what gets built on top of it. Even if that means the section is small. How wrong I was, I had no idea of how much follows from the common properties of language - the relational - expressed by seed principles. 10+ pages? Not a problem. This post is the first in a sequence dealing with human reality which should bring us to the introduction of the central focus of SPLectrum moving forward: Interrelational Pluralism.
 

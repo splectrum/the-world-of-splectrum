@@ -8,7 +8,7 @@ description: "Fire as lived experience — sight, heat, sound, all in language. 
 status: ready
 words: 738
 ---
-<img src="https://plus.unsplash.com/premium_photo-1664367985945-98d683d96e78?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Campfire" />
+<img src="https://plus.unsplash.com/premium_photo-1664367985945-98d683d96e78?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="Campfire" />
 
 When reading through the six lines of the SPLectrum seed there are two foundational heavyweights that stand out.<br/>
 *P0 — Being implies language*<br>

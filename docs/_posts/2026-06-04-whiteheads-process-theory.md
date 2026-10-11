@@ -8,7 +8,7 @@ description: "Whitehead saw the bifurcation of nature before anyone else and bui
 status: ready
 words: 559
 ---
-<img src="https://images.unsplash.com/photo-1531379410502-63bfe8cdaf6f?q=80&w=350&h=350&auto=format&fit=crop&crop=center&ixlib=rb-4.1.0" alt="Process Theory" />
+<img src="https://images.unsplash.com/photo-1531379410502-63bfe8cdaf6f?q=80&w=700&h=700&auto=format&fit=crop&crop=center&ixlib=rb-4.1.0" alt="Process Theory" />
 
 In *The Concept of Nature* (1920) Whitehead named the bifurcation of nature. It is the split between physical nature as physics describes it (atoms, wavelengths, mechanisms) and experiential nature as we live it (colours, feelings, qualities). They form a dualism that never closes. Whitehead wanted to dissolve it and this grew into a whole process metaphysics — the philosophy of organism (*Process and Reality*, 1929) where experience is built in from the ground up.
 

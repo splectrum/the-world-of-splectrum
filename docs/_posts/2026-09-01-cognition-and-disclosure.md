@@ -8,7 +8,7 @@ description: "Experience never arrives empty — Bergson sees it full of memorie
 status: ready
 words: 556
 ---
-<img src="https://images.unsplash.com/photo-1589204051059-64645f9a2181?q=80&w=350&h=230&auto=format&fit=crop" alt="A yellow bearded iris in bloom against soft green" />
+<img src="https://images.unsplash.com/photo-1589204051059-64645f9a2181?q=80&w=700&h=460&auto=format&fit=crop" alt="A yellow bearded iris in bloom against soft green" />
 
 Recently a new core word was added to SPLectrum: cognition. And it got its SPLectrum-specific definition: *Cognition is the process of acquiring knowledge and understanding through experience*. It is still very much in line with the Oxford definition. The difference is the removal of an unnecessary constraint and some redundancy — resulting — in SPLectrum's eyes — in a much cleaner definition.
 

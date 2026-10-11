@@ -8,7 +8,7 @@ description: "Experience must be personal before it can be shared, and it never 
 status: ready
 words: 474
 ---
-<img src="https://plus.unsplash.com/premium_photo-1735775900005-9cb5aa14c323?q=80&w=350&h=230&auto=format&fit=crop" alt="Between Subjects" />
+<img src="https://plus.unsplash.com/premium_photo-1735775900005-9cb5aa14c323?q=80&w=700&h=460&auto=format&fit=crop" alt="Between Subjects" />
 
 We left [the previous post](/blog/2026/05/seed-and-human-reality/) with the seed's structural fact: we never interact directly. What we experience as conversation, as being together, is emergent. That is the structural setup. But what *fills* this between, when subjects meet?
 

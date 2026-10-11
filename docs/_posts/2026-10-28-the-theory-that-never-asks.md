@@ -9,7 +9,7 @@ status: ready
 words: 646
 ---
 
-<img src="https://plus.unsplash.com/premium_photo-1728688265254-0748734fa14a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Theory That Never Asks What Things Are Made Of" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://plus.unsplash.com/premium_photo-1728688265254-0748734fa14a?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Theory That Never Asks What Things Are Made Of" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
 Thermodynamics has a strange position among physical theories. Its laws were worked out before it was settled whether matter is made of atoms, and when the atoms turned up nothing had to be withdrawn. The same apparatus now applies to gases, magnets, living cells, computation and black holes — domains with almost nothing in common at the level of what they are made of. The strangeness goes away once the kind of theory is named.
 

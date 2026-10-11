@@ -8,7 +8,7 @@ description: "How P0 became a creational principle — the act of placing a boun
 status: ready
 words: 887
 ---
-<img src="https://images.unsplash.com/photo-1556197908-96ed0fa30b65?q=80&w=2070&auto=format&fit=crop" alt="The Birth of P0 — Being Is Tension" />
+<img src="https://images.unsplash.com/photo-1556197908-96ed0fa30b65?q=80&w=700&auto=format&fit=crop" alt="The Birth of P0 — Being Is Tension" />
 
 When [SPLectrum was born](/blog/2026/03/splectrum-is-born/) the seed had only five principles about language and the relational. Then after having done the initial [positioning](/blog/label/positioning/) posts the SPLectrum seed was ready for a bit of unpacking. This happened in two posts: [SPLectrum from First Principles](/blog/2026/05/splectrum-and-first-principles/) and [First Principles — the Social Core](/blog/2026/05/first-principles-the-social-core/). While preparing I ran into a bit of bother: where does language come from? My thoughts drifted Heidegger's way - *being is always already disclosed* - and if that is the case, so must language, the relational. And so P0 was born: *being implies language*. P0 because this principle is of a different nature from the other ones, it is the principle of language origin.
 

@@ -8,7 +8,7 @@ description: "Three schools draw the inside of the subject three ways — empty,
 status: ready
 words: 757
 ---
-<img src="https://images.unsplash.com/photo-1509909756405-be0199881695?q=80&w=350&h=230&auto=format&fit=crop" alt="An empty room with a doorway" />
+<img src="https://images.unsplash.com/photo-1509909756405-be0199881695?q=80&w=700&h=460&auto=format&fit=crop" alt="An empty room with a doorway" />
 
 The [human ways of sharing post](/blog/2026/09/human-ways-of-sharing/) left a child in the middle of a world already talking, going and getting language for itself. It is worth asking why it took so long to develop, and why the schools that dominated the study of the mind for most of a century see it differently.
 

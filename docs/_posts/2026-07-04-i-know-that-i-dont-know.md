@@ -8,7 +8,7 @@ description: "The Socratic phrase became a badge of the thing it diagnosed. Carr
 status: ready
 words: 682
 ---
-<img src="https://images.unsplash.com/photo-1598398386929-4d5370672e9f?q=80&w=350&h=230&auto=format&fit=crop" alt="I Know That I Don't Know" />
+<img src="https://images.unsplash.com/photo-1598398386929-4d5370672e9f?q=80&w=700&h=460&auto=format&fit=crop" alt="I Know That I Don't Know" />
 
 Socrates, told by the Oracle at Delphi that he was the wisest of all, went to check. He questioned the politicians, the poets, the craftsmen — the ones who were supposed to know — and found that each believed they knew things they didn't. His conclusion was modest and precise: he was wiser only in this, that he didn't think he knew what he didn't know.
 

@@ -164,6 +164,8 @@ Labels: label1, label2, label3
 - [ ] task
 ```
 
+**Image size.** In `IMAGE_URL`, set the Unsplash URL's `w=` to `700` (twice the 350px display width). The `w=` copied from Unsplash is usually 2000–2900px: several hundred KB to over 1 MB for an image shown at 350px, against roughly 30–120 KB at `w=700`.
+
 ### Collaborative flow
 
 1. **Scope** — discuss what the draft produces: post, reference pages, vocabulary updates

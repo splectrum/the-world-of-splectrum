@@ -8,7 +8,7 @@ description: "Aesthetics is not the philosophy-of-art appendix — it is the dyn
 status: ready
 words: 584
 ---
-<img src="https://images.unsplash.com/photo-1530103043960-ef38714abb15?q=80&w=350&h=230&auto=format&fit=crop" alt="SPLectrum's Kind of Aesthetics" />
+<img src="https://images.unsplash.com/photo-1530103043960-ef38714abb15?q=80&w=700&h=460&auto=format&fit=crop" alt="SPLectrum's Kind of Aesthetics" />
 
 In [Flying the Flag of Belonging, Privacy and Creativity](/blog/2026/06/flying-the-flag/) I made a start situating SPLectrum, exploring the type of inquiry that flows from the three core values. Epistemology — or how we come to knowledge — is all around the subject experience. Ontology is about the concepts we use in language. And then came the third: what about the way concepts relate and express meaning, what about the 'dynamic' part of language? 
 

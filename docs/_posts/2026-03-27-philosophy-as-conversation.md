@@ -8,7 +8,7 @@ description: "Rorty broke the mirror of nature — no language represents realit
 status: ready
 words: 544
 ---
-<img src="https://images.unsplash.com/photo-1592211762325-eea5e40adbd4?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Shattered glass" />
+<img src="https://images.unsplash.com/photo-1592211762325-eea5e40adbd4?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="Shattered glass" />
 
 In the [positioning series](/blog/label/positioning/) I talked about [Wittgenstein](/positioning/persons/w/wittgenstein/)'s transition from language to form of life. A strong member of the analytical tradition opening the door to points of view considered more at home within the Continental tradition. However this never took the form of a public discussion, that part of his work was only published two years after his death. This allowed his turn to seep into the tradition quietly — colleagues absorbed the method, "meaning is use," while the radical core — language as a form of life — went untouched. The door was unlocked but stayed unopened.
 

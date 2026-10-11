@@ -8,7 +8,7 @@ description: "William James — the first self-avowed pluralist. A stalled young
 status: ready
 words: 600
 ---
-<img src="https://images.unsplash.com/photo-1616990600736-cab58155552a?q=80&w=350&h=230&auto=format&fit=crop" alt="William James" />
+<img src="https://images.unsplash.com/photo-1616990600736-cab58155552a?q=80&w=700&h=460&auto=format&fit=crop" alt="William James" />
 
 In the winter of his late twenties, William James could barely get out of bed. He had trained as a doctor, drifted, sunk into a depression heavy enough that he questioned whether a human life was anything more than a machine running out its causes. What pulled him clear was not an argument but a decision. Reading the French philosopher [Charles Renouvier](/positioning/persons/r/renouvier/) on free will, he resolved to *believe* his choices were real — to act as if the future were open — and to treat that belief itself as his first free act. He came back to life through a wager. The philosophy he spent the next forty years building has the shape of that wager: a universe that is not finished, and a self entitled, where the evidence runs out and a decision cannot wait, to lean.
 

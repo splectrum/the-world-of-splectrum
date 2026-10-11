@@ -7,7 +7,7 @@ labels: [preamble]
 status: final review
 words: 461
 ---
-<img src="https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?q=80&w=350&h=230&auto=format&fit=crop" alt="Promises Made, Promises Broken" />
+<img src="https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?q=80&w=700&h=460&auto=format&fit=crop" alt="Promises Made, Promises Broken" />
 
 *This post is from a period before SPLectrum. I wrote a small number of posts, but wasn't exactly a productive writer. It was not until the arrival of AI that productivity in writing was unlocked for me. I had an idea of the style I wanted, I had topics in mind, but putting it all together was were it failed - each time. It makes me smile when I read this back, I really couldn't get it fired up ...*
 

@@ -8,7 +8,7 @@ description: "Merleau-Ponty put experience back in the body — perception is no
 status: ready
 words: 694
 ---
-<img src="https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Friends connecting over shared experience"/>
+<img src="https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="Friends connecting over shared experience"/>
 
 The previous two posts in the [positioning series](/blog/label/positioning/) traced a language turn within the analytical tradition. First [Wittgenstein](/positioning/persons/w/wittgenstein/) turned from language as a tool to accurately describe an outside reality to language games, language as a form of life. And then [Rorty](/positioning/persons/r/rorty/) went further: there is no mirror of reality, no privileged vocabulary for its description, just conversation. Language was freed from representation. But the conversation stayed focussed on what language shares. But how does it get into language in the first place? What is shared first needs to be experienced.
 

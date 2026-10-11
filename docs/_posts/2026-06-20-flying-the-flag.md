@@ -8,7 +8,7 @@ description: "Three values that come with the grain of being a subject: belongin
 status: draft
 words: 641
 ---
-<img src="https://images.unsplash.com/photo-1570393080660-de4e4a15a247?q=80&w=350&h=230&auto=format&fit=crop" alt="Flying the Flag of Belonging, Privacy and Creativity" />
+<img src="https://images.unsplash.com/photo-1570393080660-de4e4a15a247?q=80&w=700&h=460&auto=format&fit=crop" alt="Flying the Flag of Belonging, Privacy and Creativity" />
 
 Free, at last. That is how I feel. Why? In [Building from the Seed](/blog/2026/06/building-from-the-seed/) I made the transition from (only) talking about the structure of language - based on the seed principles - to building on top of that structure, presenting the SPLectrum philosophy as a voice in the pluralistic conversation. It is a philosophy built from three core values of us as subjects - belonging, privacy and creativity.
 

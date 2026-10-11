@@ -8,7 +8,7 @@ description: "Personal freedom, self-organising communities, and decentralisatio
 status: final review
 words: 593
 ---
-<img src="https://images.unsplash.com/photo-1763079163086-fd758f86f831?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Liberty"/>
+<img src="https://images.unsplash.com/photo-1763079163086-fd758f86f831?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="Liberty"/>
 
 What I most value are personal freedoms. Freedom of thought, freedom of choice, freedom of association, freedom of speech. These are fundamental to who I am and to how I see the world working at its best. They are not slogans for me; they are the working conditions under which I can think, relate, and live without the constant static of someone else telling me what I should want.
 

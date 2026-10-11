@@ -7,7 +7,7 @@ labels: [creativity, philosophy]
 status: Mandatory review
 words: 441
 ---
-<img src="https://images.unsplash.com/photo-1559523527-b05d4e6775f8?q=80&w=350&h=230&auto=format&fit=crop" alt="Diversified Discovery" />
+<img src="https://images.unsplash.com/photo-1559523527-b05d4e6775f8?q=80&w=700&h=460&auto=format&fit=crop" alt="Diversified Discovery" />
 
 If creation conforms to discovery — the discovery of relational paths that were available but hadn't been walked yet — then how discovery is organised matters. One explorer walks one path. That path makes certain things visible and leaves the rest in the dark. Extended cognition — AI that extends me — walks my corridor further, faster. Useful. Genuinely useful. But still one corridor. The breadth of what can be discovered is limited by the position from which the discovery starts.
 

@@ -7,7 +7,7 @@ labels: [formalisation, mathematics, philosophy]
 status: mandatory review
 words: 610
 ---
-<img src="https://images.unsplash.com/photo-1595481197464-eddddfe2624c?q=80&w=350&h=230&auto=format&fit=crop" alt="The Wrapper" />
+<img src="https://images.unsplash.com/photo-1595481197464-eddddfe2624c?q=80&w=700&h=460&auto=format&fit=crop" alt="The Wrapper" />
 
 "The conversation we had on Tuesday." Five words. A real conversation it refers to — a long, branching, multi-dimensional thing that took a couple of hours and had its own arc, its own digressions, its own moments of insight and friction. The five-word phrase holds the conversation. Not by reproducing it. By packaging it — wrapping it into a graspable unit we can refer to, point at, build on in the next conversation.
 

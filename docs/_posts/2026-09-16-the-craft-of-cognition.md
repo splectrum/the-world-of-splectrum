@@ -9,7 +9,7 @@ status: ready
 words: 613
 ---
 
-<img src="https://images.unsplash.com/photo-1656504805706-ce25cea5175f?q=80&w=350&h=230&auto=format&fit=crop" alt="A woodcarver at work with a chisel in her workshop, surrounded by carved figures" />
+<img src="https://images.unsplash.com/photo-1656504805706-ce25cea5175f?q=80&w=700&h=460&auto=format&fit=crop" alt="A woodcarver at work with a chisel in her workshop, surrounded by carved figures" />
 
 Hand someone the complete equipment of sculpture — the chisels, the technique, the accumulated tradition of the workshop — and something essential has still not been handed over: the knowhow of expressing *in* sculpture. That is acquired in the doing, and it is nobody else's. No two sculptors cut alike, and the difference is not in the toolbox.
 

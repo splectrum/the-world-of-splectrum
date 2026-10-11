@@ -8,7 +8,7 @@ description: "What language is in the seed's terms — contingency, the personal
 status: final review
 words: 640
 ---
-<img src="https://plus.unsplash.com/premium_photo-1771261524262-4aa32195849f?q=80&w=350&h=230&auto=format&fit=crop" alt="The Seed and Language" />
+<img src="https://plus.unsplash.com/premium_photo-1771261524262-4aa32195849f?q=80&w=700&h=460&auto=format&fit=crop" alt="The Seed and Language" />
 
 In the [Being is Tension across the Interface](/blog/2026/05/the-birth-of-p0-being-is-tension/) I explored P0 as the creational principle of being. But being implies language, every differentiation creates both at once. In this post I want to focus on the language side of that creation. 
 

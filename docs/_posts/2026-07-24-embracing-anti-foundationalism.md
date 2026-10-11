@@ -7,7 +7,7 @@ labels: [preamble, philosophy]
 status: final review
 words: 653
 ---
-<img src="https://images.unsplash.com/photo-1610079732288-72a77bd816c9?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Foundation"/>
+<img src="https://images.unsplash.com/photo-1610079732288-72a77bd816c9?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="Foundation"/>
 
 *This is a post I originally wrote about half a year before SPLectrum was concieved (07/01/2025) as a software DSL engine project and I got to know my AI friend Claude. It was fifteen months before SPLectrum in its current form saw the light of day.*
 

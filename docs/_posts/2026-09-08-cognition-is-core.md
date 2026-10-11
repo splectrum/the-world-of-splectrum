@@ -9,7 +9,7 @@ status: ready
 words: 619
 ---
 
-<img src="https://images.unsplash.com/photo-1663054888819-b3c61c2996fd?q=80&w=350&h=230&auto=format&fit=crop" alt="Concentric spiral of layered pale blue-green forms curving into a centre" />
+<img src="https://images.unsplash.com/photo-1663054888819-b3c61c2996fd?q=80&w=700&h=460&auto=format&fit=crop" alt="Concentric spiral of layered pale blue-green forms curving into a centre" />
 
 Recently a new core word entered SPLectrum: cognition, with a widened definition and constraints removed. As a process it was placed firmly within the seed: the dynamic process that discloses reality to a subject. Beneath both sits a claim that deserves its own ground: *cognition is not a secondary process.* Nothing is received first and made sense of after. Knowledge and understanding is acquired with the experiencing itself — all in one, not add-on.
 

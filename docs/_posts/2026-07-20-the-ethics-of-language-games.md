@@ -8,7 +8,7 @@ description: "SPLectrum's descriptive ethics — values scoped to the language g
 status: ready
 words: 624
 ---
-<img src="https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="The Ethics of Language Games" />
+<img src="https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="The Ethics of Language Games" />
 
 In the previous post I took time out from our journey into metaphysics to make an important point: each of us has the agency to shape their own reality with their own beliefs and convictions. Especially important when dealing with the values a subject or community holds towards other subjects or communities — the terrain of ethics.
 

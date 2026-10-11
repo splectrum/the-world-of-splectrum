@@ -8,7 +8,7 @@ description: "Approaching interrelational pluralism from the pluralism side: a f
 status: ready
 words: 675
 ---
-<img src="https://images.unsplash.com/photo-1611220086980-1617d5f18082?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Pluralism and the Interrelational" />
+<img src="https://images.unsplash.com/photo-1611220086980-1617d5f18082?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="Pluralism and the Interrelational" />
 
 A while ago, in [From Seed to Interrelational Pluralism](/blog/2026/05/from-seed-to-interrelational-pluralism/), I called SPLectrum the home of interrelational pluralism. It is a position I arrived at from the seed principles alone. Here I want to frame it around the pluralism side.
 

@@ -9,7 +9,7 @@ status: draft
 words: 841
 ---
 
-<img src="https://images.unsplash.com/photo-1531851243379-1524c00c0545?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Empty Chair" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1531851243379-1524c00c0545?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Empty Chair" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
 In 2018 [Artemy Kolchinsky](/positioning/persons/k/kolchinsky/) and [David Wolpert](/positioning/persons/w/wolpert/) [set out to find the meaningful correlations between a system and its environment](https://arxiv.org/abs/1806.08053). They set themselves one condition, and it makes the attempt worth watching: the answer had to be **intrinsic**, grounded in the system's own dynamics rather than in a goal supplied from outside. A utility function fails that test, because it makes the meaning, in their words, "for the external scientist who imputes goals to the system, rather than for the system itself." They wanted a definition that would work for a rock, a hurricane and a cell alike, with nobody deciding in advance what any of them was for. The observer's chair was to stay empty.
 

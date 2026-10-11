@@ -8,7 +8,7 @@ description: "Isabelle Stengers — from Prigogine's laboratory, where time's ar
 status: ready
 words: 705
 ---
-<img src="https://images.unsplash.com/photo-1587440871875-191322ee64b0?q=80&w=350&h=230&auto=format&fit=crop" alt="Isabelle Stengers" />
+<img src="https://images.unsplash.com/photo-1587440871875-191322ee64b0?q=80&w=700&h=460&auto=format&fit=crop" alt="Isabelle Stengers" />
 
 Isabelle Stengers learned her metaphysics in a laboratory. Trained as a chemist in Brussels, she worked on the research team of [Ilya Prigogine](/positioning/persons/p/prigogine/) in the years when non-equilibrium thermodynamics was dismantling physics' oldest prejudice — that time's arrow is an illusion, a smudge our limited eyes put on reversible laws. Prigogine's dissipative structures — systems far from equilibrium that hold themselves together by exchanging energy with their surroundings — showed order arising out of chaos, irreversibly, in time, and not as an anomaly but as how nature builds, life included. Their books together, *Order Out of Chaos* above all, carried the news to a wide public. Prigogine brought the science; Stengers brought the question underneath it: if nature is genuinely in the making, what happens to a science that claimed to describe a finished world from outside?
 

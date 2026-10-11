@@ -7,7 +7,7 @@ labels: [formalisation, philosophy, mathematics]
 status: mandatory review
 words: 600
 ---
-<img src="https://images.unsplash.com/photo-1533582437341-dfdc01630b05?q=80&w=350&h=230&auto=format&fit=crop" alt="The Friction with 1-Categorical Thinking" />
+<img src="https://images.unsplash.com/photo-1533582437341-dfdc01630b05?q=80&w=700&h=460&auto=format&fit=crop" alt="The Friction with 1-Categorical Thinking" />
 
 In a meeting, someone asks: "Is X equal to Y?" The answer wants to be: "Well, it depends what you mean by equal — they cohere up to a certain transformation, but the transformation is non-trivial and the choice of it matters for the question you're really asking..." And the asker is already irritated. "Just tell me yes or no."
 

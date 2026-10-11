@@ -8,7 +8,7 @@ description: "What fills the gap between subjects is not a medium but mutual rad
 status: ready
 words: 527
 ---
-<img src="https://images.unsplash.com/photo-1442504028989-ab58b5f29a4a?q=80&w=350&h=230&auto=format&fit=crop" alt="Community as Luminosity" />
+<img src="https://images.unsplash.com/photo-1442504028989-ab58b5f29a4a?q=80&w=700&h=460&auto=format&fit=crop" alt="Community as Luminosity" />
 
 If ownness is real and we never communicate directly, what actually happens between us? The [previous post](/blog/2026/05/between-subjects/) established the gap. This one asks what fills it.
 

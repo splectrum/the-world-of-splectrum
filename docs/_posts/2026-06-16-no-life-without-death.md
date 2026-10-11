@@ -7,7 +7,7 @@ labels: [preamble]
 status: final review
 words: 499
 ---
-<img src="https://images.unsplash.com/photo-1518495973542-4542c06a5843?q=80&w=350&h=230&auto=format&fit=crop" alt="No Life Without Death" />
+<img src="https://images.unsplash.com/photo-1518495973542-4542c06a5843?q=80&w=700&h=460&auto=format&fit=crop" alt="No Life Without Death" />
 
 We take life for granted and expect it to last forever. Well, life as a whole will be there for quite a while yet, but our individual life is much shorter — a few decades if we're lucky, and not one of them guaranteed.
 

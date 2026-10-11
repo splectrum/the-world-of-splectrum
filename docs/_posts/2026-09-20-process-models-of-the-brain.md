@@ -8,7 +8,7 @@ description: "Three process models of the brain, presented purely for the insigh
 status: ready
 words: 695
 ---
-<img src="https://images.unsplash.com/photo-1664447990726-355422d41054?q=80&w=350&h=230&auto=format&fit=crop" alt="Process Models of the Brain" />
+<img src="https://images.unsplash.com/photo-1664447990726-355422d41054?q=80&w=700&h=460&auto=format&fit=crop" alt="Process Models of the Brain" />
 
 In this post I am showcasing three process models of the brain. None of them tell us all but each gives us insight into a specific aspect: evolution, competition, error correction. I present them here purely for the insight while staying away from domain-related discussions.
 

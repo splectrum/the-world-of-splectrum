@@ -8,7 +8,7 @@ description: "From Newton's clockwork to quantum uncertainty — how physics mov
 status: ready
 words: 929
 ---
-<img src="https://images.unsplash.com/photo-1641143215652-971a31701a89?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Light and physics" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1641143215652-971a31701a89?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="Light and physics" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
 Where the turn in Western philosophy is attributed to [Kant](/positioning/persons/k/kant/) with [Descartes](/positioning/persons/d/descartes/) firing the starting shot, the start of the scientific revolution is associated with Copernicus, who moved from an earth-centric to a sun-centric view. It can be argued that [Descartes](/positioning/persons/d/descartes/)' contribution is at least as important — the mind-body split created a mechanistic world that was 'written in the language of mathematics' to put it in the words of Galileo. No need for purpose or intent, no stones falling because they seek their natural place. The mind-body split freed science to treat the physical world as pure mechanism — no teleology, no hidden intentions, no souls in stones.
 

@@ -8,7 +8,7 @@ description: "What does it take to come to meaning in language? The trail runs f
 status: ready
 words: 646
 ---
-<img src="https://images.unsplash.com/photo-1759513332708-6e0aa2364095?q=80&w=350&h=230&auto=format&fit=crop" alt="Sunrise over the horizon at dawn" />
+<img src="https://images.unsplash.com/photo-1759513332708-6e0aa2364095?q=80&w=700&h=460&auto=format&fit=crop" alt="Sunrise over the horizon at dawn" />
 
 Meaning expressed in language. What does it take to come to meaning in language? And how come our experience seems always already fully loaded with meaning? How are we able to create such a complex web of meanings that at the same time adds richness to the reality we experience individually?
 

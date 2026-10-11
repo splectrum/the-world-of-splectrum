@@ -7,7 +7,7 @@ labels: [creativity, philosophy]
 status: Mandatory review
 words: 745
 ---
-<img src="https://images.unsplash.com/photo-1620662831351-9f68f76d0b9a?q=80&w=350&h=230&auto=format&fit=crop" alt="A View from the Perimeter — The Thinking Side" />
+<img src="https://images.unsplash.com/photo-1620662831351-9f68f76d0b9a?q=80&w=700&h=460&auto=format&fit=crop" alt="A View from the Perimeter — The Thinking Side" />
 
 The previous post followed the physical curve — quantum to chemistry to life to human progress. Same pattern at every threshold: interaction density crossing a point where something structurally new emerges. Now the same curve, from the thinking side. The evolution of thinking follows the same threshold pattern, and the intensity of information exchange sets the pace.
 

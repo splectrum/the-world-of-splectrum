@@ -8,7 +8,7 @@ description: "Wittgenstein's slab game through SPLectrum glasses — equivalent 
 status: ready
 words: 720
 ---
-<img src="https://images.unsplash.com/photo-1627453999411-dd9c2604c109?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Letters"  />
+<img src="https://images.unsplash.com/photo-1627453999411-dd9c2604c109?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="Letters"  />
 
 I think it is a good time to return to the language game, [Wittgenstein](/positioning/persons/w/wittgenstein/)'s way, but this time looking at it through SPLectrum glasses. To not let the game itself stand in the way of understanding, let's use a simple one-word language game: Slab.
 

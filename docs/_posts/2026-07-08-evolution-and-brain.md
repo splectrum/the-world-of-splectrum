@@ -7,7 +7,7 @@ labels: [preamble,science]
 status: ready
 words: 564
 ---
-<img src="https://images.unsplash.com/flagged/photo-1552863473-6e5ffe5e052f?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Evolution"/>
+<img src="https://images.unsplash.com/flagged/photo-1552863473-6e5ffe5e052f?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="Evolution"/>
 
 The brain is an organ with over 500 million years of evolution behind it. It probably got started as integration centres in simple nerve nets — the early brainless nervous system, where clusters of neurons began pulling together the work of sensing and responding. From there, step by incremental step, the design built outward: the reptilian brain, the mammalian brain, the primate brain. Each stage added capabilities rather than replacing them. The human brain still uses mammalian and reptilian brain structures underneath everything else; evolution rarely throws working parts away.
 

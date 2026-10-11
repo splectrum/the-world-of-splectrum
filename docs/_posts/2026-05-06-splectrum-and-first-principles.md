@@ -8,7 +8,7 @@ description: "Walking through the first three seed principles — being, relatio
 status: ready
 words: 748
 ---
-<img src="https://images.unsplash.com/photo-1736348877782-fa7ae2a9bd69?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="First principles" />
+<img src="https://images.unsplash.com/photo-1736348877782-fa7ae2a9bd69?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="First principles" />
 
 SPLectrum was conceived about a year ago. It started as an engineering project around [domain specific languages (DSL)](/positioning/subjects/d/domain-specific-languages/) and collaborative AI. SPLectrum as a foundational philosophy was born only two months ago, when the seed principles materialised. Since then I spent my time researching how the SPLectrum and the seed principles fit within the philosophical and scientific realm. This culminated last week with my post on relational quantum mechanics (RQM). I was feeling my way, not always high in confidence: who are you that you dare to push the principles of the seed, those 6 lines, to us as the entirety of your foundation to build on?
 

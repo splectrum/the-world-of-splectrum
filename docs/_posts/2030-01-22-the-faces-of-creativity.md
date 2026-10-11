@@ -8,7 +8,7 @@ description: "Discovered, invented, evolved — the three drawers we file newnes
 status: draft
 words: 1090
 ---
-<img src="https://images.unsplash.com/photo-1659136039077-0fa504a96237?q=80&w=350&h=230&auto=format&fit=crop" alt="The Faces of Creativity" />
+<img src="https://images.unsplash.com/photo-1659136039077-0fa504a96237?q=80&w=700&h=460&auto=format&fit=crop" alt="The Faces of Creativity" />
 
 In the [previous post in this series]() I called creativity the generative value. I illustrated it with an example that is typically seen as artistic creation. However its meaning goes much wider, and without judgment: creativity within the privacy of the subject is anything that results in an experience of reality that differs from the shared.
 

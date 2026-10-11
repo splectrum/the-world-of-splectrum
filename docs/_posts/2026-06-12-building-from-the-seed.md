@@ -8,7 +8,7 @@ description: "The seed speaks a meta-language of structure. Building from the se
 status: ready
 words: 605
 ---
-<img src="https://images.unsplash.com/photo-1618158807634-d9c98a91ac8b?q=80&w=350&h=230&auto=format&fit=crop" alt="Building from the Seed" />
+<img src="https://images.unsplash.com/photo-1618158807634-d9c98a91ac8b?q=80&w=700&h=460&auto=format&fit=crop" alt="Building from the Seed" />
 
 I have been writing quite a few posts where the SPLectrum seed took center stage, and for a good reason. The seed principles deal with what is common to all languages, what is common to all of us: personal experience, shared reality and evolving understanding. It lies at the basis of what I call interrelational pluralism, and is opening an avenue to bring in category theory as a more formal treatment of the relational structure of language. Interesting as that may be, it is only one side of the SPLectrum coin. 
 

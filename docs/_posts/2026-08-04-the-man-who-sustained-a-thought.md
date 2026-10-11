@@ -8,7 +8,7 @@ description: "Charles Renouvier — the philosopher who defined freedom as the s
 status: draft
 words: 606
 ---
-<img src="https://images.unsplash.com/photo-1507608616759-54f48f0af0ee?q=80&w=350&h=230&auto=format&fit=crop" alt="The Man Who Sustained a Thought" />
+<img src="https://images.unsplash.com/photo-1507608616759-54f48f0af0ee?q=80&w=700&h=460&auto=format&fit=crop" alt="The Man Who Sustained a Thought" />
 
 Sometime in the late 1870s, the most systematic philosopher in France sat down to translate an unknown American. Charles Renouvier was past sixty: four volumes of the *Essais de critique générale* behind him, a weekly journal in his hands that fought his corner in philosophy and Third Republic politics at once. [William James](/positioning/persons/j/james/) was a Harvard instructor with no philosophical reputation to speak of. Renouvier translated his essays into French and printed them in his own journal. Sit with that for a moment — the famous man did the translating.
 

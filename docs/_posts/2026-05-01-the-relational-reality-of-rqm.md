@@ -8,7 +8,7 @@ description: "Relational quantum mechanics drops the privileged observer — pro
 status: ready
 words: 1249
 ---
-<img src="https://images.unsplash.com/photo-1729119578993-21bcc7a04314?q=80&w=350&h=230&auto=format&fit=crop&crop=center" alt="Quantum" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1729119578993-21bcc7a04314?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="Quantum" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
 Ever since the birth of quantum mechanics, the science community has lived with an ongoing paradox. The scientific results of the new tools — quantum mechanics and the special and general relativity theories — are overwhelming. Yet the resulting worldview discourse in science has conceptually and in vocabulary remained strongly on the classical and deterministic side tainted by 'the outside reality' view and the 'privileged observer'.
 

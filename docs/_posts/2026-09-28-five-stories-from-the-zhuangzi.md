@@ -8,7 +8,7 @@ description: "Five stories from the Zhuangzi, told plainly and left unexplained 
 status: ready
 words: 677
 ---
-<img src="https://images.unsplash.com/photo-1638277528398-e8aeb4a1dab1?q=80&w=350&h=230&auto=format&fit=crop" alt="Five Stories from the Zhuangzi" />
+<img src="https://images.unsplash.com/photo-1638277528398-e8aeb4a1dab1?q=80&w=700&h=460&auto=format&fit=crop" alt="Five Stories from the Zhuangzi" />
 
 The *Zhuangzi* was written in China in the fourth century BCE. Zhuangzi locates knowing in skilled doing. It tells stories and leaves before explaining them. To honour the wisdom buried within them, this post gives a plain narrative of a few stories. 
 
