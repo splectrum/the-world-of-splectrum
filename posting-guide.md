@@ -2,14 +2,22 @@
 
 ## Setup
 
-- Site: splectrum.world (GitHub Pages from docs/)
+- Site: splectrum.world (Cloudflare Pages, built from docs/ and deployed from local)
 - Blog: splectrum.world/blog/ (Jekyll posts in docs/_posts/)
 - Reference library: splectrum.world/ (Jekyll pages in docs/)
 - Theme: minima with custom head.html, header.html, footer.html, post.html, home.html
 
 ## Publishing
 
-Posts live in `docs/_posts/` as Jekyll markdown with front matter. Future-dated posts are hidden by Jekyll until their date arrives. To publish: commit to main and push.
+Posts live in `docs/_posts/` as Jekyll markdown with front matter. Future-dated posts are left out of the production build until their date arrives. Nothing publishes on its own: a post goes live only when the site is rebuilt and deployed, so deploy on the post's publication day.
+
+Publishing is done from local with `./publish.sh` at the repository root:
+
+- `./publish.sh check` — production build into `publish/` and the checks (published posts built, future posts held back, canonical hosts, size limits); nothing is uploaded.
+- `./publish.sh preview` — the same, then serves `publish/` on http://localhost:5000 with Cloudflare's local emulation.
+- `./publish.sh deploy` — the same, asks for confirmation, deploys to Cloudflare Pages (project `splectrum`), then smoke-tests the live site, including any post dated today.
+
+The working tree must be committed first (`--allow-dirty` overrides). Dates are compared in UTC, as the build runs in UTC. Pushing to the Codeberg remote is for archiving only and is done intermittently; it does not publish.
 
 ## Cadence
 
@@ -18,7 +26,7 @@ Blog cadence is layered: roughly weekly as a minimum schedule looking four month
 - **The day-number grid.** Posts sit on two monthly tracks so day numbers repeat every month: **track A — 1, 8, 16, 24**; **track B — 4, 12, 20, 28**. One track alone is the weekly minimum; both tracks interleaved give the four-day target. When scheduling or rescheduling, place posts on grid days — a series runs down one track; the other track carries the interleave.
 - **Current operation (2026-07-23).** Reduced availability: the schedule runs track A only — one post per week. Track B is dormant until time allows.
 - **Parking.** Posts not yet scheduled are parked on fictitious 2030 dates, grouped in series blocks, and brought back when ready. On unparking: rename the file to the real date, set the frontmatter `date:` to match (it overrides the filename), and re-point any internal cross-links to the post's new URL.
-- Schedule time: 02:00 UTC.
+- Publication date: the post's `date:` (UTC); it goes live with the first deploy on or after that date.
 - Active schedule tracked in `scheduled-tasks.md`.
 - Main and topnav update as the work evolves, not on a cadence.
 
@@ -188,7 +196,7 @@ The draft produces its outputs and is then deleted:
 6. Create clean post file in `docs/_posts/` (Jekyll front matter + prose, no notes)
 7. Delete draft from `drafts/`
 8. Delete submission from `submissions/` (if not already deleted)
-9. Commit and push
+9. Commit; the post goes live with the deploy on its publication day
 
 ### Link direction: blog → site only, never site → blog
 
@@ -319,7 +327,7 @@ Content...
 
 All internal links must use trailing slashes. `/seed/` not `/seed`. No exceptions.
 
-GitHub Pages serves everything at trailing-slash URLs. Non-slash URLs redirect. Google indexes the trailing-slash version and complains about the redirect. Sitemap entries, markdown links, HTML hrefs — always trailing slash.
+Cloudflare Pages serves everything at trailing-slash URLs. Non-slash URLs redirect (308). Google indexes the trailing-slash version and complains about the redirect. Sitemap entries, markdown links, HTML hrefs — always trailing slash.
 
 **Corollary — file↔directory moves need no redirect.** Because every internal link carries the trailing slash, converting a page file to a directory index (`pear.md` → `pear/index.md`) keeps the same URL (`/…/pear/`). Correctly-written links keep working unchanged, so no redirect stub is required for this kind of move. Only add a redirect when a non-slash path or an external URL was shared somewhere outside the repo.
 
