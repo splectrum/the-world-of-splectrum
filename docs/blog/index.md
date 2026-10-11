@@ -1,13 +1,13 @@
 ---
 layout: default
 lastmod: 2026-05-05
-title: "In Wonder - The Conversation"
+title: "In Wonder — The Conversation"
 description: "In Wonder — SPLectrum's blog conversations. Exploring language, reality, philosophy, science and engineering from an interrelational pluralism view."
 ---
 
 [Home](/) > In Wonder
 
-# In Wonder - The Conversation
+# In Wonder — The Conversation
 
 For more structured browsing of the posts, go to the [labels](label/) page.
 

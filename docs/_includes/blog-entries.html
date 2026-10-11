@@ -9,7 +9,7 @@
 {% if alt_split.size > 1 %}{% assign img_alt = alt_split[1] | split: '"' | first %}{% endif %}
 {% endif %}
 <div class="blog-entry">
-{% if img_url %}<a href="{{ post.url }}"><img class="blog-thumb" src="{{ img_url | replace: 'w=350', 'w=80' | replace: 'h=230', 'h=80' }}" alt="{{ img_alt }}" /></a>{% endif %}
+{% if img_url %}<a href="{{ post.url }}"><img class="blog-thumb" src="{{ img_url | replace: 'w=700', 'w=160' | replace: 'h=460', 'h=160' | replace: 'h=747', 'h=160' | replace: 'h=700', 'h=160' }}" alt="{{ img_alt }}" /></a>{% endif %}
 <div class="blog-entry-text">
 <strong><a href="{{ post.url }}">{{ post.title }}</a></strong> · {{ post.date | date: "%B %-d, %Y" }}{% for label in post.labels %}{% if series contains label %} · <a href="/blog/label/{{ label }}/">{{ label }} series</a>{% endif %}{% endfor %}<br/>
 {% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncatewords: 30 }}{% endif %}

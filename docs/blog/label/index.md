@@ -7,7 +7,7 @@ description: "Browse blog posts by label on The World of SPLectrum."
 
 [Home](/) > [In Wonder](/blog/) > Labels
 
-# In Wonder - Labels
+# In Wonder — Labels
 
 <div class="label-grid">
   <div>
