@@ -45,6 +45,13 @@ Build history (creativity merge/reorder/potential-vs-actual correction; the proc
 
 ## Site
 
+The site moved from GitHub Pages to Cloudflare Pages on 2026-10-11 (Direct Upload from local with Wrangler, project `splectrum`; splectrum.world served by Cloudflare, `www` redirected to it). Nothing publishes on its own any more: a post goes live only when the site is rebuilt and deployed.
+
+- [ ] **Publishing-day script** *(noted 2026-10-11)* — one command for publishing days: production build into `publish/` (Docker `jekyll/jekyll:pages`, `JEKYLL_ENV=production`, no `--future`), checks (future posts absent, hosts on splectrum.world, 404 page present), optional preview (`wrangler pages dev publish`), deploy (`wrangler pages deploy publish --project-name splectrum`, API token from `~/.cloudflare-env`). Needed before each post date — next 10-12.
+- [ ] **Search Console verification** *(noted 2026-10-11)* — confirm the property is verified by the DNS TXT record. The `googlef8c8dfabde14cd31.html` file now redirects to its extensionless URL on Cloudflare, so it should not be the method in use.
+- [ ] **Archive remote** *(noted 2026-10-11)* — choose a remote for the repository, for archiving only (it does not drive deployment). Local `main` holds commits not on the old GitHub remote.
+- [ ] **Retire GitHub-era pieces** *(noted 2026-10-11)* — now obsolete: `.github/workflows/daily-rebuild.yml` (the daily empty-commit rebuild), `docs/CNAME`, and the posting guide's publishing section (GitHub Pages and the daily rebuild). Update the posting guide to the Cloudflare routine once the publishing-day script exists.
+
 - [ ] **A more meaningful 404 page** *(noted 2026-10-10)* — `docs/404.html` was added as a plain placeholder for the move to Cloudflare Pages (without one, Cloudflare serves the home page for every unknown URL). Later: a 404 that helps a lost reader find their way into the site.
 
 ## Submissions (scoped, not in the active plan yet)
