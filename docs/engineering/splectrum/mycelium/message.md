@@ -6,7 +6,7 @@ description: "The mycelium message is the tree in motion: a nested Kafka record 
 sitemap: false
 ---
 
-[Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [Mycelium](/engineering/splectrum/mycelium/) > Message
+[Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > Mycelium > Message
 
 # Mycelium Message
 

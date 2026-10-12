@@ -6,7 +6,7 @@ description: "The interrogative mutability protocol reads the stability regime o
 sitemap: false
 ---
 
-[Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [Mycelium](/engineering/splectrum/mycelium/) > Mutability
+[Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > Mycelium > Mutability
 
 # Mycelium Mutability
 

@@ -6,7 +6,7 @@ description: "The static architecture of the mycelium data fabric: identifier po
 sitemap: false
 ---
 
-[Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [Mycelium](/engineering/splectrum/mycelium/) > Fabric
+[Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > Mycelium > Fabric
 
 # Mycelium Fabric
 

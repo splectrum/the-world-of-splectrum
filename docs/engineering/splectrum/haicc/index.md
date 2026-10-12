@@ -12,7 +12,7 @@ sitemap: false
 
 The cognition fabric — how cognition gets distributed, expressed, and coordinated while maintaining genuine human partnership. Decentralised at the cognition level: human and AI agents as collaborative peers.
 
-HAICC is one of SPLectrum's three engineering pillars, alongside [Mycelium](/engineering/splectrum/mycelium/) (data) and SPLectrum itself (language). Where Mycelium provides the data substrate and SPLectrum provides the relational structure, HAICC provides the collaborative process.
+HAICC is one of SPLectrum's three engineering pillars, alongside [Mycelium](/engineering/spl/platform/mycelium/) (data) and SPLectrum itself (language). Where Mycelium provides the data substrate and SPLectrum provides the relational structure, HAICC provides the collaborative process.
 
 ---
 

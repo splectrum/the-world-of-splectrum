@@ -6,7 +6,7 @@ description: "XPath is the addressing and query language over the mycelium fabri
 sitemap: false
 ---
 
-[Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [Mycelium](/engineering/splectrum/mycelium/) > XPath
+[Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > Mycelium > XPath
 
 # Mycelium XPath
 

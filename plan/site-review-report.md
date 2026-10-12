@@ -8,26 +8,7 @@ Overall: the site is in good shape. Terminology, dates, breadcrumbs, alphabetiza
 
 ## 1. Actually broken for readers (worth fixing first)
 
-### 1.1 Two engineering hub URLs 404
-`/engineering/splectrum/mycelium/` and `/engineering/splectrum/splectrum/` have child pages but no `index.md`, so the directory URLs return 404. They are linked from:
-
-- `docs/about.md:16` — a live, sitemapped page
-- `docs/engineering/splectrum/index.md:21`
-- `docs/engineering/splectrum/haicc/index.md`
-- every mycelium child page's own breadcrumb (fabric, layers, message, mutability, mutable, protocol, subject-reality, xpath)
-
-Context: the old `engineering/splectrum/` tree is marked `sitemap: false` (superseded by `engineering/spl/platform/`), but `about.md` still routes readers into it.
-
-### 1.2 Placeholder links in a published post
-`docs/_posts/2026-06-24-promises-made-promises-broken.md:22-23` links to `/blog/2026/XX/philosophy-and-brain/` and `/blog/2026/XX/evolution-and-brain/`. Both target posts published in July 2026, so the fix is `XX` → `07`.
-
-### 1.3 Duplicate Nishida entry
-`docs/positioning/persons/index.md:235` and `:239` list Nishida Kitarō twice with slightly different keyword spans ("the logic of place (basho)" vs "the logic of basho").
-
-### 1.4 Language A–Z is unreachable
-`/language/a-z/` exists (with breadcrumb and intro) but the Language landing (`docs/language/index.md`) never links it — unlike the Tools and Vocabulary landings, which both link theirs.
-
-### 1.5 Parked 2030 posts cross-link with 2026/06 URLs
+### 1.1 Parked 2030 posts cross-link with 2026/06 URLs
 `2030-01-02-the-wrapper.md` and `2030-01-03-is-like-is.md` link to `/blog/2026/06/the-seed-and-category-theory/` and `/blog/2026/06/the-wrapper/` — URLs that assume the originally intended publication dates. They will need updating when the posts are unparked to real dates.
 
 ---

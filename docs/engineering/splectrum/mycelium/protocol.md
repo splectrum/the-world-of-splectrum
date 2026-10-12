@@ -6,7 +6,7 @@ description: "Protocol is the meaning layer for fabric operations: it gives gene
 sitemap: false
 ---
 
-[Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [Mycelium](/engineering/splectrum/mycelium/) > Protocol
+[Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > Mycelium > Protocol
 
 # Mycelium Protocol
 

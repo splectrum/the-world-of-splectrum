@@ -53,7 +53,7 @@ Which clusters first is a collaborative call. The psychology cluster (social ide
 
 ## 5. The union-formation thread folds in
 
-`plan/political-union-formation-sketch.md` — when does an alliance become a society; the territorial criterion under de-localised interaction — is a facet of this, not a separate project. Its cast (state formation, nationalism, federalism, secession) overlaps the nationalism and political-theory facets almost exactly. Keep the sketch as the detailed working doc for that question; treat it as one facet's worth of material.
+`plan/belonging/political-union-formation-sketch.md` — when does an alliance become a society; the territorial criterion under de-localised interaction — is a facet of this, not a separate project. Its cast (state formation, nationalism, federalism, secession) overlaps the nationalism and political-theory facets almost exactly. Keep the sketch as the detailed working doc for that question; treat it as one facet's worth of material.
 
 ## 5a. The shape to expect: three surfaces (Jules, 2026-09-13)
 
@@ -79,7 +79,7 @@ The 2026-09-13 folding ran coherence and decoherence together. They come apart, 
 
 Note what this changes about the register. A mechanism claim is a different thing from a resonance, and it has to answer to the criterion rather than decorate it: whether redundant agreement on property values amounts to *shared similarity for a common purpose*, or only to the first half of it, is exactly the open question — agreement is not obviously orientation.
 
-**Status: research, not settled.** Jules 2026-09-16: this is developed when the subject is taken up — research the field, look at how decoherence is defined, and discuss. Nothing above is a conclusion. `plan/decoherence-working-sketch.md` is retained as that programme's own working doc and carries the physics in detail.
+**Status: research, not settled.** Jules 2026-09-16: this is developed when the subject is taken up — research the field, look at how decoherence is defined, and discuss. Nothing above is a conclusion. `plan/belonging/decoherence-working-sketch.md` is retained as that programme's own working doc and carries the physics in detail.
 
 **The two guards from the original round still stand, and apply to the mechanism reading too:**
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-12
+lastmod: 2026-10-12
 title: "Language"
 description: "Language in SPLectrum's broadest sense. Natural, formal, software, mathematical — all relational, all with equal standing."
 ---
@@ -19,3 +19,5 @@ Each of the kinds below is a language in that structural sense. The content vari
 - [Formal languages](types/formal/) — mathematical, logical, type theory, formal systems.
 - [Software languages](types/software/) — taxonomy, relation to formal language theory.
 - [Domain-specific languages](types/dsl/) — SPLectrum's reading of DSLs, what the engineering record demonstrates, where the thinking is heading.
+
+[A–Z](/language/a-z/) — alphabetical lookup of languages.

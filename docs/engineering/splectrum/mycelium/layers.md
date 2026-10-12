@@ -6,7 +6,7 @@ description: "Layered data access in the mycelium fabric: the physical layer, da
 sitemap: false
 ---
 
-[Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [Mycelium](/engineering/splectrum/mycelium/) > Layers
+[Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > Mycelium > Layers
 
 # Mycelium Fabric Layers
 

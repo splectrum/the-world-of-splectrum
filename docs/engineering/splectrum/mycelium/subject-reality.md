@@ -6,7 +6,7 @@ description: "What a subject sees in mycelium: the local view of data state boun
 sitemap: false
 ---
 
-[Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [Mycelium](/engineering/splectrum/mycelium/) > Subject Reality
+[Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > Mycelium > Subject Reality
 
 # Subject Reality
 

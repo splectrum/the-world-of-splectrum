@@ -19,8 +19,8 @@ So what have I been up to? Getting a better grounding in the history of philosop
 
 The biggest shift is that the material wants a structure I didn't have before. In the early days I wrote whatever was on my mind, which is fine for beginning but not enough for building. I have decided to split the subject matter into three areas:
 
-1. [Philosophy and the brain](/blog/2026/XX/philosophy-and-brain/)
-2. [Evolution and the brain](/blog/2026/XX/evolution-and-brain/)
+1. [Philosophy and the brain](/blog/2026/07/philosophy-and-brain/)
+2. [Evolution and the brain](/blog/2026/07/evolution-and-brain/)
 3. The big picture of evolution
 
 The brain sits at the intersection of the first two — it is where thinking meets biology. The third is where biology meets everything else: chemistry, time, the slow unfolding of what there is.

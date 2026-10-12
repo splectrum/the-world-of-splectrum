@@ -6,7 +6,7 @@ description: "The SPLectrum naming system: identifier grammar, how one identifie
 sitemap: false
 ---
 
-[Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [SPLectrum](/engineering/splectrum/splectrum/) > Namespace
+[Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > SPLectrum > Namespace
 
 # Namespace
 

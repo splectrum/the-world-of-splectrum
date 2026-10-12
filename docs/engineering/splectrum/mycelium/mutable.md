@@ -6,7 +6,7 @@ description: "The mutable protocol manages living surfaces derived from immutabl
 sitemap: false
 ---
 
-[Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [Mycelium](/engineering/splectrum/mycelium/) > Mutable
+[Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > Mycelium > Mutable
 
 # Mycelium Mutable Protocol
 
