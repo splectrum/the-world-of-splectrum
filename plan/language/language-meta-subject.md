@@ -162,7 +162,7 @@ The draft branches above predate this decision; read them through it.
 
 **Watch.** Axiomatised ontologies (taxonomies plus axioms and relations, e.g. OWL) are constructs that use a vocabulary — language side; plain controlled vocabularies and taxonomies stay with vocabularies. "Register" is the working word on the position side; in linguistics it means variety by situation, so the doorway's category names use the field's words.
 
-The vocabularies doorway has its own working document: `submissions/vocabularies-meta-subject.md`.
+The vocabularies doorway has its own working document: `plan/language/vocabularies-meta-subject.md`.
 
 ---
 

@@ -31,3 +31,21 @@ Enhanced versions were published as Aguirre, Foster and Merali (eds.), *Wanderin
 | walker.pdf | Bio from Bit | Sara Imari Walker | Fourth |
 | yanofsky.pdf | Finding Structure in Science and Mathematics | Noson S. Yanofsky | Fourth |
 | ellis.pdf | Wandering Towards a Goal: The Key Role of Biomolecules | George F. R. Ellis | Special community prize |
+
+---
+
+## Knowledge and belief
+
+| File | Title | Author | Year | Source |
+|---|---|---|---|---|
+| review-antognazza-thinking-with-assent.pdf | How I Learned to Stop Worrying and Drop Justified True Belief (final preprint) — review essay of Maria Rosa Antognazza, *Thinking with Assent* (Oxford University Press, 2024) | not named on the preprint | not stated on the preprint | Published in *Freiburger Zeitschrift für Philosophie und Theologie* 72, no. 2: 530–537. Added 2026-10-12 from a PDF supplied by Jules; cite the published version. |
+
+---
+
+## Rovelli
+
+| File (in `rovelli/`) | Title | Author | Year | Source |
+|---|---|---|---|---|
+| agency-in-physics.pdf | Agency in Physics | Carlo Rovelli | 2020 | arXiv:2007.05300, downloaded 2026-10-12 from arxiv.org/pdf/2007.05300. No journal publication found in OpenAlex (2026-10-12). |
+
+Rovelli's FQXi 2017 essay, "Meaning and Intentionality = Information + Evolution", is in the FQXi section above (`fqxi-2017-wandering-towards-a-goal/rovelli.pdf`).

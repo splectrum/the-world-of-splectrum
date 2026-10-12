@@ -1,6 +1,6 @@
 # Vocabularies as a meta subject — working document
 
-*Status: working document, opened 2026-10-07. Split from the language working document (`submissions/language-meta-subject.md`, §4a) the same day. A record of a discussion and the direction that came out of it — not a build plan. Insight is what matters, not speed.*
+*Status: working document, opened 2026-10-07. Split from the language working document (`plan/language/language-meta-subject.md`, §4a) the same day. A record of a discussion and the direction that came out of it — not a build plan. Insight is what matters, not speed.*
 
 ## How to read this document
 

@@ -26,7 +26,7 @@ Same provenance marks as the meta-subject working documents.
 
 ## 1. Rovelli — meaningful information and agency
 
-The full checked record of the meaning essay is in `submissions/language-meta-subject.md` §2.1–2.5; the essentials are gathered here.
+The full checked record of the meaning essay is in `plan/language/language-meta-subject.md` §2.1–2.5; the essentials are gathered here.
 
 - **[C, checked at source]** "Meaning = Information + Evolution" (arXiv:1611.02420, 2016; contest version and book chapter "Meaning and Intentionality = Information + Evolution", FQXi 2017 / *Wandering Towards a Goal*, Springer, 2018). Relative information (correlation) is everywhere — "The world teams with correlated quantities" — so not sufficient for meaning; survival singles out the meaningful correlations: "surviving mechanisms survive by using correlations." "Intentionality is built into the definition"; the definition "does not directly refer to anything mental". Truth as "the effectiveness of the consequence of holding something for true". Recursive growth "up to contexts where there is a brain, language, society, norms". Physics as modal: "a science of how the world can be". The closing caveat: "we do not actually know the extent to which this structure is superimposed over the elementary texture of reality by ourselves … We are undoubtably limited parts of nature, and we are so even as understanders of this same nature." ("teams", "quite" for "quiet" and "undoubtably" are the paper's own spellings, confirmed in the contest version too.)
 - **[A]** The closing paragraph is exactly SPLectrum's position on reality; P2 is the biggest link.
@@ -113,9 +113,9 @@ To work out how a neutral meta subject (keyword doorway) for **life** should be 
 - **[A]** Rather than an origin-of-life page, go for life as a meta subject, with origin of life as part of it.
 - **[C]** Reasons it fits:
   - Life is a keyword (the position's "self-sustaining differentiations"); origin of life is a domain, not a keyword.
-  - `submissions/seed-and-origin-of-life.md` already argues that "origin of life" is a misleading framing — there is no clean line, and "life begins here" is a language choice. A page titled *Origin of life* would bake that framing in.
+  - `plan/life/seed-and-origin-of-life.md` already argues that "origin of life" is a misleading framing — there is no clean line, and "life begins here" is a language choice. A page titled *Origin of life* would bake that framing in.
   - Parallel with cognition: "when does chemistry become life" is the same boundary problem as "when does processing become cognition", and cognition already has a doorway.
-  - Position-side material exists: `submissions/seed-and-origin-of-life.md`, `submissions/sketch-seed-native-definition-of-aliveness.md`.
+  - Position-side material exists: `plan/life/seed-and-origin-of-life.md`, `plan/life/sketch-seed-native-definition-of-aliveness.md`.
 
 ### 6.3 The author's suspicion
 

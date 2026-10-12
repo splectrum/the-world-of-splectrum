@@ -10,6 +10,15 @@ A piece on time, sitting in the Reality section alongside discovery, evolution, 
 
 Time as material and/or relational rather than backdrop or illusion. SPLectrum's historicity reads time as accumulated retention that is materially constitutive of the subject and relational to its interactions. The piece develops this through two main external interlocutors who reject the Newtonian backdrop and the Einsteinian illusion frame from different angles.
 
+## Time requires process and historicity (2026-10-12)
+
+- **[A]** Time requires process and historicity.
+- **[C]** Read: time is derived, not a topic in its own right. Process supplies change — without becoming there is nothing for time to be the time *of*; historicity supplies direction and depth — without retention change does not accumulate into a before and an after (the seed's historicity line: without historicity, existence is a point). Time is what the two give together: becoming that is retained.
+- **[C]** The interlocutors then sit on the two requirements rather than competing over one: Rovelli from the process side (time emergent from thermodynamics and relations, not fundamental); assembly theory from the historicity side (time as retained construction history, materially present in objects).
+- **[C]** On the coin: a definition of time from process and historicity is thin and holds for every voice — seed-side; the reality piece is SPLectrum's own reading of what that makes of time. Order of work inside the evolution follow-on: the core formulation (being implies becoming) and historicity first, time after.
+
+*Marks: [A] the author's claim; [C] a reading supplied by Claude in discussion, to be confirmed.*
+
 ## Key interlocutors
 
 **Assembly theory (Cronin and Walker).** Time as a material property of complex objects; construction history is a measure of an object's size in time. The strong claim from "Time is an object" (Aeon, 2023): time is the stuff out of which things in the Universe are made. The theory identifies time with memory, information, causation, and selection.
