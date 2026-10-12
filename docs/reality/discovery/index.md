@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-07-20
 title: "Discovery"
+description: "How discovery is organised, distilled from the discovery series — the power present in full, access always partial, and creation as walking a path the medium held as possible."
 ---
 
 [Home](/) > [Reality](/reality/) > Discovery

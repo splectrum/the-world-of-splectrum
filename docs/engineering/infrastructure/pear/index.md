@@ -33,7 +33,7 @@ No published v2 release date — v2 is upcoming; don't quote a date.
 
 Lets a host app embed the P2P runtime *as a library* (run Bare workers, P2P OTA updates) instead of shelling out to the `pear` CLI. It is **self-described MVP / experimental** (npm `1.1.x`), so pin a version and treat it as moving. Semver `1.x` here does not mean stable.
 
-How to embed it in a headless/terminal app and drive the release→update loop is an open question for us — a specific-purpose subpage will follow from POC work. → See [pear-runtime](pear-runtime/) for the API and current status.
+How to embed it in a headless/terminal app and drive the release→update loop is an open question for us — a specific-purpose subpage will follow from POC work. → See [pear-runtime](/engineering/infrastructure/pear/pear-runtime/) for the API and current status.
 
 ---
 

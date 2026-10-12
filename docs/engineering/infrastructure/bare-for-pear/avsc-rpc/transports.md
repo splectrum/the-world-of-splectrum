@@ -130,7 +130,7 @@ no serialization. Used for in-memory transports.
 When `false` (default), messages are serialized using
 Avro binary encoding with wire framing. Two framing
 formats are available (see
-[Wire Protocol](wire-protocol.md)):
+[Wire Protocol](/engineering/infrastructure/bare-for-pear/avsc-rpc/wire-protocol/)):
 
 - **Standard** (FrameEncoder/FrameDecoder) — Avro
   specification framing

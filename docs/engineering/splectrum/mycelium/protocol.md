@@ -20,7 +20,7 @@ This is the carrier/meaning split expressed at the operational level. The operat
 
 ## Protocol Operations
 
-Protocol operations are of two kinds, distinguished by the [identifier grammar](identifier-grammar#defined-vs-applied-operators):
+Protocol operations are of two kinds, distinguished by the identifier grammar:
 
 **Defined operators** — `get`, `put`, `delete` — are part of the protocol's identity. They belong in the tree, dot-navigated, namespaced by position. Without them, it is a different protocol. `xpath.data.uri.get` is a defined operator.
 
@@ -30,7 +30,7 @@ Defined operators have base meanings — get retrieves, put places, delete remov
 
 ## The Message
 
-Every protocol invocation produces a [message](message) — a nested Kafka record where headers carry intent and value carries the result. The message is the tree in motion.
+Every protocol invocation produces a [message](/engineering/splectrum/mycelium/message/) — a nested Kafka record where headers carry intent and value carries the result. The message is the tree in motion.
 
 Dispatch reads one path: `headers.record.logicalType`. That is the routing key. The handler receives the message and returns the same message enriched with the result. One shape for invocation and response.
 

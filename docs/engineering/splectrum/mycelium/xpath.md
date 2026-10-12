@@ -48,7 +48,7 @@ The default navigation of the tree is from context node to context node, flatten
 
 ## Protocol Namespace Structure
 
-The data protocols form a tree hierarchy under xpath. Three visibility domains — `data`, `metadata`, `raw` — each with two levels of access: `uri` (opaque) and direct (schema-aware). Operations — `get`, `put`, `delete` — are [defined operators](identifier-grammar#defined-vs-applied-operators) in the tree, part of each protocol's identity.
+The data protocols form a tree hierarchy under xpath. Three visibility domains — `data`, `metadata`, `raw` — each with two levels of access: `uri` (opaque) and direct (schema-aware). Operations — `get`, `put`, `delete` — are defined operators in the tree, part of each protocol's identity.
 
 ```
 xpath.data.uri.get       xpath.metadata.uri.get       xpath.raw.uri.get
@@ -71,11 +71,11 @@ The uri level is purely structural — navigate, retrieve, place, remove. The sc
 
 Separation is structural: data for data nodes only, metadata for metadata nodes only, raw for all nodes. No mixing of concerns.
 
-[Applied operators](identifier-grammar#defined-vs-applied-operators) — `_is`, `_noop`, and whatever base interface emerges — are in property bags at any identifier point. They compose through the schema inheritance mechanism, not through the tree.
+Applied operators — `_is`, `_noop`, and whatever base interface emerges — are in property bags at any identifier point. They compose through the schema inheritance mechanism, not through the tree.
 
 ## Serialization
 
-Operations are bulk — arrays of key-value records. Serialization uses AVRO containers. Every get returns a container. Every put accepts a container. The [message](message) carries these as Kafka records — headers for intent, value for result.
+Operations are bulk — arrays of key-value records. Serialization uses AVRO containers. Every get returns a container. Every put accepts a container. The [message](/engineering/splectrum/mycelium/message/) carries these as Kafka records — headers for intent, value for result.
 
 ## Design Principles
 

@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-05-12
 title: "Natural languages"
+description: "Human language in its broadest sense — spoken, written, signed: context-dependent, ambiguous, embodied, growing through use rather than specified in advance."
 ---
 
 [Home](/) > [Language](/language/) > [Types](/language/types/) > Natural languages

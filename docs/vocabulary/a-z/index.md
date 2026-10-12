@@ -13,14 +13,14 @@ Specific vocabularies and named kinds of vocabulary. Each entry is brief — a s
 
 ## H
 
-- [HAICC](h/haicc/) — Human-AI Creative Collaboration.
+- [HAICC](/vocabulary/a-z/h/haicc/) — Human-AI Creative Collaboration.
 
 ## S
 
-- [SPL Engineering](s/spl-engineering/) — fabric, runtime, artefacts.
-- [SPL Positioning](s/spl-positioning/) — terms for engaging external thought languages.
-- [SPL Seed](s/spl-seed/) — the seed vocabulary: original, philosophical page vocabulary, engineering variant.
+- [SPL Engineering](/vocabulary/a-z/s/spl-engineering/) — fabric, runtime, artefacts.
+- [SPL Positioning](/vocabulary/a-z/s/spl-positioning/) — terms for engaging external thought languages.
+- [SPL Seed](/vocabulary/a-z/s/spl-seed/) — the seed vocabulary: original, philosophical page vocabulary, engineering variant.
 
 ## W
 
-- [Wittgenstein](w/wittgenstein/) — terms SPLectrum borrows from Wittgenstein.
+- [Wittgenstein](/vocabulary/a-z/w/wittgenstein/) — terms SPLectrum borrows from Wittgenstein.

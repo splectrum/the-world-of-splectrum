@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-05-04
 title: "The Turn in Science"
+description: "The trajectory from classical physics to relational quantum mechanics — Leibniz's relational space, Maxwell, Planck, Einstein and the turn to relations in physics."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Seed](/positioning/seed/) > The Turn in Science

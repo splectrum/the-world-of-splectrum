@@ -145,8 +145,8 @@ Emits `data` events (not `line` events as Node.js).
 | bare-module | Module resolution | 6.1.3 | [holepunchto/bare-module](https://github.com/holepunchto/bare-module) |
 | bare-node-runtime | Node.js compat layer | 1.2.0 | [holepunchto/bare-node-runtime](https://github.com/holepunchto/bare-node-runtime) |
 
-See [Module System](module-system.md) and
-[Dual-Runtime Config](dual-runtime.md) for details.
+See [Module System](/engineering/infrastructure/bare/module-system/) and
+[Dual-Runtime Config](/engineering/infrastructure/bare/dual-runtime/) for details.
 
 ---
 

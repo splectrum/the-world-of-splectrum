@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-06-28
+lastmod: 2026-10-12
 title: "Behaviourism"
 description: "The movement that made psychology the objective science of observable behaviour — from Watson's manifesto through Skinner's radical behaviourism to the applied analysis of behaviour, and its displacement by the cognitive revolution."
 ---
@@ -72,4 +72,4 @@ What survived is real and is best stated plainly. As a complete theory of mind, 
 
 ---
 
-See also: [Watson](/positioning/persons/w/watson/) · [Skinner](/positioning/persons/s/skinner/) · [Pavlov](/positioning/persons/p/pavlov/) · [Ryle](/positioning/persons/r/ryle/) · [Chomsky](/positioning/persons/c/chomsky/)
+See also: [Developmental psychology](/positioning/subjects/d/developmental-psychology/) · [Watson](/positioning/persons/w/watson/) · [Skinner](/positioning/persons/s/skinner/) · [Pavlov](/positioning/persons/p/pavlov/) · [Ryle](/positioning/persons/r/ryle/) · [Chomsky](/positioning/persons/c/chomsky/)

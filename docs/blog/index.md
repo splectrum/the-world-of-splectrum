@@ -9,7 +9,7 @@ description: "In Wonder — SPLectrum's blog conversations. Exploring language, 
 
 # In Wonder — The Conversation
 
-For more structured browsing of the posts, go to the [labels](label/) page.
+For more structured browsing of the posts, go to the [labels](/blog/label/) page.
 
 {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
 {% include blog-entries.html posts=sorted_posts %}

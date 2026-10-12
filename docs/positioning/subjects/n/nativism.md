@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-07-17
+lastmod: 2026-10-12
 title: "Nativism"
 description: "The position that the mind brings more to the world than experience could have given it — the rationalist lineage, and its sharpest modern form: that acquiring a language requires an innate, language-specific endowment. Poverty of the stimulus, the emergence cases, universal grammar and the retreat to Merge, the disputes over concepts and evolution, and the typological, usage-based and empiricist challenges."
 ---
@@ -81,4 +81,4 @@ Further objections are on the record without being developed here: that the adul
 
 ---
 
-See also: [Chomsky](/positioning/persons/c/chomsky/) · [Tomasello](/positioning/persons/t/tomasello/) · [Piaget](/positioning/persons/p/piaget/) · [Behaviourism](/positioning/subjects/b/behaviourism/) · [Descartes](/positioning/persons/d/descartes/) · [Putnam](/positioning/persons/p/putnam/) · [Dennett](/positioning/persons/d/dennett/) · [Quine](/positioning/persons/q/quine/)
+See also: [Developmental psychology](/positioning/subjects/d/developmental-psychology/) · [Chomsky](/positioning/persons/c/chomsky/) · [Tomasello](/positioning/persons/t/tomasello/) · [Piaget](/positioning/persons/p/piaget/) · [Behaviourism](/positioning/subjects/b/behaviourism/) · [Descartes](/positioning/persons/d/descartes/) · [Putnam](/positioning/persons/p/putnam/) · [Dennett](/positioning/persons/d/dennett/) · [Quine](/positioning/persons/q/quine/)

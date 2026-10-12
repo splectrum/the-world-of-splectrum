@@ -160,6 +160,6 @@ repository, populated by the setup script into `lib/`.
 The `node_modules → lib/` symlink makes them
 resolvable by name.
 
-See [Code Implementation](../implementation/code-development/)
+See Code Implementation
 for the full dependency management model.
 

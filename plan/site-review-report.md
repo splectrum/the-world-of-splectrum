@@ -90,16 +90,6 @@ Borderline (reception-framed but a real boundary also stated): sober, simard, sc
 
 ## 4. Minor / observations
 
-- **Dangling "two faces" reference.** `docs/reality/index.md:30` says the two realms are "the same two faces named above" — nothing above names two faces (the page names two *sides of one move*, hosting/disclosure), and the phrase collides with the coin's seed-face/content-face pairing. `reality/core-values/index.md:22` has the same sentence without the back-reference and reads fine.
-- **Pillar list link gap.** `docs/reality/core-values/index.md:26` — Epistemology is the only pillar in the five-pillar list without a link.
-- **Aesthetics breaks the See-also formula.** Four pillar pages close with "(close affinity) — where this account is read across the field"; `reality/aesthetics/index.md:36` uses a different label ("where the same dynamic is found scattered across philosophy under other names").
-- **The two seed sections never link each other at index level.** `docs/seed/index.md` has zero references to `/positioning/seed/` and vice versa; third-party pages name the positioning ring three different ways ("innermost resonance ring" at `positioning/index.md:21`; "Seed trajectories" at `close-affinity/index.md:24`; "the seed ring" at `close-affinity/pluralism/index.md:12`).
-- **Leftover cognition Psychology facet.** `subjects/c/cognition/psychology/index.md` + `psychology/developmental-psychology.md` still exist, published and sitemapped, though delisted from the cognition landing. Leftover or deliberate hold?
-- **16 pages lack a meta `description:`** — all six `positioning/seed/` pages, `close-affinity/index.md`, `on-the-fence/index.md`, `wider-landscape/index.md`, `reality/evolution/index.md`, `reality/discovery/index.md`, `vocabulary/concepts/structure/index.md`, three `language/types/` pages, and `persons/s/sapolsky/human-behavioural-biology.md`.
-- **521 relative internal links** (should be root-absolute per house style). They build correctly — GitHub Pages rewrites them — so this is style debt, concentrated in section index pages.
-- **"de Man" casing.** Lowercase `de Man` in the persons index where `De Broglie`/`De Vries` are capitalized (index lines 80–83).
-- **Breadcrumb label variant.** Eleven `seed/` child pages label the parent "The SPLectrum Seed"; `seed/pluralism-and-the-coin.md:8` and the seed index itself say "The Seed." (The odd page out matches its parent; the other eleven diverge.)
-- **Borderline page-voice moment.** `persons/d/de-man.md:36` — "what his work cannot supply, and what his own history demanded, is an account of when a claim must simply be owned" — unattributed moral assessment; the closest thing on the site to a page-voice verdict.
 - **Pluralism ring page self-aware exceptions.** `close-affinity/pluralism/index.md:12,38` uses "closest" and "what it claims" — against the letter of the register rules, but the page frames itself as a landscape-reading, so it reads as a deliberate exception.
 - **Perimeter drift in parked posts.** The 2030-01-25/26 posts use "perimeter" in an epistemic-frontier sense ("the edge of where we have looked so far") vs the coin page's domain-edge sense. Blog register, parked — noted only.
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-06-26
+lastmod: 2026-10-12
 title: "Paul de Man (1919–1983)"
 description: "The most rigorous reader of the Yale school — literature as the place where language's figural character is least concealed — and, after his death, the centre of a scandal that marked deconstruction's reputation."
 ---
@@ -33,7 +33,7 @@ De Man had died a revered figure when, in 1987, the researcher Ortwin de Graef d
 
 ## Where de Man stops
 
-De Man's method is built to deny that a text can be pinned to a single, accountable meaning — that what an author asserts can be read straight off as what they are committed to. It is a powerful way to read, and the wartime affair is where its costs come due. The same machinery that finds every confession unreliable and every assertion undone by its own rhetoric leaves no clean place to stand when the question is moral rather than literary: if no text means what it says, the antisemitic article resists the plain reading it plainly invites. His defenders' best case — that his later work is a buried reckoning with the early collaboration — is itself a determinate reading of the kind his theory forbids, which is the bind the affair exposed and never escaped. De Man gave criticism an unmatched attention to the way language betrays its own claims; what his work cannot supply, and what his own history demanded, is an account of when a claim must simply be owned.
+De Man's method is built to deny that a text can be pinned to a single, accountable meaning — that what an author asserts can be read straight off as what they are committed to. That is the programme's own boundary: it gives criticism an unmatched attention to the way language betrays its own claims, and it does not set out to say when a claim must simply be owned. After 1987 his critics turned that boundary into the charge. If no text means what it says, they argued, the antisemitic article resists the plain reading it plainly invites; and the defenders' best case — the later work as a buried reckoning with the collaboration — is itself a determinate reading of the kind his theory forbids.
 
 ---
 

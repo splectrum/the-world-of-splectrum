@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-07-04
 title: "Software languages"
+description: "Languages for telling computers what to do — formal languages designed to be human-readable and mechanically executable, and the broad categories they fall into."
 ---
 
 [Home](/) > [Language](/language/) > [Types](/language/types/) > Software languages

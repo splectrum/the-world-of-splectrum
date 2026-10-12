@@ -78,17 +78,17 @@ Additional adaptations:
 
 ## Reference Pages
 
-- [Service Definition](services) — protocols,
+- [Service Definition](/engineering/infrastructure/bare-for-pear/avsc-rpc/services/) — protocols,
   messages, Service.forProtocol, type resolution
-- [Client and Server](client-server) — creating
+- [Client and Server](/engineering/infrastructure/bare-for-pear/avsc-rpc/client-server/) — creating
   clients and servers, handler registration, options
-- [Transports](transports) — in-memory, TCP,
+- [Transports](/engineering/infrastructure/bare-for-pear/avsc-rpc/transports/) — in-memory, TCP,
   HTTP, channel lifecycle, stateful vs stateless
-- [Middleware](middleware) — request/response
+- [Middleware](/engineering/infrastructure/bare-for-pear/avsc-rpc/middleware/) — request/response
   chain, use patterns
-- [Wire Protocol](wire-protocol) — handshake,
+- [Wire Protocol](/engineering/infrastructure/bare-for-pear/avsc-rpc/wire-protocol/) — handshake,
   framing, Netty compatibility, protocol negotiation
-- [Barification](barification) — streamx
+- [Barification](/engineering/infrastructure/bare-for-pear/avsc-rpc/barification/) — streamx
   adaptation, v5/v6 bridge, platform dependencies
 
 ## Library Reference

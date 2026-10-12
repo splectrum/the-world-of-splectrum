@@ -5,3 +5,7 @@ baseurl: ""
 theme: minima
 permalink: /blog/:year/:month/:title/
 header_pages: []
+
+# Cloudflare Pages redirects file
+include:
+  - _redirects

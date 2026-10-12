@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-07-13
+lastmod: 2026-10-12
 title: "The Core Values and the Metaphysics They Disclose"
 description: "Three core values — belonging, privacy, creativity — and the metaphysics they disclose: epistemology, ontology, aesthetics, ethics, politics."
 ---
@@ -23,7 +23,7 @@ These values are sufficient to lay out the nature of the five pillars. The five 
 
 ## The five metaphysics pillars
 
-**Epistemology — the process of experience and learning.** We learn from the feedback from our private experience into the (shared) language tools. It all starts with the individual and works its way into the community through sharing. Our shared language tools provide stability, a common understanding. But nothing is absolute: what we hold true is only achieved through converged subjectivity.
+**[Epistemology](/reality/epistemology/) — the process of experience and learning.** We learn from the feedback from our private experience into the (shared) language tools. It all starts with the individual and works its way into the community through sharing. Our shared language tools provide stability, a common understanding. But nothing is absolute: what we hold true is only achieved through converged subjectivity.
 
 **[Ontology](/reality/ontology/) — the concepts of the language tools.** Language is about relations between entities, the concepts. Language is our medium of experience so the beings of reality map to concepts of that language. This goes from concepts that are very specific to very general but are always already abstract to some extent. We experience them, we create them, we share them. Variations of the shared sets converge on a common catalogue. They shape the knowledge of the community. And it is easily forgotten in the process that everything started within the privacy of personal experience. It could have been different. We created it.
 

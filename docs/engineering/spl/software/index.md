@@ -13,9 +13,9 @@ Software written from the ground up for the SPL platform, with maximal AI autono
 
 ## Modules
 
-- [hyperdrive-fuse](hyperdrive-fuse/) — read-only FUSE mount for Hyperdrive
+- [hyperdrive-fuse](/engineering/spl/software/hyperdrive-fuse/) — read-only FUSE mount for Hyperdrive
   v11. Mount a P2P drive as a local filesystem. The swarm as a drive.
-- [mycelium](mycelium/) — the Mycelium data fabric base layer. CRUD and XPath
+- [mycelium](/engineering/spl/software/mycelium/) — the Mycelium data fabric base layer. CRUD and XPath
   navigation over git objects, with a Kafka record dispatch boundary.
 
 ## POC work

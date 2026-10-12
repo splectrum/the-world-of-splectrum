@@ -144,7 +144,7 @@ avsc resolves namespaces following Avro specification
 rules — inner types inherit the namespace of their
 enclosing type unless explicitly overridden.
 
-See [AVRO Design Scope](../mycelium/avro-design-scope/)
+See AVRO Design Scope
 — section 8, Namespacing — for how this serves the
 architecture.
 

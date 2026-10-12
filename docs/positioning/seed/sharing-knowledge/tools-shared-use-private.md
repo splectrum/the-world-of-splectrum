@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-07-19
+lastmod: 2026-10-12
 title: "Tools Shared, Use Private"
 description: "One fact — the tools of language are held in common, their use and understanding private — seen from both ends across developmental psychology: convergence and divergence as two directions of a single dynamic, meeting in the coupling of minds."
 ---
@@ -11,7 +11,7 @@ description: "One fact — the tools of language are held in common, their use a
 
 A subject takes the tools of language from belonging — the words, the distinctions, the ways of going on are held in common, arriving from the shared side. But the use of those tools, and the understanding built with them, is private: each subject applies what it received slightly differently, from its own position, and ends with a reality that is genuinely its own. **The tools are shared; the use is private.** That is one fact, not two, and the SPLectrum seed states it whole — P3, that language is where subjects share, and P4, that each source stands equally and unprivileged in what it makes of the shared.
 
-Developmental psychology and the study of language acquisition have circled this fact for a century, and its major figures divide by which end of it they took hold of. Some followed the tools inward, tracing how the common becomes the subject's own — the *convergence* direction. Others held onto the privacy of the result, insisting that what each subject builds is irreducibly its own — the *divergence* direction. And where two minds engage, a third account finds the shared and the private happening at once — the coupling of minds. The same dynamic surfaces at each of these ends and in the meeting between them.
+[Developmental psychology](/positioning/subjects/d/developmental-psychology/) and the study of language acquisition have circled this fact for a century, and its major figures divide by which end of it they took hold of. Some followed the tools inward, tracing how the common becomes the subject's own — the *convergence* direction. Others held onto the privacy of the result, insisting that what each subject builds is irreducibly its own — the *divergence* direction. And where two minds engage, a third account finds the shared and the private happening at once — the coupling of minds. The same dynamic surfaces at each of these ends and in the meeting between them.
 
 ---
 

@@ -41,7 +41,7 @@ Sapolsky's layers are biological, developmental, evolutionary, cultural — but 
 - [*A Primate's Memoir*](https://en.wikipedia.org/wiki/A_Primate%27s_Memoir) (2002) — fieldwork with baboons in Kenya, science as narrative
 - [*Behave*](https://en.wikipedia.org/wiki/Behave_(book)) (2017) — the multi-layer explanation applied to aggression, compassion, and everything between
 - [*Determined*](https://en.wikipedia.org/wiki/Determined:_A_Science_of_Life_Without_Free_Will) (2023) — the case against free will from neuroscience and biology
-- [Human Behavioural Biology](human-behavioural-biology) — Stanford lecture series (full course, 25 lectures)
+- [Human Behavioural Biology](/positioning/persons/s/sapolsky/human-behavioural-biology/) — Stanford lecture series (full course, 25 lectures)
 
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-05-03
 title: "Human Behavioural Biology — Stanford lecture series"
+description: "Robert Sapolsky's Stanford lecture series on human behavioural biology, listed in order with links to the full lectures."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > [Sapolsky](/positioning/persons/s/sapolsky/) > Human Behavioural Biology

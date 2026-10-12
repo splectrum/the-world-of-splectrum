@@ -14,4 +14,4 @@ A persona is a structured set of behaviours covering an area of work. These beha
 
 Personas are listed below as they come into operation.
 
-- [Public Conscious Persona](public-conscious-persona/) — owns the public voice of The World of SPLectrum
+- [Public Conscious Persona](/engineering/splectrum/haicc/personas/public-conscious-persona/) — owns the public voice of The World of SPLectrum

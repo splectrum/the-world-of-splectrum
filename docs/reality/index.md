@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-09-27
+lastmod: 2026-10-12
 title: "Reality"
 description: "Reality disclosed from the seat of the subject — belonging, privacy, creativity as core values, and the five pillars they disclose."
 ---
@@ -27,7 +27,7 @@ Creation conforms to [discovery](/reality/discovery/) — the walking of paths t
 
 ## The five pillars
 
-The pillars of SPLectrum's metaphysics show some substantial differences with regard to the more traditional picture. They fall into two realms of relation — the same two faces named above. Epistemology, ontology and aesthetics form the realm of **realisation**: the subject with reality, disclosed to it and enacted by it in the same movement — acquiring meaning, holding it as concepts, expressing it in language. Ethics and politics form the realm of **coexistence**: the subject among other agents — others who play their own games and make their own choices.
+The pillars of SPLectrum's metaphysics show some substantial differences with regard to the more traditional picture. They fall into two realms of relation. Epistemology, ontology and aesthetics form the realm of **realisation**: the subject with reality, disclosed to it and enacted by it in the same movement — acquiring meaning, holding it as concepts, expressing it in language. Ethics and politics form the realm of **coexistence**: the subject among other agents — others who play their own games and make their own choices.
 
 - **[Epistemology](/reality/epistemology/)** — we learn from private experience and sharing. There is no absolute objectivity, only converged subjectivity.
 - **[Ontology](/reality/ontology/)** — Reality discloses itself through the concepts of the language medium. There are no separate things.

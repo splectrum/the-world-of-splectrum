@@ -12,13 +12,13 @@ sitemap: false
 
 The static architecture of the mycelium data fabric — what it is made of and how its structure determines behaviour.
 
-Mycelium is a data fabric. It weaves data and process together into process-colocated data structures — structures where the process that operates on data lives alongside the data itself. These structures exist as [git-constituted subject realities](./subject-reality.md) — where [git](/engineering/spl/platform/substrate/git/) provides the boundary, the memory, and the exchange.
+Mycelium is a data fabric. It weaves data and process together into process-colocated data structures — structures where the process that operates on data lives alongside the data itself. These structures exist as [git-constituted subject realities](/engineering/splectrum/mycelium/subject-reality/) — where [git](/engineering/spl/platform/substrate/git/) provides the boundary, the memory, and the exchange.
 
 Each subject reality has a partial view of available data. The totality of data is never a physical repository — it is only a logical totality, the sum of everything across the fabric. What actually exists is always fabric expressed as subject realities within git repos.
 
 ## The Primitive
 
-The fabric is an [identifier structure](identifier-grammar) with property bags attached to it. Nodes are not files or folders — they are identifier points. Everything a node *has* is properties in bags.
+The fabric is an identifier structure with property bags attached to it. Nodes are not files or folders — they are identifier points. Everything a node *has* is properties in bags.
 
 **Identifier point** — a position in the tree, addressed by its path. The key is the address.
 
@@ -30,7 +30,7 @@ This is the entire structural vocabulary. Everything else — behaviour, visibil
 
 ## The Metadata Dimension
 
-The underscore is one of two primitives in the [identifier grammar](identifier-grammar). It opens a property bag at the current node — a lateral move, not a deeper one. The bag is *at* the node, not *below* it. Inside the bag, property names get their namespace from the bag's AVRO schema, not from tree position.
+The underscore is one of two primitives in the identifier grammar. It opens a property bag at the current node — a lateral move, not a deeper one. The bag is *at* the node, not *below* it. Inside the bag, property names get their namespace from the bag's AVRO schema, not from tree position.
 
 `_server` means: open the server property bag at the current node. The prefix switches namespace resolution from tree-positional to schema-assigned.
 

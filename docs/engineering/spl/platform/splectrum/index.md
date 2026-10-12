@@ -14,6 +14,6 @@ The pillar takes the project's name. Language is the project's central concern �
 
 SPLectrum supplies the protocols — relational patterns that act on data state. Each protocol is a software API with meaning constraint; operators are its methods; personas are compositions of protocols that take on roles. Protocols and personas are colocated as metadata with the data nodes they act on, in Mycelium.
 
-- [Protocol](protocol) — the meaning layer for operations. Protocol as context, resolution, execution modes.
-- [Message](message) — the tree in motion. Nested Kafka records, onion structure, uniform dispatch.
-- [Namespace](namespace) — identifier grammar, the backbone, namespace trees, mapping, versioning.
+- [Protocol](/engineering/spl/platform/splectrum/protocol/) — the meaning layer for operations. Protocol as context, resolution, execution modes.
+- [Message](/engineering/spl/platform/splectrum/message/) — the tree in motion. Nested Kafka records, onion structure, uniform dispatch.
+- [Namespace](/engineering/spl/platform/splectrum/namespace/) — identifier grammar, the backbone, namespace trees, mapping, versioning.

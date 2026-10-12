@@ -11,5 +11,5 @@ description: "Cross-cutting concepts in SPLectrum's treatment of vocabulary."
 
 Cross-cutting concepts in SPLectrum's treatment of vocabulary.
 
-- [What is a vocabulary?](what-is-a-vocabulary/) — working definition: concepts that label the relational they represent. The static view.
-- [Structure](structure/) — concepts, relations, vocabulary, language; the category-theoretic view.
+- [What is a vocabulary?](/vocabulary/concepts/what-is-a-vocabulary/) — working definition: concepts that label the relational they represent. The static view.
+- [Structure](/vocabulary/concepts/structure/) — concepts, relations, vocabulary, language; the category-theoretic view.

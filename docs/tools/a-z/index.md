@@ -13,4 +13,4 @@ Items with a recognised tool-use in the SPLectrum world. Each entry describes wh
 
 ## C
 
-- [Category theory](c/category-theory/) — relational analysis across languages, seed formalisation, the float principle.
+- [Category theory](/tools/a-z/c/category-theory/) — relational analysis across languages, seed formalisation, the float principle.

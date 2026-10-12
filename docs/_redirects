@@ -1,0 +1,3 @@
+# Cloudflare Pages redirects (copied into the build via `include` in _config.yml)
+/positioning/subjects/c/cognition/psychology/developmental-psychology/ /positioning/subjects/d/developmental-psychology/ 301
+/positioning/subjects/c/cognition/psychology/ /positioning/subjects/c/cognition/ 301

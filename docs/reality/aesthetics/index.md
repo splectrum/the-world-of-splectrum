@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-06-23
+lastmod: 2026-10-12
 title: "Aesthetics — the dynamics of meaning"
 description: "SPLectrum's aesthetics pillar — aesthetics as the dynamics of meaning, one of three fields with epistemology and ontology: the dynamic in which a subject works shared tools into expression, present wherever language is."
 ---
@@ -33,4 +33,4 @@ Yet the singular act is not sealed off. What takes hold passes into the shared s
 
 ---
 
-See also: [The core values](/reality/core-values/) · [Aesthetics (close affinity)](/positioning/close-affinity/aesthetics/) — where the same dynamic is found scattered across philosophy under other names · [The standing of aesthetics in philosophy](/positioning/subjects/a/aesthetics-in-philosophy/) · [Pluralism](/positioning/close-affinity/pluralism/)
+See also: [The core values](/reality/core-values/) · [Aesthetics (close affinity)](/positioning/close-affinity/aesthetics/) — where this account is read across the field · [The standing of aesthetics in philosophy](/positioning/subjects/a/aesthetics-in-philosophy/) · [Pluralism](/positioning/close-affinity/pluralism/)

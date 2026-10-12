@@ -17,8 +17,8 @@ Each language is adopted as a subset — SPL takes the paradigm that makes it a 
 
 Five languages, one operational picture: the swarm propagates Kafka records containing AVRO-encoded data change events, addressed by URI and XPath, versioned and historicised by git.
 
-- **[Git](git)** — repo management and historicity. Each data owner's reality is a git repository on the P2P substrate, carrying its full history and operating independently. Commits, refs, the DAG as transaction model; exchange between owners is decentralised and boundary-respecting.
-- **[Kafka](kafka)** — data change event streaming. Defines the format of propagated data — data change events travel as records, the streaming envelope that carries data, context, and provenance in transit. Arrival order and timestamp give the stream its temporal structure.
-- **[AVRO](avro)** — data structure. Schema-driven content with reader/writer resolution for evolution. Schemas as structural contracts, namespaces as meaning contexts, and safe evolution across independent parties.
-- **[URI](uri)** — resource identity. Identifies resources across a decentralised swarm — an SPL-specific subset of URI designed for addressing repos and their contents rather than the full web specification.
-- **[XPath](xpath)** — navigation within a resource. Once a URI identifies the target, XPath addresses the parts within it — nodes in a tree, elements in a structure.
+- **[Git](/engineering/spl/platform/substrate/git/)** — repo management and historicity. Each data owner's reality is a git repository on the P2P substrate, carrying its full history and operating independently. Commits, refs, the DAG as transaction model; exchange between owners is decentralised and boundary-respecting.
+- **[Kafka](/engineering/spl/platform/substrate/kafka/)** — data change event streaming. Defines the format of propagated data — data change events travel as records, the streaming envelope that carries data, context, and provenance in transit. Arrival order and timestamp give the stream its temporal structure.
+- **[AVRO](/engineering/spl/platform/substrate/avro/)** — data structure. Schema-driven content with reader/writer resolution for evolution. Schemas as structural contracts, namespaces as meaning contexts, and safe evolution across independent parties.
+- **[URI](/engineering/spl/platform/substrate/uri/)** — resource identity. Identifies resources across a decentralised swarm — an SPL-specific subset of URI designed for addressing repos and their contents rather than the full web specification.
+- **[XPath](/engineering/spl/platform/substrate/xpath/)** — navigation within a resource. Once a URI identifies the target, XPath addresses the parts within it — nodes in a tree, elements in a structure.

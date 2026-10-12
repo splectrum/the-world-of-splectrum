@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-05-12
 title: "Formal languages"
+description: "Languages with precise, specified semantics — logic, set theory, type theory, formal grammars — where meaning is pinned down by rules rather than left to use and context."
 ---
 
 [Home](/) > [Language](/language/) > [Types](/language/types/) > Formal languages

@@ -9,7 +9,7 @@ description: "XPath is the committed substrate language of navigation — select
 
 # XPath
 
-XPath is the committed language of navigation — selecting within the tree. It is one of the five committed substrate languages: navigation (XPath), identity ([URI](uri)), repository management ([Git](git)), data streaming ([Kafka](kafka)), and structure ([AVRO](avro)). For XPath on its own terms — the axis model, the function library, the history — see the [XPath subject](/positioning/subjects/x/xpath/); this page is the commitment and the role it plays.
+XPath is the committed language of navigation — selecting within the tree. It is one of the five committed substrate languages: navigation (XPath), identity ([URI](/engineering/spl/platform/substrate/uri/)), repository management ([Git](/engineering/spl/platform/substrate/git/)), data streaming ([Kafka](/engineering/spl/platform/substrate/kafka/)), and structure ([AVRO](/engineering/spl/platform/substrate/avro/)). For XPath on its own terms — the axis model, the function library, the history — see the [XPath subject](/positioning/subjects/x/xpath/); this page is the commitment and the role it plays.
 
 A URI identifies which resource. XPath selects within it — nodes in the tree, elements in a structure, entries in a sequence. Navigation is compositional: things are addressed by position and path, not by enrolment in a central index. The same structure navigated the same way, wherever it lives.
 

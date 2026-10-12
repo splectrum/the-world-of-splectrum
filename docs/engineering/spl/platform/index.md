@@ -11,17 +11,17 @@ description: "The SPL platform — P2P swarm, local bridgehead, and SPL componen
 
 The SPL platform consists of a P2P swarm with common structure, where node membership is managed through a local bridgehead. An SPL solution installed in the swarm consists of a federation of SPL components.
 
-**[P2P Swarm and Bridgehead](swarm/)** — the infrastructure for the swarm setup and the node bridgehead that runs locally.
+**[P2P Swarm and Bridgehead](/engineering/spl/platform/swarm/)** — the infrastructure for the swarm setup and the node bridgehead that runs locally.
 
-**[Language Substrate](substrate/)** — the five committed languages that constitute the fabric: Git, Kafka, AVRO, URI, XPath.
+**[Language Substrate](/engineering/spl/platform/substrate/)** — the five committed languages that constitute the fabric: Git, Kafka, AVRO, URI, XPath.
 
-**[Mycelium](mycelium/)** — the data fabric. The substrate in which data state lives.
+**[Mycelium](/engineering/spl/platform/mycelium/)** — the data fabric. The substrate in which data state lives.
 
-**[SPLectrum](splectrum/)** — the language fabric. Protocols, operators, personas — embedded as metadata on the data fabric.
+**[SPLectrum](/engineering/spl/platform/splectrum/)** — the language fabric. Protocols, operators, personas — embedded as metadata on the data fabric.
 
-**[HAICC](haicc/)** — the cognition fabric. Human-AI creative collaboration — process, coordination, division of work.
+**[HAICC](/engineering/spl/platform/haicc/)** — the cognition fabric. Human-AI creative collaboration — process, coordination, division of work.
 
-**[SPL Component Setup](setup/)** — how the three fabrics compose into a functional component.
+**[SPL Component Setup](/engineering/spl/platform/setup/)** — how the three fabrics compose into a functional component.
 
 ## Circles and actors
 

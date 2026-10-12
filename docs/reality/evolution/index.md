@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-09-30
 title: "Evolution"
+description: "The major transitions in the history of reality, each arriving roughly an order of magnitude faster — read as growth in expression rather than in power, at thresholds of interaction density."
 ---
 
 [Home](/) > [Reality](/reality/) > Evolution

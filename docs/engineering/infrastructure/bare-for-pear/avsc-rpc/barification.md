@@ -176,7 +176,7 @@ not factored out because the upstream kept them
 together and the coupling is deliberate — channels
 depend intimately on the handshake and framing logic.
 
-See [Code Implementation](../implementation/code-development/)
+See Code Implementation
 for the full dependency management and subtree
 workflow. See the
 [API Reference](https://github.com/bare-for-pear/avsc-rpc/blob/main/doc/api.md)

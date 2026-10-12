@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-07-17
+lastmod: 2026-10-12
 title: "Human Ways of Sharing"
 description: "An overview of the mechanisms by which a subject acquires the shared language tools, as named in developmental psychology and language acquisition — grouped into those that only bring the common in, and those that also carry the private back out."
 ---
@@ -9,7 +9,7 @@ description: "An overview of the mechanisms by which a subject acquires the shar
 
 # Human Ways of Sharing
 
-Developmental psychology and language acquisition name several mechanisms by which a subject acquires language. They are not rivals — a learner runs more than one at once. They fall into two groups: mechanisms that carry the common inward to the subject, and mechanisms that also run the other way, letting a subject feed its own experience back into the common.
+[Developmental psychology](/positioning/subjects/d/developmental-psychology/) and language acquisition name several mechanisms by which a subject acquires language. They are not rivals — a learner runs more than one at once. They fall into two groups: mechanisms that carry the common inward to the subject, and mechanisms that also run the other way, letting a subject feed its own experience back into the common.
 
 ## Inward — absorbing the common
 

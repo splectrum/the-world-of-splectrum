@@ -2,6 +2,7 @@
 layout: default
 lastmod: 2026-05-03
 title: "The Turn in Western Philosophy"
+description: "The trajectory from Descartes to the relational turn — how Western philosophy discovered the observer, cracked the outside view, and arrived at relation as primary."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Seed](/positioning/seed/) > The Turn in Western Philosophy

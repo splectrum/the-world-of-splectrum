@@ -60,16 +60,16 @@ applies.
 
 ## Reference Pages
 
-- [Type System](types) — schema definition,
+- [Type System](/engineering/infrastructure/bare-for-pear/avsc/types/) — schema definition,
   primitives, complex types, logical types, type
   inference, schema evolution
-- [Serialization](serialization) — encoding,
+- [Serialization](/engineering/infrastructure/bare-for-pear/avsc/serialization/) — encoding,
   decoding, the Tap buffer, schema fingerprints
-- [Container Files](containers) — block
+- [Container Files](/engineering/infrastructure/bare-for-pear/avsc/containers/) — block
   encoding/decoding streams, file headers, codecs
-- [Schema Parsing](schemas) — JSON schemas,
+- [Schema Parsing](/engineering/infrastructure/bare-for-pear/avsc/schemas/) — JSON schemas,
   IDL protocols, import resolution
-- [Barification](barification) — what was changed
+- [Barification](/engineering/infrastructure/bare-for-pear/avsc/barification/) — what was changed
   from upstream, platform dependencies, polyfills
 
 ## Library Reference

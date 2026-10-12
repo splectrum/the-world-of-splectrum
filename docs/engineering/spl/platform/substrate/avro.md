@@ -9,7 +9,7 @@ description: "AVRO is the committed substrate language of structure, articulatin
 
 # AVRO
 
-AVRO is the committed language of structure — it articulates the shape of data. It is one of the five committed substrate languages: structure (AVRO), repository management ([Git](git)), data streaming ([Kafka](kafka)), identity ([URI](uri)), and navigation ([XPath](xpath)). For AVRO on its own terms — schemas, encodings, the resolution rules, the type system, the ecosystem — see the [AVRO subject](/positioning/subjects/a/avro/); this page is the commitment and the role it plays.
+AVRO is the committed language of structure — it articulates the shape of data. It is one of the five committed substrate languages: structure (AVRO), repository management ([Git](/engineering/spl/platform/substrate/git/)), data streaming ([Kafka](/engineering/spl/platform/substrate/kafka/)), identity ([URI](/engineering/spl/platform/substrate/uri/)), and navigation ([XPath](/engineering/spl/platform/substrate/xpath/)). For AVRO on its own terms — schemas, encodings, the resolution rules, the type system, the ecosystem — see the [AVRO subject](/positioning/subjects/a/avro/); this page is the commitment and the role it plays.
 
 Conformance is discovered, not declared. AVRO reads a record by asking whether it can be read as a given type — the writer's schema reconciled with the reader's at the point of contact — not by an authority assigning it an identity. There is no schema registry: schemas are facts present in the fabric. Versioning follows — the question is whether a reader exists that can read the data, a discovery rather than a policy. This is what makes AVRO the right structure language for a decentralised architecture with no central controller.
 

@@ -58,7 +58,7 @@ Declares the mutability regime at the target path by writing mutability metadata
 
 ## Relationship to the Mutable Protocol
 
-When `mycelium.mutability.status` returns `mutable`, the [mutable protocol](mutable) is operationally active at that location. When it returns `immutable`, the mutable protocol has no business there. When it returns `dirty`, neither protocol is operationally active — dirty is the absence of both sealing and controlled change.
+When `mycelium.mutability.status` returns `mutable`, the [mutable protocol](/engineering/splectrum/mycelium/mutable/) is operationally active at that location. When it returns `immutable`, the mutable protocol has no business there. When it returns `dirty`, neither protocol is operationally active — dirty is the absence of both sealing and controlled change.
 
 The mutability protocol reads metadata. The mutable protocol reads immutable queues and writes mutable surfaces. They share no operational dependency — only the conceptual dependency that the mutable protocol presupposes a `mutable` regime declaration.
 

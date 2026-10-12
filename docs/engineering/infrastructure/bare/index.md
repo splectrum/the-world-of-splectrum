@@ -15,16 +15,16 @@ Reference for the Holepunch Bare runtime.
 
 ## More Details
 
-- [Dual-Runtime Config](dual-runtime.md) — config
+- [Dual-Runtime Config](/engineering/infrastructure/bare/dual-runtime/) — config
   that runs the same code on both Bare and Node.js
-- [Global API](global-api.md) — the Bare global
+- [Global API](/engineering/infrastructure/bare/global-api/) — the Bare global
   namespace
-- [Module Catalog](modules.md) — all modules with
+- [Module Catalog](/engineering/infrastructure/bare/modules/) — all modules with
   sources and version numbers
-- [Module System](module-system.md) — resolution,
+- [Module System](/engineering/infrastructure/bare/module-system/) — resolution,
   conditions, protocols
-- [Platforms](platforms.md) — supported platforms
-- [Sources](sources.md) — all documentation links
+- [Platforms](/engineering/infrastructure/bare/platforms/) — supported platforms
+- [Sources](/engineering/infrastructure/bare/sources/) — all documentation links
 
 ---
 
@@ -96,5 +96,5 @@ No script — starts REPL.
 ---
 
 Checked against bare 1.28.5. Module npm versions are
-tracked on the [Module Catalog](modules.md) page.
+tracked on the [Module Catalog](/engineering/infrastructure/bare/modules/) page.
 

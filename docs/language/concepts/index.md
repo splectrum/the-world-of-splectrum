@@ -11,4 +11,4 @@ description: "Cross-cutting concepts in SPLectrum's treatment of language."
 
 Cross-cutting concepts in SPLectrum's treatment of language.
 
-- [What is a language?](what-is-a-language/) — the structural definition SPLectrum works from.
+- [What is a language?](/language/concepts/what-is-a-language/) — the structural definition SPLectrum works from.

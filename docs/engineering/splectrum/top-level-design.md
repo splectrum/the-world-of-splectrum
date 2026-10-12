@@ -44,4 +44,4 @@ HAICC stands for Human-AI Creative Collaboration. The pillar takes this name bec
 
 The fabric holds process definitions, watcher expressions, readiness schemas. Processes trigger on data state change. Personas declare what is needed; conformance against available human and AI capabilities determines the division of work. Process definitions are colocated as metadata with the data nodes they act on, in mycelium.
 
-For HAICC's deeper operating model — conscious, subconscious, plasticity — see [HAICC](haicc/).
+For HAICC's deeper operating model — conscious, subconscious, plasticity — see [HAICC](/engineering/splectrum/haicc/).
