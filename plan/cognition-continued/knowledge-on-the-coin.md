@@ -25,12 +25,66 @@
 - **Giving belief its due.** Belief is not "botched knowing" (Williamson's phrase, *Knowledge and its Limits*, 2000, 47) but a successful mode of cognition in its own right (190): the indispensable way of extending assent beyond what can strictly be known. Faith belongs to the "doxastic family" — things not seen (Hebrews 11:1), linked with hope — not knowledge, and so open to free choice; against Plantinga's faith-as-warranted-knowledge.
 - **[C, unchecked]** The strawman point has a precedent: Julien Dutant, "The Legend of the Justified True Belief Analysis", *Philosophical Perspectives* 29 (2015).
 
-## 2. Convergence is belief
+### The book itself (publisher's description and contents, supplied by Jules 2026-10-12)
+
+**[C, checked against the publisher's description]** Maria Rosa Antognazza, *Thinking with Assent: Renewing a Traditional Account of Knowledge and Belief* (Oxford University Press, 24 September 2024; published after her death).
+
+- The "standard" analysis of knowledge is "neither standard nor traditional": for thousands of years knowing and believing were held to be "distinct, mutually exclusive mental states, involving different mental faculties, and playing distinct and complementary roles in our cognitive lives".
+- Knowledge is "phenomenologically and ontologically prior to belief" and "not a kind of belief — not even 'the best kind'" — a 'knowledge first' epistemology pushed in a fresh direction.
+- Contrary to the claim that belief aims at knowledge, "the specific contribution of belief to our cognition is that of aiming at truth when knowledge is out of our cognitive reach".
+- Knowing and believing are "mutually exclusive but complementary ways of 'thinking with assent'".
+- Applied to: the taxonomy of belief, the role of the will in belief, testimony, **collective knowledge**, religious epistemology.
+
+**Contents.** Part I, Knowledge and Belief: A Distinction in Kind — 1 The Apprehension of 'What Is'; 2 Seeing and Not-Seeing; 3 The Gap Between Mind and World; 4 The Distinction in Kind after Hume; 5 Non-Sceptical Philosophy of Cognition. Part II, Phenomenology and Ontology — 6 Phenomenology: Subject and Object; 7 Intentionality: The Nature of the Contact between Subject and Object; 8 Ontology I: Objects; 9 Ontology II: Acts and Faculties; 10 The Object of Knowledge and the Object of Belief. Part III, Belief: The Doxastic Family and Religious Epistemology — 11 Belief and Will; 12 Belief and Testimony; 13 Taxonomy of Belief and Doxastic Faith; 14 Religious Belief I: Reformed Epistemology and Neo-Cartesianism; 15 Religious Belief II: Perceiving God and Transcendental Realism.
+
+**Chapters to read first:** 3, 7, 10 and 12 — the gap, the nature of the contact, the objects, and testimony (where collective knowledge is likely treated).
+
+- **[C]** Belief aiming at truth where knowledge is out of reach fits the seat reading: belief is what is held where one's own contact does not reach — at another's seat — not a failed knowing. Convergence-as-belief is then how a community holds truth about what no single member has contact with.
+- **[C]** Knowledge prior to belief holds on the seat reading too: believing takes up what was recognised at another's seat, so someone's knowing is upstream of every belief. Her "contact" stays one language's expression of it.
+
+## 2. Convergence and belief (the route taken; see §3b)
 
 - **[A]** The article can be drawn on to deepen the definition of knowledge in our epistemology.
 - **[A]** Convergence and belief are quite similar: convergence expresses the view of the others in the community — the shared. In that sense we haven't moved away from beliefs; philosophy has a lot of them. We have added more languages to achieve convergence.
 - **[C]** Mapped onto the two poles of knowing: the private pole (disclosed, from a seat no one else holds) is where Antognazza's *knowledge* falls; the shared pole (what holds is what survives convergence) is, in her terms, *belief* — assent moved by others' reports, reasons and signs rather than by the object. Converged subjectivity is then honestly named belief; nothing is lost, it is only no longer presented as knowledge.
 - **[C]** More languages make the shared more robust — agreement across independent languages is stronger than agreement inside one tribe — without changing its kind.
+
+## 2a. The mainstream picture, and the words
+
+**[C, unchecked — from general knowledge, 2026-10-12]** In the mainstream the difference is one of *quality*: knowledge is a belief meeting extra conditions — the best kind of belief.
+
+1. **Truth (factivity).** Only what is true can be known; falsehoods can be believed.
+2. **Grounds.** Knowledge needs evidence, reasons, or a reliable forming process (internalists: reasons the knower can access; externalists/reliabilists: the process).
+3. **Not by luck.** Gettier's legacy: knowledge must be *safe* or *sensitive*, or meet some other anti-luck condition — sixty years without settlement.
+4. **Degrees.** Belief is graded (credence 0–1), knowledge on/off — treated as a puzzle, not a difference in kind.
+5. **Entailment.** Knowledge entails belief — even in Williamson's knowledge-first account (belief as "botched knowing").
+6. **Norms.** A knowledge norm of assertion and action; belief answerable to truth.
+7. **Testimony.** Knowledge can be transmitted by testimony — the sharpest contrast with "not a parcel".
+8. **Everyday use.** "I believe" hedges; "I know" claims entitlement and invites "how do you know?". Belief also carries faith and value; knowledge, established public fact.
+9. **The exception — sociology of knowledge.** Berger and Luckmann, Bloor's strong programme with its symmetry principle: knowledge is what a community accepts as knowledge, explained like belief. The difference collapses into the social — close to "convergence is belief", but with no knowing side.
+
+| | Where the difference lies | Knowledge and belief |
+|---|---|---|
+| Mainstream | the *quality* of a belief — true, grounded, not lucky | knowledge a kind of belief, the best kind |
+| Antognazza | *kind* — contact with the object, or assent moved by something else | mutually exclusive, complementary |
+| The seat reading | *seat* — recognition in one's own accumulation, or taken up from another's | complementary; someone's knowing upstream of every belief |
+
+- **[C]** The mainstream's unsolved problem — the condition that turns belief into knowledge — is the pleonastic fallacy in practice: a difference in kind sought as a difference of degree. Antognazza and the seat reading avoid it the same way, by not putting knowledge on the belief scale.
+- **[C]** The sociology of knowledge shows what happens without the private pole: knowledge dissolves into consensus. The seat reading keeps both poles.
+
+**The words.**
+
+- **[A]** It doesn't look clear at all what the difference, if any, is. Is it "to have knowledge" against "to believe"?
+- **[C]** Grammatically, *knowledge* is mostly a mass noun — something had, a store, a body ("a body of knowledge") — while *to believe* is an act or attitude of assent. That matches the seat reading: knowledge as what sits in one's own accumulation (the second principle: "knowledge is what the subject comes to recognise within that accumulation"); believing as assent to what was recognised at another's seat. English blurs it both ways: "beliefs" is also a noun for held contents, and everyday "knowledge" counts whatever is in the store however it arrived — including what was told, which is why the mainstream holds testimony transmits knowledge.
+- **[C]** Other languages split "to know": *weten* / *savoir* / *wissen* (knowing that — the mainstream's "S knows that p") against *kennen* / *connaître* (acquaintance). Antognazza's knowledge, contact with an object, sits with *kennen*. Russell's knowledge by acquaintance against knowledge by description draws the same line; Ryle adds knowing how. The author's earlier distinction (2026-10-11) — description for what we model of others' interactions, direct experience between the conversants — is close to Russell's pair.
+- **[C]** A possible answer: the mainstream cannot find a clean line because "knowledge" covers at least three things — *weten*, *kennen*, and the store one has whatever its source. The seat reading sorts them: acquaintance (*kennen*) is knowing proper, recognition at one's own seat; description is belief, taken up from another's; everyday "having knowledge" is the store, mixing both. *Weten* is then ambiguous — knowing when the recognition is one's own, belief when it was handed on.
+
+**The words, refined.**
+
+- **[A]** A belief is still something you believe, and knowledge remains something you have. Is *kennen* not about something concrete, *weten* abstract?
+- **[C]** Not quite concrete against abstract: *kennen* takes an object — a person, a place, a song, but also a theory, the multiplication tables, the answer — and names familiarity through encounter; *weten* takes a *that* / *what* / *whether* and holds that something is so. One can *kennen* a theory without *weten* whether it is true.
+- **[C]** *Kennen* is graded ("goed", "nauwelijks", "een beetje"); *weten* is on/off. Antognazza ties knowledge both to acquaintance-like contact and to being on/off — Dutch puts the degrees on the acquaintance side. A point to put to her account.
+- **[C]** The asymmetry the author names survives the grammar, and the seat reading explains it. Knowledge, once recognised in one's own accumulation, is retained — historicity — so it is *had*. Belief rests on another's seat; one's own contact never settles the assent, which can be withdrawn when the reports change — so it stays an *act*. Each side has a verb and a noun: recognising (the second principle's own word) leaves knowledge, the store; assenting holds beliefs, held only while the assent is given. The language marks knowledge by its result and belief by its act — knowledge rests in the subject, belief depends on something outside it.
 
 ## 3. What knowledge is here
 
@@ -42,6 +96,31 @@
   - **Believing** — holding what was recognised in *another's* accumulation, reaching me as expression.
   - Both are convergence: within the subject (experience with tools) and between subjects (expressions into the shared). The tools are common either way; what differs is whose contact the assent rests on.
 - **[C]** Hart's point returns in a form that holds: no amount of *others'* convergence becomes *my* recognition, because the difference is one of seat, not strength. The line is crossed differently — by the subject's own experience: take the lab instructions as belief, run the experiment, and it is in one's own accumulation.
+
+## 3a. The approach that closes it out — from the cognition side (2026-10-12)
+
+- **[A]** On the site's definition of cognition, knowledge is something we obtain, together with understanding (deepening into insight). Belief is something imported into that context. I may have deep knowledge of my beliefs; they remain belief though. There is an accompanying language with knowledge — some sort of context that isn't there with belief.
+- **[A]** Beliefs come in as part of the shared-tools language that cognition uses as its medium. Sidestep the head-on discussion: approach knowledge from the cognition side, see where belief falls into place, and close it out that way.
+- **[A, refining "convergence is belief" above]** Convergence is more neutral: what we experience, share and agree on as being something specific.
+- **[C]** The route, in the definitions already held:
+  1. Cognition — the process of acquiring knowledge and understanding through experience.
+  2. Its medium — language: the shared tools, privately used.
+  3. The shared tools carry more than concepts: content that came with them — what is commonly held, said, taken for granted. Beliefs arrive this way, as part of the tool kit cognition starts from; no separate mental state needs defining.
+  4. Knowledge — what cognition obtains: recognised in one's own experience, with its accompanying language (the context it was recognised in), alongside understanding deepening into insight.
+  5. Belief falls into place as shared-tool content used without the subject's own recognition. Recognised in one's own experience (the lab experiment), it becomes knowledge; otherwise it stays what it came in as, however well understood — hence deep knowledge of one's beliefs, which remain beliefs.
+- **[C]** Convergence, the neutral term, is how the shared tools come about. Whether a piece of converged content is knowledge or belief *for a subject* is settled by that subject's cognition, not by the convergence: knowledge for the one who recognised it, belief for the one who took it up.
+- **[C]** Two contexts, kept apart: the context of *recognition* (knowledge's accompanying language — answering "how do you know?" from inside) and the context of *acceptance* (a belief's reasons, evidence, trust in a source — what the mainstream calls justification).
+- **[C]** Seed-side throughout: only the cognition definition, the medium and the shared tools are used — thin, holding for every voice, taking no side in the field's debates.
+
+## 3b. Primary and secondary words; the experience angle (2026-10-12)
+
+- **[A]** Belief is a secondary word for us, and we are going to keep it that way. Knowledge is a primary word.
+- **[A]** Approach knowledge from the experience angle — personal, as subject, or in group, as community.
+- **[C]** So the account is built on knowledge and experience alone; belief appears only where a source or ordinary speech uses it, and §2–§3a stand as the record of how the discussion got here, not as a knowledge/belief theory to develop.
+- **[C]** Two scales of the same thing: a subject's knowledge is what its experience obtains; a community's knowledge is what the community's experience obtains — experienced, shared and agreed on as being something specific (convergence, the neutral term). Convergence is then cognition at community scale, not a second kind of holding. That reads the third principle — "language is where subjects share knowledge about reality" — at the community's scale rather than as a parcel passed between individuals.
+- **[C]** What a subject takes from the community without its own experience needs no word of the position's own; where a name is needed, the field's word serves.
+- **[A]** The knowledge/belief question is in the same class of headache as consciousness or free will.
+- **[C]** The shared shape: a word treated as naming a thing that must have necessary and sufficient conditions; posed head-on from outside, the discourse not counting itself a participant; resting on the privileged individual; and mixing degree with kind (the pleonastic question — when does belief become knowledge, information consciousness, causation choice?). The method that worked here carries over: start from what the position holds — cognition, experience, the medium, the community — and see where the word falls into place, or whether it is needed at all.
 
 ## 4. Knowledge on the coin
 
@@ -63,7 +142,7 @@
 
 ## 6. Open questions
 
-1. **Where knowledge lives on the seed side.** A seed page of its own, or within the seed's treatment of cognition — the site defines cognition as "the process of acquiring knowledge and understanding through experience", so knowledge is already cognition's product on the seed side.
+1. **Where knowledge lives on the seed side.** Leaning (§3a): within the seed's treatment of cognition, approached from the cognition side; rather than a seed page of its own — the site defines cognition as "the process of acquiring knowledge and understanding through experience", so knowledge is already cognition's product on the seed side.
 2. **The third principle's wording.** "Language is where subjects share knowledge about reality." On the seat reading knowledge cannot be shared — not a parcel. What is shared is expression, the occasion to know for oneself, and belief. Whether the wording changes is a seed-level decision.
 3. **The content pillar.** If the definition moves to the seed, what the reality side's epistemology becomes — the stance in the core values' vocabulary (§4) — and whether the same move applies to ontology and aesthetics (§5).
 4. **Is the seed version thin enough?** A test to run: can each major epistemology — JTB, Antognazza's contact, reliabilism, knowledge-first, the pragmatists' inquiry — be read as an expression in the medium without being contradicted on its own terms?
