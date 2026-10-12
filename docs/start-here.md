@@ -1,27 +1,34 @@
 ---
 layout: default
-title: "Reading Path"
-description: "New to SPLectrum? A short orientation — what SPLectrum is, where to start reading, and how the site is organised."
-lastmod: 2026-07-24
+title: "Start Here"
+description: "New to SPLectrum? The project in broad strokes, how the site is written, and three ways to get stuck in."
+lastmod: 2026-10-12
 ---
 
-# Reading Path
+[Home](/) > [Real Life](/real-life/) > Start Here
 
-SPLectrum is a philosophical project built from a small set of principles about language, subjects, and how they relate. The core claim is that reality is plural — made of many interacting vocabularies — and that the interaction between them is what creates new understanding. No single vocabulary owns the truth. No discipline sits above the rest. SPLectrum calls this position *interrelational pluralism*, and everything on the site grows from it or sits in conversation with it.
+# Start Here
 
-## Where to start reading
+SPLectrum is a philosophical project that starts from language as the medium where it all happens. What is held in common, we express in a [small set of principles](/seed/original/) — we call them the seed. Central to SPLectrum as a project is equal standing: a pluralism of voices that use interrelated languages, SPLectrum but one voice in this multitude.
 
-Four blog series run through SPLectrum's development:
+You will find that the project has [two faces, like a coin](/seed/pluralism-and-the-coin/). On one side there is what every voice holds in common; on the other SPLectrum expresses [its own voice](/reality/).
 
-- **[The positioning series](/blog/label/positioning/)** — where SPLectrum sits in relation to existing thought: the load-bearing engagements with the figures and traditions it draws on and distinguishes itself from.
-- **[The seed series](/blog/label/seed/)** — the six foundational principles, unpacked one at a time. What the principles are, how they fit together, and what they produce.
-- **[The reality series](/blog/label/reality/)** — the metaphysics built in the open. The five pillars from the subject's seat: how reality is disclosed, what values emerge, how diverse subjects live together.
-- **[The conversations series](/blog/label/conversations/)** — lighter meetings with thinkers and traditions: portraits and one-off engagements that accompany the main storylines without carrying them.
+A big part of what we do is trying to distill wisdom from others — hence the large [reference section](/positioning/) you will find on this site.
 
-## How the site is organised
+This site is not about a finished product, but a process, offering insight into a journey that has just started. This is reflected in the structure of the site.
 
-The nine sections on the homepage each do different work. Two are worth knowing about first. [Positioning](/positioning/) is the site's reference layer — it holds [persons](/positioning/persons/) and [subjects](/positioning/subjects/) A–Z that introduce figures and subjects of importance to SPLectrum, alongside topic-driven pieces that place SPLectrum in conversation with them. [Reality](/reality/) is the heart of SPLectrum's own account, as systematic philosophy — three core values, belonging, privacy and creativity, and the five pillars of the metaphysics they disclose, built from the subject's seat. The same thinking in everyday language is the job of [Real Life](/real-life/), a section still filling out.
+[SPLectrum 101](/real-life/spl/splectrum-101/) tells the story in more detail, in plain words.
 
-The other sections all contain SPLectrum's own work too. For more detail on how they fit together, see [The 9-Box Homepage](/real-life/spl/the-9-box-homepage/).
+## How we write
 
-Content is building up steadily, and sections are being populated — but don't expect a full house yet.
+**Sections that don't mix.** Each section keeps to a single concern. The same topic can turn up in several of them, each instance approaching it from a different angle — linked, but kept apart.
+
+**Topical pages, not large texts.** The aim is one topic per page, without trying to construct a large text spanning multiple pages. The project needs breadth and maturity before that can be attempted.
+
+## Getting stuck in
+
+If you want the detail on the structure of the site, it can be found on [The 9-Box Homepage](/real-life/spl/the-9-box-homepage/).
+
+Or you may want to start by reading the [blog](/blog/). The posts are short pieces that follow the chronology of the research and thoughts of the project.
+
+Or why not start at the foundation, with the [Seed](/seed/) section.
