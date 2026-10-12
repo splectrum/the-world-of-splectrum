@@ -104,3 +104,12 @@ And this infiltration is often not the researcher's own instinct. It is institut
 The result is that genuine contributions — new tools, new languages, new ways of seeing — get wrapped in philosophical packaging that contradicts their own best insights. The work says "here is a new way of looking." The packaging says "and this is how it really is." The packaging undermines the work.
 
 This is a P4 problem at the institutional level. Academic culture does not yet have a way of valuing a contribution without demanding it claim meta-privilege. The work has to be "fundamental" to be considered important. Which is the conflation the seed dissolves: value and meta-privilege are not the same thing. A language can be extraordinarily powerful, can open entirely new territory, can transform understanding — without claiming to be the language that describes reality as it ultimately is.
+
+---
+
+## Post candidates (flagged by Jules, 2026-09-06)
+
+- **"Origin of life — assembly theory"** — backing live: the assembly-theory subject cluster and the Walker and Cronin pages, including the technosphere-as-part-of-life material added 2026-09-06.
+- **"Origin of life — Robert Hazen, the living earth"** — backing live: the Hazen person page; the co-evolving mineral–life earth as its own telling.
+
+Candidates only — no slots claimed; the pipeline decision stays with Jules.

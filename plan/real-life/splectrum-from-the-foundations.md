@@ -93,3 +93,7 @@ The other two values, privacy and creativity, enter here too and are treated in 
 The readings in part two are one voice's. So, at the meta-level, is the common itself: one chosen way of cutting, knowingly among others. This does not weaken it. A common whose content is that every subject articulates from its own history predicts that the common, seen from another vocabulary, will show up as one voice among many. The status is entailed, not conceded.
 
 Minimalism is what keeps this from hardening. Positions that carry heavy inventory — physical stuff as basic, abstract objects as real, a mind-independent world as the standard — spend most of their time justifying the inventory rather than using it, and the justifying never ends because nothing forces the inventory. A short set of how-constraints has less to be loyal to. What there is gets tested by what it yields, and the yield is read, each time, in a voice that knows itself to be one among others.
+
+---
+
+*Pending once the document has a home (carried from the task list, 2026-10-12):* the fence page links to the Meaning reading (from its two-reifications paragraph) and to the coupling constraint (from What the world still does); fence text unchanged.

@@ -244,3 +244,10 @@ The structure is doing its job if each familiar confusion comes apart into branc
 - Schaeffer et al. (2023) on emergent abilities as a metric artefact.
 - Chollet (2019), *On the Measure of Intelligence*; Narayanan and Kapoor (2024), *AI Snake Oil*.
 - Perez (2002); Bresnahan and Trajtenberg (1995); Solow (1987); Gordon (2016); Schwab (2016); Merchant (2023).
+
+---
+
+## 7. Carried from the task list (2026-10-12)
+
+- **[A, 2026-09-09]** The eventual AI treatment will be an OVERVIEW subject — main characteristics per item, not depth.
+- **Open:** how this doorway relates to the earlier AI information-field build plan — whether the doorway absorbs it or they stay two builds.

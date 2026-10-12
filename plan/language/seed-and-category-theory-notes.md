@@ -187,3 +187,9 @@ Possible companion posts (separate scheduling):
 - This document feeds the post and the ref-lib page.
 - Existing category theory references should be updated before or alongside the post lands.
 - Companion posts are independent and can wait.
+
+---
+
+## Banked thread (2026-09-16, out of the Kolchinsky/thermodynamics records)
+
+**CT and type theory — a layer hypothesis, parked.** A provisional cut: category theory is relational-structural, built for what lives between things — the *correlation* layer, the natural partner for between-ness. Type theory is about what can be said of what, which distinctions are well-formed — closer to the *language-set* layer: what a subject's language permits, the typing being the frame. If the cut holds they serve different layers rather than competing, with the concept-as-knot-of-relations on the seam: CT describes what it is made of, type theory what it can do. **P4 constraint:** neither can be *the* privileged meta-language — both are content for the chosen one, tools reached for by use.

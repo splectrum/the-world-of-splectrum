@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-09-30
+lastmod: 2026-10-12
 title: "Mineral Evolution: The Word"
 description: "Evolution applied to the minerals of a planet — Hazen's 2008 comment on the word, its precedent in Bowen, the general sense of change over time, and the 2023 law of increasing functional information that re-describes it as selection."
 ---
@@ -17,7 +17,7 @@ description: "Evolution applied to the minerals of a planet — Hazen's 2008 com
 
 ## The objections
 
-The word was objected to at once, by the geologist Minik Rosing in a commentary in *Nature* ("On the Evolution of Minerals", 2008) and by the palaeontologist [Niles Eldredge](/positioning/persons/e/eldredge/) (2009).
+The word drew reservations. The objections Hazen and Eldredge later acknowledged are cited to the geologist Minik Rosing's *Nature* News & Views on the 2008 paper ("On the evolution of minerals", 2008 — which itself called the comparison with biological evolution "a refreshing view") and to the palaeontologist [Niles Eldredge](/positioning/persons/e/eldredge/)'s own chapter on material cultural macroevolution (2009).
 
 ## The general sense
 

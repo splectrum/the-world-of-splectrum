@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-09-29
+lastmod: 2026-10-12
 title: "Jean-Baptiste Lamarck (1744–1829)"
 description: "French naturalist — the first comprehensive theory of the transformation of species, the two forces of complexification and adaptation, the two laws of Philosophie zoologique, the invertebrates, and a reputation shaped by Cuvier's éloge."
 ---
@@ -25,7 +25,7 @@ Lamarck set out the first comprehensive theory that species are not fixed but ch
 
 **The two laws.** *Philosophie zoologique* states the mechanism of the second force as two laws. The first: continued use of an organ strengthens it and constant disuse weakens it until it disappears. The second: what individuals acquire or lose in this way is preserved in their offspring, provided the change is common to both parents; the giraffe's neck is among the book's examples. The inheritance of acquired characters was not Lamarck's invention; it was assumed widely from antiquity to the nineteenth century, as [Conway Zirkle](https://en.wikipedia.org/wiki/Conway_Zirkle) documented in 1946. What was his was the use he put it to: the engine of the transformation of species.
 
-**The tree of 1809.** The additions at the end of *Philosophie zoologique* include a table showing the origin of the different animal groups as branching lines rather than a single chain, one of the earliest diagrams of its kind, half a century before [Darwin](/positioning/persons/d/darwin/)'s.
+**The tree of 1809.** The additions at the end of the second volume of *Philosophie zoologique* include a table "showing the origin of the different animals" (p. 463), in which the animal series begins in at least two branches and splits into side-branches rather than forming a single chain, one of the earliest diagrams of its kind, half a century before [Darwin](/positioning/persons/d/darwin/)'s.
 
 ---
 

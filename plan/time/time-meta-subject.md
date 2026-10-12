@@ -59,3 +59,7 @@ Physics and history are partly backed; philosophy of time proper is the main gap
 ## 6. Next step
 
 Research the angles: which homes treat time, what each means by it, and the field's own sortings — expected to tune the map in §3 and settle the sorting question.
+
+## 7. Caution for any physics sorting (banked 2026-09-16)
+
+**The map of physics — for a later call.** No canonical list; divisions track institutions as much as content, so any grouping is presented as conventional, not a natural kind. The **Bronstein (cGh) cube** is real but pedagogy, not working doctrine — attribution contested, and Baez's proposed k_B axis itself implies thermodynamics is not on the standard cube. **Foundational vs applied is disputed and the dispute splits:** Anderson won the sociological point (condensed matter is not applied particle physics), but "higher-level laws are irreducible" is *not* settled — Weinberg against, Laughlin and Pines with him. Do not let the first carry the second.

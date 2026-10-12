@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-05
+lastmod: 2026-10-12
 title: "Evolution in Biology"
 description: "What biologists mean by evolution, as distinct from the theory that explains it — the population-genetic definition and the argument over it, Mayr, Futuyma, Endler and Van Valen, Mayr's evolution as such, and von Baer's embryology as the other root."
 ---
@@ -13,7 +13,7 @@ Biologists distinguish evolution, the fact that populations of organisms change 
 
 ## The population-genetic definition
 
-The definition most often given in textbooks is the one the modern synthesis made possible: evolution is any change in the frequency of alleles within a population from one generation to the next. It is usually credited to [Theodosius Dobzhansky](/positioning/persons/d/dobzhansky/)'s *Genetics and the Origin of Species* (1937), which treated evolution as change in the genetic composition of populations and its mechanisms as problems of population genetics.
+The definition most often given in textbooks is the one the modern synthesis made possible: evolution is any change in the frequency of alleles within a population from one generation to the next. It restates [Theodosius Dobzhansky](/positioning/persons/d/dobzhansky/)'s *Genetics and the Origin of Species* (1937), which defined evolution as a change in the genetic composition of populations and treated its mechanisms as problems of population genetics.
 
 ## The argument over it
 

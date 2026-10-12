@@ -100,3 +100,7 @@ Neuroscience strand:
 The load-bearing first decision is the hub's sub-page cut. The research gives a natural seam: build-centre at world models / WAMs, the paradigm map beside it, the conflicts in a contested-receptions page, persons spidering off.
 
 Still open: whether the genuine first artifact is the **fence piece** (where the energy and the live primary material are) or the **thin hub subject** (the territory the fence formally delegates from). The discipline says territory first; the energy says fence first. Worth deciding deliberately rather than by drift.
+
+## Carried from the task list (2026-10-12)
+
+- Couples to the language-mechanics strand (embedding-space / cauldron) — likely pulled toward active when that strand reaches the relational-primitive joint.

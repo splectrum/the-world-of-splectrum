@@ -1,13 +1,13 @@
 ---
 layout: default
-lastmod: 2026-09-30
-title: "Eric Chaisson"
+lastmod: 2026-10-12
+title: "Eric Chaisson (1946–)"
 description: "American astrophysicist — cosmic evolution as the study of change in radiation, matter and life across all time, energy rate density as a measure of complexity, selection widened to any object's preferential interaction with its environment, and the scientific backbone of big history."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Chaisson
 
-# Eric Chaisson
+# Eric Chaisson (1946–)
 
 Chaisson set out to tell the history of the universe as one continuous story of rising complexity, from the radiation of the early universe through galaxies, stars, planets and life to human society, and to give that story a single physical measure. He called the subject cosmic evolution and defined it as "the study of the many varied developmental and generational changes in the assembly and composition of radiation, matter, and life throughout all space and across all time". His measure is energy rate density, the rate at which energy flows through a system per unit of its mass, which he found rising across the whole sequence. He uses "evolution" in the broadest sense on purpose and widens selection to match, and his epochs and energy metric were taken up by big history.
 

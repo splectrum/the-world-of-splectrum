@@ -68,4 +68,5 @@
 3. **The content pillar.** If the definition moves to the seed, what the reality side's epistemology becomes — the stance in the core values' vocabulary (§4) — and whether the same move applies to ontology and aesthetics (§5).
 4. **Is the seed version thin enough?** A test to run: can each major epistemology — JTB, Antognazza's contact, reliabilism, knowledge-first, the pragmatists' inquiry — be read as an expression in the medium without being contradicted on its own terms?
 5. **Truth.** Where truth, objectivity and correctness sit on the coin, given that convergence is "the only objectivity available": seed (the structure) or content (a reading of it).
-6. **Sources to read.** Antognazza, *Thinking with Assent* (OUP, 2024), itself — the review is the only thing read so far; Dutant 2015; Hart on the pleonastic fallacy in context.
+6. **Common understanding.** How the knowing/believing seat reading meets the finding that common understanding is itself a language.
+7. **Sources to read.** Antognazza, *Thinking with Assent* (OUP, 2024), itself — the review is the only thing read so far; Dutant 2015; Hart on the pleonastic fallacy in context.
