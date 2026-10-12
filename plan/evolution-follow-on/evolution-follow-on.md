@@ -72,11 +72,3 @@ The subject page's "Where process philosophy stops" says that none of the tradit
 
 - **The scala naturae** — the ladder of fixed kinds, most often mistaken for evolution's arrow; the doorway does not name it. Material: `plan/evolution-follow-on/nonwestern-research.md` §6–7.
 - **Drift — change within a persisting kind.** The hub's arrow is "aimed or aimless" but every example is aimed; fields name the aimless case themselves (genetic drift, Kimura's neutral theory, Sapir's "drift" in *Language*, 1921 — check). Absent from Language change.
-
-## Source checks still open on the built evolution pages
-
-The 2026-09-30 list was checked on 2026-10-12; what remains needs a library copy:
-
-- Dobzhansky 1937 — the exact wording and page of the "change in the genetic composition of populations" definition (biology page; now paraphrased without quotation marks).
-- Rosing, *Nature* 456 (2008), 456–458 — the body of the News & Views, to see what reservation it actually voices (mineral-evolution page).
-- Eldredge, "Material cultural macroevolution" (2009), in Prentiss, Kuijt and Chatters (eds), *Macroevolution in Human Prehistory* — what it says about "evolution" beyond biology.

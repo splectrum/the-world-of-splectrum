@@ -116,7 +116,7 @@ Lifted out into its own working document, 2026-10-12.
 - Field side: the language and vocabularies doorways (meaningful information, signalling, concepts); the life doorway (§6); the agency thread's research survey (§4, §5).
 - Theory side: the evolution core (privileged individual, discourse standing outside, concepts in motion); the reality section's approach (§3); the agency sketch's central joint (§4).
 - Seed side: the P2 surface for Rovelli's essay (§1).
-- Neutral pages: the Rovelli page (§1); the Hume page's missing *Dialogues* (§4); possible Huw Price page.
+- Neutral pages: the Rovelli page (§1); possible Huw Price page.
 
 ---
 

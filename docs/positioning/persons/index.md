@@ -301,7 +301,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Richerson, Peter (1943–)](/positioning/persons/r/richerson/) · evolutionary biologist<span class="kw">dual-inheritance theory (with Boyd), gene-culture coevolution, the ecological basis of cultural evolution</span>
 - [Ricoeur, Paul (1913–2005)](/positioning/persons/r/ricoeur/) · philosopher<span class="kw">hermeneutics of the self, the rule of metaphor, narrative identity, the capable human being, time and narrative</span>
 - [Rorty, Richard (1931–2007)](/positioning/persons/r/rorty/) · philosopher<span class="kw">pragmatism, conversation over correspondence, contingency, solidarity</span>
-- [Rovelli, Carlo (1956–)](/positioning/persons/r/rovelli/) · theoretical physicist, philosopher<span class="kw">loop quantum gravity, relational QM, time, Nagarjuna</span>
+- [Rovelli, Carlo (1956–)](/positioning/persons/r/rovelli/) · theoretical physicist, philosopher<span class="kw">loop quantum gravity, relational QM, time, meaning, Nagarjuna</span>
 - [Russell, Bertrand (1872–1970)](/positioning/persons/r/russell/) · logician, philosopher<span class="kw">Principia Mathematica, logical atomism, the theory of descriptions, Russell's paradox</span>
 - [Ryle, Gilbert (1900–1976)](/positioning/persons/r/ryle/) · philosopher<span class="kw">The Concept of Mind, the ghost in the machine, the category mistake, knowing-how vs knowing-that, ordinary-language philosophy, logical behaviourism</span>
 

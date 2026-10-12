@@ -10,8 +10,6 @@ Plan work and research tracking.
 
 Lives in `plan/`, one folder per topic; discussion captures not yet placed go to `submissions/`. Entries in this list stay short — name, folder, status, next step. The material lives in the documents.
 
-**Parked posts (2030 dates):** formalisation series 2030-01-01…05 (the opener needs an image; the wrapper and is-like-is link the earlier posts by 2026/06 URLs — fix on unparking); creativity series 01-22…26 (Faces mid-rework).
-
 ## Research
 
 **Order of work (state 2026-10-12):** 1. Real Life (active) · 2. Life · 3. AI · 4. Language · 5. Cognition continued.

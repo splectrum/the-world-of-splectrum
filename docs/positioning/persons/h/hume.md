@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-19
+lastmod: 2026-10-12
 title: "David Hume (1711–1776)"
 description: "Hume grounded morality in sentiment, causation in habit, convention in coordination — philosopher, historian, essayist, and cheerful sceptic."
 ---
@@ -24,6 +24,14 @@ Hume is the most important philosopher to write in English — empiricist episte
 **The bundle theory of self.** There is no enduring self behind the flow of experience. The self is a bundle of perceptions — "I always stumble on some particular perception or other" — not a substance.
 
 **Naturalism.** Despite his scepticism, Hume was not a nihilist. Nature compels us to believe in causation, in the external world, in the self — even when reason cannot justify these beliefs. Custom and habit do the work that reason cannot. Philosophy's task is not to replace natural belief but to understand it.
+
+---
+
+## Natural religion
+
+**The design argument dismantled.** The *Dialogues Concerning Natural Religion*, drafted from the early 1750s, revised until his death and published posthumously in 1779, stage three speakers. Cleanthes argues from the order of the world to a designing mind, as a house implies an architect; Demea defends an a priori proof and the incomprehensibility of God; Philo, the sceptic, presses the analogy until it gives way. We have experience of one world only, and none of how worlds are made; the world resembles an animal or a vegetable as much as a machine; and the evil in it fits no benevolent designer.
+
+**Order without design.** In Part VIII Philo revives an Epicurean hypothesis: a finite number of particles in endless motion would pass through every possible arrangement, and the arrangements able to sustain themselves would be the ones that last — order that persists without anyone designing it. The work ends in ambiguity. In Part XII Philo grants that "the cause or causes of order in the universe probably bear some remote analogy to human intelligence", and readers still dispute how much of Hume speaks through him.
 
 ---
 

@@ -11,7 +11,6 @@
 
 ## Open items
 
-- Rovelli person page: the meaning essay's own spellings ("teams", "undoubtably") — [sic] or paraphrase; whether to keep "quoting Aristotle's *Physics* II.8".
 - Where the meaning essay surfaces on the position side: extend the semantic-information seed piece, or a seed-ring piece of its own.
 - Whether Huw Price earns a person page (collaborative decision).
 - Read Krzanowski's critique of the meaning essay.
