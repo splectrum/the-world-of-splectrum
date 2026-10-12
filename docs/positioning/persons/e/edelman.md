@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-28
+lastmod: 2026-10-12
 title: "Gerald Edelman (1929–2014)"
 description: "American biologist — Neural Darwinism, the theory of neuronal group selection, reentrant signalling, the immunological Nobel, the biological basis of consciousness."
 ---
@@ -35,7 +35,7 @@ The theory of neuronal group selection operates through three mechanisms:
 
 ---
 
-## Where Edelman stops
+## Contested questions
 
 The selectional framework is compelling at the level of general principle (the brain generates diversity and selects from it) but difficult to test at the level of specific predictions. Identifying individual neuronal groups, measuring their competitive dynamics, and tracking their selection through experience requires experimental techniques that were largely unavailable during Edelman's career. The theory was criticised by computational neuroscientists for being too vague — for describing the general character of brain organisation without specifying the computational operations that neuronal groups perform. [Francis Crick](https://en.wikipedia.org/wiki/Francis_Crick) reportedly said that Neural Darwinism was "neural Edelmanism" — more a framework than a testable theory. Whether subsequent advances in neural recording (calcium imaging, optogenetics, connectomics) have vindicated the selectional framework or rendered it unnecessary is debated within neuroscience.
 

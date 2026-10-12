@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-12
+lastmod: 2026-10-12
 title: "When category theory and the seed meet"
 description: "The SPLectrum seed and category theory — CT's primitives are P0 and P1 in mathematical form. Given those two, CT generates the rest of the seed from its own internal logic."
 ---
@@ -43,7 +43,7 @@ None of this is imported into CT. It is what the apparatus produces when it cate
 
 The picture closes back on itself.
 
-P0 is the unit pattern: differentiation produces being, not-being, and the relation between them. Atomic. 1-categorical.
+P0 is the unit pattern: differentiation produces being, the other, and the relation between them. Atomic. 1-categorical.
 
 P4 is that same unit applied at every level. At each dimension, fresh differentiation produces relata and the relation between them, and those relations become relata at the next level. The tower of P4 is P0 iterated.
 

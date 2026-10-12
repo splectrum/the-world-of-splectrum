@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-09-30
+lastmod: 2026-10-12
 title: "Evolution"
 description: "The major transitions in the history of reality, each arriving roughly an order of magnitude faster — read as growth in expression rather than in power, at thresholds of interaction density."
 ---
@@ -9,7 +9,7 @@ description: "The major transitions in the history of reality, each arriving rou
 
 # Evolution
 
-The major transitions in the history of reality arrive roughly an order of magnitude faster each time. The conventional reading: things got more complex, power accumulated. The SPLectrum reading: the power was always there. What changes is expression. Growth in expression, not in power — P5.
+The major transitions in the history of reality arrive roughly an order of magnitude faster each time. The conventional reading: things got more complex, power accumulated. The SPLectrum reading: the power was always there. What changes is expression. Growth in expression, not in power.
 
 ---
 
@@ -32,7 +32,7 @@ Not progress — that is the anthropocentric reading. The SPLectrum reading: eac
 
 ## Thresholds, not breaks
 
-The transitions do not form a ladder. They form a web — each level continues alongside the others. Quantum interactions did not stop when chemistry emerged. Chemistry did not stop when life emerged. The pattern conforms to P4: equal standing across levels, no hierarchy.
+The transitions do not form a ladder. They form a web — each level continues alongside the others. Quantum interactions did not stop when chemistry emerged. Chemistry did not stop when life emerged. The pattern conforms to equal standing: across levels, no hierarchy.
 
 ## The thinking side
 

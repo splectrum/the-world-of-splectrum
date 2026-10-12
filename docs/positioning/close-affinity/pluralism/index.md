@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-07-15
+lastmod: 2026-10-12
 title: "Pluralism"
 description: "The pluralism family engaged from the interrelational position — the count set in motion, the two borders held in the position's own terms, and the family's disputes answered from inside, with the position in the same chair."
 ---
@@ -19,7 +19,7 @@ The alignment with the family's streams is correspondingly tight, and on every d
 
 ## The count and the motion
 
-Most of the family states a count: many kinds of things, many valid ways of knowing, many languages, many ultimate goods, many centres of power. The count is the family's shared conclusion, reached independently on every dimension — and, as a description, it is also where most of the family comes to rest: the many established, defended, accommodated. Interrelational pluralism reads the count as a beginning. The many are not an inventory. Realities meet — subjects share games, communities overlap, expressions travel between holders — and where they meet, more arises: new language, new practice, new reality that neither side held before the meeting. Plurality, on this reading, is generative: being many is not a standing condition but an ongoing production of more. That is the widening the position asks of the family — the count set in motion — and it is of a piece with [the generative value](/reality/core-values/) the metaphysics carries: newness added to reality, not read out of it.
+Most of the family states a count: many kinds of things, many valid ways of knowing, many languages, many ultimate goods, many centres of power. The count is the family's shared conclusion, reached independently on every dimension — and, as a description, it is also where most of the family comes to rest: the many established, defended, accommodated. Interrelational pluralism reads the count as a beginning. The many are not an inventory. Realities meet — subjects share games, communities overlap, expressions travel between holders — and where they meet, more arises: new language, new practice, new reality that neither side held before the meeting. Plurality, on this reading, is generative: being many is not a standing condition but an ongoing production of more. That is the widening the position asks of the family — the count set in motion — and it is of a piece with the generative value the metaphysics carries: newness added to reality, not read out of it.
 
 ## The two borders
 
@@ -31,7 +31,7 @@ The [disputes that run through the family](/positioning/subjects/p/pluralism/the
 
 To the **self-refutation charge** — the no-privilege claim made, apparently, from above the many — the answer is standing. Interrelational pluralism is itself a held reality: a position disclosed from somewhere, offered for reading on its merit like any other expression. It claims no view from nowhere; whatever it says of the family, it says from inside the family, and its own claims are as open to reading as any it reads. The charge lands on a pluralism that surveys; it finds no purchase on one that participates.
 
-To the **realism question** — how many true accounts can stand — the answer is given in the vocabulary of [disclosure](/reality/): a reality is disclosed to its subject and enacted by it in the same movement. Realities are genuinely held, not opinions floating above one finished description; and the holding is answerable — what cannot be lived does not persist. The many are many in the holding, constrained in the living, and — the interrelational point again — moving in the meeting: shared realities are not just borne, they are moved on.
+To the **realism question** — how many true accounts can stand — the answer is given in the vocabulary of disclosure: a reality is disclosed to its subject and enacted by it in the same movement. Realities are genuinely held, not opinions floating above one finished description; and the holding is answerable — what cannot be lived does not persist. The many are many in the holding, constrained in the living, and — the interrelational point again — moving in the meeting: shared realities are not just borne, they are moved on.
 
 ## The same chair
 
@@ -39,4 +39,4 @@ The reading the position brings to the family applies to itself. Alongside what 
 
 ---
 
-See also: [Pluralism (subject)](/positioning/subjects/p/pluralism/) — the family on its own terms · [The dimensions](/positioning/subjects/p/pluralism/the-dimensions/) · [The disputes](/positioning/subjects/p/pluralism/the-disputes/) · [Interrelational pluralism](/seed/interrelational-pluralism/) · [The core values](/reality/core-values/)
+See also: [Pluralism (subject)](/positioning/subjects/p/pluralism/) — the family on its own terms · [The dimensions](/positioning/subjects/p/pluralism/the-dimensions/) · [The disputes](/positioning/subjects/p/pluralism/the-disputes/) · [Interrelational pluralism](/seed/interrelational-pluralism/)

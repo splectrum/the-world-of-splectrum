@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-28
+lastmod: 2026-10-12
 title: "German idealism"
 description: "The movement that refused Kant's limits — Fichte, Schelling and Hegel overcoming the gap between subject and world, determination through negation."
 ---
@@ -9,7 +9,7 @@ description: "The movement that refused Kant's limits — Fichte, Schelling and 
 
 # German idealism
 
-German idealism matters to SPLectrum because it put the subject into the constitution of reality — and refused to leave a gap between mind and world. [Kant](/positioning/persons/k/kant/) had drawn the limit; the idealists dissolved it. [Fichte](/positioning/persons/f/fichte/)'s self-positing I — being as an act, not a substance — resonates with the [seed](/seed/)'s P0: being implies language, neither prior. [Hegel](/positioning/persons/h/hegel/)'s sublation — nothing simply left behind, everything preserved and elevated — is how SPLectrum understands [historicity](/seed/historicity/). And [Spinoza](/positioning/persons/s/spinoza/)'s determination through negation, which the idealists made dynamic, connects to the seed's treatment of differentiation as the origin of language. The systematic ambition SPLectrum does not share; the questions it does.
+German idealism put the subject into the constitution of reality — and refused to leave a gap between mind and world. [Kant](/positioning/persons/k/kant/) had drawn the limit; the idealists dissolved it. [Fichte](/positioning/persons/f/fichte/)'s self-positing I — being as an act, not a substance — makes the I's distinguishing of itself from the not-I the starting point of everything else. [Hegel](/positioning/persons/h/hegel/)'s sublation (*Aufhebung*) — nothing simply left behind, everything at once cancelled, preserved and elevated — makes history the medium in which reason develops. And [Spinoza](/positioning/persons/s/spinoza/)'s determination through negation, which the idealists made dynamic, became the engine of the dialectic.
 
 The philosophical movement that arose in response to Kant's critical philosophy, spanning roughly 1780–1830. Behind it stands [Spinoza](/positioning/persons/s/spinoza/) — his substance monism and his principle that determination is negation were taken up by all the idealists, each transforming what Spinoza had cast as eternal into something historical and dynamic. Where Kant had drawn the limits of knowledge — the thing-in-itself forever beyond reach — [Fichte](/positioning/persons/f/fichte/), Schelling, and [Hegel](/positioning/persons/h/hegel/) refused the limit. Each in different ways sought to overcome the gap between subject and object, mind and world, knowledge and reality.
 
@@ -37,7 +37,7 @@ German idealism's direct influence waned after Hegel, but its questions persist:
 
 ## Where German idealism stops
 
-The idealists overcame Kant's gap — but replaced it with systems that claim to exhaust reality. Hegel's absolute knowing, Fichte's self-positing I, Schelling's absolute — each offers a totalising account where subject and world are fully reconciled. SPLectrum refuses this closure. The seed's P4 — languages have equal standing in potential — denies the privilege that any single system claims. And SPLectrum's anti-foundationalism (no final vocabulary, no view from nowhere) is precisely what the idealists' systematic ambition demands. What SPLectrum keeps is the process, the productivity of negation, the refusal of a gap between subject and world. What it drops is the system that claims to have closed the circle.
+The idealists overcame Kant's gap — but with systems that claim to exhaust reality. Hegel's absolute knowing, Fichte's self-positing I, Schelling's absolute: each offers a totalising account in which subject and world are fully reconciled. That closure is where the reaction began. Schelling's own late philosophy turned against Hegel's, insisting that reason cannot derive the fact *that* anything exists at all; [Kierkegaard](/positioning/persons/k/kierkegaard/) defended the existing individual against the system; Feuerbach and [Marx](/positioning/persons/m/marx/) turned the dialectic from spirit to the material and the social; and by mid-century the neo-Kantian call to go "back to Kant" had reinstated the limit the idealists dissolved. What the successors kept was the process — the productivity of negation, and the refusal of a gap between subject and world.
 
 ---
 
@@ -45,4 +45,4 @@ The idealists overcame Kant's gap — but replaced it with systems that claim to
 
 [Kant](/positioning/persons/k/kant/) (origin) · [Fichte](/positioning/persons/f/fichte/) · [Hegel](/positioning/persons/h/hegel/) · [Spinoza](/positioning/persons/s/spinoza/) (precursor)
 
-See also: [Phenomenology](/positioning/subjects/p/phenomenology/) · [Process Philosophy](/positioning/subjects/p/process-philosophy/) · [The seed and Philosophy](/seed/philosophical/) · [Being as Tension](/positioning/seed/being-as-tension/) · [The Turn in Western Philosophy](/positioning/seed/the-turn-in-western-philosophy/)
+See also: [Phenomenology](/positioning/subjects/p/phenomenology/) · [Process Philosophy](/positioning/subjects/p/process-philosophy/)

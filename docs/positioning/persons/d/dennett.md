@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-07-03
+lastmod: 2026-10-12
 title: "Daniel Dennett (1942–2024)"
 description: "American philosopher — the intentional stance, Darwin's Dangerous Idea, consciousness explained, universal Darwinism, memes, and the deflationary programme in philosophy of mind."
 ---
@@ -65,7 +65,7 @@ The extension to universal Darwinism was contested by critics from several direc
 
 ---
 
-## Where Dennett stops
+## Contested questions
 
 Dennett's programme is deflationary and mechanistic. It takes phenomena that seem to require special explanation — consciousness, meaning, purpose — and shows that patient decomposition into sub-personal, sub-intentional mechanisms dissolves the apparent mystery. The positive accounts that result — the multiple drafts model, the intentional stance, compatibilist free will — are themselves contested as to whether they constitute substantive theories or sophisticated deflations. Dennett's defenders (Hofstadter, among others) read the multiple drafts model as a genuine positive theory of consciousness; his critics read it as the Cartesian theatre inverted but not replaced — ground cleared without a building erected. Whether the programme's constructive work stands on its own or remains dependent on the negative work that motivates it is the open question the programme leaves behind.
 

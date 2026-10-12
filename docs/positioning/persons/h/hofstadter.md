@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-28
+lastmod: 2026-10-12
 title: "Richard Hofstadter (1916–1970)"
 description: "American historian — Social Darwinism in American Thought, the paranoid style, anti-intellectualism, the consensus school of American historiography."
 ---
@@ -17,7 +17,7 @@ Hofstadter gave "Social Darwinism" its modern currency. *Social Darwinism in Ame
 
 Born 6 August 1916 in Buffalo, New York. His father was a Jewish immigrant from Poland; his mother was German-American and Lutheran. Hofstadter identified as secular. Undergraduate at the University of Buffalo (BA, 1937). PhD in history at Columbia University (1942), where he spent the rest of his career — DeWitt Clinton Professor of American History (1959–70). The Columbia history department in Hofstadter's era was one of the strongest in the country, and Hofstadter was its most celebrated member.
 
-Briefly a member of the Communist Party in the late 1930s (he joined in 1938 and left within a year); the experience left him permanently wary of ideological commitment — a wariness that shaped his later historiography. His first wife Felice Swados died in 1945; he married Beatrice Kevitt in 1947. Pulitzer Prizes for *The Age of Reform* (1956) and *Anti-Intellectualism in American Life* (1964). Died 24 October 1970 in New York, of leukaemia, at fifty-four — at the height of his influence.
+Briefly a member of the Communist Party in the late 1930s (he joined in 1938 and left within a year); the experience left him permanently wary of ideological commitment — a wariness that shaped his later historiography. His first wife Felice Swados died in 1945; he married Beatrice Kevitt in 1947. Pulitzer Prizes for *The Age of Reform* (1955; prize 1956) and *Anti-Intellectualism in American Life* (1963; prize 1964). Died 24 October 1970 in New York, of leukaemia, at fifty-four — at the height of his influence.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-28
+lastmod: 2026-10-12
 title: "William Graham Sumner (1840–1910)"
 description: "American sociologist and political economist — Social Darwinism in its American form, laissez-faire, What Social Classes Owe to Each Other, Folkways."
 ---
@@ -43,7 +43,7 @@ The concept of ethnocentrism — the tendency of every group to regard its own c
 
 ---
 
-## Where Sumner stops
+## Contested receptions
 
 The laissez-faire argument rests on an analogy between economic competition and natural selection that does not hold under examination. Natural selection operates on heritable variation — traits that are transmitted genetically from parent to offspring. Economic success is not heritable in the same sense: it depends on inherited wealth, social connections, education, and institutional context as much as on individual ability. Sumner's framework conflates the heritability of traits (biological) with the heritability of social position (institutional), and the conflation undermines the evolutionary argument. The critique was made at the time by [Lester Ward](https://en.wikipedia.org/wiki/Lester_Frank_Ward) and others, and it remains the standard objection.
 

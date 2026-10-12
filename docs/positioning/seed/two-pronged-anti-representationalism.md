@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-19
+lastmod: 2026-10-12
 title: "Two-Pronged Anti-Representationalism"
 description: "Two language games reject representationalism, each in their own way — Whitehead from the side of being, Rorty from the side of language. From SPLectrum's vantage, the two are two halves of what P0 names."
 ---
@@ -15,7 +15,7 @@ Two language games reject representationalism — the view that there is a way t
 
 ## Whitehead: refusing the bifurcation of nature
 
-The diagnostic move is in *Science and the Modern World* (1925). The bifurcation of nature names the split, inherited from Galileo and [Descartes](/positioning/persons/d/descartes/), between the nature physics measures and the nature we experience. For modern thought the first is real; the second is derivative. Whitehead refuses the split.
+The diagnostic move is in *The Concept of Nature* (1920). The bifurcation of nature names the split, inherited from Galileo and [Descartes](/positioning/persons/d/descartes/), between the nature physics measures and the nature we experience. For modern thought the first is real; the second is derivative. Whitehead refuses the split.
 
 What he builds in its place is the [philosophy of organism](/positioning/subjects/p/philosophy-of-organism/) — a speculative metaphysics in which the split never opens because relations are constitutive of what anything is. The apparatus of *Process and Reality* (1929) — actual entities, prehension, concrescence — is built so that nothing stands outside its relations. There is no primary substrate of mind-independent qualities for science to mirror; there are only actual occasions, each one constituted by how it takes account of others.
 

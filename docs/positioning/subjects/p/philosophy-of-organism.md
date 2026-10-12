@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-28
+lastmod: 2026-10-12
 title: "Philosophy of organism"
 description: "Whitehead's speculative metaphysics — actual entities, prehension, creativity, God — built to heal the bifurcation of nature that modern science inherited from Galileo and Descartes."
 ---
@@ -9,7 +9,7 @@ description: "Whitehead's speculative metaphysics — actual entities, prehensio
 
 # Philosophy of organism
 
-The philosophy of organism is [Whitehead](/positioning/persons/w/whitehead/)'s specific metaphysical system, articulated principally in *Process and Reality* (1929, from the Gifford Lectures of 1927–28). The name signals what the system is adequate to — a universe of organisms, alive and interrelated, not a universe of inert material particles. Before the system there is a diagnosis. *Science and the Modern World* (1925) names the bifurcation of nature — the split, inherited from Galileo and [Descartes](/positioning/persons/d/descartes/), between the nature physics measures (extension, motion, mass) and the nature we experience (colour, sound, warmth). For modern thought the first is real; the second is derivative, "merely subjective." Together with the bifurcation Whitehead diagnoses the fallacy of misplaced concreteness — taking abstractions for concrete realities, treating the simplified objects of theory as if they were the things themselves.
+The philosophy of organism is [Whitehead](/positioning/persons/w/whitehead/)'s specific metaphysical system, articulated principally in *Process and Reality* (1929, from the Gifford Lectures of 1927–28). The name signals what the system is adequate to — a universe of organisms, alive and interrelated, not a universe of inert material particles. Before the system there is a diagnosis. *The Concept of Nature* (1920) names the bifurcation of nature — the split, inherited from Galileo and [Descartes](/positioning/persons/d/descartes/), between the nature physics measures (extension, motion, mass) and the nature we experience (colour, sound, warmth). For modern thought the first is real; the second is derivative, "merely subjective." In *Science and the Modern World* (1925) he adds the fallacy of misplaced concreteness — taking abstractions for concrete realities, treating the simplified objects of theory as if they were the things themselves.
 
 The philosophy of organism is the cure: a speculative metaphysics in which the split never opens. It is distinct from the broader [process philosophy](/positioning/subjects/p/process-philosophy/) tradition (which bundles [Hegel](/positioning/persons/h/hegel/), [Bergson](/positioning/persons/b/bergson/), and Whitehead at the level of process-as-primary-over-substance). The philosophy of organism is the Whiteheadian programme specifically — with its own categoreal apparatus, its own tradition, and its own contested reception.
 
@@ -77,7 +77,8 @@ Harman has argued that there is a substantive divide within the contemporary rev
 
 ## Key works
 
-- [*Science and the Modern World*](https://en.wikipedia.org/wiki/Science_and_the_Modern_World) (1925) — the diagnostic move: bifurcation, misplaced concreteness
+- [*The Concept of Nature*](https://en.wikipedia.org/wiki/The_Concept_of_Nature) (1920) — the diagnostic move: the bifurcation of nature
+- [*Science and the Modern World*](https://en.wikipedia.org/wiki/Science_and_the_Modern_World) (1925) — the fallacy of misplaced concreteness
 - [*Process and Reality*](https://en.wikipedia.org/wiki/Process_and_Reality) (1929; corrected edition, ed. Griffin and Sherburne, Free Press, 1978) — the full speculative system
 - [*Adventures of Ideas*](https://en.wikipedia.org/wiki/Adventures_of_Ideas) (1933) — the system applied to civilisation, history, and value
 - *Modes of Thought* (1938) — late synthesis, more accessible than *Process and Reality*

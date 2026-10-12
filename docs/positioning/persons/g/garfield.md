@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-10-12
 title: "Jay Garfield (1955–)"
 description: "American philosopher — Nāgārjuna translation and commentary, cross-cultural philosophy, Madhyamaka and Western philosophy, the philosophy of emptiness."
 ---
@@ -47,7 +47,7 @@ The claim is that Nāgārjuna is not confused or merely paradoxical but is opera
 
 ---
 
-## Where Garfield stops
+## Contested questions
 
 The cross-cultural reading of Nāgārjuna has been questioned on several grounds. First, the translation from Tibetan rather than Sanskrit means that Garfield's Nāgārjuna is filtered through the Tibetan commentarial tradition — particularly the Gelug-Prāsaṅgika reading that [Tsongkhapa](https://en.wikipedia.org/wiki/Tsongkhapa) established. This is a specific interpretive lineage, not a neutral rendering of the Indian text. Scholars working from the Sanskrit (Mark Siderits and Shōryū Katsura's 2013 translation, for example) have produced readings that differ from Garfield's on significant points — particularly on the question of whether Nāgārjuna's two truths are hierarchically ordered or co-equal.
 

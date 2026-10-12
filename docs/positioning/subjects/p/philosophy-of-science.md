@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-28
+lastmod: 2026-10-12
 title: "Philosophy of science"
 description: "The philosophical study of what science is and how it works — from logical positivism through falsification, paradigm shifts, and methodological pluralism."
 ---
@@ -39,4 +39,4 @@ From a single method to no fixed method. From verification to falsification to p
 
 [Popper](/positioning/persons/p/popper/) · [Kuhn](/positioning/persons/k/kuhn/) · [Feyerabend](/positioning/persons/f/feyerabend/)
 
-See also: [Pragmatism](/positioning/subjects/p/pragmatism/) · [The seed and Philosophy](/seed/philosophical/) · [The Turn in Science](/positioning/seed/the-turn-in-science/)
+See also: [Pragmatism](/positioning/subjects/p/pragmatism/)

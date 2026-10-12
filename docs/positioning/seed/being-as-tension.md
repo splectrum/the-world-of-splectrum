@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-03
+lastmod: 2026-10-12
 title: "Being as Tension"
 description: "Being and its complement held apart by a tension — nine independent traditions, from Heraclitus and Fichte onwards, arriving at creation as an act of differentiation."
 ---
@@ -9,7 +9,7 @@ description: "Being and its complement held apart by a tension — nine independ
 
 # Being as Tension
 
-P0 states: being implies language. The two come together through differentiation — there is no being without its complement, without non-being. The differentiation is a tension keeping both different. Over the centuries, creation has been formulated and reformulated as an act of differentiation. Nine independent traditions have arrived at the same structural observation.
+P0 states: being implies language. The two come together through differentiation — there is no being without its complement, the other. The differentiation is a tension keeping both different. Over the centuries, creation has been formulated and reformulated as an act of differentiation. Nine independent traditions have arrived at the same structural observation.
 
 ---
 

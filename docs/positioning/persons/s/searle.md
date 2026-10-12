@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-07-19
+lastmod: 2026-10-12
 title: "John Searle (1932–)"
 description: "Searle built speech act theory, argued the Chinese Room against strong AI, and gave an account of how social and institutional reality is constructed from collective intentionality."
 ---
@@ -27,7 +27,7 @@ Searle worked across four connected fronts in philosophy of language and mind: h
 
 ---
 
-## Where Searle stops
+## Contested questions
 
 Two of Searle's central arguments rest on appeals that his critics contend are not arguments but restatements of the intuition in dispute. The Chinese Room turns on the claim that the person-in-the-room "obviously" understands nothing; the systems reply answers that understanding is a property of the whole system, not the person shuffling symbols, and Searle's counter — imagine the person internalising the whole rulebook — is held by many to beg the question rather than settle it. Whether the thought experiment demonstrates a limit on computation or only dramatises a prior conviction about it is unresolved.
 

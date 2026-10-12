@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-07-03
+lastmod: 2026-10-12
 title: "David B. Wong (1949–)"
 description: "Wong's pluralistic relativism admits many valid moralities but bounds them by universal constraints — a relativism with a floor, not anything-goes."
 ---
@@ -29,7 +29,7 @@ The floor is meant to be *underdetermining*, and this is the crux of the design.
 
 ---
 
-## Where Wong stops
+## Contested questions
 
 The constraints carry the weight of the whole position, and the standing objection is that they are either too weak or too strong. If the constraints on human nature and the function of morality are demanding enough to rule out the moralities we want to condemn — the cruel, the caste-bound — critics argue they may narrow the admissible set so far that a substantive common morality re-emerges, and the view slides toward a constrained universalism wearing relativist dress. If instead the constraints stay thin enough to preserve real plurality, it is disputed whether they can do the excluding work Wong needs. The realist and universalist reception presses the first horn — that a floor robust enough to condemn cruelty is already doing the work of a common morality; [Bernard Williams](/positioning/persons/w/williams-b/)'s question, whether a relativism that keeps genuine critical purchase across frameworks has stayed a relativism at all, bears directly on it. Where exactly the floor sits, and whether it can hold both jobs at once, is the live question his reception presses.
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-10-12
 title: "F. H. Bradley (1846–1924)"
 description: "British philosopher — absolute idealism, Appearance and Reality, the critique of relations, the unreality of relational thought, British idealism's culmination."
 ---
@@ -45,7 +45,7 @@ Bradley's idealism was not an import but a transformation. [Hegel](/positioning/
 
 ---
 
-## Where Bradley stops
+## Contested receptions
 
 Russell's critique was devastating and shaped the subsequent history of philosophy. In *The Principles of Mathematics* (1903) and in "On Denoting" (1905), Russell argued that Bradley's regress arises only if one accepts that relations need a further entity to connect them to their terms — a premise Russell rejected. Relations can be taken as primitive: A stands in relation R to B is a brute relational fact, not a fact that requires a further relation to explain it. On Russell's account, Bradley's argument fails because it rests on a demand for explanation that has no end — the same demand could be made of any ultimate category, relational or not. The new realism (Russell and Moore) and analytic philosophy were built in explicit opposition to Bradley's idealism: they took relations as fundamental, logic as the tool of analysis, and Bradley's Absolute as the enemy.
 

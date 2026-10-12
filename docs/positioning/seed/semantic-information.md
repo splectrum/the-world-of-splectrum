@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-09-16
+lastmod: 2026-10-12
 title: "Semantic Information"
 description: "The attempt to define meaning physically — Kolchinsky and Wolpert's viability-based measure, the subject-slot the formalism turns out to require, and the relational reading of subject-relative quantities standing beside it in Rovelli's work."
 ---
@@ -9,7 +9,7 @@ description: "The attempt to define meaning physically — Kolchinsky and Wolper
 
 # Semantic Information
 
-In SPLectrum's philosophy, meaning is not a property a thing carries on its own. It is fixed relative to a subject — not to a knower with beliefs about the world, but to whatever is doing the engaging, for whom the difference makes a difference. A correlation means something *to* something; strip the relation and nothing is left to mean with. The derivation is on the [reality side](/reality/); this surface points outward from it.
+In SPLectrum's philosophy, meaning is not a property a thing carries on its own. It is fixed relative to a subject — not to a knower with beliefs about the world, but to whatever is doing the engaging, for whom the difference makes a difference. A correlation means something *to* something; strip the relation and nothing is left to mean with. The derivation is on the reality side; this surface points outward from it.
 
 The territory this reads across is the attempt, made from physics rather than philosophy, to define meaningful information in physical terms. It is a small literature and a young one, gathered mostly around the work of [Artemy Kolchinsky](/positioning/persons/k/kolchinsky/) and [David Wolpert](/positioning/persons/w/wolpert/). What follows walks it under one angle: where a subject-relative quantity appears in a formalism built from thermodynamics, and what happens at the point it appears.
 

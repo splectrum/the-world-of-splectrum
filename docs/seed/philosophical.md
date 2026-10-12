@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-08
+lastmod: 2026-10-12
 title: "The seed and Philosophy"
 description: "The SPLectrum seed and philosophy — how historical thinkers from Heidegger to Wittgenstein to Peirce map onto the six principles, one by one."
 ---
@@ -12,7 +12,7 @@ description: "The SPLectrum seed and philosophy — how historical thinkers from
 The seed's principles have independent precedent across Western philosophy — convergences, not borrowings. What follows maps these principle by principle. P0 is creational — the boundary expresses the differentiation; P1–P5 describe properties shared by all languages.
 
 **P0 — Being implies language.**<br>
-Being is always already disclosed in the world ([Heidegger](/positioning/persons/h/heidegger/)). Being comes into existence through the act of differentiation — there is no being without not-being ([Fichte](/positioning/persons/f/fichte/)). The act of differentiation works only with what is already there: separation requires the other to precede it. [Hegel](/positioning/persons/h/hegel/)'s dialectic makes this its engine: every new determination sublates prior ones. [Spinoza](/positioning/persons/s/spinoza/): *omnis determinatio est negatio* — every determination requires what it negates. [Whitehead](/positioning/persons/w/whitehead/)'s actual occasions concresce from prior ones. Where there is being there is a world, and the relational between them is language. See [Being as Tension](/positioning/seed/being-as-tension/) — nine formulations of differentiation across traditions.
+Being is always already disclosed in the world ([Heidegger](/positioning/persons/h/heidegger/)). Being comes into existence through the act of differentiation — there is no I without the not-I ([Fichte](/positioning/persons/f/fichte/)). The act of differentiation works only with what is already there: separation requires the other to precede it. [Hegel](/positioning/persons/h/hegel/)'s dialectic makes this its engine: every new determination sublates prior ones. [Spinoza](/positioning/persons/s/spinoza/): *omnis determinatio est negatio* — every determination requires what it negates. [Whitehead](/positioning/persons/w/whitehead/)'s actual occasions concresce from prior ones. Where there is being there is a world, and the relational between them is language. See [Being as Tension](/positioning/seed/being-as-tension/) — nine formulations of differentiation across traditions.
 
 **P1 — Language is relational.**<br>
 Language is not representation — it is relation. Meaning arises from use, not from definitions. This is what [Wittgenstein](/positioning/persons/w/wittgenstein/)'s language games and [Saussure](/positioning/persons/s/saussure/)'s differential signs articulate: the sign has no content in itself, only in relation to other signs in the system. [Brandom](/positioning/persons/b/brandom/)'s inferentialism makes the same move for concepts: meaning is position in a web of relations, not attachment to a referent.

@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-28
+lastmod: 2026-10-12
 title: "Structuralism"
 description: "Meaning as difference, systems of relations — the movement that analysed culture, language and thought as structures, not collections of independent elements."
 ---
@@ -47,4 +47,4 @@ Structuralism found the relational but held it still. The system it studies is g
 
 See also: [Semiotics](/positioning/subjects/s/semiotics/) · [Deconstruction](/positioning/subjects/d/deconstruction/) · [Phenomenology](/positioning/subjects/p/phenomenology/)
 
-SPLectrum: [The seed and Philosophy](/seed/philosophical/) · [Being as Tension](/positioning/seed/being-as-tension/)
+
