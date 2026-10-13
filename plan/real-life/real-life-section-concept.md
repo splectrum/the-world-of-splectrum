@@ -46,6 +46,7 @@
 - **Philosophy, science and belief** — commentary. Material: convergence as the view of the others; philosophy full of beliefs; more languages give more robust convergence, not knowledge.
 - **The start-here page** (`/start-here/`, "Reading Path") — the site's orientation for new readers; currently a top-level page linked from the home page.
 - **The 9-box homepage** — already in the section.
+- **Free will, the strings we don't see, and dealing with harm** (Jules, 2026-10-13 — very interested in writing it) — the discussion is captured in its own document in this folder.
 - **Why HAICC in daily life** (Jules, 2026-10-13) — a piece to create: why human-AI creative collaboration, as practised in the whole project.
 - **The 404 page** (`docs/404.html`) — a plain placeholder since the move to Cloudflare Pages; to become a page that helps a lost reader find their way into the site.
 

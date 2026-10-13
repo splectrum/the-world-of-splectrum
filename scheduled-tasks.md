@@ -30,7 +30,7 @@ Lives in `plan/`, one folder per topic; discussion captures not yet placed go to
 
 - [ ] **Belonging** — `plan/belonging/`: the doorway scope, the alliance-to-society facet, the decoherence programme, the many-worlds note. Parked 2026-09-13.
 
-- [ ] **Rovelli writings** — `plan/rovelli/`: reading list and open items (`rovelli-writings.md`), the *Equality of All Things* capture.
+- [ ] **Rovelli writings** — `plan/rovelli/`: reading list and open items (`rovelli-writings.md`), the *Equality of All Things* capture; future: a Rovelli page in Real Life.
 
 - [ ] **Time** — `plan/time/`: the time doorway and the reality-side time piece.
 

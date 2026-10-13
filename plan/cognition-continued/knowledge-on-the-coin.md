@@ -121,6 +121,7 @@
 - **[C]** What a subject takes from the community without its own experience needs no word of the position's own; where a name is needed, the field's word serves.
 - **[A]** The knowledge/belief question is in the same class of headache as consciousness or free will.
 - **[C]** The shared shape: a word treated as naming a thing that must have necessary and sufficient conditions; posed head-on from outside, the discourse not counting itself a participant; resting on the privileged individual; and mixing degree with kind (the pleonastic question — when does belief become knowledge, information consciousness, causation choice?). The method that worked here carries over: start from what the position holds — cognition, experience, the medium, the community — and see where the word falls into place, or whether it is needed at all.
+- **[A, 2026-10-13]** Free will, worked through the same way: it is often the belief one has taken a decision without strings attached, and less that there are no strings. **[C]** A decision experienced from inside comes without the context of its causes — the opposite of knowledge, which comes with the context of its recognition; the sense of freedom is a feature of the seat, neither an illusion to debunk nor a power to defend.
 
 ## 4. Knowledge on the coin
 
