@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-12
+lastmod: 2026-10-13
 title: "The Seed, Pluralism and the Coin"
 description: "The seed as a metalanguage of common principles: one approach on the how, equal standing on the what — two faces of one coin — and the perimeter as the place this can be said from without a view from above."
 ---
@@ -21,7 +21,7 @@ The coin is SPLectrum's own shape — one coin, two faces, and the faces cannot 
 
 **The content side — the own voice.** The equal standing approach on the what. Metaphysics, cognition, values, coexistence: a content language in its own right, developed out of the same principles but SPLectrum-specific in what it says — entering the envelope as one voice among the many, equal standing claimed, and no more. Coming from the same source as the metalanguage buys it nothing on content; on the what it argues its corner like every other voice.
 
-In practice the split is made explicit by vocabulary: each face has its own core terms, both compliant with the principles. The seed side speaks in the principles' own vocabulary — being, language, subject, reality, sharing. The content side has re-expressed the essentials of the principles in a core vocabulary of its own: the three [core values](/reality/core-values/) of belonging, privacy and creativity — the same essence, carried into a voice that takes positions. A reader can tell which face is speaking by the words it uses. And the vocabularies expose a core difference in where each face stands: the common is about the language *medium* — what carries every voice; SPLectrum's own voice has the *subject* central — the one who belongs, keeps a private reality, creates. Medium-centred on one face, subject-centred on the other: the same principles, pivoted around a different centre.
+In practice the split is made explicit by vocabulary: each face has its own core terms, both compliant with the principles. The seed side speaks in the principles' own vocabulary — being, language, subject, reality, sharing. The content side has re-expressed the essentials of the principles in a core vocabulary of its own: the three core values of belonging, privacy and creativity — the same essence, carried into a voice that takes positions. A reader can tell which face is speaking by the words it uses. And the vocabularies expose a core difference in where each face stands: the common is about the language *medium* — what carries every voice; SPLectrum's own voice has the *subject* central — the one who belongs, keeps a private reality, creates. Medium-centred on one face, subject-centred on the other: the same principles, pivoted around a different centre.
 
 The two faces are one coin because they have one source: the same principles, worked in two directions — toward what holds for all, and toward what one voice makes of them. And neither face exists alone: the own voice speaks in the very medium the seed side describes, and the seed side is spoken by a subject that has a voice. A structure can hold the door and walk through it, because holding and walking happen on different faces. What it cannot do, on its own terms, is walk through the door and then claim to own the room.
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-07-19
+lastmod: 2026-10-13
 title: "Sharing Knowledge"
 description: "P3 — language is where subjects share knowledge about reality. Pages on the mechanisms of sharing, read across the fields that study them."
 ---
@@ -13,7 +13,3 @@ description: "P3 — language is where subjects share knowledge about reality. P
 
 - [Human ways of sharing](/positioning/seed/sharing-knowledge/human-ways-of-sharing/) — developmental psychology and language acquisition on convergence, divergence, and coupling
 - [Tools shared, use private](/positioning/seed/sharing-knowledge/tools-shared-use-private/) — convergence and divergence as two directions of one fact, read across Kelly, Vygotsky, Tomasello, Piaget and Di Paolo, meeting in the coupling of minds
-
----
-
-See also: [The seed and Language](/seed/language/) · [The seed and Interrelational Pluralism](/seed/interrelational-pluralism/)

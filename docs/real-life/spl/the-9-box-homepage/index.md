@@ -1,34 +1,42 @@
 ---
 layout: default
-lastmod: 2026-06-25
+lastmod: 2026-10-13
 title: "The 9-Box Homepage"
-description: "The SPLectrum homepage as a structural artifact — a 3×3 grid whose rows, columns, and centre reveal a coherence that fits the project's own commitments."
+description: "The SPLectrum homepage grid explained: the Seed at the centre, three rows with their own disciplines, and the order in which the grid fills."
 ---
 
 [Home](/) > [Real Life](/real-life/) > [About the Project](/real-life/spl/) > The 9-Box Homepage
 
 # The 9-Box Homepage
 
-The SPLectrum homepage presents a 3×3 grid of nine boxes on a sufficiently large screen. This layout reflects the structural setup of the site. Furthermore, each row has a distinct colour, to underline the distinct characteristics of each row. On a small screen it is shown as a linear list with the row colours still in place.
-
-## The grid
+The homepage shows the site as a grid of nine boxes, one for each section. The grid is a map of how the project is built. On a small screen it becomes a list, with the row colours kept.
 
 {% include area-grid.html %}
 
-## Reading the rows
+The [Seed](/seed/) sits in the middle, and the eight other sections circle around it. Everything on the site grows from it, in one way or another.
 
-The site sections are set up with distinct concerns in mind, but more importantly laid out in three bands: foundational, structural and applied.
+## The middle row: the foundation
 
-Let's start with the **middle row**: *foundational* — you could say the heavy stuff. In the center is the [Seed](/seed/), our axiomatic base. To the left [Positioning](/positioning/) which deals with all the knowledge outside SPLectrum that is of importance. On the right there is [Reality](/reality/) where SPLectrum builds its philosophical framework of interrelational pluralism starting from the seed.
+The middle row holds the outside voices in Positioning and the two SPLectrum sides in Seed and Reality, the two faces of the coin. These sections adhere to a strict discipline:
 
-The **bottom row** is about *structure* — what are the static and dynamic structural components that interrelational pluralism is expressed in. The [Language](/language/) section deals with the dynamic side, the relational medium. The [Vocabulary](/vocabulary/) section contains the static side, the sets of concepts. In the [Tools](/tools/) section there is the additional machinery needed to work with both language and vocabulary.
+- The **Seed** contains pages about the principles, each page wears a different set of spectacles. It only deals with what is common to all voices.
+- [Reality](/reality/) is SPLectrum's own voice built from the Seed principles. It builds SPLectrum's metaphysics.
+- [Positioning](/positioning/) holds the neutral ground, the other voices. Outside voices are organised under persons and subjects but it also contains SPLectrum resonance rings. These rings collect information with high affinity to SPLectrum. There are three rings: seed, close affinity and wider landscape. Still neutral, but of special interest to SPLectrum.
 
-Finally the **top row** deals with the *applied* — where interrelational pluralism is lived. The blog section [In Wonder](/blog/) is about the conversational, anything deemed worth having a chat about. [Real Life](/real-life/) is about the practice, in everyday life, the institutional, engineering, nature around us. The [Engineering](/engineering/) section deals with technological application, software engineering, AI integration, etc.
+Within this row, links only run from right to left — from SPLectrum's own voice towards the common and the neutral, never back — so the voices don't mix. A neutral page is only ever linked into, so it stays neutral; the common never leans on what is built from it. And every page in these sections is a standalone unit on a single topic — categorised, not sequenced, so there is no set order to read them in.
 
-Because of this single-concern setup the same topic will live in several sections and interlink. For instance Domain-Specific Languages (DSL) is a subject in positioning, with DSLs being created and described in engineering and the topic also being part of the Language and Vocabulary sections. The design decision was that for reasons of clarity it is important to keep facets of the same topic apart.
+## The bottom row: the technical sections
 
-## A reflexive observation
+Below sit three technical sections. [Language](/language/) deals with the dynamic side: languages as relational media, of every kind — natural, formal, software. [Vocabulary](/vocabulary/) deals with the static side: concepts and the sets they form. [Tools](/tools/) holds the machinery for working with both.
 
-The homepage is itself a Real Life artifact — a structural application of the SPLectrum worldview to the question of how the project presents itself in public. The grid is not a neutral layout; it is a substantive structural choice. And its validity will become clear by its use as SPLectrum goes through its organic growth cycles.
+## The top row: applied, and free
 
-It is a being as any other with its own experience and shared reality, subjected to the same principles as everything else. 
+The top row sits on top of the other two and is free to reference them in any order. [In Wonder](/blog/) is the conversation, in short pieces of around 600 words. [Real Life](/real-life/) works in larger units. [Engineering](/engineering/) is the philosophy applied in technology.
+
+## How the grid fills
+
+The boxes don't fill at the same pace. The blog, Positioning and the Seed grow together from the start: the conversation, the learning from other voices, the distilling of what they hold in common. Reality can begin once there is enough foundation, and Real Life once that foundation includes Reality. The bottom row needs a mature project. Engineering is an important sideline, outside the main flow.
+
+## A reflexive note
+
+The homepage is itself a piece of Real Life: SPLectrum applied to how the project presents itself. The grid is a choice, not a neutral layout — and like everything else here, it will show its worth as the project grows.

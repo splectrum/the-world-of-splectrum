@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-08-13
+lastmod: 2026-10-13
 title: "Cognition and Core Philosophy"
 description: "The SPLectrum seed holds cognition as the process that generates a subject's experiencing of reality, within the medium of language. Core philosophy has been arriving at the same closeness for two centuries; this piece reads the resonance points."
 ---
@@ -9,7 +9,7 @@ description: "The SPLectrum seed holds cognition as the process that generates a
 
 # Cognition and Core Philosophy
 
-In the SPLectrum seed, P2 holds that language is the medium through which a subject experiences reality — and cognition is the process that generates that experiencing. The process runs within the medium, working with meaning and generating meaning, and above all disclosing reality to the subject. That reality is always subjective: it is shaped by the specific implementation of the cognition process, and by the cognitive capabilities that come with it. The position is stated in full at [the seed and Cognition](/seed/cognition/); the field it resonates with — the approaches in core philosophy that hold cognising as running within experience — is mapped at [cognition in core philosophy](/positioning/subjects/c/cognition/philosophy/core/). This piece reads the resonance points.
+In the SPLectrum seed, P2 holds that language is the medium through which a subject experiences reality — and cognition is the process that generates that experiencing. The process runs within the medium, working with meaning and generating meaning, and above all disclosing reality to the subject. That reality is always subjective: it is shaped by the specific implementation of the cognition process, and by the cognitive capabilities that come with it. The position is stated in full in the Seed section, at the seed and Cognition; the field it resonates with — the approaches in core philosophy that hold cognising as running within experience — is mapped at [cognition in core philosophy](/positioning/subjects/c/cognition/philosophy/core/). This piece reads the resonance points.
 
 ## No second process
 

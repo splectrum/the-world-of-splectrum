@@ -7,7 +7,7 @@ description: "Where we communicate without strict constraints, but with the bene
 
 [Home](/) > Real Life
 
-# Real Life — In Practice
+# Real Life — The Practice
 
 Real Life is where we communicate without strict constraints, but with the benefit of our research and of SPLectrum's philosophy. Like stepping out of a house and away from confined rooms into open nature. Or like being in the agora amongst peers, where everything is talked about.
 

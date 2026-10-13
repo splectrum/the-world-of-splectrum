@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-12
+lastmod: 2026-10-13
 title: "Pluralism"
 description: "The pluralism family engaged from the interrelational position — the count set in motion, the two borders held in the position's own terms, and the family's disputes answered from inside, with the position in the same chair."
 ---
@@ -9,7 +9,7 @@ description: "The pluralism family engaged from the interrelational position —
 
 # Pluralism
 
-Pluralism — the family of positions holding that the many are real and none is privileged — is the field SPLectrum stands closest to, and the one place where its own metaphysics belongs to the family it reads. The family on its own terms — its dimensions, its thinkers, its disputes — is mapped in the [pluralism subject](/positioning/subjects/p/pluralism/); this page holds the engagement from SPLectrum's side, as a member of the family. Interrelational pluralism is that member: the many are real; none is privileged; and the many are not merely many — realities meet, and through their meeting new reality arises. Two claims distinguish it within the family. It is subject-general: realities are held by any subject primed by the common tools of its kind, not by humans alone. And it goes past tolerance: what another reality expresses is there to be read on its own merit and, where it holds, taken in — any form of expression of meaning, in principle. The position is stated in full at [interrelational pluralism](/seed/interrelational-pluralism/), and its structural side is traced separately in [the seed ring](/positioning/seed/interrelational-pluralism/). Here the question is taken up the way the position itself asks for: not as an argument to win, but as a landscape to read.
+Pluralism — the family of positions holding that the many are real and none is privileged — is the field SPLectrum stands closest to, and the one place where its own metaphysics belongs to the family it reads. The family on its own terms — its dimensions, its thinkers, its disputes — is mapped in the [pluralism subject](/positioning/subjects/p/pluralism/); this page holds the engagement from SPLectrum's side, as a member of the family. Interrelational pluralism is that member: the many are real; none is privileged; and the many are not merely many — realities meet, and through their meeting new reality arises. Two claims distinguish it within the family. It is subject-general: realities are held by any subject primed by the common tools of its kind, not by humans alone. And it goes past tolerance: what another reality expresses is there to be read on its own merit and, where it holds, taken in — any form of expression of meaning, in principle. The position is stated in full in the Seed section, and its structural side is traced separately in [the seed ring](/positioning/seed/interrelational-pluralism/). Here the question is taken up the way the position itself asks for: not as an argument to win, but as a landscape to read.
 
 ## Where the position enters
 
@@ -39,4 +39,4 @@ The reading the position brings to the family applies to itself. Alongside what 
 
 ---
 
-See also: [Pluralism (subject)](/positioning/subjects/p/pluralism/) — the family on its own terms · [The dimensions](/positioning/subjects/p/pluralism/the-dimensions/) · [The disputes](/positioning/subjects/p/pluralism/the-disputes/) · [Interrelational pluralism](/seed/interrelational-pluralism/)
+See also: [Pluralism (subject)](/positioning/subjects/p/pluralism/) — the family on its own terms · [The dimensions](/positioning/subjects/p/pluralism/the-dimensions/) · [The disputes](/positioning/subjects/p/pluralism/the-disputes/)

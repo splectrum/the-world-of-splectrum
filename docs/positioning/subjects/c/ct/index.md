@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-28
+lastmod: 2026-10-13
 title: "Category Theory"
 description: "The branch of mathematics that studies structure through relationships rather than through internal composition — objects known entirely by their arrows."
 ---
@@ -44,9 +44,3 @@ In theoretical physics, monoidal and higher categories appear in topological qua
 In linguistics, [Joachim Lambek](https://en.wikipedia.org/wiki/Joachim_Lambek)'s categorial grammar and the [DisCoCat](https://en.wikipedia.org/wiki/DisCoCat) programme apply categorical methods to syntax and meaning.
 
 In philosophy, debates around category theory continue — particularly the question of whether categorical foundations replace, complement, or merely re-express set-theoretic ones, and what to make of structuralism in the light of categorical practice.
-
----
-
-## Elsewhere on the site
-
-For SPLectrum's working use of category theory, see [Category theory](/tools/a-z/c/category-theory/) in the Tools section. For the affinity between category theory and the seed, see [When category theory and the seed meet](/seed/category-theory/).
