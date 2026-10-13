@@ -14,7 +14,7 @@ Lives in `plan/`, one folder per topic; discussion captures not yet placed go to
 
 **Order of work (state 2026-10-12):** 1. Real Life (active) · 2. Life · 3. AI · 4. Language · 5. Cognition continued.
 
-- [ ] **Real Life** — `plan/real-life/`: the section concept (accessible, longer pages that talk about the strict sections), SPLectrum 101 and its discussion, the foundations draft, the start-here page, the 404 page. Active — where we are: the concept document is written; agreeing it comes first.
+- [ ] **Real Life** — `plan/real-life/`: the section concept (accessible, longer pages that talk about the strict sections), SPLectrum 101 and its discussion, the foundations draft, the start-here page, the 404 page, the placeholder sections, the top-navigation pages. Active — where we are: Start Here rewritten (2026-10-12); the 404 page follows from it, then the section concept.
 
 - [ ] **Life** — `plan/life/`: the life doorway (`life-meta-subject.md`), the aliveness sketch, origin of life with two post candidates.
 

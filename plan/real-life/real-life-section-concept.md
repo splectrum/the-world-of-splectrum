@@ -36,6 +36,11 @@
 - **The 9-box homepage** — already in the section.
 - **The 404 page** (`docs/404.html`) — a plain placeholder since the move to Cloudflare Pages; to become a page that helps a lost reader find their way into the site.
 
+## 3a. Further Real Life work noted (Jules, 2026-10-13)
+
+- **[A]** Check the "placeholder sections" to see whether they need more information for a reader. The bottom three boxes — Language, Vocabulary, Tools — haven't been started, and Engineering has stalled (not for a bad reason).
+- **[A]** Review the top-navigation pages (About, HAICC, P2P) and think about the way HAICC and P2P are currently framed.
+
 ## 4. Open questions
 
 1. Does the structural-scale applied analysis of domains (science funding, education, governance) — the section's current description — survive as a second strand, or merge into "talking about the strict sections"?
