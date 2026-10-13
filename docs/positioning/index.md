@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-29
+lastmod: 2026-10-13
 title: "Positioning"
 description: "Reference catalogue of persons and subjects across all disciplines, at equal standing — compiled by SPLectrum via resonance rings and an engineering angle."
 ---
@@ -15,7 +15,7 @@ Positioning contains reference material on people and subjects across all discip
 
 Persons and subjects are held on their own terms — entities at equal standing, independent of any angle taken on them. This catalogue is then compiled from more than one angle, each drawing on the same A–Z.
 
-**The resonance rings.** Three rings group the material by proximity to the SPLectrum seed, plus the fence where dissonance is engaged. They compile every angle except engineering.
+**The resonance rings.** Three rings group the material by proximity to the SPLectrum seed. They compile every angle except engineering.
 
 **[Seed](/positioning/seed/)**<br>
 Pieces tracing the thinkers and subjects in closest affinity with the SPLectrum seed principles. Innermost resonance ring.
@@ -25,8 +25,5 @@ Pieces at one remove from the seed — close, but not directly tracing the princ
 
 **[Wider landscape](/positioning/wider-landscape/)**<br>
 Pieces at greater distance from the centre, still on the side of compatibility.
-
-**[On the fence](/positioning/on-the-fence/)**<br>
-The only surface where dissonance is engaged — resonance and dissonance both worked through.
 
 **The engineering angle.** The [engineering](/engineering/) section compiles from the same catalogue into its substrate and infrastructure sections.

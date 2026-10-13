@@ -32,8 +32,6 @@ Lives in `plan/`, one folder per topic; discussion captures not yet placed go to
 
 - [ ] **Rovelli writings** — `plan/rovelli/`: reading list and open items (`rovelli-writings.md`), the *Equality of All Things* capture; future: a Rovelli page in Real Life.
 
-- [ ] **On the fence** — remove the section from Positioning.
-
 - [ ] **Time** — `plan/time/`: the time doorway and the reality-side time piece.
 
 - [ ] **Evolution follow-on** — `plan/evolution-follow-on/`: the core formulation, the Being and becoming doorway, the wider-landscape piece, the agency/telescopic thread, emergence against a background of knowns.

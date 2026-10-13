@@ -22,7 +22,7 @@ My actual position, if it needs a name, is a balanced one. Provide basic legal p
 
 The underlying principle is individual liberty balanced with mutual respect. That allows for a great diversity of ways of organising social life while protecting the fundamental dignities that shouldn't be up for negotiation. Libertarian? Close enough, if you squint. But the question mark in the title is the important part — it is the posture I actually hold.
 
-<small>This post is from an earlier moment in the walk (09/12/2024). For where the decentralisation thread went, see <a href="/positioning/on-the-fence/mutualism/">mutualism</a> in the positioning area.</small>
+<small>This post is from an earlier moment in the walk (09/12/2024). For where the decentralisation thread went, see <a href="/positioning/subjects/m/mutualism/">mutualism</a> in the positioning area.</small>
 
 <small>This post is part of the [preamble](/blog/label/preamble/), about happening before SPLectrum saw the light of day.</small>
 

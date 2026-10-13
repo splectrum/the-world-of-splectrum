@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-12
+lastmod: 2026-10-13
 title: "SPL Positioning"
 description: "Vocabulary for engaging external thought languages without imposing on them."
 ---
@@ -12,8 +12,6 @@ description: "Vocabulary for engaging external thought languages without imposin
 Terms for engaging external thought languages without imposing on them.
 
 <span id="close-affinity">**Close affinity**</span> — [Positioning pieces](#positioning-piece) with close affinity and high influence.
-
-<span id="on-the-fence">**On the fence**</span> — [Positioning pieces](#positioning-piece) with a mixture of [resonance and dissonance](#resonance-and-dissonance), of interest because of that mixture.
 
 <span id="outside-voice">**Outside voice**</span> — The voice of the [positioning](#positioning) area. SPLectrum stays at a distance, letting external material speak on its own terms. Contrast: the narrator's inside voice in the core areas.
 

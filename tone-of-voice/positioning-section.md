@@ -26,12 +26,9 @@ Positioning has these surfaces, each doing different work:
 *Coloured*
 - **Wider landscape:** SPLectrum-coloured reports on subject matter — most probably on meta subjects. Where the meta subject reports the field neutrally, the wider-landscape piece is how SPLectrum interprets that same material, in SPLectrum's voice. See *Wider landscape* below.
 
-*To be reviewed*
-- **On the fence:** the surface where dissonance is engaged — resonance and dissonance both worked through. Likely to be deprecated in time (2026-10-07); no new fence pages until that is decided.
+Seed and close affinity are two concentric rings of resonance. They sit on the side of compatibility: pieces show where the seed assembles what these thinkers reach, with limits noted as additive rather than adversarial. The structural test is that the languages can sit side by side.
 
-Seed and close affinity are two concentric rings of resonance. They sit on the side of compatibility: pieces show where the seed assembles what these thinkers reach, with limits noted as additive rather than adversarial. The structural test is that the languages can sit side by side. On the fence is the surface where this test fails — where vocabularies are in conflict and the conflict has to be worked through.
-
-The discipline is that each surface does one job. SPLectrum-side reading of a thinker lives in seed, close affinity, wider landscape, on the fence, or in a blog post — never inside the person's own page. This isn't a stylistic preference; it's what lets the architecture do its work. A reader who wants the outside-context account knows where it lives. A reader who wants SPLectrum's engagement knows where that lives. Mixing them collapses both.
+The discipline is that each surface does one job. SPLectrum-side reading of a thinker lives in seed, close affinity, wider landscape, or in a blog post — never inside the person's own page. This isn't a stylistic preference; it's what lets the architecture do its work. A reader who wants the outside-context account knows where it lives. A reader who wants SPLectrum's engagement knows where that lives. Mixing them collapses both.
 
 ## Persons and Subjects (A–Z)
 
@@ -75,7 +72,7 @@ Within that mode, a thinker's rhyme with a specific seed principle can be named 
 
 Both rings sit on the side of compatibility — the test being that the thinker's language and SPLectrum's can sit side by side. **Drop the "where it stops" grading.** A tradition's own boundaries belong on its person/subject page; pulled into a resonance walk they read as deficiency-scoring and tip the piece into verdict. No "closest," "near-miss," "still only," no scoring of how close a tradition got. Where a tradition's framing differs from the seed's, voice it as observation — a difference in reading, not a fault to fix.
 
-**Close affinity is close affinity, not close anti-affinity.** A resonance walk shows where the dynamic *surfaces*. Where it does not surface is not this page's business — a line whose vocabulary does not sit side by side with the seed's is not a foil to hold up here, not even as a one-line contrast to throw the position's own seat into relief. That move reads two ways, both of them off: it walks a non-resonant line on a compatibility page, and it stages a "which seat" comparison. SPLectrum does not stage which-seat-wins; there is nothing to win. The un-resonant line's own account belongs on its subject page, where every camp stands equally. Where the vocabularies are genuinely in conflict and the conflict has to be worked through, that is the fence — not here.
+**Close affinity is close affinity, not close anti-affinity.** A resonance walk shows where the dynamic *surfaces*. Where it does not surface is not this page's business — a line whose vocabulary does not sit side by side with the seed's is not a foil to hold up here, not even as a one-line contrast to throw the position's own seat into relief. That move reads two ways, both of them off: it walks a non-resonant line on a compatibility page, and it stages a "which seat" comparison. SPLectrum does not stage which-seat-wins; there is nothing to win. The un-resonant line's own account belongs on its subject page, where every camp stands equally.
 
 ### Register
 
@@ -123,35 +120,17 @@ Facet entries say what each facet *brings to the keyword*, not what the target p
 
 The strategy, the rules and the keyword inventory are in `process/keyword-doorways.md`.
 
-## On the fence
-
-*Likely to be deprecated in time (2026-10-07); the discipline below stands for the existing pages until that is decided.*
-
-The only positioning surface where dissonance is engaged. Fence pages are particular and not easy — the discipline is precise and the failure modes are predictable.
-
-**Layered framing.** Below any specific language game sits a common dynamic at the relational layer. SPLectrum's principles articulate features of that common dynamic. A framework's vocabulary often carries a colouring — a narrative of the pathway by which observations come about — that locates the pathway at a different layer from where it actually operates. The fence is where this mismatch is named. It is not where two competing vocabularies meet on the same plane.
-
-**Equal standing.** The framework's colouring is internally coherent within the frame that supports it. The fence does not declare the framework wrong; it describes how the colouring narrates the pathway differently from what is observable at the relational layer. Persons working within a tradition are honoured in their own terms — the fence is with what travels forward in the vocabulary, not with the thinkers.
-
-**Reasoning discipline.** Don't conflate the observation with the narrative of its pathway. The observations a framework makes can be real and shared empirical ground; the narrative of how those observations come about is a separate matter. Where that narrative is misapplied — for example, agent-level intent invoked to explain system-level emergent patterns — the colouring is wrong, not optional. Avoid framings like *"the dynamic doesn't need the colouring to do so"* — that treats the colouring as an optional ingredient. The colouring is a (wrong) narrative of the pathway; describe it as such.
-
-**Reference, don't re-walk.** Fence pages assume the subject is known. Refer to the subject pages where the tradition lives in full; bring forward only the material load-bearing to the diagnosis. Touchstone over comprehensive applies more strictly than on a ref lib page, because the subject is already covered. Long walks through thinkers and movements belong in the subject pages — not the fence.
-
-**Show, don't tell.** Fence work feels exposed and pulls toward self-justification. Resist. Do the diagnosis; don't narrate the doing. Avoid sentences that explain what the page is doing or justify its discipline (*"the fence is with what travels forward, not with the persons,"* *"the page exposes X, not Y,"* *"what creates friction is what carries them"*). Embody the framing; do not state it. See `tone-of-voice.md` § Craft habits for the broader principle.
-
-**Place grammar.** Actor grammar and container/system grammar are both easy to slip into on fence work; the container trap is especially common because the writing engages with another framework. See `tone-of-voice.md` for the full discipline.
-
 ## See also on person/subject pages
 
 Primarily within-positioning interlinking — other persons in the same intellectual neighbourhood, the subject pages that touch this person's territory. These are the natural neighbours when the page is held as outside context.
 
-Links flow one way only: reality → affinity rings → subjects → persons, never up. A person or subject page links **only** to other persons, subjects, or external references — never to the seed, the close-affinity or wider-landscape rings, a fence page, or any other SPLectrum-side surface. Not woven into the See also, not as a separate sub-block, not as a quiet pointer. An upward link is a link-direction breach, not a formatting question — the same intrusion as SPLectrum vocabulary in the body, just wearing a hyperlink. The resonance rings link *down* to the person; the person does not link back up. Readers reach the SPLectrum-side reading from those rings, not from here.
+Links flow one way only: reality → affinity rings → subjects → persons, never up. A person or subject page links **only** to other persons, subjects, or external references — never to the seed, the close-affinity or wider-landscape rings, or any other SPLectrum-side surface. Not woven into the See also, not as a separate sub-block, not as a quiet pointer. An upward link is a link-direction breach, not a formatting question — the same intrusion as SPLectrum vocabulary in the body, just wearing a hyperlink. The resonance rings link *down* to the person; the person does not link back up. Readers reach the SPLectrum-side reading from those rings, not from here.
 
 Empty See also is acceptable when neighbour pages or subject pages don't yet exist. Honest beats filler.
 
 ## Naming
 
-Use "SPLectrum" when the project is the actor. Use "SPLectrum seed" or "the SPLectrum seed" when referring specifically to the six principles or their conditions. Do not use bare "the seed" — it needs the SPLectrum qualifier to be clear to outside readers. This naming applies wherever SPLectrum legitimately appears in the section (resonance pieces, fence pages). It does not apply on person/subject pages at all — SPLectrum doesn't appear there, in the body or the links.
+Use "SPLectrum" when the project is the actor. Use "SPLectrum seed" or "the SPLectrum seed" when referring specifically to the six principles or their conditions. Do not use bare "the seed" — it needs the SPLectrum qualifier to be clear to outside readers. This naming applies wherever SPLectrum legitimately appears in the section (the resonance pieces). It does not apply on person/subject pages at all — SPLectrum doesn't appear there, in the body or the links.
 
 ## Why
 
@@ -166,9 +145,8 @@ The reference function rests on the same discipline. A site whose person pages a
 - Person pages stay bounded to the person and their work. Where a thinker's work has given rise to a tradition under their name, the tradition's afterlife — schools, contested theory-receptions, appropriations, mutations — belongs on the subject page, not the person page.
 - Meta subjects: neutral report, field's voice, SPLectrum-inspired categorisation. The arrangement carries the approach; no SPLectrum vocabulary, no upward links.
 - Wider landscape: a SPLectrum-coloured report on subject matter, most probably a meta subject — SPLectrum's interpretation of the neutral material, position stated once in the opening, no scoring, backed by the neutral layer. Theory building belongs to reality, not here.
-- Seed / close affinity: topic-driven pieces that state the SPLectrum position once in the opening, then show its dynamic surfacing across the field. Resonance only, shown not spoken — the field is the grammatical subject of each section, not SPLectrum running a comparison. Drop "where it stops" grading. Close affinity is not close anti-affinity: a line where the dynamic does not surface is not a foil to hold up here, not even as a one-line contrast — its own account goes on its subject page, genuine conflict goes on the fence. Check the mode at the section-shape level (a section titled as a verdict, or one built on a non-resonant line under a phenomenon title, is the tell), not only sentence by sentence. Landing pages frame the ring briefly and index the pieces.
-- Fence (likely to be deprecated in time; no new pages for now): the only surface where dissonance is engaged. Layered framing, equal standing, reasoning discipline, reference-not-re-walk, show-don't-tell, place grammar — see the On the fence subsection above for the full discipline.
-- See also on person/subject pages: within-positioning interlinking only — other persons, subjects, or external. No upward links to the seed / affinity rings / fence / any SPLectrum-side surface, not even in a separate block (link direction flows down only, never up). Empty is honest.
+- Seed / close affinity: topic-driven pieces that state the SPLectrum position once in the opening, then show its dynamic surfacing across the field. Resonance only, shown not spoken — the field is the grammatical subject of each section, not SPLectrum running a comparison. Drop "where it stops" grading. Close affinity is not close anti-affinity: a line where the dynamic does not surface is not a foil to hold up here, not even as a one-line contrast — its own account goes on its subject page. Check the mode at the section-shape level (a section titled as a verdict, or one built on a non-resonant line under a phenomenon title, is the tell), not only sentence by sentence. Landing pages frame the ring briefly and index the pieces.
+- See also on person/subject pages: within-positioning interlinking only — other persons, subjects, or external. No upward links to the seed / affinity rings / any SPLectrum-side surface, not even in a separate block (link direction flows down only, never up). Empty is honest.
 - Affinity rings are the seam: they link *down* to persons/subjects and *up* to SPLectrum. A pure SPLectrum page reaches into positioning **only via a ring**, never straight to a subject/person page — the ring then fans out into the field. Name a thinker in prose if needed, but link to the ring, not the person/subject page.
 - When creating a new person or subject page, add it to the landing page index (`/positioning/persons/` or `/positioning/subjects/`). The page does not exist for readers until it is linked from the index.
 - Who earns a person page — **this is a collaborative decision, and the default is to discuss it.** A person earns a page on **importance**: their own standing, or their standing as a principal of a subject that is itself important. But how much weight a given figure or subject carries *within SPLectrum* is often not readable off the field — a figure central to their discipline may be peripheral to the seed, and one the field treats as minor may sit on something the seed leans on hard. So the weight is a judgement made together, not a category applied. Raise it; don't decide it silently. There is **no mechanical trigger** — in particular, do not gate person pages on "a close-affinity ring references them" (the affinity ring is where a person page is *linked from*, per the link-direction rule; it is not what earns the page).
