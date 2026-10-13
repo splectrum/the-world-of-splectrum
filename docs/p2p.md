@@ -1,24 +1,24 @@
 ---
 layout: default
-lastmod: 2026-05-05
+lastmod: 2026-10-13
 title: "P2P and Decentralisation"
-description: "Decentralisation and peer-to-peer — interrelational pluralism requires privacy and local practice, and SPLectrum engineering builds for it."
+description: "Peer-to-peer as interrelational pluralism in engineering — communities without a central command, and the decentralised technology I'd like to build on."
 ---
 
 [Home](/) > P2P
 
 # P2P and Decentralisation
 
-Decentralisation is in full resonance with the SPLectrum worldview, [interrelational pluralism](/seed/interrelational-pluralism/). From the privacy of the individual, the privacy of our families and local communities, decentralisation is a must-have for diverse communities to live together and avoid falling prey to central manipulation and mistaken polarisation.
+Peer-to-peer (P2P) is what [interrelational pluralism](/seed/interrelational-pluralism/) looks like in engineering. Each subject's experience is its own; communities form between subjects, by what they share — [not under a central command](/seed/privacy-and-decentralisation/). Peer-to-peer technology has the same shape: no centre that everything passes through, peers dealing with each other directly.
 
-In engineering, decentralisation means peer-to-peer.
+That is how real communities work: people share directly with those they know and trust, communities overlap and connect, and no one manages them from a centre. For the privacy of the individual, of our families and of local communities, that matters to me — it keeps diverse communities living together without falling prey to central control.
 
-## What SPLectrum is building
+## What I would like to build
 
-SPLectrum uses [Bare](/engineering/infrastructure/bare/) as its default runtime — minimal, not strongly typed, and the gateway to [Pear](https://docs.pear.holepunch.to), Holepunch's peer-to-peer application platform. No servers, no app stores. Applications discovered, distributed, and updated directly between peers. [Holepunch](https://holepunch.to) built the infrastructure that makes this practical — not theoretical P2P, working P2P.
+[Bare](/engineering/infrastructure/bare/) and [Pear](https://docs.pear.holepunch.to), from [Holepunch](https://holepunch.to), make peer-to-peer practical: applications discovered, distributed and updated directly between peers — no servers, no app stores. That is the ground I would build on. Progress on the engineering is slow for now; this is on my wish list.
 
-Building for decentralised ecosystems to emerge on top of what already exists. The centralised internet is the substrate, not the enemy. No revolution to replace, but emergence.
+The centralised internet is the substrate, not the enemy. Decentralised ecosystems can grow on top of what already exists. No revolution to replace, but emergence.
 
-Blockchain technologies play an important public role in decentralisation. Two technologies stand out for me. [Midnight](https://midnight.network), for privacy. [Cardano](https://cardano.org), for the philosophical foundations it is built on — the first and still only blockchain with decentralised governance. Wouldn't you think they all should?
+Blockchain plays an important public role in decentralisation. Two projects stand out for me: [Midnight](https://midnight.network), for privacy, and [Cardano](https://cardano.org), for the philosophical foundations it is built on and its move to community governance.
 
 Decentralisation is a natural fit for reality the way we experience it. Building P2P is swimming with that current.

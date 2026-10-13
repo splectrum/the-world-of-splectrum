@@ -46,12 +46,14 @@
 - **Philosophy, science and belief** — commentary. Material: convergence as the view of the others; philosophy full of beliefs; more languages give more robust convergence, not knowledge.
 - **The start-here page** (`/start-here/`, "Reading Path") — the site's orientation for new readers; currently a top-level page linked from the home page.
 - **The 9-box homepage** — already in the section.
+- **Why HAICC in daily life** (Jules, 2026-10-13) — a piece to create: why human-AI creative collaboration, as practised in the whole project.
 - **The 404 page** (`docs/404.html`) — a plain placeholder since the move to Cloudflare Pages; to become a page that helps a lost reader find their way into the site.
 
 ## 3a. Further Real Life work noted (Jules, 2026-10-13)
 
 - **[A]** Check the "placeholder sections" to see whether they need more information for a reader. The bottom three boxes — Language, Vocabulary, Tools — haven't been started, and Engineering has stalled (not for a bad reason).
 - **[A]** Review the top-navigation pages (About, HAICC, P2P) and think about the way HAICC and P2P are currently framed.
+- **[A, 2026-10-13]** The three top-navigation pages are a Jules ten Bos as author view (the personal register in the tone-of-voice guidance). The view for them: a proper About — the project introduced by its creator; HAICC covering the project as a whole rather than just engineering — the whole project is done under it, in collaboration with AI, though perhaps not in name; P2P as interrelational pluralism in engineering — it mirrors the subject-centred view, no central command.
 
 ## 4. Open questions
 
