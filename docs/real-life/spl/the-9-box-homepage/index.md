@@ -5,7 +5,7 @@ title: "The 9-Box Homepage"
 description: "The SPLectrum homepage as a structural artifact — a 3×3 grid whose rows, columns, and centre reveal a coherence that fits the project's own commitments."
 ---
 
-[Home](/) > [Real Life](/real-life/) > [SPLectrum](/real-life/spl/) > The 9-Box Homepage
+[Home](/) > [Real Life](/real-life/) > [About the Project](/real-life/spl/) > The 9-Box Homepage
 
 # The 9-Box Homepage
 

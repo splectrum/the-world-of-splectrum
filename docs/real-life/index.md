@@ -1,20 +1,20 @@
 ---
 layout: default
-lastmod: 2026-06-25
+lastmod: 2026-10-13
 title: "Real Life"
-description: "SPLectrum's philosophy in everyday language, applied to happenings from daily life — one of the easiest routes into the world of SPLectrum."
+description: "Where we communicate without strict constraints, but with the benefit of our research and of SPLectrum's philosophy."
 ---
 
 [Home](/) > Real Life
 
 # Real Life — In Practice
 
-This is a section about daily life, SPLectrum's philosophy in everyday language applied to happenings from daily life. As a section it is finding its feet, not sure yet how to structure it. Together with the blog it aims to provide the easiest access route into the world of SPLectrum.
+Real Life is where we communicate without strict constraints, but with the benefit of our research and of SPLectrum's philosophy. Like stepping out of a house and away from confined rooms into open nature. Or like being in the agora amongst peers, where everything is talked about.
 
-This site grows organically, as ideas develop, new contributions are being added. That goes for all sections. This section is one of those that haven't started in earnest yet, so have patience while new content is slow to arrive.
+## About the project
 
-## Contributions so far
+- [Start Here](/start-here/) — your way in: what to expect and how to get going.
+- [SPLectrum 101](/real-life/spl/splectrum-101/) — the project in a nutshell, at beginner's level.
+- [The 9-Box Homepage](/real-life/spl/the-9-box-homepage/) — the structure of the site explained.
 
-- [The 9-Box Homepage](/real-life/spl/the-9-box-homepage/) — an expression of the relational structure of the World of SPLectrum site.
-
-- [SPLectrum 101](/real-life/spl/splectrum-101/) — a layman's introduction to SPLectrum
+This section may look rather thin at the moment, but rest assured it will change. We are growing from seed.

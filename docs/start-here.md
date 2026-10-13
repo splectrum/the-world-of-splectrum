@@ -17,7 +17,7 @@ A big part of what we do is trying to distill wisdom from others — hence the l
 
 This site is not about a finished product, but a process, offering insight into a journey that has just started. This is reflected in the structure of the site.
 
-[SPLectrum 101](/real-life/spl/splectrum-101/) tells the story in more detail, in plain words.
+[SPLectrum 101](/real-life/spl/splectrum-101/) gives the project in a nutshell, at beginner's level.
 
 ## How we write
 

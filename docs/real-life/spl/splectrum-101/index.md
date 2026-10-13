@@ -5,7 +5,7 @@ title: "SPLectrum 101"
 description: "A plain-language introduction to SPLectrum: reality disclosed in language, the games everything plays, the two faces of the coin, and the say you have over your own reality."
 ---
 
-[Home](/) > [Real Life](/real-life/) > [SPLectrum](/real-life/spl/) > SPLectrum 101
+[Home](/) > [Real Life](/real-life/) > [About the Project](/real-life/spl/) > SPLectrum 101
 
 # SPLectrum 101
 
