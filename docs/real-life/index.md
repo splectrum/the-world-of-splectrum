@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-13
+lastmod: 2026-10-14
 title: "Real Life"
 description: "Where we communicate without strict constraints, but with the benefit of our research and of SPLectrum's philosophy."
 ---
@@ -13,8 +13,8 @@ Real Life is where we communicate without strict constraints, but with the benef
 
 ## About the project
 
-- [Start Here](/start-here/) — your way in: what to expect and how to get going.
-- [SPLectrum 101](/real-life/spl/splectrum-101/) — the project in a nutshell, at beginner's level.
+- [Start Here](/real-life/spl/start-here/) — your way in: what to expect and how to get going.
+- [SPLectrum 101](/real-life/spl/splectrum-101/) — the philosophy in a nutshell, at beginner's level.
 - [The 9-Box Homepage](/real-life/spl/the-9-box-homepage/) — the structure of the site explained.
 
 This section may look rather thin at the moment, but rest assured it will change. We are growing from seed.

@@ -331,6 +331,10 @@ Cloudflare Pages serves everything at trailing-slash URLs. Non-slash URLs redire
 
 **Corollary — file↔directory moves need no redirect.** Because every internal link carries the trailing slash, converting a page file to a directory index (`pear.md` → `pear/index.md`) keeps the same URL (`/…/pear/`). Correctly-written links keep working unchanged, so no redirect stub is required for this kind of move. Only add a redirect when a non-slash path or an external URL was shared somewhere outside the repo.
 
+### Short URLs and moves
+
+A page lives where its section puts it, even when that makes the URL long. Where a shorter address is useful — to share, or for a page readers look for by name — add it as a 301 redirect in `docs/_redirects` (e.g. `/start-here/` → `/real-life/spl/start-here/`). Common practice; add them as needed, not up front. Internal links always use the full canonical URL, never the short one. A page that moves gets a 301 from its old URL.
+
 ### Sources blocks & freshness
 
 Reference pages (e.g. the infrastructure hub) end with a **Sources** block pointing at where the material lives upstream — `Docs`, `Repo`, `npm` — so refreshes are cheap. Do **not** add a `Snapshot:` / `verified` / `reviewed` date line to the body: freshness is tracked by the `lastmod` frontmatter, which is machine-readable and updates whenever the page is touched. A hand-written body date only duplicates `lastmod` and rots independently. Keep substantive non-date facts (e.g. "checked against bare 1.28.5") if useful, but drop the date itself.

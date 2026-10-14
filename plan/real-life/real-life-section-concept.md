@@ -44,7 +44,7 @@
   - its meaning reading ("meaning lives in the circulation… the game holds the meaning") against the finding that meaning ends up in concepts;
   - its pending fence links (the Meaning reading, the coupling constraint).
 - **Philosophy, science and belief** — commentary. Material: convergence as the view of the others; philosophy full of beliefs; more languages give more robust convergence, not knowledge.
-- **The start-here page** (`/start-here/`, "Reading Path") — the site's orientation for new readers; currently a top-level page linked from the home page.
+- **The start-here page** (`/real-life/spl/start-here/`, "Reading Path") — the site's orientation for new readers; in the section under About the Project, linked from the home page.
 - **The 9-box homepage** — already in the section.
 - **Free will, the strings we don't see, and dealing with harm** (Jules, 2026-10-13 — very interested in writing it) — the discussion is captured in its own document in this folder.
 - **Why HAICC in daily life** (Jules, 2026-10-13) — a piece to create: why human-AI creative collaboration, as practised in the whole project.
