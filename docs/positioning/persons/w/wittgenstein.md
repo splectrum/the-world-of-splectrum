@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-08-13
+lastmod: 2026-10-16
 title: "Ludwig Wittgenstein (1889–1951)"
 description: "Wittgenstein turned from logical structure to language games and forms of life — meaning is use, not representation."
 ---
@@ -17,7 +17,7 @@ Wittgenstein's later turn — from language as logical picture of reality to lan
 
 ## The early philosophy
 
-The *Tractatus Logico-Philosophicus* (1921) proposed that language mirrors reality through a shared logical structure. Every meaningful proposition is a picture of a possible state of affairs; the totality of true propositions is the world. Logic is the scaffolding. What cannot be pictured cannot be said: "Whereof one cannot speak, thereof one must be silent." Wittgenstein believed this solved all the problems of philosophy — and left the field. When he returned, he dismantled the picture theory entirely. The later philosophy is defined by this rejection: language does not mirror; it is used.
+The *Tractatus Logico-Philosophicus* (1921) proposed that language mirrors reality through a shared logical structure. Every meaningful proposition is a picture of a possible state of affairs; the totality of true propositions is the world. Logic is the scaffolding. What cannot be pictured cannot be said. "The limits of my language mean the limits of my world" (5.6), and the book closes: "Whereof one cannot speak, thereof one must be silent." Wittgenstein believed this solved all the problems of philosophy — and left the field. When he returned, he dismantled the picture theory entirely. The later philosophy is defined by this rejection: language does not mirror; it is used.
 
 ---
 

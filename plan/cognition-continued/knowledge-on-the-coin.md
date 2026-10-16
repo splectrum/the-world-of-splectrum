@@ -123,6 +123,15 @@
 - **[C]** The shared shape: a word treated as naming a thing that must have necessary and sufficient conditions; posed head-on from outside, the discourse not counting itself a participant; resting on the privileged individual; and mixing degree with kind (the pleonastic question — when does belief become knowledge, information consciousness, causation choice?). The method that worked here carries over: start from what the position holds — cognition, experience, the medium, the community — and see where the word falls into place, or whether it is needed at all.
 - **[A, 2026-10-13]** Free will, worked through the same way: it is often the belief one has taken a decision without strings attached, and less that there are no strings. **[C]** A decision experienced from inside comes without the context of its causes — the opposite of knowledge, which comes with the context of its recognition; the sense of freedom is a feature of the seat, neither an illusion to debunk nor a power to defend.
 
+## 3c. The definition (2026-10-16)
+
+- **[A]** Knowledge is the meaningful information contained in the relational.
+- **[A]** Retention is separate: knowledge can be momentary — long enough to act upon may be sufficient — and it can be lost. Historicity describes what may happen to knowledge, not what makes it knowledge.
+- **[C]** The steps under it, in the field's terms: relation (difference); correlation — relations that hold, information *about* in Shannon's sense (Rovelli's relative information); meaningful information — a correlation that makes a difference *to* a subject (Rovelli 2016; Kolchinsky and Wolpert 2018; Bateson's "a difference that makes a difference"); knowledge — that meaningful information, as it is contained in the relational.
+- **[C]** Consequences: knowledge sits in relations, not stored as an item in a head — when the relation goes, so may the knowledge; the community scale follows without a second definition (shared relations contain shared knowledge); acting on it is how knowledge shows, the agency link.
+- **[C]** Against the field: the definition replaces the truth condition of justified true belief (which needs the outside view) by "meaningful to the one in the relation"; closest company is acquaintance, Piaget's constructing subject, Peirce's community convergence, the pragmatists' tie of knowing to action.
+- **[C, open]** The P2 gloss — "knowledge is what the subject comes to recognise within that accumulation" — reads retention into knowledge; to weigh whether accumulation is only what recognition draws on, or the gloss needs loosening. The epistemology pillar's "not a private recognition held in one head" sits against the gloss as well; to reword along the definition.
+
 ## 4. Knowledge on the coin
 
 - **[A]** Knowledge is a seed concern (mainly), lifted into content because that is where epistemology lives (at the moment).

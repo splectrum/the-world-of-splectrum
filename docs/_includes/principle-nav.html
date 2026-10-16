@@ -1,0 +1,14 @@
+{%- comment -%} Previous / next navigation for the six Seed Principles 101 pages. Order is fixed here; the current page is found by URL. {%- endcomment -%}
+{%- assign base = "/real-life/spl/splectrum-101/seed-principles/" -%}
+{%- assign slugs = "being-implies-language|language-is-relational|the-medium-of-experience|sharing-knowledge|interrelational-equal-standing|web-of-complexity" | split: "|" -%}
+{%- assign names = "P0 Being Implies Language|P1 Language Is Relational|P2 The Medium of Experience|P3 Sharing Knowledge About Reality|P4 Interrelational and of Equal Standing|P5 A Web of Complexity" | split: "|" -%}
+{%- assign current = nil -%}
+{%- for s in slugs -%}{%- capture u -%}{{ base }}{{ s }}/{%- endcapture -%}{%- if page.url == u -%}{%- assign current = forloop.index0 -%}{%- endif -%}{%- endfor -%}
+{%- if current != nil -%}
+{%- assign prev = current | minus: 1 -%}
+{%- assign next = current | plus: 1 -%}
+<p style="display:flex;justify-content:space-between;gap:1em;flex-wrap:wrap;">
+  <span>{%- if current > 0 -%}← <a href="{{ base }}{{ slugs[prev] }}/">{{ names[prev] }}</a>{%- endif -%}</span>
+  <span style="text-align:right;">{%- if current < 5 -%}<a href="{{ base }}{{ slugs[next] }}/">{{ names[next] }}</a> →{%- endif -%}</span>
+</p>
+{%- endif -%}

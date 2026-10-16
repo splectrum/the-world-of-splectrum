@@ -188,3 +188,31 @@ Who earns a person page is a collaborative decision, not settled by this list.
 - ~~Open: how the doorway's branches relate to the Language section's types~~ — settled by §4a: the kinds branch runs parallel to the section's types; the conceptual side is its own doorway, mirroring the Vocabulary section.
 - Open: where language and thought is held — here or in vocabularies — with the other cross-linking.
 - The literal-extension dispute needs its own research pass before branch 0 is built.
+
+## 7. Concepts as bags of relations, and the circle (2026-10-16)
+
+Settled in discussion; to be stated on the Language pages so the position is clear.
+
+- **[A]** A concept is *a* bag of relations with a label on it — a bounded bag, not all relations. Concrete as well as abstract (*dog* as much as *justice*). The bag is what many encounters share, which is why a concept is general and never a category of one.
+- **[A]** The same simplification as the site's definition of cognition: keep the relational core, drop "abstract" and "mental". The move made twice is what makes it a reading rather than a stipulation, and what lets it reach animals without strain.
+- **[A]** Language relates concepts, and concepts are bags of relations themselves: language is relational within and between.
+- **[A]** The circle — a concept is a language expression, used to create language expressions — is owned, not hidden. The position to state: it is grounded (the first relations in a bag are the being's interactions with its surroundings, not earlier concepts) and in time a spiral, not a circle (each concept made from earlier expressions, the web staying coupled to its history).
+- **[C]** Backing to weigh for the statement: molecularism (Dummett) against holism — the bounded bag answers the instability objection (Fodor and Lepore); conceptual role semantics (Sellars, Brandom); distributional semantics (Firth); grounding (Harnad); atomism (Fodor) as the live disagreement, not to be settled; respectable circular shapes — Neurath's boat, the hermeneutic circle, recursion, objects known by their relations (Yoneda). Animal concepts: Herrnstein's pigeons, vervet alarm calls (Seyfarth and Cheney). All to be checked against sources before use.
+
+## 8. Rework of *What is a language?* (review 2026-10-16)
+
+The page (`docs/language/concepts/what-is-a-language/index.md`, last touched 2026-05-13) holds its core — a bounded set of concepts and relations, the two views with vocabulary, language games as a specialisation — but lags the site. To do after the SPLectrum 101.
+
+- **The rework**
+  - *A wider aperture* hedges ("a question to sit with") where the site has decided: being implies language, language wherever there is interaction. State that; the open question becomes how far the structural description (concepts, labels) carries down, not whether to count them.
+  - What a concept is: replace "whatever carries meaning as a distinguishable thing" with the § 7 position — *a* bag of relations with a label, concrete as well as abstract, never a category of one, the cognition-style simplification.
+  - Relations within and between concepts, and the circle owned (§ 7): grounded in interaction, a spiral in time.
+- **Alongside**
+  - *Category theory grounds the universality* and "genuinely the same" claim a foundation — out of the is-like register and at odds with "none self-founding". Reword as a formal reading; keep in step with the seed-and-category-theory notes.
+  - The dynamic view says only "operating, producing": add a paragraph on language as the medium of experience, personal first, and as meaning, communication and agency (playing the game or changing it), pointing to the seed pages for the full treatment.
+- **Polish**
+  - Link Wittgenstein's person page; mention Saussure and structuralism (meaning through differences).
+  - "Provided the relations among the concepts are real" — sharpen (relations in use, doing work) or cut.
+  - Light P-tag anchors (P0, P1).
+  - Front matter: lastmod and description after the rework.
+
