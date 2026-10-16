@@ -18,7 +18,7 @@ The same holds for things that aren't alive. A stone holds its shape against wei
 
 That is, in a nutshell, what the first principle says: the fact that something exists means there is a language of interaction between it and its surroundings.
 
-The picture is an old one: being as a tension between something and the other, its environment. Heraclitus put it some 2,500 years ago: "the way up and the way down are one and the same". In the twentieth century, the logician Spencer-Brown built a whole calculus from a single instruction: draw a distinction.
+The picture is an old one: being as a tension between something and the other, its environment. To be is to stand apart from your surroundings while staying in touch with them. Heraclitus put it some 2,500 years ago: "the way up and the way down are one and the same". In the twentieth century, the logician Spencer-Brown built a whole calculus from a single instruction: draw a distinction.
 
 Nine traditions, from ancient Greece and China to India and modern logic, have expressed this in their own words. Our reference library sets them side by side: [Being as Tension](/positioning/seed/being-as-tension/).
 

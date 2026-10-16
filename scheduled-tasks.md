@@ -14,7 +14,7 @@ Lives in `plan/`, one folder per topic; discussion captures not yet placed go to
 
 **Order of work (state 2026-10-12):** 1. Real Life (active) · 2. Life · 3. AI · 4. Language · 5. Cognition continued.
 
-- [ ] **Real Life** — `plan/real-life/`: the section concept (accessible, longer pages that talk about the strict sections), the SPLectrum 101 bundle (`splectrum-101-bundle.md`), the foundations draft, the start-here page, the 404 page, the placeholder sections, the top-navigation pages. Active — where we are: Start Here, the 404 page, the landing page and the 9-box page done (2026-10-13); SPLectrum 101 is being reworked into a bundle — landing done (2026-10-14), the seed principles pages under way.
+- [ ] **Real Life** — `plan/real-life/`: the section concept (accessible, longer pages that talk about the strict sections), the SPLectrum 101 bundle (`splectrum-101-bundle.md`), the foundations draft, the start-here page, the 404 page, the placeholder sections, the top-navigation pages. Active — where we are: Start Here, the 404 page, the landing page and the 9-box page done (2026-10-13); SPLectrum 101 is being reworked into a bundle — first version live (2026-10-16): the seed principles pages and holding pages for the two faces; next the P0 pass, then the common face and own voice subsections.
   - **Modern natural philosophy** — research, the Real Life philosophy page (bundle plan § 5a) and a post on it.
   - **"Philosophy is dead"** — a post with research: who declared the end of philosophy and why; the material also goes on the philosophy page (bundle plan § 5a).
 
