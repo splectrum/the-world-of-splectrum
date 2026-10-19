@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-10-19
 title: "Hans-Georg Gadamer (1900–2002)"
 description: "Gadamer argued that all understanding is historically situated — we never approach anything from a neutral standpoint. Prejudice is the ground of knowledge, not its enemy."
 ---
@@ -21,7 +21,7 @@ Gadamer made the case that understanding is never neutral — it is always alrea
 
 **Effective history (*Wirkungsgeschichte*).** We stand inside the effects of the history we seek to understand. A reader of Plato does not access Plato directly — two and a half thousand years of reception, commentary, and transformation are already in the room. Effective history is not a bias to correct for; it is the medium through which understanding happens. Gadamer coined *wirkungsgeschichtliches Bewußtsein* — historically effected consciousness — for the awareness that one's own understanding is shaped by this history.
 
-**The hermeneutic circle.** Understanding moves between part and whole. You cannot understand a sentence without the paragraph, the paragraph without the text, the text without the tradition. But neither can you understand the whole without the parts. The circle is not vicious — it is productive. Each pass deepens both the grasp of the part and the sense of the whole. Understanding is not completed; it is always underway.
+**The hermeneutic circle.** Understanding moves between part and whole. You cannot understand a sentence without the paragraph, the paragraph without the text, the text without the tradition. But neither can you understand the whole without the parts. The circle is not vicious — it is productive. Each pass deepens both the grasp of the part and the sense of the whole. Understanding is not completed; it is always underway. In *Reason in the Age of Science* (English 1981): "The very idea of a definitive interpretation [of anything] seems to be intrinsically contradictory" (as the *Internet Encyclopedia of Philosophy* quotes it).
 
 **Fusion of horizons (*Horizontverschmelzung*).** Every act of understanding takes place from a horizon — the range of what is visible from a particular standpoint. Understanding happens when horizons merge: the interpreter's and the text's (or the other's). The fusion is not agreement — it is a new horizon that incorporates both. Neither party remains unaffected. The familiar and the alien meet, and meaning forms in the encounter.
 

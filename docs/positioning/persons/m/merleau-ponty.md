@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-10-19
 title: "Maurice Merleau-Ponty (1908–1961)"
 description: "Merleau-Ponty placed the body at the centre of experience — perception is the body's lived engagement with the world, not a mental act."
 ---
@@ -22,6 +22,8 @@ Merleau-Ponty brought the body back into philosophy. The lived body as medium of
 **The habitual body.** The body accumulates — skills, postures, learned responses sediment into habit. This accumulation is what makes experience possible: each new perception meets a body already shaped by what came before. Historicity is carried in the body itself.
 
 **Perception as primary.** Against both empiricism (perception as passive reception of sense data) and intellectualism (perception as judgment applied to sensations), Merleau-Ponty argues that perception is the body's direct engagement with its surroundings — always perspectival, always partial, always from here. "We are condemned to meaning" — the world arrives already structured by the body's orientation within it.
+
+**The reduction.** *Phenomenology of Perception* keeps Husserl's reduction but marks its limit: because we are "destined to the world", "The most important lesson of the reduction is the impossibility of a complete reduction" (Preface, as the *Internet Encyclopedia of Philosophy* quotes it). The IEP notes that the remark's interpretation is debated.
 
 **The chiasm.** In *The Visible and the Invisible* — unfinished at his death, surviving as working notes rather than a completed manuscript — Merleau-Ponty moves beyond the body-world relation toward a new ontology. The touching hand can be touched, the seeing eye can be seen. Subject and object are not separate domains but folds in the same tissue — what he calls *flesh* (*la chair*). The seer is part of the visible. The chiasm/flesh ontology is suggestive rather than fully worked out.
 

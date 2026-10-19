@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-06-13
+lastmod: 2026-10-19
 title: "John Rawls (1921–2002)"
 description: "American political philosopher — A Theory of Justice, the original position, the veil of ignorance, justice as fairness, political liberalism, the difference principle."
 ---
@@ -40,6 +40,8 @@ The first principle has priority over the second: basic liberties cannot be trad
 The two principles together constitute "justice as fairness." The name captures the method: justice is what would be chosen under conditions that are fair — conditions in which no party can exploit advantages that are morally arbitrary (being born rich, talented, or into a dominant group). Rawls calls these advantages morally arbitrary because no one deserves them — they are the result of the natural and social lottery, not of choice or merit.
 
 This challenges both utilitarian and libertarian frameworks. Against utilitarianism: justice as fairness does not permit sacrificing some for the greater good of others — the separateness of persons matters. Against libertarianism: natural talents and inherited advantages are not earned and therefore do not generate entitlements — the distribution of natural gifts is morally arbitrary.
+
+The principles are tested against judgement by reflective equilibrium. In the *Internet Encyclopedia of Philosophy*'s account of *A Theory of Justice*, one starts from "a set of considered judgments, in which we have strong confidence", constructs principles to account for them, and moves "back and forth between the initial judgments and the principles, making the adjustments which seem the most plausible", until reaching "a point of equilibrium, where principles and judgments coincide".
 
 ---
 

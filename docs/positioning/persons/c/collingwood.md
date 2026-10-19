@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-06-11
+lastmod: 2026-10-19
 title: "R. G. Collingwood (1889–1943)"
 description: "Collingwood identified art with expression and language with art — failed expression produces corrupt consciousness, the worst disease of mind."
 ---
@@ -35,7 +35,7 @@ Collingwood made expression the foundation of conscious life. Art is not imitati
 
 **The Idea of History** (1946, posthumous). The historian's task is to discover the thought behind the action — to re-enact past thought in the historian's own mind. Not psychological reproduction but recovery of propositional content: the reasons, intentions, and beliefs that made the action intelligible. From his archaeological work, Collingwood learned that "knowledge comes only by answering questions" — evidence means nothing apart from the question it is summoned to answer.
 
-**An Essay on Metaphysics** (1940). Metaphysics is the historical study of absolute presuppositions — the foundational assumptions that make particular forms of inquiry possible. Absolute presuppositions do not answer questions; they are what makes questions possible. They are not true or false. Different epochs rest on different presuppositions. Metaphysics is necessarily historical.
+**An Essay on Metaphysics** (1940). Metaphysics is the historical study of absolute presuppositions — the foundational assumptions that make particular forms of inquiry possible. Absolute presuppositions do not answer questions; they are what makes questions possible. They are not true or false. Different epochs rest on different presuppositions. Metaphysics is necessarily historical. Honest historical comparison, he writes, "will convince the metaphysician … that there are no 'eternal' or 'crucial' or 'central' problems in metaphysics" (ch. VII), and "The metaphysicians who believe in eternal problems are bad historians, or they would not believe in eternal problems" (ch. VIII, note). *An Autobiography* (1939) makes the same case from the history of political theory. Whether he rejected eternal problems outright is disputed: E. F. Bertoldi (1985) reads the late works as denying them, while G. Vanheeswijck (2001) holds that for Collingwood philosophical questions are "à la fois historiques et éternelles".
 
 **The New Leviathan** (1942). Written during the war, debilitated by strokes. Civilisation is the progressive refinement of moral understanding; barbarism is not primitive simplicity but the active revolt against civilisation — the deliberate rejection of duty, reason, and self-knowledge. His target is Nazism and Fascism, understood not as throwbacks but as modern forms of barbarism that attack civilisation from within.
 
@@ -63,6 +63,7 @@ But Collingwood concedes the medium is practically necessary while maintaining i
 
 - *Speculum Mentis* (1924) — five forms of experience: art, religion, science, history, philosophy
 - *An Essay on Philosophical Method* (1933) — overlap of classes, the scale of forms
+- *An Autobiography* (1939) — the logic of question and answer; the history of philosophy as changing problems
 - [*The Principles of Art*](https://en.wikipedia.org/wiki/The_Principles_of_Art) (1938) — the expression theory: art, language, corrupt consciousness
 - *An Essay on Metaphysics* (1940) — absolute presuppositions, the historicity of inquiry
 - [*The New Leviathan*](https://en.wikipedia.org/wiki/The_New_Leviathan) (1942) — civilisation, barbarism, the theory of mind

@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-12
+lastmod: 2026-10-19
 title: "Jay Garfield (1955–)"
 description: "American philosopher — Nāgārjuna translation and commentary, cross-cultural philosophy, Madhyamaka and Western philosophy, the philosophy of emptiness."
 ---
@@ -35,7 +35,7 @@ Taught at Hampshire College (1988–2012), where he built a programme in Buddhis
 
 Garfield has argued, in *Engaging Buddhism: Why It Matters to Philosophy* (Oxford, 2015) and in numerous essays, that the exclusion of non-Western philosophical traditions from the mainstream of academic philosophy is not merely an omission but a distortion. Indian, Chinese, Tibetan, and Japanese philosophical traditions address the same questions that Western philosophy addresses — causation, the self, perception, ethics, the nature of reality — and they do so with arguments of comparable rigour and depth. The failure to engage them impoverishes philosophy and perpetuates a parochialism that is intellectually unjustifiable.
 
-The argument is institutional as well as philosophical: Garfield has advocated for the inclusion of non-Western philosophy in standard philosophy curricula and has been a prominent voice in debates about the disciplinary boundaries of academic philosophy. The advocacy has been controversial — some philosophers have argued that the Western philosophical tradition has its own internal coherence that non-Western traditions do not share, and that "philosophy" names a specific intellectual tradition rather than a universal activity. Garfield's counter-argument: the internal coherence is an artefact of exclusion, not a feature of the subject.
+The argument is institutional as well as philosophical: Garfield has advocated for the inclusion of non-Western philosophy in standard philosophy curricula and has been a prominent voice in debates about the disciplinary boundaries of academic philosophy. With Bryan Van Norden he proposed in *The New York Times* ("If Philosophy Won't Diversify, Let's Call It What It Really Is", The Stone, 11 May 2016) that "any department that regularly offers courses only on Western philosophy should rename itself 'Department of European and American Philosophy'". The advocacy has been controversial — some philosophers have argued that the Western philosophical tradition has its own internal coherence that non-Western traditions do not share, and that "philosophy" names a specific intellectual tradition rather than a universal activity. Garfield's counter-argument: the internal coherence is an artefact of exclusion, not a feature of the subject.
 
 ---
 

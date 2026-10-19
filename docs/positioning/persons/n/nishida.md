@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-08-20
+lastmod: 2026-10-19
 title: "Nishida Kitarō (1870–1945)"
 description: "Founder of the Kyoto School — pure experience prior to the subject-object split, the logic of place, absolute nothingness, action-intuition; Zen practice meeting Western philosophy."
 ---
@@ -24,6 +24,8 @@ Appointed to Kyoto Imperial University in 1910, full professor from 1914, retire
 ## Key ideas
 
 **Pure experience (*junsui keiken*).** Experience prior to the subject–object split, "the one and only reality" from which self and world differentiate. The engagement with James is documented and textual — Nishida read the *Principles*, the radical-empiricism essays, and the *Varieties*; there was no correspondence, and James died before the *Inquiry* appeared. The divergence is the point: James left pure experience plural and neutral; Nishida made it the systematically self-developing ground.
+
+**Philosophy and the problem of life.** The preface to the *Inquiry* (January 1911) calls religion, the subject of its fourth part, "the conclusion of philosophy" (哲学の終結), and explains the title: although philosophical inquiry fills the book's first half, 「人生の問題が中心であり、終結である」, the problem of life is the centre and the conclusion. It also puts experience before the individual: 「個人あって経験あるにあらず、経験あって個人あるのである」, it is not that there is experience because there is an individual; there is an individual because there is experience. In 1932, as quoted in a University of Tokyo paper, he wrote that the motive of philosophy must be not "wonder" but the deep sorrow of life.
 
 **Self-awareness (*jikaku*).** *Intuition and Reflection in Self-Consciousness* (1917): consciousness mirroring itself within itself, uniting intuition and reflection, worked through Fichte and the neo-Kantians. Nishida's own verdict on the book was that it ended in impasse — "the sword broken, the quiver empty" — and the honesty of that verdict drove the next move.
 

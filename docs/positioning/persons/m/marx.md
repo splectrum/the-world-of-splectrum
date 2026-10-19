@@ -2,7 +2,7 @@
 layout: default
 title: "Karl Marx (1818–1883)"
 description: "German philosopher and political economist — critique of political economy, the materialist conception of history, alienation, and the most consequential intellectual legacy of the nineteenth century."
-lastmod: 2026-05-15
+lastmod: 2026-10-19
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Marx
@@ -61,6 +61,8 @@ The eleventh thesis on Feuerbach: *"The philosophers have only interpreted the w
 
 *The German Ideology* was largely unpublished in Marx's lifetime — Marx later remarked that he and Engels had abandoned the manuscript to "the gnawing criticism of the mice."
 
+A year before the theses, the *Introduction* to the *Contribution to the Critique of Hegel's Philosophy of Right* (1844) had already put the turn in Hegelian terms: *"You cannot abolish [aufheben] philosophy without making it a reality."* Philosophy *"cannot realize itself without the transcendence [Aufhebung] of the proletariat, and the proletariat cannot transcend itself without the realization [Verwirklichung] of philosophy."* The word *aufheben* cancels, preserves and raises at once, so the end of philosophy is also its realisation.
+
 ## Class, communism, and political vision
 
 The *Manifesto* opens: *"The history of all hitherto existing society is the history of class struggles."* Marx's political writings — *The Class Struggles in France* (1850), *The Eighteenth Brumaire of Louis Bonaparte* (1852), *The Civil War in France* (1871) — apply the analysis to specific historical episodes. His positive political vision is comparatively under-articulated, by design — he was wary of writing "recipes for the cook-shops of the future." Where he is explicit, the best-known formulation is from the *Critique of the Gotha Programme* (1875): *"From each according to his ability, to each according to his needs!"*
@@ -73,6 +75,7 @@ Marx's critique is more fully developed than his construction. How the transitio
 
 ## Key works
 
+- *A Contribution to the Critique of Hegel's Philosophy of Right*, Introduction (1844) — philosophy abolished only by being made a reality
 - [*Economic and Philosophic Manuscripts of 1844*](https://en.wikipedia.org/wiki/Economic_and_Philosophic_Manuscripts_of_1844) (written 1844, published 1932) — alienation, species-being, estranged labour
 - [*The Communist Manifesto*](https://en.wikipedia.org/wiki/The_Communist_Manifesto) (1848, with Engels) — class struggle, the programme
 - [*The Eighteenth Brumaire of Louis Bonaparte*](https://en.wikipedia.org/wiki/The_Eighteenth_Brumaire_of_Louis_Bonaparte) (1852) — history, contingency, ideology

@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-08-13
+lastmod: 2026-10-19
 title: "Edmund Husserl (1859–1938)"
 description: "Husserl founded phenomenology — the systematic study of experience from the inside. Intentionality, time-consciousness, and the lifeworld."
 ---
@@ -27,9 +27,11 @@ Husserl founded [phenomenology](/positioning/subjects/p/phenomenology/) — the 
 
 **Passive synthesis.** Not all constitution is active. Beneath attention and judgment, experience is already being organised — associations forming, similarities pairing, the perceptual field structuring itself — before the ego does anything. Husserl's later, "genetic" phenomenology studied this pre-active layer: sense arrives already synthesised, and active thought works on material passive synthesis has prepared. Developed in the lectures published as *Analyses Concerning Passive and Active Synthesis*.
 
-**The lifeworld (*Lebenswelt*).** The pre-scientific, pre-theoretical world of lived experience — the ground on which all theoretical constructions are built. The sciences abstract from the lifeworld but depend on it. Introduced in *The Crisis of European Sciences*.
+**The lifeworld (*Lebenswelt*).** The pre-scientific, pre-theoretical world of lived experience — the ground on which all theoretical constructions are built. The sciences abstract from the lifeworld but depend on it. Introduced in *The Crisis of European Sciences*, where objectivism, in the *Internet Encyclopedia of Philosophy*'s account, helps to cause "a 'crisis of European humanity'". The crisis is not in the sciences' results but in "what science in general had meant and can mean for human existence": "Merely fact-minded sciences make merely fact-minded people" (§2, tr. Carr). Parts I–II appeared in 1936, the whole in 1954.
 
 **Intersubjectivity.** Other subjects are not inferred — they are experienced. In the *Fifth Cartesian Meditation*, Husserl develops the account: I experience the other's body as like mine and transfer the sense of subjectivity through analogical apperception (*Einfühlung*). The other is constituted as an alter ego — a subject like me, but irreducibly not me. Merleau-Ponty and Levinas each took this in different directions, but the move is Husserl's: intersubjectivity is given in experience, not constructed by reasoning.
+
+**Philosophy as rigorous science.** The *Logos* essay of 1911 opens: "From its earliest beginnings philosophy has claimed to be rigorous science", the science that "renders possible from an ethico-religious point of view a life regulated by pure rational norms". It closes: "Philosophy, however, is essentially a science of true beginnings, or origins", and "The impulse to research must proceed not from philosophies but from things and from the problems connected with them" (tr. Lauer).
 
 ---
 
@@ -48,6 +50,7 @@ Husserl's phenomenology stays with the transcendental ego — a purified conscio
 ## Key works
 
 - [*Logical Investigations*](https://en.wikipedia.org/wiki/Logical_Investigations_(Husserl)) (1900–01) — the founding work; intentionality, the critique of psychologism
+- "Philosophy as Rigorous Science" (1911) — philosophy's claim to be rigorous science; a science of beginnings
 - [*Ideas I*](https://en.wikipedia.org/wiki/Ideas_Pertaining_to_a_Pure_Phenomenology_and_to_a_Phenomenological_Philosophy) (1913) — the phenomenological reduction, noesis and noema
 - [*On the Phenomenology of the Consciousness of Internal Time*](https://en.wikipedia.org/wiki/The_Phenomenology_of_Internal_Time-Consciousness) (1928) — retention, protention, the flow of time-consciousness
 - [*Cartesian Meditations*](https://en.wikipedia.org/wiki/Cartesian_Meditations) (1931) — the ego, intersubjectivity, the constitution of the other

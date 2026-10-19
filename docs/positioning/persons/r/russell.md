@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-10-19
 title: "Bertrand Russell (1872–1970)"
 description: "Russell built the analytical tradition on logic — Principia Mathematica, the theory of descriptions, and the conviction that philosophy should be precise."
 ---
@@ -25,6 +25,10 @@ Russell, together with [Frege](/positioning/persons/f/frege/), built the analyti
 
 **Types.** Russell's response to the paradox: a hierarchy of types, where sets of one level can only contain members of a lower level. The self-referential loop is broken by prohibition. Effective but artificial — a patch, not a resolution.
 
+**The value of philosophy.** The last chapter of *The Problems of Philosophy* (1912), "The Value of Philosophy", holds that "the uncertainty of philosophy is more apparent than real": "as soon as definite knowledge concerning any subject becomes possible, this subject ceases to be called philosophy, and becomes a separate science". Astronomy and psychology are his examples; the questions not yet answerable "remain to form the residue which is called philosophy". The chapter closes: "Philosophy is to be studied, not for the sake of any definite answers to its questions, since no definite answers can, as a rule, be known to be true, but rather for the sake of the questions themselves".
+
+**Philosophy as analysis.** *A Critical Exposition of the Philosophy of Leibniz* (1900) holds that "all sound philosophy should begin with an analysis of propositions" (as the *Internet Encyclopedia of Philosophy* quotes it). The second of his 1914 Lowell lectures, published as *Our Knowledge of the External World*, is titled "Logic as the Essence of Philosophy".
+
 ---
 
 ## Where Russell stops
@@ -35,10 +39,12 @@ Russell's programme assumed that language has a single logical form waiting to b
 
 ## Key works
 
+- *A Critical Exposition of the Philosophy of Leibniz* (1900) — the Leibniz study; philosophy to begin with the analysis of propositions
 - [*The Principles of Mathematics*](https://en.wikipedia.org/wiki/The_Principles_of_Mathematics) (1903) — the logicist programme; classes, relations, the foundations
 - [*Principia Mathematica*](https://en.wikipedia.org/wiki/Principia_Mathematica) (1910–13, with Whitehead) — the formal derivation of mathematics from logic
 - [*On Denoting*](https://en.wikipedia.org/wiki/On_Denoting) (1905) — the theory of descriptions
 - [*The Problems of Philosophy*](https://en.wikipedia.org/wiki/The_Problems_of_Philosophy) (1912) — the accessible introduction; sense-data, universals, knowledge
+- *Our Knowledge of the External World* (1914) — the Lowell lectures; logic as the essence of philosophy
 - [*The Philosophy of Logical Atomism*](https://en.wikipedia.org/wiki/The_Philosophy_of_Logical_Atomism) (1918) — logical atomism, atomic facts, the structure of the world
 
 ---

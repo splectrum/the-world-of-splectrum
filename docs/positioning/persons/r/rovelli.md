@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-12
+lastmod: 2026-10-19
 title: "Carlo Rovelli (1956–)"
 description: "Rovelli built relational quantum mechanics — properties exist only through interaction, no absolute state, no privileged observer — and has carried the relational move into entropy, time, meaning and, most recently, an antifoundationalism drawn from the Zhuangzi."
 ---
@@ -31,6 +31,8 @@ Rovelli built [relational quantum mechanics](/positioning/subjects/r/relational-
 
 **The equality of all things.** His most recent book, from an invitation to Princeton's philosophy department in November and December 2024; the seminar notes are public as "Princeton seminars on physics and philosophy" (arXiv:2407.01989, 2024). The title is taken from the second chapter of the *Zhuangzi* (齊物論), which Rovelli's preface says points to the antifoundationalism he takes modern science to lead to: that electrons and minds, stones and laws, judgements and galaxies are not different in kind but notions that illuminate one another. Six lectures and an appendix run from the relational structure of reality, through the circularity of knowing the world from inside it, quantum spacetime, the arrow of time and free will, what exists, to a closing lecture without certainty or foundations that turns on the *Zhuangzi*'s exchange about the happiness of fish. Three figures anchor the argument — [Wittgenstein](/positioning/persons/w/wittgenstein/), Nagarjuna and Zhuangzi — each questioning an absolute, externally observable reality. The moral claim is that values are relative but not arbitrary, arising through human relations and evolving toward a universalism held as a shared goal rather than assumed as a single perspective. The appendix, which several reviewers single out, is on how science actually works, and says he is not convinced by how it is generally presented. The preface credits [Bas van Fraassen](/positioning/persons/v/van-fraassen/) as among the first to take up the relational interpretation, citing his "Rovelli's World" (1). Reception in English is early: Adam Frank's review takes the book as an explicit rejection of any path to a God's-eye view, with the objection that Rovelli dismisses the primacy of lived experience too quickly, Bergson on time in particular.
 
+**Physics needs philosophy.** The paper "Physics Needs Philosophy. Philosophy Needs Physics" (2018) answers Weinberg, [Hawking](/positioning/persons/h/hawking/) and Tyson by name: "Those who deny the utility of philosophy, are doing philosophy", and the "current anti-philosophical ideology has had damaging effects on the fertility of science". It cuts both ways: "Those philosophers that discount science, and there are many of them, do a serious disservice to intelligence and civilisation". He criticises "the post-Heideggerian atmosphere that dominates some philosophy departments on the 'continent', [where] ignorance of science is something to exhibit with pride".
+
 **Anaximander and the nature of science.** In *Anaximander* (2011/2023), Rovelli argues that the sixth-century BCE thinker inaugurated scientific thinking — not by finding the right answer but by introducing a mode of rational, naturalistic inquiry that rejected supernatural explanation. The essence of science is "learned rebellion": building on predecessors while questioning them. "The foundation of science is not certainty but the very opposite, a radical uncertainty about our own knowledge."
 
 ---
@@ -49,6 +51,7 @@ Rovelli's relational quantum mechanics drops the privileged observer within phys
 - [*Seven Brief Lessons on Physics*](https://en.wikipedia.org/wiki/Seven_Brief_Lessons_on_Physics) (2015) — sold over two million copies, translated into 41 languages
 - [*Reality Is Not What It Seems*](https://en.wikipedia.org/wiki/Reality_Is_Not_What_It_Seems) (2016) — the journey to quantum gravity
 - [*The Order of Time*](https://en.wikipedia.org/wiki/The_Order_of_Time_(book)) (2018) — time dismantled and reconstructed
+- "Physics Needs Philosophy. Philosophy Needs Physics" (*Foundations of Physics* 48, 2018) — the reply to the scientists' verdicts on philosophy
 - [*Helgoland*](https://en.wikipedia.org/wiki/Helgoland_(book)) (2021) — quantum mechanics, Nagarjuna, relational ontology
 - "Meaning = Information + Evolution" (arXiv:1611.02420, 2016; as "Meaning and Intentionality = Information + Evolution", in *Wandering Towards a Goal*, 2018) — meaningful information as survival-relevant correlation
 - "Memory and Entropy" (*Entropy* 24(8):1022, 2022) — the thermodynamic basis of traces and memory

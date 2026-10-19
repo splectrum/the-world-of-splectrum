@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-06-13
+lastmod: 2026-10-19
 title: "Plato (c. 428–348 BCE)"
 description: "Greek philosopher — the theory of Forms, the Republic, the cave, the divided line, mimesis, the banishment of the poets, the Academy."
 ---
@@ -79,6 +79,14 @@ Plato's ethics rests on the Socratic thesis that virtue is knowledge. No one doe
 The *Meno* asks whether virtue can be taught. The dialogue introduces recollection (*anamnesis*): the soul already knows the Forms from before embodiment; learning is remembering. The slave boy who has never studied geometry is led through a proof — evidence that knowledge is already present, waiting to be drawn out.
 
 The *Phaedo* develops the argument for the soul's immortality. The soul is akin to the Forms — simple, invisible, unchanging — and so does not perish with the body. The philosopher's life is a preparation for death: the separation of soul from body, reason from the senses.
+
+---
+
+## Examination and dialectic
+
+In the *Apology* Socrates names what philosophy is for: "daily to discourse about virtue, and of those other things about which you hear me examining myself and others, is the greatest good of man, and … the unexamined life is not worth living" (38a, tr. Jowett); the citizens should care for "wisdom and truth and the greatest improvement of the soul" (29d–30a). His way is to question: "I proceed to interrogate and examine and cross-examine him" (29e).
+
+In the *Phaedo* Socrates recalls how he began: "When I was young, Cebes, I was tremendously eager for the kind of wisdom which they call investigation of nature" (96a, tr. Fowler), *peri physeos historia*, the inquiry into nature, from which he turned away. In the *Republic* the highest method is dialectic, which "alone, goes directly to the first principle and is the only science which does away with hypotheses in order to make her ground secure" (533c–d, Jowett), "the coping-stone of the sciences" (534e). The same dialogue remembers Pythagoras for a way of life: his successors, "even to this day, denominating a certain way of life the Pythagorean, are distinguished among their contemporaries" (600a–b, tr. Shorey).
 
 ---
 

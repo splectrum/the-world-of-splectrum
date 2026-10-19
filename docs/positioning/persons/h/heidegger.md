@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-10-19
 title: "Martin Heidegger (1889–1976)"
 description: "Heidegger displaced the subject-object split — we are always already in a world, disclosed through involvement, not observation."
 ---
@@ -33,6 +33,12 @@ Heidegger broke the spectator model of knowledge. Being-in-the-world — always 
 
 **Language.** "Language is the house of Being" (*Letter on Humanism*, 1947). In the later work, language is not a tool humans use — it is the medium through which Being discloses itself. "Language speaks" (*Die Sprache spricht*): we do not master language; we dwell in it. Poetry, for Heidegger, is language at its most disclosive — the place where what is concealed comes to word.
 
+**The age of the world picture.** In "The Age of the World Picture" (1938) man becomes *subiectum* with Descartes: "Man becomes the relational center of that which is as such", and the world picture is "not … a picture of the world but the world conceived and grasped as picture" (tr. Lovitt). An appendix ties this to an end: "With Descartes begins the completion and consummation of Western metaphysics … Through anthropology the transition of metaphysics into the event of the simple stopping and setting aside of all philosophy is introduced." Young and Haynes render the last words "the simple cessation and suspension of all philosophy".
+
+**The end of philosophy.** In "The End of Philosophy and the Task of Thinking" (1964; first published in French in 1966, in German in *Zur Sache des Denkens*, 1969) Heidegger reads the end of philosophy as its completion in the sciences. "Philosophy is metaphysics", and its end "means the completion of metaphysics. However, completion does not mean perfection": the old meaning of "end" is place, the gathering of philosophy's uttermost possibilities. The word translated "completion" is *Vollendung*, which, as David Farrell Krell notes in his edition of the essay, stresses the full rather than the ending. The sciences' independence "looks like the mere dissolution of philosophy, yet in truth is precisely its completion", and they will be regulated, he expected, by cybernetics. What is left is a task for thinking, which "is less than philosophy".
+
+**What philosophy is.** His lecture "Was ist das – die Philosophie?" (Cerisy-la-Salle, 1955) confined itself, as Dominique Janicaud reports, to the Greek origin of philosophy, starting from "The Greek word philosophia indicates the direction". The *Internet Encyclopedia of Philosophy* sums up his later metaphilosophy as holding "that: philosophy is metaphysics; metaphysics involves a fundamental mistake; metaphysics is complicit in modernity's ills; metaphysics is entering into its end; and 'thinking' should replace metaphysics/philosophy". Its method, as the IEP quotes him, is "a destruction … in which the traditional concepts … are deconstructed down to the … sources from which they were drawn"; the later thinking is "a kind of thoughtful questioning", and "All philosophical thinking" is "in itself poetic". What thinking promises is "a new ground and a new foundation upon which we can stand and endure in the world of technology without being imperiled by it" (*Discourse on Thinking*).
+
 ---
 
 ## The political stain
@@ -52,8 +58,10 @@ Heidegger's later work grows increasingly solitary — Being withdraws, poetry r
 - [*Being and Time*](https://en.wikipedia.org/wiki/Being_and_Time) (1927) — the analytic of Dasein, being-in-the-world, temporality
 - [*The Origin of the Work of Art*](https://en.wikipedia.org/wiki/The_Origin_of_the_Work_of_Art) (1935/36) — truth as unconcealment, the work of art as world-disclosing
 - [*Letter on Humanism*](https://en.wikipedia.org/wiki/Letter_on_%22Humanism%22) (1947) — language as the house of Being, against Sartre's existentialism
+- "The Age of the World Picture" (1938) — the world as picture, man as *subiectum*
 - [*The Question Concerning Technology*](https://en.wikipedia.org/wiki/The_Question_Concerning_Technology) (1954) — technology as a mode of revealing, the danger of *Gestell*
 - [*On the Way to Language*](https://en.wikipedia.org/wiki/On_the_Way_to_Language) (1959) — language speaks, not the subject; language as the medium of disclosure
+- "The End of Philosophy and the Task of Thinking" (1964; in *Zur Sache des Denkens*, 1969) — philosophy as metaphysics, its end as completion in the sciences, thinking as what remains
 
 ---
 

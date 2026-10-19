@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-07-03
+lastmod: 2026-10-19
 title: "Jacques Derrida (1930–2004)"
 description: "French philosopher — deconstruction, différance, the trace, the metaphysics of presence, writing and difference, the supplement."
 ---
@@ -15,7 +15,7 @@ Derrida's work is a sustained demonstration that the oppositions Western philoso
 
 Born in El Biar, near Algiers, in 1930, into a Sephardic Jewish family. He was expelled from school at twelve under Vichy racial laws — an experience of exclusion he later connected to his philosophical attention to margins, supplements, and what is pushed outside. He moved to Paris in 1949, studied at the École Normale Supérieure, and failed the *agrégation* on his first attempt (a detail biographers enjoy). He taught at the ENS, the Sorbonne, and the École des Hautes Études en Sciences Sociales, and held a regular visiting position at Yale and later the University of California, Irvine.
 
-His 1966 lecture "Structure, Sign, and Play in the Discourse of the Human Sciences" at Johns Hopkins introduced deconstruction to the American academy. The reception was polarising: embraced by literary theorists and Continental philosophers, attacked by analytic philosophers (the 1992 Cambridge honorary degree controversy, where analytic philosophers protested his nomination, crystallised the divide). He was extraordinarily prolific — over eighty books — and his later work extended deconstruction into ethics, politics, law, religion, and friendship. He died in Paris in 2004.
+His 1966 lecture "Structure, Sign, and Play in the Discourse of the Human Sciences" at Johns Hopkins introduced deconstruction to the American academy. The reception was polarising: embraced by literary theorists and Continental philosophers, attacked by many analytic philosophers. In 1992 a Cambridge proposal to give him an honorary degree drew a letter to *The Times* from Barry Smith and eighteen other academics, among them [Quine](/positioning/persons/q/quine/), saying his work "does not meet accepted standards of clarity and rigour"; after a ballot of the university, the degree was granted. The [deconstruction](/positioning/subjects/d/deconstruction/) subject tells the affair in full. He was extraordinarily prolific — over eighty books — and his later work extended deconstruction into ethics, politics, law, religion, and friendship. He died in Paris in 2004.
 
 ---
 
@@ -33,13 +33,15 @@ Derrida reads the Western philosophical tradition as structured by what he calls
 
 Derrida argues that the features attributed to writing — iterability (a sign can be repeated in new contexts), the absence of the author, the possibility of misunderstanding — are not defects of writing but conditions of all language, including speech. If a word could not be repeated beyond its original context, it would not be a word. The "writerly" features philosophy pushes to the margins are the conditions of the language it uses to push them there.
 
+Derrida does not announce the end of this metaphysics. In *Of Grammatology* (1967) the epoch is one "of which we merely glimpse the closure. I do not say the end" (Spivak's translation). "The age of the sign is essentially theological. Perhaps it will never end. Its historical closure is, however, outlined." What closes is a historical epoch of metaphysics, and the reading goes on working inside it.
+
 ---
 
 ## Deconstruction as reading
 
 Deconstruction is not a method or a theory but a practice of close reading that finds, within a text, the moments where the text's own logic undermines its stated claims. Every text that establishes a hierarchy (speech over writing, nature over culture, inside over outside) relies on the subordinated term in ways it cannot acknowledge without collapsing. Deconstruction traces these dependencies — not to reverse the hierarchy (that would leave the structure intact) but to show that the opposition was never stable.
 
-The practice is textual and patient: Derrida's major deconstructive readings — of [Plato](/positioning/persons/p/plato/) (*Plato's Pharmacy*), Rousseau (*Of Grammatology*), [Husserl](/positioning/persons/h/husserl/) (*Speech and Phenomena*), [Lévi-Strauss](https://plato.stanford.edu/entries/levi-strauss/) (*Of Grammatology*), Austin (*Limited Inc*) — each works through a specific text in detail, following its internal logic to the point where it turns on itself. The readings are not external critiques brought to a text but developments of what the text already contains.
+The practice is textual and patient: Derrida's major deconstructive readings — of [Plato](/positioning/persons/p/plato/) (*Plato's Pharmacy*), Rousseau (*Of Grammatology*), [Husserl](/positioning/persons/h/husserl/) (*Speech and Phenomena*), [Lévi-Strauss](https://plato.stanford.edu/entries/levi-strauss/) (*Of Grammatology*), Austin (*Limited Inc*) — each works through a specific text in detail, following its internal logic to the point where it turns on itself. The readings are not external critiques brought to a text but developments of what the text already contains. In "Letter to a Japanese Friend" (1983): "Deconstruction is not a method and cannot be transformed into one." From the 1980s the later work held that "deconstruction is justice" (as the *Internet Encyclopedia of Philosophy* quotes him).
 
 ---
 
@@ -50,6 +52,14 @@ Two recurring figures in Derrida's work:
 **The supplement.** In Rousseau, writing is a supplement to speech — an addition that is also a replacement. The supplement is both extra (added from outside) and essential (filling a lack that was already there). Derrida generalises: the supplement reveals that what claims to be complete already has a gap — the need for supplementation is the condition, not the accident.
 
 **The trace.** No sign is fully present; each carries the trace of the signs it differs from and defers to. Presence is constituted by absence — the trace of what is not there. The trace is not an origin (there is no simple origin) but the mark of a difference that precedes any identity.
+
+---
+
+## Philosophy and its name
+
+In the *Internet Encyclopedia of Philosophy*'s gloss, for Derrida "in philosophy the nature of philosophy is always and everywhere at issue". In 1978, quoted by Simon Glendinning in *The Idea of Continental Philosophy* (2006), he wrote that the breakdown between the traditions can "make one doubt the unity of the philosophical, of the concept or project behind the word philosophy, which then constantly risks being but a homonymic lure".
+
+On his visit to China in 2001 he said, in conversation with Wang Yuanhua, "中国没有哲学，只有思想". The French original has not been preserved, and Yijing Zhang notes that the Chinese can be read as "China has no philosophy, only thought" or "no philosophy, but it does have thought". In the interview preface to the Chinese translation of *Writing and Difference* (2001), as Zheng Jiadong quotes it, he agreed with [Heidegger](/positioning/persons/h/heidegger/) that philosophy is tied to a finite history, a language and an ancient Greek invention, a European form, and held that the thought and knowledge outside Western Europe have equal dignity but that calling them philosophy is not reasonable. Zheng and others paired the remark with the debate over the "legitimacy" of Chinese philosophy.
 
 ---
 

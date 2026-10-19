@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-10-19
 title: "René Descartes (1596–1650)"
 description: "Descartes fired the starting shot — the thinking subject at the centre, but the mirror and the mind-body split persisted for centuries."
 ---
@@ -23,7 +23,9 @@ Descartes placed the thinking subject at the centre of philosophy. The mirror of
 
 **The mirror.** Descartes assumed that clear and distinct ideas — when God is not deceiving us — correspond to how things really are. The mind is a mirror of nature, and the philosopher's task is to polish the mirror. This picture persisted through Locke, Kant, and the empiricist tradition, and was only systematically dismantled by [Rorty](/positioning/persons/r/rorty/) in the twentieth century.
 
-**Method.** Descartes sought a universal method for arriving at certain knowledge — breaking problems into parts, proceeding from simple to complex, checking for completeness. The method is the ancestor of modern scientific methodology, though Descartes himself grounded it in metaphysics rather than experiment.
+**Method.** The *Discourse on the Method* (1637, Part II) gives four rules: the first "never to accept anything for true which I did not clearly know to be such"; the second, to divide each difficulty "into as many parts as possible"; the third, to proceed from "the simplest and easiest to know" by steps "to the knowledge of the more complex"; the last, "to make enumerations so complete, and reviews so general, that I might be assured that nothing was omitted" (tr. Veitch). Descartes sought a universal method for arriving at certain knowledge — breaking problems into parts, proceeding from simple to complex, checking for completeness. The method is the ancestor of modern scientific methodology, though Descartes himself grounded it in metaphysics rather than experiment.
+
+**Philosophy as a tree.** The letter that prefaces the French edition of the *Principles of Philosophy* defines the word: "the word PHILOSOPHY signifies the study of wisdom, and … by wisdom is to be understood not merely prudence in the management of affairs, but a perfect knowledge of all that man can know, as well for the conduct of his life as for the preservation of his health and the discovery of all the arts", and such knowledge "must necessarily be deduced from first causes". Its image: "all Philosophy is like a tree, of which Metaphysics is the root, Physics the trunk, and all the other sciences the branches", the branches chiefly medicine, mechanics and ethics (tr. Veitch).
 
 ---
 

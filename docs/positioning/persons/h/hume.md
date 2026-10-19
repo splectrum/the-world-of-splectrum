@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-12
+lastmod: 2026-10-19
 title: "David Hume (1711–1776)"
 description: "Hume grounded morality in sentiment, causation in habit, convention in coordination — philosopher, historian, essayist, and cheerful sceptic."
 ---
@@ -24,6 +24,8 @@ Hume is the most important philosopher to write in English — empiricist episte
 **The bundle theory of self.** There is no enduring self behind the flow of experience. The self is a bundle of perceptions — "I always stumble on some particular perception or other" — not a substance.
 
 **Naturalism.** Despite his scepticism, Hume was not a nihilist. Nature compels us to believe in causation, in the external world, in the self — even when reason cannot justify these beliefs. Custom and habit do the work that reason cannot. Philosophy's task is not to replace natural belief but to understand it.
+
+**Two kinds of philosophy.** The *Enquiry concerning Human Understanding* opens: "MORAL philosophy, or the science of human nature, may be treated after two different manners", the easy and obvious, which considers man as an active being, and the accurate and abstruse, which considers him "in the light of a reasonable rather than an active being" (§1). Nature herself is given a voice: "let your science be human, and such as may have a direct reference to action and society … Be a philosopher; but, amidst all your philosophy, be still a man". The abstruse kind still has its use: "We must submit to this fatigue, in order to live at ease ever after: And must cultivate true metaphysics with some care, in order to destroy the false and adulterate". The way is "to enquire seriously into the nature of human understanding", a "mental geography, or delineation of the distinct parts and powers of the mind". In the essay "Of Suicide": "ONE considerable advantage, that arises from philosophy, consists in the sovereign antidote, which it affords to superstition and false religion".
 
 ---
 

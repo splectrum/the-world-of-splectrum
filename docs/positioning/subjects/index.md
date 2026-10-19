@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-12
+lastmod: 2026-10-18
 title: "Subjects A–Z"
 description: "Movements, theories and themes of importance to SPLectrum — from domain specific languages and phenomenology to relational quantum mechanics"
 ---
@@ -66,6 +66,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 ## M
 
 - [Madhyamaka](/positioning/subjects/m/madhyamaka/) · Buddhist philosophy<span class="kw">the Middle Way school — emptiness as dependent origination, the two truths, Prāsaṅgika vs Svātantrika, Nāgārjuna, Candrakīrti, the Śaṅkara nihilism exchange, transmission to Tibet and East Asia</span>
+- [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · meta subject<span class="kw">the study of the nature of philosophy — what it is, what it is for and how it should be done; the name and its dispute, explicit and implicit metaphilosophy; the Western line from the inquiry into nature through faith and reason, the critique of reason and the hinge to the twentieth-century streams; philosophy in the Islamic world, India, China, Africa and Latin America, and whether it is philosophy; and philosophy's standing in question: the residue, the claims of its end, the scientists' verdict</span>
 - [Metaphysics](/positioning/subjects/m/metaphysics/) · philosophy, history of ideas<span class="kw">how metaphysics has been approached — five recurring stances toward the enterprise itself: construction, critique, disclosure, deflation, genealogy, with the Western tree set beside Nagarjuna's Madhyamaka as another inheritance</span>
 - [Mineral evolution](/positioning/subjects/m/mineral-evolution/) · geology, astrobiology<span class="kw">Earth's mineral diversity as coupled physical, chemical, and biological history: Hazen, the ten stages, co-evolution with life</span>
 - [Music and meaning](/positioning/subjects/m/music-and-meaning/) · philosophy of music, aesthetics<span class="kw">the long argument over what music means — Hanslick's formalism, expression and emotion (Cooke, Meyer, Levinson), Langer's symbol, Schopenhauer's metaphysics, absolute versus programme music</span>

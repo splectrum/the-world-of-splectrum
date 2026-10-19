@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-08-20
+lastmod: 2026-10-19
 title: "Immanuel Kant (1724–1804)"
 description: "Kant asked how the mind structures experience — the question that defined the turn, even as the outside view survived it."
 ---
@@ -17,7 +17,7 @@ Kant is the hinge. His question — how does the mind structure experience? — 
 
 ## Key concepts
 
-**The Copernican revolution in philosophy.** Kant reversed the question: instead of asking how our knowledge conforms to objects, ask how objects conform to our knowledge. The mind does not passively receive reality — it actively structures experience through its own categories. This is the turn.
+**The Copernican revolution in philosophy.** Kant reversed the question: instead of asking how our knowledge conforms to objects, ask how objects conform to our knowledge. The preface to the second edition proposes "a complete revolution in the procedure of metaphysics", "to do just what COPERNICUS did": metaphysics should try the assumption "that the objects must conform to our cognition"; the *Critique* "is a treatise on the method to be followed, not a system of the science itself" (Akademie III 15, tr. Meiklejohn). The mind does not passively receive reality — it actively structures experience through its own categories. This is the turn.
 
 **The synthesis of the understanding.** "Thoughts without content are empty, intuitions without concepts are blind." Knowledge requires both faculties working together: sensibility supplies intuitions, the understanding supplies concepts, and the understanding's synthesis — its active combining of the sensory manifold under the categories — runs in all experience. There is no experiencing first and cognising after: what arrives as experience is already the product of the mind's activity.
 
@@ -28,6 +28,10 @@ Kant is the hinge. His question — how does the mind structure experience? — 
 **The synthetic a priori.** Kant's most distinctive claim: there are truths that are both informative about the world (synthetic) and knowable prior to experience (a priori). "Every event has a cause" is not a tautology and not an empirical generalisation — it is a condition the mind imposes on experience. This solved Hume's problem of causation, though at the cost of making the mind the legislator of nature.
 
 **The moral law.** The categorical imperative: "Act only according to that maxim whereby you can at the same time will that it should become a universal law." Morality is grounded in reason, not sentiment. The moral agent is autonomous — self-legislating, not obeying external commands.
+
+**The concept of philosophy.** The *Critique* distinguishes a "scholastic conception" of philosophy, "a system of cognition which we are trying to elaborate into a science", from a "cosmical conception" (*Weltbegriff*), "one in which all men necessarily take an interest": "In this view philosophy is the science of the relation of all cognition to the ultimate and essential aims of human reason", and the philosopher "is not merely an artist—who occupies himself with conceptions—but a lawgiver, legislating for human reason" (III 542). "The whole interest of reason, speculative as well as practical, is centred in the three following questions: 1. WHAT CAN I KNOW? 2. WHAT OUGHT I TO DO? 3. WHAT MAY I HOPE?" (III 522); the *Logic*, edited from his lectures by Gottlob Jäsche, adds "Was ist der Mensch?", What is man? Philosophy itself cannot be learned: "We can only learn to philosophize; in other words, we can only exercise our powers of reasoning in accordance with general principles, retaining at the same time, the right of investigating the sources of these principles, of testing, and even of rejecting them".
+
+**Enlightenment.** "What is Enlightenment?" (1784) opens: "Aufklärung ist der Ausgang des Menschen aus seiner selbst verschuldeten Unmündigkeit", enlightenment is the human being's way out of a self-incurred immaturity, the inability to use one's own understanding without another's guidance. Its motto: "Sapere aude! Habe Muth dich deines eigenen Verstandes zu bedienen!", have the courage to use your own understanding.
 
 ---
 
@@ -43,6 +47,7 @@ Kant saved the outside view. The thing-in-itself persists — unknowable, but st
 - [*Critique of Practical Reason*](https://en.wikipedia.org/wiki/Critique_of_Practical_Reason) (1788) — the moral law, autonomy, the categorical imperative
 - [*Critique of Judgment*](https://en.wikipedia.org/wiki/Critique_of_Judgment) (1790) — aesthetics, teleology, the bridge between nature and freedom
 - [*Prolegomena to Any Future Metaphysics*](https://en.wikipedia.org/wiki/Prolegomena_to_Any_Future_Metaphysics) (1783) — the accessible summary of the first Critique
+- ["What is Enlightenment?"](https://en.wikipedia.org/wiki/What_Is_Enlightenment%3F) (1784) — the way out of self-incurred immaturity; *Sapere aude!*
 
 ---
 

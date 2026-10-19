@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-05
+lastmod: 2026-10-19
 title: "Heraclitus (c. 535–c. 475 BCE)"
 description: "Heraclitus saw flux and constancy as inseparable — the river stays the same because the water flows. The logos holds."
 ---
@@ -38,6 +38,14 @@ Heraclitus is best encountered through his own words ([fragments](https://en.wik
 - *"It is wise to listen not to me but to the logos, and to agree that all things are one."* (B50)
 - *"A person's character is their daimon."* (B119)
 - *"The waking share one common world, but the sleeping turn aside each into a world of their own."* (B89)
+
+**On inquiry and the senses.** A second group of fragments concerns how one comes to know. Here in John Burnet's translation (*Early Greek Philosophy*, 2nd ed., 1908):
+
+- *"Men that love wisdom must be acquainted with very many things indeed."* (B35) "Acquainted with" renders *historas*, inquirers; whether Heraclitus wrote "lovers of wisdom" (*philosophous*) is doubted, and Pierre Hadot notes that Diels–Kranz share the doubt.
+- *"The learning of many things teacheth not understanding, else would it have taught Hesiod and Pythagoras, and again Xenophanes and Hekataios."* (B40)
+- *"The things that can be seen, heard, and learned are what I prize the most."* (B55)
+- *"Eyes and ears are bad witnesses to men if they have souls that understand not their language."* (B107)
+- *"I have sought for myself."* (B101)
 
 ---
 

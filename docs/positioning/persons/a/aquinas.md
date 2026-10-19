@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-10-19
 title: "Thomas Aquinas (1225–1274)"
 description: "Italian Dominican friar and theologian — the synthesis of Aristotelian philosophy and Christian theology, the five ways, natural law, the Summa Theologiae."
 ---
@@ -30,6 +30,8 @@ Canonised in 1323. Declared Doctor of the Church in 1567. The *Summa Theologiae*
 Aquinas's central achievement is the integration of two intellectual systems that appeared incompatible: Aristotelian philosophy (pagan, naturalistic, focused on the natural world) and Christian theology (revealed, supernatural, focused on salvation).
 
 **Reason and revelation.** Aquinas distinguishes truths accessible to natural reason (the existence of God, the basic principles of morality, the structure of the natural world) from truths accessible only through revelation (the Trinity, the Incarnation, the specific content of salvation history). The two domains overlap but do not conflict: reason and revelation are complementary paths to truth, because both originate in God. Philosophy can demonstrate God's existence and certain of his attributes; it cannot demonstrate the Trinity or the Incarnation. Theology begins where philosophy reaches its limit.
+
+**Philosophy and sacred doctrine.** The *Summa Theologiae* opens on the question (I q.1). "It was necessary for man's salvation that there should be a knowledge revealed by God besides philosophical science built up by human reason" (a.1, tr. English Dominican Fathers). Sacred doctrine uses the "philosophical disciplines" as inferiors and handmaidens, *tanquam inferioribus et ancillis*: "Other sciences are called the handmaidens of this one" (a.5). The formula *philosophia ancilla theologiae*, philosophy the handmaid of theology, is not his wording; he speaks of the sciences and the philosophical disciplines in the plural. Sacred doctrine "makes use even of human reason, not, indeed, to prove faith … but to make clear other things"; "since therefore grace does not destroy nature but perfects it, natural reason should minister to faith" (a.8). The *Summa*'s own form is the scholastic article: the objections, then "On the contrary", then the answer ("I answer that"), then the replies to the objections.
 
 **The five ways.** *Summa Theologiae* I, q.2, a.3. Five arguments for the existence of God, each starting from an observable feature of the natural world:
 1. Motion — whatever is in motion is moved by something else; the chain of movers cannot extend infinitely; there must be a first unmoved mover.

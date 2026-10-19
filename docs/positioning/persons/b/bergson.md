@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-08-20
+lastmod: 2026-10-19
 title: "Henri Bergson (1859–1941)"
 description: "Bergson put duration at the centre — lived time as continuous flow, creative evolution as genuine novelty, intuition against the spatialising intellect."
 ---
@@ -18,6 +18,8 @@ Bergson insisted that reality is continuous, creative, and irreducible to static
 ## Key concepts
 
 **Duration (*la durée*).** Lived time is not the time of clocks. It is qualitative, heterogeneous, and indivisible — each moment saturated by all that came before. Duration cannot be measured because it cannot be broken into units without destroying what it is. Spatialised time — the time of clocks and physics — captures the measurable and the quantitative, but misses the qualitative and the lived.
+
+**Against mechanism and finalism.** *Creative Evolution* (1907) takes Laplace's all-knowing intelligence as the statement of mechanical explanation: "The essence of mechanical explanation, in fact, is to regard the future and the past as calculable functions of the present, and thus to claim that *all is given*". Finalism fails for the same reason: "here again it is supposed that all is given. Finalism thus understood is only inverted mechanism" (tr. Mitchell).
 
 **Intuition.** The method that grasps duration from within, as opposed to the intellect that grasps things from outside by spatialising them. Intuition is not mysticism — it is the philosophical effort to think in terms of movement and continuity rather than position and state.
 

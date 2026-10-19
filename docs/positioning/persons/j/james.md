@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-28
+lastmod: 2026-10-19
 title: "William James (1842–1910)"
 description: "James made pragmatism public — truth is what works, experience is a stream, and the test of a philosophy is how it helps us live."
 ---
@@ -24,6 +24,8 @@ James made relations real. His radical empiricism — the insistence that relati
 **Radical empiricism.** The doctrine that experience includes not just things but the relations between them. Conjunctions and disjunctions are as real as the terms they connect. This was James's attempt to overcome the dualism of subject and object without retreating into idealism — a "world of pure experience" where the distinction between knower and known is functional, not ontological.
 
 **The will to believe.** In cases where evidence is insufficient and a decision cannot be postponed, we are entitled to let our "passional nature" decide. James applied this primarily to religious belief: agnosticism in the face of a genuine option is itself a choice, and not necessarily the rational one. The argument was controversial then and remains so.
+
+**Philosophy and the pragmatic method.** *Pragmatism* (1907) opens on temperament: "The history of philosophy is to a great extent that of a certain clash of human temperaments" (Lecture I). Lecture II gives the method and the point. "The pragmatic method is primarily a method of settling metaphysical disputes that otherwise might be interminable"; it is "THE ATTITUDE OF LOOKING AWAY FROM FIRST THINGS, PRINCIPLES, 'CATEGORIES,' SUPPOSED NECESSITIES; AND OF LOOKING TOWARDS LAST THINGS, FRUITS, CONSEQUENCES, FACTS" (capitals his). And "The whole function of philosophy ought to be to find out what definite difference it will make to you and me, at definite instants of our life, if this world-formula or that world-formula be the true one."
 
 **Pluralism.** Reality is not one thing — it is many things, loosely connected. James opposed monism (Hegel, Bradley) and argued for a "pluralistic universe" where unity is partial, relations are external, and the whole is never fully given. "Ever not quite."
 

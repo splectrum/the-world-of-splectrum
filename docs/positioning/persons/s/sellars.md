@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-10-19
 title: "Wilfrid Sellars (1912–1989)"
 description: "Sellars dismantled the myth of the given — no content arrives pre-conceptual, everything is already inside the inferential practice."
 ---
@@ -21,7 +21,7 @@ Sellars closed the door on any starting point outside language. His critique of 
 
 **The space of reasons.** Knowledge claims belong to a normative domain — the space of reasons — distinct from the causal order of nature. To know something is not merely to be caused to be in a certain state; it is to be in a position to justify it, to place it in inferential relations with other claims. The space of reasons is irreducibly social: one enters it by learning a language, by being trained into the practice of giving and asking for reasons.
 
-**The manifest and scientific images.** In "Philosophy and the Scientific Image of Man" (1962), Sellars distinguished two frameworks for understanding the world. The manifest image is the commonsense picture: persons, reasons, intentions, everyday objects. The scientific image replaces these with imperceptible entities and causal laws. Sellars did not choose one over the other — he argued that philosophy's task is to reconcile them, to understand how persons-in-the-manifest-image relate to processes-in-the-scientific-image without reducing either away.
+**The manifest and scientific images.** In "Philosophy and the Scientific Image of Man" (1962), Sellars distinguished two frameworks for understanding the world. The essay opens with a definition: "The aim of philosophy, abstractly formulated, is to understand how things in the broadest possible sense of the term hang together in the broadest possible sense of the term." The manifest image is the commonsense picture: persons, reasons, intentions, everyday objects. The scientific image replaces these with imperceptible entities and causal laws. Sellars did not choose one over the other — he argued that philosophy's task is to reconcile them, to understand how persons-in-the-manifest-image relate to processes-in-the-scientific-image without reducing either away.
 
 **Psychological nominalism.** The claim that all awareness of sorts, resemblances, and facts is a linguistic affair — not in the trivial sense that we need words to report awareness, but in the strong sense that the awareness itself is structured by the language the subject has acquired. Without language, there is sensation but not awareness-of-something-as-something.
 

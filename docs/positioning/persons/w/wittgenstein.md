@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-16
+lastmod: 2026-10-19
 title: "Ludwig Wittgenstein (1889–1951)"
 description: "Wittgenstein turned from logical structure to language games and forms of life — meaning is use, not representation."
 ---
@@ -11,13 +11,13 @@ description: "Wittgenstein turned from logical structure to language games and f
 
 Wittgenstein's later turn — from language as logical picture of reality to language games and forms of life — recast the philosophy of language for the twentieth century. Meaning as practice rather than representation, plurality of grammars rather than one logical form — the shift is one of the deepest in modern philosophy.
 
-[Ludwig Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/) (1889–1951). Born into one of the wealthiest families in Vienna — his father was a steel magnate — he gave away his entire inheritance. He studied engineering in Manchester, became obsessed with the foundations of mathematics, and went to Cambridge to study with Russell. He served in the Austrian army in WWI, writing the *Tractatus* in the trenches and as a prisoner of war. Believing he had solved all the problems of philosophy, he left the field — worked as a village schoolteacher in Austria and a gardener in a monastery. He returned to Cambridge in 1929, spent the rest of his life dismantling his own early work, and the result — the *Philosophical Investigations* — was published posthumously. Tormented, charismatic, and impossible to work with: the life and the philosophy are unusually entangled.
+[Ludwig Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/) (1889–1951). Born into one of the wealthiest families in Vienna — his father was a steel magnate — he gave away his entire inheritance. He studied engineering in Manchester, became obsessed with the foundations of mathematics, and went to Cambridge to study with Russell. He served in the Austrian army in WWI, writing the *Tractatus* in the trenches and as a prisoner of war. Believing he had solved, "in essentials", the problems of philosophy, he left the field — worked as a village schoolteacher in Austria and a gardener in a monastery. He returned to Cambridge in 1929, spent the rest of his life dismantling his own early work, and the result — the *Philosophical Investigations* — was published posthumously. Tormented, charismatic, and impossible to work with: the life and the philosophy are unusually entangled.
 
 ---
 
 ## The early philosophy
 
-The *Tractatus Logico-Philosophicus* (1921) proposed that language mirrors reality through a shared logical structure. Every meaningful proposition is a picture of a possible state of affairs; the totality of true propositions is the world. Logic is the scaffolding. What cannot be pictured cannot be said. "The limits of my language mean the limits of my world" (5.6), and the book closes: "Whereof one cannot speak, thereof one must be silent." Wittgenstein believed this solved all the problems of philosophy — and left the field. When he returned, he dismantled the picture theory entirely. The later philosophy is defined by this rejection: language does not mirror; it is used.
+The *Tractatus Logico-Philosophicus* (1921) proposed that language mirrors reality through a shared logical structure. Every meaningful proposition is a picture of a possible state of affairs; the totality of true propositions is the world. Logic is the scaffolding. What cannot be pictured cannot be said. "The limits of my language mean the limits of my world" (5.6), and the book closes: "Whereof one cannot speak, thereof one must be silent." The preface holds that "the problems have in essentials been finally solved", and adds that the book's value "consists in the fact that it shows how little has been done when these problems have been solved" (Ogden). The book also says what philosophy is. "Alle Philosophie ist ‚Sprachkritik'", all philosophy is critique of language (4.0031). It "is not one of the natural sciences"; the word "must mean something which stands above or below, but not beside the natural sciences" (4.111). "The object of philosophy is the logical clarification of thoughts. Philosophy is not a theory but an activity" (4.112). And its method: "To say nothing except what can be said, i.e. the propositions of natural science … and then always, when someone else wished to say something metaphysical, to demonstrate to him that he had given no meaning to certain signs in his propositions" (6.53). When he returned, he dismantled the picture theory entirely. The later philosophy is defined by this rejection: language does not mirror; it is used.
 
 ---
 
@@ -43,9 +43,9 @@ The *Tractatus Logico-Philosophicus* (1921) proposed that language mirrors reali
 
 ## The therapeutic stance
 
-"We may not advance any kind of theory. There must not be anything hypothetical in our considerations. We must do away with all explanation, and description alone must take its place" (§109). Philosophy "leaves everything as it is" (§124). "Philosophy simply puts everything before us, and neither explains nor deduces anything" (§126).
+"We may not advance any kind of theory. There must not be anything hypothetical in our considerations. We must do away with all explanation, and description alone must take its place … The problems are solved, not by giving new information, but by arranging what we have always known. Philosophy is a battle against the bewitchment of our intelligence by means of language" (§109). Philosophy "leaves everything as it is" (§124). "Philosophy simply puts everything before us, and neither explains nor deduces anything" (§126). "The work of the philosopher consists in assembling reminders for a particular purpose" (§127).
 
-Philosophical problems arise when "language goes on holiday" (§38) — when words are used outside the games where they do their work. The philosopher's task is "to show the fly the way out of the fly-bottle" (§309). "The real discovery is the one that makes me capable of stopping doing philosophy when I want to. — The one that gives philosophy peace" (§133).
+Philosophical problems arise when "language goes on holiday" (§38) — when words are used outside the games where they do their work. The philosopher's task is "to show the fly the way out of the fly-bottle" (§309). "The clarity that we are aiming at is indeed complete clarity. But this simply means that the philosophical problems should completely disappear. The real discovery is the one that makes me capable of stopping doing philosophy when I want to. — The one that gives philosophy peace" (§133). The same section: "There is not a philosophical method, though there are indeed methods, like different therapies".
 
 ---
 

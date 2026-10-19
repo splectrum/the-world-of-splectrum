@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-10-19
 title: "Jürgen Habermas (1929–2025)"
 description: "Habermas relocated rationality from the individual to the space between subjects — communicative action, discourse ethics, the public sphere."
 ---
@@ -22,6 +22,8 @@ Habermas placed rationality in the space between subjects — not in the individ
 **The ideal speech situation.** A counterfactual standard built into communication itself: a conversation in which only the force of the better argument prevails, free from coercion, manipulation, or asymmetry. No actual conversation meets this standard, but every genuine attempt at understanding presupposes it.
 
 **Discourse ethics.** Moral norms are valid only if they could be accepted by all affected in a rational discourse. This is not consensus as compromise — it is consensus as the outcome of a process where all participants have equal standing and only reasons count.
+
+**Postmetaphysical thinking.** Habermas calls his orientation "postmetaphysical thinking". In the *Internet Encyclopedia of Philosophy*'s account it rejects "a normative privilege for philosophy" and the idea that philosophy can "make claims about the world as a whole" (the latter Peter Dews's phrase). Discourse ethics makes morality and ethics matters not for the philosopher but "for the discourse between citizens" (*Autonomy and Solidarity*, the interviews edited by Dews). The "communicative turn" holds, in the IEP's words, "that human apprehension is at root both linguistic and intersubjective".
 
 **Lifeworld and system.** The *lifeworld* is the background of shared meanings, practices, and assumptions that makes communication possible. The *system* — markets, bureaucracies — operates through steering media (money, power) that bypass communicative understanding. Habermas's diagnosis: the system *colonises* the lifeworld, replacing understanding with administration.
 

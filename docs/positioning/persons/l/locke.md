@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-10-19
 title: "John Locke (1632–1704)"
 description: "English philosopher — empiricism, the Essay Concerning Human Understanding, the social contract, natural rights, the tabula rasa."
 ---
@@ -28,6 +28,8 @@ The *Essay* (1689) argues that the mind has no innate ideas — no ideas or prin
 **Primary and secondary qualities.** Objects have primary qualities (extension, shape, motion, number) that exist in the objects themselves and secondary qualities (colour, sound, taste, warmth) that are produced by the interaction between the object's primary qualities and the perceiver's sensory apparatus. The distinction was anticipated by [Democritus](/positioning/persons/d/democritus/) ("by convention sweet... in reality atoms and void") and became central to the modern scientific worldview.
 
 **Personal identity.** Locke argued that personal identity consists in continuity of consciousness — particularly memory — not in continuity of substance (soul or body). A person is the same person they were yesterday because they remember being that person. The proposal was radical and remains debated.
+
+**The design of the *Essay*.** The Epistle to the Reader traces the book to a discussion among friends that stalled, when "it came into my thoughts that we took a wrong course; and that before we set ourselves upon inquiries of that nature, it was necessary to examine our own abilities, and see what OBJECTS our understandings were, or were not, fitted to deal with". It sets the book beside the master-builders of the sciences, Boyle, Sydenham, Huygens and Newton: "it is ambition enough to be employed as an under-labourer in clearing the ground a little, and removing some of the rubbish that lies in the way to knowledge". The Introduction calls its approach a "historical, plain method", an account of "the ways whereby our understandings come to attain those notions of things we have" (§2). The *Essay* is usually dated 1689, the year it appeared; its title page reads 1690.
 
 ---
 

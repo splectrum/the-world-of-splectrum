@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-05
+lastmod: 2026-10-19
 title: "Aristotle (384–322 BCE)"
 description: "Greek philosopher — teleology, the four causes, virtue ethics, the first systematic biology, the syllogism, substance and form."
 ---
@@ -85,6 +85,14 @@ But Aristotle's own classification keeps art subordinate. The sciences divide in
 
 ---
 
+## Wonder, the first philosophers and the common opinions
+
+The *Metaphysics* opens its history of the earliest philosophers with their motive: "it is owing to their wonder that men both now begin and at first began to philosophize … since they philosophized in order to escape from ignorance, evidently they were pursuing science in order to know, and not for any utilitarian end" (I.2, tr. Ross). He reads them as forerunners in the search for causes: "Of the first philosophers, then, most thought the principles which were of the nature of matter were the only principles of all things", with Thales "the founder of this type of philosophy" (I.3). It was Aristotle, in Pierre Hadot's account, "and with him the entire tradition of the history of philosophy", who applied the word "philosophers" to the first Greek thinkers. He also reports Anaxagoras's answer to why one should choose to be born rather than not: "For the sake of contemplating the heavens and the whole order of the universe" (*Eudemian Ethics* 1216a, tr. Rackham).
+
+His method starts from what is already believed: "We must, as in all other cases, set the observed facts before us and, after first discussing the difficulties, go on to prove, if possible, the truth of all the common opinions … or, failing this, of the greater number and the most authoritative" (*Nicomachean Ethics* VII.1, 1145b2–7, tr. Ross). The common opinions are the *endoxa*, those "accepted by every one or by the majority or by the philosophers", and for the philosophical sciences "the ability to raise searching difficulties on both sides of a subject" helps (*Topics* I.1–2, tr. Pickard-Cambridge).
+
+---
+
 ## Where Aristotle stops
 
 The teleological framework — everything has a purpose, and understanding requires identifying it — was the most productive explanatory scheme in the history of natural philosophy and the one most decisively challenged by modern science. In physics, the scientific revolution (Galileo, Newton) replaced teleological explanation with mechanical explanation: falling bodies do not move toward their natural place; they obey the law of gravitation. In biology, Darwin replaced teleological explanation with selectionist explanation: organisms are not designed for their environments; they are selected by their environments. Whether this eliminates teleology or relocates it is the central philosophical question. [Philippa Foot](/positioning/persons/f/foot/) and [Alasdair MacIntyre](/positioning/persons/m/macintyre/) have argued for a neo-Aristotelian naturalism in which natural teleology survives within biology (organisms genuinely have functions, and the virtues genuinely fulfil the human function). Critics, including [Bernard Williams](/positioning/persons/w/williams-b/), have argued that the human-function claim cannot survive the recognition that human beings are not designed for anything — that there is no *ergon*.
@@ -104,6 +112,8 @@ The political and ethical framework excluded women, slaves, and non-Greeks from 
 - *Historia Animalium* — comparative zoology, classification, observation
 - *De Anima* ("On the Soul") — the soul as form of a living body, perception, intellect
 - *Posterior Analytics* — demonstrative knowledge, the structure of science
+- *Topics* — dialectic, the *endoxa*, arguing on both sides of a question
+- *Eudemian Ethics* — the other ethics, with the report of Anaxagoras on why to be born
 - *Categories* and *Prior Analytics* — the theory of predication, the syllogism
 
 ---

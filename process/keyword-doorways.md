@@ -28,7 +28,7 @@ They are three jobs, not three versions of one job, and the register differs in 
 
 **3. Facets answer to the definition.** Structure a meta subject by facet — discipline, or resonance point, or whatever the material's own shape is — and each facet entry says what it brings to the keyword, not what the target page is about. Intermediate landing directories may exist unlinked and be activated on volume.
 
-**4. Never a primary source.** The meta subject states only what the layer below explicitly backs (see `backing-flows-down.md`). It is a way in, not a place where claims are made.
+**4. Never a primary source.** The meta subject states only what the layer below explicitly backs (see `backing-flows-down.md`). It is a way in, not a place where claims are made. A figure deliberately kept as an external link has no layer below; what the meta subject says of them is held to checked items in the research note, and a figure who comes to carry a headline is a person-page candidate to discuss.
 
 **5. Check the word before building.** The pattern works cleanly where the field uses the keyword itself — there is a literature that says "emergence" and one that says "cognition", so the doorway gathers work that names itself. Where the field's own words differ from ours, the scope definition does more work and the bundle may need a page for the territory carried under other names (as the emergence bundle has). Establish which case a keyword is in before building it.
 
@@ -47,6 +47,7 @@ Keywords, and the state of each doorway. To be kept current; not every keyword w
 - **Life** — candidate, working document opened 2026-10-07 (`plan/life/life-meta-subject.md`). Origin of life as one part of it (with assembly theory, mineral evolution and chemical evolution as existing backing); expected to take in the field's own stretches of "living" beyond the cellular case. Position-side material: `plan/life/seed-and-origin-of-life.md`, `plan/life/sketch-seed-native-definition-of-aliveness.md`.
 - **Time** — candidate, working document opened 2026-10-12 (`plan/time/time-meta-subject.md`). Jules: time requires process and historicity — the seed-side definition; the doorway gathers the field's angles (physics, philosophy of time, life and the earth, mind, society, engineering). Overlaps Being and becoming on the A/B theory — boundary to settle.
 - **AI** — candidate, working document opened 2026-10-07 (`plan/ai/ai-meta-subject.md`). A doorway in its own right, cross-linked to cognition.
+- **Metaphilosophy** — drafted 2026-10-18 at `/positioning/subjects/m/metaphilosophy/`: hub (the name, the three questions, explicit and implicit) and pieces in three groups: Western philosophy (ancient, medieval, early modern, the hinge, the twentieth century, two traditions), non-Western philosophy (is it philosophy?, the Islamic world, India, China, Japan, Africa, Latin America), and Western philosophy in question (the residue, the end of philosophy and others), between the two. Its position-side surfaces are a Real Life page and posts (what philosophy is, the end of philosophy, modern natural philosophy). Not live: person-page backing first.
 - **Meaning**, **experience** — unexamined. Each may already be served by existing subject material rather than needing a doorway; check before scoping.
 
 ## Why it is worth the discipline

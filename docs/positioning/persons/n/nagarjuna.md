@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-08-20
+lastmod: 2026-10-19
 title: "Nāgārjuna (c. 150–c. 250 CE)"
 description: "Indian Buddhist philosopher — śūnyatā (emptiness), dependent origination, the Mūlamadhyamakakārikā, the founding of the Madhyamaka school."
 ---
@@ -23,7 +23,7 @@ The attribution of texts is contested. The *Mūlamadhyamakakārikā* is universa
 
 ## Śūnyatā and dependent origination
 
-The *Mūlamadhyamakakārikā* (MMK), composed in verse, is Nāgārjuna's central work. The argumentative method is *prasaṅga* — reductio ad absurdum. Nāgārjuna does not advance a thesis of his own; he takes the theses of his opponents (Buddhist and non-Buddhist alike) and shows that they generate contradictions when their implicit assumptions are made explicit. The result is not skepticism but the demonstration that the concepts being deployed — causation, identity, change, existence — cannot be sustained as independently real.
+The *Mūlamadhyamakakārikā* (MMK), composed in verse, is Nāgārjuna's central work. The argumentative method is *prasaṅga* — reductio ad absurdum. Nāgārjuna does not advance a thesis of his own, and says so: answering a critic who holds him to the means of knowing, he replies that if he had any thesis (*pratijñā*) the fault would be his, but he has none, and so the fault is not his (*Vigrahavyāvartanī* 29). He takes the theses of his opponents (Buddhist and non-Buddhist alike) and shows that they generate contradictions when their implicit assumptions are made explicit. The result is not skepticism but the demonstration that the concepts being deployed — causation, identity, change, existence — cannot be sustained as independently real. The point is the relinquishing of views: the victors, he writes, called emptiness the relinquishing of all views, and those for whom emptiness is itself a view incurable (MMK 13.8). The work closes by bowing to Gautama, who taught the true dharma for the abandoning of all views (27.30).
 
 **Emptiness (*śūnyatā*).** Everything is empty of inherent self-nature. A thing that existed by its own nature — independently of conditions, relations, and context — could neither arise nor cease, because arising and ceasing are relational. If a pot existed by its own nature, it would not need clay, a potter, or a wheel. But it does. Therefore the pot does not exist by its own nature. This is not the claim that the pot does not exist; it is the claim that the pot's existence is dependent, relational, conditional. Emptiness is the absence of independent existence, not the absence of existence. The distinction is central and often misunderstood: "Emptiness wrongly grasped is like a snake wrongly seized" (MMK 24:11, in Nāgārjuna's own warning).
 

@@ -1,8 +1,8 @@
 ---
 layout: default
-lastmod: 2026-05-26
+lastmod: 2026-10-18
 title: "Stephen Hawking (1942–2018)"
-description: "British theoretical physicist — the singularity theorems (with Penrose), Hawking radiation, the black hole information paradox, the no-boundary proposal, the three arrows of time."
+description: "Theoretical physicist — singularity theorems, Hawking radiation, the information paradox, the no-boundary proposal, arrows of time, 'philosophy is dead'."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Hawking
@@ -45,6 +45,14 @@ Hawking's early work extended Penrose's singularity theorem from gravitational c
 
 ---
 
+## Philosophy
+
+Hawking wrote about philosophy's place beside physics twice, first as a lament and then as a verdict. At the end of *A Brief History of Time* (1988) he regretted that the philosophers, "the people whose business it is to ask why", had "not been able to keep up with the advance of scientific theories". As science became "too technical and mathematical for the philosophers", they "reduced the scope of their inquiries" until, in his account, the analysis of language was all that was left to them: "What a comedown from the great tradition of philosophy from Aristotle to Kant!" The book closes in hope that a complete theory would let "philosophers, scientists, and just ordinary people" take part together in asking why we and the universe exist.
+
+In *The Grand Design* (2010, with Leonard Mlodinow) the questions of the nature of reality and of whether the universe needed a creator are named as questions traditionally left to philosophy, and the book declares that "philosophy is dead. Philosophy has not kept up with modern developments in science, particularly physics." [Paul Thagard](https://en.wikipedia.org/wiki/Paul_Thagard) pointed out that the book goes on to take philosophical positions of its own: its "model-dependent realism" holds that "There is no picture- or theory-independent concept of reality", and such claims "are all philosophical in making general claims about the nature of knowledge and reality". The philosopher of physics [Tim Maudlin](https://en.wikipedia.org/wiki/Tim_Maudlin) replied that the philosophy of physics "has become seamlessly integrated with the foundations of physics work done by actual physicists, so the situation is actually the exact opposite of what he describes". [Rovelli](/positioning/persons/r/rovelli/) answered him and Weinberg by name in 2018.
+
+---
+
 ## Where Hawking stops
 
 The singularity theorems prove that general relativity, under generic conditions, produces singularities — points where the theory breaks down. They are results about where general relativity fails, not about what replaces it. The theorems point toward the need for a quantum theory of gravity; Hawking spent much of his career pursuing one, but no satisfactory theory exists. The singularities remain as markers of incompleteness.
@@ -63,6 +71,7 @@ The no-boundary proposal offers a specific answer to the initial-condition probl
 - Hartle, J. B. and S. W. Hawking, "Wave function of the Universe," *Physical Review D* 28 (1983) — the no-boundary proposal
 - *A Brief History of Time* (Bantam, 1988) — the three arrows, the no-boundary proposal, popular exposition
 - Hawking, S. W. and R. Penrose, *The Nature of Space and Time* (Princeton University Press, 1996) — their disagreements on quantum gravity and the initial condition, in debate form
+- Hawking, S. and L. Mlodinow, *The Grand Design* (Bantam, 2010) — model-dependent realism; "philosophy is dead"
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-06-13
+lastmod: 2026-10-19
 title: "Willard Van Orman Quine (1908–2000)"
 description: "American philosopher — Two Dogmas of Empiricism, ontological relativity, the web of belief, naturalised epistemology, the indeterminacy of translation."
 ---
@@ -41,9 +41,11 @@ The consequence is **ontological relativity** — what there is (the ontology of
 
 ## Naturalised epistemology
 
-["Epistemology Naturalized"](https://plato.stanford.edu/entries/epistemology-naturalized/) (1969) proposes replacing traditional epistemology (the philosophical justification of knowledge from first principles) with the empirical study of how human beings actually acquire beliefs from sensory input. If the foundationalist programme has failed — if there is no Archimedean point from which to justify science — then the right response is not scepticism but the recognition that epistemology is itself a branch of natural science: psychology, cognitive science, the study of the causal relation between sensory stimulation and theoretical output.
+["Epistemology Naturalized"](https://plato.stanford.edu/entries/epistemology-naturalized/) (1969) proposes replacing traditional epistemology (the philosophical justification of knowledge from first principles) with the empirical study of how human beings actually acquire beliefs from sensory input. If the foundationalist programme has failed — if there is no Archimedean point from which to justify science — then the right response is not scepticism but the recognition that epistemology is itself a branch of natural science: psychology, cognitive science, the study of the causal relation between sensory stimulation and theoretical output. In Quine's words: "Epistemology, or something like it, simply falls into place as a chapter of psychology and hence of natural science." The direction of containment reverses: "The old epistemology aspired to contain, in a sense, natural science … Epistemology in its new setting, conversely, is contained in natural science, as a chapter of psychology."
 
 This was controversial: critics (notably [Putnam](/positioning/persons/p/putnam/) and Kim) argued it confuses the question of how we *do* form beliefs with the question of how we *should* — it eliminates the normative dimension of epistemology. Quine's response was that the normative survives within science: we evaluate beliefs by their predictive success, coherence, and simplicity, but we do so from within the web, not from outside it.
+
+On ontology, *From a Logical Point of View* has "Ontological questions … are on a par with questions of natural science", and in *Theories and Things* (1981) "it is only within science itself, and not in some prior philosophy, that reality is to be identified and described" (both as the *Internet Encyclopedia of Philosophy* quotes them).
 
 ---
 
@@ -62,6 +64,7 @@ The indeterminacy of translation raises the question of how communication succee
 - [*Word and Object*](https://en.wikipedia.org/wiki/Word_and_Object) (1960) — radical translation, indeterminacy, ontological relativity, the inscrutability of reference
 - ["Epistemology Naturalized"](https://en.wikipedia.org/wiki/Epistemology_Naturalized) (1969) — the replacement of foundational epistemology with empirical psychology
 - *The Web of Belief* (with Joseph Ullian, 1970) — the accessible statement of Quinean holism
+- *Theories and Things* (1981) — essays; reality identified within science, not in a prior philosophy
 
 ---
 

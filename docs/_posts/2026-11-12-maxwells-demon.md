@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maxwell's Demon"
-date: 2026-11-01
+date: 2026-11-12
 lastmod: 2026-09-22
 labels: [conversations, science]
 description: "In 1867 Maxwell described a creature that could break the second law of thermodynamics by watching molecules and opening a door. A hundred and sixty years later the argument about whether it has been exorcised is still going."

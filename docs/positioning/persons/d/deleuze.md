@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-28
+lastmod: 2026-10-19
 title: "Gilles Deleuze (1925–1995)"
 description: "French philosopher — difference and repetition, the rhizome, multiplicity, the fold, assemblages, and the philosophy of immanence."
 ---
@@ -47,6 +47,8 @@ The philosophical targets are [Hegel](/positioning/persons/h/hegel/) (who subord
 
 **Deterritorialisation and reterritorialisation.** Processes by which assemblages break apart (deterritorialisation) and reconfigure (reterritorialisation). The movement is continuous: every configuration is a temporary stabilisation of forces that are always capable of recombining differently.
 
+**What is philosophy?** *Qu'est-ce que la philosophie?* (with Guattari, 1991; *What Is Philosophy?*, 1994) places philosophy, in the *Stanford Encyclopedia of Philosophy*'s summary, "in relation to science and art, all three being modes of thought, with no subordination among them": philosophy creates concepts, science creates functions on a plane of reference, and art creates "a bloc of sensation".
+
 ---
 
 ## Where Deleuze stops
@@ -66,6 +68,7 @@ The reception has been split along disciplinary lines. In continental philosophy
 - Deleuze, G. and F. Guattari, *L'Anti-Œdipe* (*Anti-Oedipus*, Minuit, 1972) — desiring-production, the critique of Oedipal psychoanalysis
 - Deleuze, G. and F. Guattari, *Mille Plateaux* (*A Thousand Plateaus*, Minuit, 1980) — rhizomes, assemblages, deterritorialisation
 - *Le Pli: Leibniz et le baroque* (*The Fold: Leibniz and the Baroque*, Minuit, 1988) — Leibniz, Whitehead, the fold as ontological concept
+- Deleuze, G. and F. Guattari, *Qu'est-ce que la philosophie?* (*What Is Philosophy?*, Minuit, 1991) — philosophy as the creation of concepts, beside science and art
 
 ---
 

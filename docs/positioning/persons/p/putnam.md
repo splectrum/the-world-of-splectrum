@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-09-27
+lastmod: 2026-10-19
 title: "Hilary Putnam (1926–2016)"
 description: "American philosopher — internal realism, conceptual relativity, the collapse of the fact/value dichotomy, the brain in a vat, and the trajectory from scientific realism through pragmatism."
 ---
@@ -20,6 +20,8 @@ Born 31 July 1926 in Chicago, Illinois. His father Samuel Putnam was a translato
 Taught at Northwestern University (1951–52), Princeton (1953–61), and MIT (1961–65). Appointed professor of philosophy at Harvard (1965), where he spent the remainder of his career. Cogan University Professor of the Humanities (1976–2000) — a university-wide chair reflecting the breadth of his work across philosophy of mind, philosophy of language, philosophy of science, mathematics, and ethics.
 
 Politically active in the late 1960s: supported the Progressive Labor Party, a Maoist-aligned organisation, and co-taught courses with radical students. He later distanced himself from the PLP, describing the involvement as a mistake, though not the underlying moral commitments that had motivated it. In the 1990s he became an observant Jew, and his later philosophical work increasingly engaged with Jewish thought and the philosophy of religion.
+
+He kept working on the foundations of quantum mechanics. By the 1960s, in Christian Wüthrich's account, "most of the people working in fundamental physics had turned away from the foundational problems of quantum mechanics"; "only a few intrepid souls such as John S Bell, Abner Shimony, and Hilary Putnam stubbornly continued to puzzle over these 'philosophical' problems".
 
 Putnam published prolifically, often revising or abandoning earlier positions — a characteristic that frustrated commentators but that he considered a philosophical virtue. Died 13 March 2016 in Arlington, Massachusetts.
 

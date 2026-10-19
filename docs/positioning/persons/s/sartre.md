@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-10-19
 title: "Jean-Paul Sartre (1905–1980)"
 description: "Sartre took phenomenology into existentialism — radical freedom, consciousness as pure intentionality, existence before essence."
 ---
@@ -27,7 +27,7 @@ Sartre took [phenomenology](/positioning/subjects/p/phenomenology/) in the direc
 
 **The look (*le regard*).** The other's gaze transforms me from a free subject into an object. "Hell is other people" (*Huis Clos*). The encounter with the other is fundamentally conflictual: each consciousness tries to transcend the other, to make the other into an object while remaining a subject. This is where Sartre and Merleau-Ponty diverge most sharply — for Merleau-Ponty, the encounter with the other is bodily resonance, not conflict.
 
-**Commitment (*engagement*).** Philosophy is not contemplation — it is action. The intellectual must be engaged in the political struggles of their time. Sartre lived this more completely than any philosopher of his generation, at the cost of positions that have not aged well (his defence of Soviet communism in the early 1950s, his later Maoist sympathies).
+**Commitment (*engagement*).** Philosophy is not contemplation — it is action. In *Search for a Method* (in English also *The Problem of Method*): "Every philosophy is practical, even the one which at first sight appears to be the most contemplative [. . . Every philosophy is] a social and political weapon" (as the *Internet Encyclopedia of Philosophy* quotes it). The intellectual must be engaged in the political struggles of their time. Sartre lived this more completely than any philosopher of his generation, at the cost of positions that have not aged well (his defence of Soviet communism in the early 1950s, his later Maoist sympathies).
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-27
+lastmod: 2026-10-19
 title: "Alasdair MacIntyre (1929–)"
 description: "Scottish-American philosopher — tradition-constituted rationality, the failure of the Enlightenment moral project, After Virtue, and the argument that rationality is always internal to a tradition."
 ---
@@ -35,7 +35,7 @@ MacIntyre's constructive move: return to a version of the Aristotelian tradition
 
 ## Tradition-constituted rationality
 
-*Whose Justice? Which Rationality?* (1988) develops the positive account. Rationality is not a neutral standard that transcends all traditions; it is constituted within traditions. A tradition is not a static set of beliefs but a historically extended argument — an ongoing conversation about the goods the tradition pursues, the standards of inquiry it applies, and the problems it encounters. Traditions have histories: they develop, face challenges, encounter crises, and sometimes make progress (by their own lights).
+*Whose Justice? Which Rationality?* (1988) develops the positive account: "So rationality itself, whether theoretical or practical, is a concept with a history: indeed, since there are also a diversity of traditions of enquiry, with histories, there are, so it will turn out, rationalities rather than rationality, just as it will also turn out that there are justices rather than justice" (ch. 1, as the *Internet Encyclopedia of Philosophy* quotes it). Rationality is not a neutral standard that transcends all traditions; it is constituted within traditions. A tradition is not a static set of beliefs but a historically extended argument — an ongoing conversation about the goods the tradition pursues, the standards of inquiry it applies, and the problems it encounters. Traditions have histories: they develop, face challenges, encounter crises, and sometimes make progress (by their own lights).
 
 **Incommensurability.** Different traditions can have different and incompatible standards of rationality. The Augustinian tradition, the Aristotelian tradition, the liberal tradition — each has its own criteria for what counts as a good argument, what counts as evidence, and what the central problems are. There is no tradition-independent standpoint from which to rank them.
 

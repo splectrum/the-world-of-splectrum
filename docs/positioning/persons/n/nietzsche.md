@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-06-13
+lastmod: 2026-10-18
 title: "Friedrich Nietzsche (1844–1900)"
 description: "German philosopher — the death of God, the will to power, eternal recurrence, perspectivism, inverted Platonism, the revaluation of all values."
 ---
@@ -22,6 +22,8 @@ Born in Röcken, Saxony, the son of a Lutheran pastor who died when Nietzsche wa
 Nietzsche's early notebook states the programme: "My philosophy is inverted Platonism: the further something is from true being, the more beautiful, the better it is." [Plato](/positioning/persons/p/plato/) placed the intelligible above the sensible, the permanent above the changing, reason above the body. Nietzsche reverses every term. The "true world" — the world of Forms, God, the thing-in-itself — is a fiction; the "apparent world" — the sensory, the bodily, the perspectival — is the only world there is. In *Twilight of the Idols* he traces the history of this reversal in six stages, from Plato ("The true world — attainable for the sage") to the final step: "The true world — we have abolished it. What world is left? The apparent one, perhaps? But no! With the true world we have also abolished the apparent one!"
 
 The inversion is not a simple preference for the body over the mind. It is an attack on the very structure of two-world thinking — the idea that there is a real behind the apparent, a ground behind the surface, a truth behind the interpretation. What remains after the abolition is not "mere appearance" but life without the consolation of a backstage reality.
+
+Abolishing the true world did not, for Nietzsche, end philosophy. *Beyond Good and Evil* (1886) protests against the sciences taking its place: "The declaration of independence of the scientific man, his emancipation from philosophy", is "one of the subtler after-effects of democratic organization", and science, having resisted theology, "now proposes … to lay down laws for philosophy, and in its turn to play the 'master'—what am I saying! to play the *philosopher* on its own account" (§204, Zimmern). The philosophers he calls for are of another kind: "*The real philosophers, however, are commanders and law-givers*" (§211).
 
 ---
 
