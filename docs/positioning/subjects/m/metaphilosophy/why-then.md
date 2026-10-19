@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-18
+lastmod: 2026-10-19
 title: "Metaphilosophy: Why Then"
 description: "Conditions named in the literature around the end-of-philosophy claims: the ideal of a completed science, the lost role after Hegel, the linguistic turn."
 ---
@@ -19,7 +19,7 @@ The end-of-philosophy claims cluster from the early nineteenth century on. The l
 
 **The subject and the world as picture.** [Heidegger](/positioning/persons/h/heidegger/)'s "The Age of the World Picture" (1938) has man become *subiectum* with Descartes, "the relational center of that which is as such", and the world "conceived and grasped as picture". With Descartes, he writes, "begins the completion and consummation of Western metaphysics", and "through anthropology" comes "the transition of metaphysics into the event of the simple stopping and setting aside of all philosophy".
 
-**The turn to language.** [Gustav Bergmann](https://en.wikipedia.org/wiki/Gustav_Bergmann) wrote in 1952 that "philosophy has taken a linguistic turn"; [Rorty](/positioning/persons/r/rorty/)'s anthology *The Linguistic Turn* (1967) made the phrase current and already spoke of a "'post-philosophical' culture". In 1979 he judged that analytic philosophy was "one more variant of Kantian philosophy", thinking of representation "as linguistic rather than mental": a change of medium, still "committed to the construction of a permanent, neutral framework for inquiry".
+**The turn to language.** [Gustav Bergmann](https://en.wikipedia.org/wiki/Gustav_Bergmann) wrote in 1952 that "philosophy has taken a linguistic turn"; [Rorty](/positioning/persons/r/rorty/)'s anthology *The Linguistic Turn* (1967) made the phrase current and already spoke of a "'post-philosophical' culture". In 1979 he judged that analytic philosophy was "one more variant of Kantian philosophy", thinking of representation "as linguistic rather than mental", with philosophy of language in place of "transcendental critique" as the discipline that exhibits "the 'foundations of knowledge'": a change of medium, still "committed to the construction of a permanent, neutral framework for inquiry".
 
 ---
 

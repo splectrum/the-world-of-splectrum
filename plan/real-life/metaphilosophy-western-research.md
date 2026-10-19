@@ -253,6 +253,7 @@ Variant: split the three stream rows into currents (positivism, ordinary languag
 12. Bacon's 1620 date and Latin "verum philosophiae opificium" for I.95 (Devey's "true labor of philosophy").
 13. Hegel *Encyclopaedia* translator (Wallace) on the marxists.org page.
 14. Dilthey, *Das Wesen der Philosophie* (1907), only if the hinge needs his own definition.
+15. Habermas, *Postmetaphysical Thinking*: the German date (*Nachmetaphysisches Denken*), before it goes into the `habermas` Key works. The IEP's bibliography gives only the English (Polity, 1992, tr. Hohengarten).
 
 ## 8. Discard list
 

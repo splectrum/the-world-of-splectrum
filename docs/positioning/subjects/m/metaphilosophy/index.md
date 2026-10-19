@@ -43,7 +43,6 @@ Much metaphilosophy is implicit. "Any philosophical view or orientation commits 
 - [Early modern philosophy](/positioning/subjects/m/metaphilosophy/early-modern/) — the turn towards the knower, from the whole system and the under-labourer (Descartes, Bacon, Locke) through reason and the philosophe (Wolff, the *Encyclopédie*, Hume) to Kant's critique of reason.
 - [The hinge](/positioning/subjects/m/metaphilosophy/the-hinge/) — the nineteenth century: Hegel's science of its time and Comte's positive philosophy; "scientist", the identity crisis, Windelband, Dilthey and the neo-Kantians; Ortega against "the terrorism of the laboratories"; the canon rewritten "from the Greeks to Kant" (Park) and the word sent abroad (*tetsugaku*, *zhexue*, *darśana*).
 - [The twentieth century](/positioning/subjects/m/metaphilosophy/twentieth-century/) — the analytic stream (Russell, Wittgenstein, Carnap, Quine), the pragmatist and post-analytic (James, Dewey, Rorty) and the continental (Husserl, Heidegger, critical theory, Habermas, Derrida), each against the three questions, and how the streams are sorted.
-- [Two traditions](/positioning/subjects/m/metaphilosophy/two-traditions/) — the analytic–continental divide: Dummett's common root and two rivers, Glendinning's case that the science question cuts across the line, and the quarrels of 1979 and 1992.
 
 ---
 

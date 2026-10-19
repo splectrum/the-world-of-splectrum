@@ -9,7 +9,7 @@ description: "What philosophy is, what it is for and how to do it in the twentie
 
 # The Twentieth Century
 
-The *Internet Encyclopedia of Philosophy* sorts the Western metaphilosophies of the last hundred years into three streams: analytic; continental; and pragmatist, neopragmatist and post-analytic. It does so "solely for organizational purposes", in an account "organized by chronology as much as by theme". This page takes the pragmatists second. Each stream gave its own answers to the three questions: what philosophy is, what its point is, and how it should be done. The streams' own quarrel is on [Two traditions](/positioning/subjects/m/metaphilosophy/two-traditions/).
+The *Internet Encyclopedia of Philosophy* sorts the Western metaphilosophies of the last hundred years into three streams: analytic; continental; and pragmatist, neopragmatist and post-analytic. It does so "solely for organizational purposes", in an account "organized by chronology as much as by theme". This page takes the pragmatists second. Each stream gave its own answers to the three questions: what philosophy is, what its point is, and how it should be done.
 
 ---
 
@@ -53,7 +53,7 @@ The later Wittgenstein turned to description: "We must do away with all explanat
 
 ## The sorting
 
-The IEP calls the later Wittgenstein's placing "particularly moot", notes that some deny analytic philosophy, and some continental philosophy, "any substantial existence", and leaves out traditionalist, feminist and environmental philosophy. It names other possible sorts: by the aim a metaphilosophy gives philosophy; by what it takes as its model ("Science? Art? Therapy? Something else?"); by whether it holds philosophy to be essentially linguistic; or by its stance on metaphysics. The divide between the analytic and continental streams, and whether it holds, is on [Two traditions](/positioning/subjects/m/metaphilosophy/two-traditions/).
+The IEP calls the later Wittgenstein's placing "particularly moot", notes that some deny analytic philosophy, and some continental philosophy, "any substantial existence", and leaves out traditionalist, feminist and environmental philosophy. It names other possible sorts: by the aim a metaphilosophy gives philosophy; by what it takes as its model ("Science? Art? Therapy? Something else?"); by whether it holds philosophy to be essentially linguistic; or by its stance on metaphysics.
 
 ---
 
@@ -67,4 +67,4 @@ The IEP calls the later Wittgenstein's placing "particularly moot", notes that s
 
 ---
 
-See also: [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · [The hinge](/positioning/subjects/m/metaphilosophy/the-hinge/) · [Two traditions](/positioning/subjects/m/metaphilosophy/two-traditions/) · [Wittgenstein](/positioning/persons/w/wittgenstein/) · [Dewey](/positioning/persons/d/dewey/) · [Husserl](/positioning/persons/h/husserl/)
+See also: [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · [The hinge](/positioning/subjects/m/metaphilosophy/the-hinge/) · [Wittgenstein](/positioning/persons/w/wittgenstein/) · [Dewey](/positioning/persons/d/dewey/) · [Husserl](/positioning/persons/h/husserl/)
