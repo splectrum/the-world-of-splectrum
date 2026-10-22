@@ -292,7 +292,7 @@ Both sitemaps are auto-generated from frontmatter:
 - `sitemap-site.xml` — generated from `site.pages`, uses `page.lastmod`
 - `sitemap-blog.xml` — generated from `site.posts`, uses `post.lastmod` (falls back to `post.date`)
 
-**When editing a page or post:** bump `lastmod: YYYY-MM-DD` in the frontmatter. Cast the net wide — if in doubt, bump it. Crawlers use lastmod to prioritise re-crawl.
+**When editing a page or post:** bump `lastmod: YYYY-MM-DD` in the frontmatter only for a substantial update: new material, a rewritten passage, a section added or removed, a changed position. Leave it alone for typo and wording fixes, link fixes, a sentence trimmed, or a reference added in passing. Crawlers use lastmod to prioritise re-crawl, so a date that moves on every small touch tells them nothing.
 
 **New pages** get `lastmod` in their frontmatter on creation (today's date). No manual sitemap edits needed — the template picks them up automatically.
 

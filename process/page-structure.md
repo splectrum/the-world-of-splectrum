@@ -52,7 +52,7 @@ This is not a requirement to trace every intellectual lineage to its origin — 
 ## General
 
 - Descriptions go in front matter on every page
-- `lastmod` goes in front matter on creation (today's date) and is bumped on edit — both sitemaps auto-generate from it
+- `lastmod` goes in front matter on creation (today's date) and is bumped only on a substantial update (`posting-guide.md` § Sitemap lastmod) — both sitemaps auto-generate from it
 - Internal links preferred over external; external links (SEP, Wikipedia) on the person/subject page itself, not scattered through posts
 - Key works get Wikipedia links
 - The page title in front matter matches the `# heading` on the page
