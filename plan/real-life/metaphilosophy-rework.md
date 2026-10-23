@@ -81,6 +81,20 @@ Word test: the piece says "evolution" only where a source does; otherwise "how t
 - **Local discussions.** Each tradition page carries its own discussion of what the love of wisdom is there, and how that understanding changed within the tradition. To be developed as each tradition page is reworked.
 - **The name** (the word "metaphilosophy", its dispute, explicit metaphilosophy as a field, other names) is a Western piece.
 - **No Persons list and no See also** on the hub.
+- **The Western pages live in `western/`.** All Western pieces sit in that folder; "Claims of an end" stays a heading on the Western page, not a folder of its own. Each tradition becomes a folder (`india/index.md` and so on) when it is reworked.
+- **Work goes where its context is.** A tradition page is an exposé of what that tradition's philosophy consists of, told by its texts and its thinkers, not a review of it from outside. Western opinion about another tradition (verdicts on whether it "had philosophy", judgements on it, disputes among Western scholars about it) is Western metaphilosophy and lives in the Western section, the nineteenth century most naturally (the canon narrowed, the word sent abroad). Scholars of any origin are used for facts: dates, what a word meant, which text says what, translations. Thinkers who speak from within a tradition (Matilal, Ganeri, Daya Krishna) count as its own voices wherever they hold a post.
+
+### Tradition pages follow the landing page's brief (decided 2026-10-23)
+
+Every page in a tradition's section answers the three questions of the landing page (what the activity is, what its point is, how it is done) for its school or period, as running text, without a heading per question. A page that does not answer them has no place in the section; material that belongs to no single school goes on the tradition's landing page. Implicit metaphilosophy, as on the landing page, is read off each school's position.
+
+### India (decided 2026-10-23)
+
+- **Landing page** — the thinkers' own words for the work (*tantra*, *mata*, *vāda*, *siddhānta*, *śāstra*; the *jijñāsā* openings; *ānvīkṣikī*), inquiry for a purpose (Dharmakīrti, Dharmottara), commentary as the shared form (root text, commentary, treatise; *pūrvapakṣa* and *uttarapakṣa*; Jayanta, the *navya* scholars), the sorting of the schools (*āstika/nāstika* from Pāṇini and Manu to Haribhadra and the Vedāntic surveys; the six as a late list); then the pages.
+- **School pages** — the Upaniṣads; the Buddhists (the Buddha, Nāgasena's scholar's talk and king's talk, Nāgārjuna, Dignāga and Dharmakīrti); the Jainas (the path, the standpoints, the four-part debate, Haribhadra's survey); Nyāya and Vaiśeṣika (the means of knowing, release, the forms of debate, Navya-Nyāya); the investigative science (Kauṭilya's grouping: Sāṃkhya, Yoga, the materialists); Mīmāṃsā and Vedānta (the two inquiries, Śaṅkara, Mādhava's survey).
+- **Modern India** — the answers to Europe from around 1800: *darśana* for "philosophy", Rammohun Roy, Vivekananda, Radhakrishnan, Matilal, K. C. Bhattacharyya, Daya Krishna's *saṃvāda*. Dārā Shikōh (1655) to place: here as the earlier case, or out.
+- **Moves to the Western section**: Hegel's verdict, Jacobi and Hacker on *ānvīkṣikī*, Halbfass's judgements, the Western scholars' dispute over Hindu engagement with Islam, Europe's reception of India (Schlegel, Schopenhauer).
+- **Person pages**: none proposed; for discussion when the pages are drafted: Haribhadra, Daya Krishna, K. C. Bhattacharyya, Vivekananda, Radhakrishnan.
 
 ## Open points
 
@@ -96,7 +110,7 @@ Word test: the piece says "evolution" only where a source does; otherwise "how t
 
 ## Practicalities
 
-- **URLs.** Renames change URLs: `ancient/` → e.g. `greek/`, `the-hinge/` → `nineteenth-century/`, `the-residue-and-the-specialisms/`, `the-scientists-verdict/`, `why-then/`. All incoming links found so far are inside the subject (checked 2026-10-22); check again before moving, and add redirects for any old URL already published.
+- **URLs.** Renames change URLs: `ancient/` → e.g. `greek/`, `western/the-hinge/` → `western/nineteenth-century/`, `western/the-residue-and-the-specialisms/`, `western/the-scientists-verdict/`, `western/why-then/`. Before moving, find and update every link (pages, posts, plan docs, task list) and check the built site for missing targets. No redirects.
 - **Breadcrumbs, prev/next, titles and descriptions** follow each rename.
 - **Posts** that link the old URLs: check before moving (the end-of-philosophy post links two pieces).
-- **Order of work**: agree the structure → hub → renames and moves → the special-sciences extension → the new overview piece → sweep of coloured terms.
+- **Order of work**: the non-Western traditions one by one, India first → Greek → the Western pages one by one (renames, the special-sciences extension, the review material moved in from the traditions) → the new overview piece → sweep of coloured terms.
