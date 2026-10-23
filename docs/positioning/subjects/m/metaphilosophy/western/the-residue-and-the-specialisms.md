@@ -5,7 +5,7 @@ title: "Metaphilosophy: The Residue and the Specialisms"
 description: "Russell's residue view, the philosophies of the special sciences, specialisation in the university, and the answers that refuse the residue."
 ---
 
-[Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) > The residue and the specialisms
+[Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) > [Western philosophy](/positioning/subjects/m/metaphilosophy/western/) > The residue and the specialisms
 
 # The Residue and the Specialisms
 
@@ -27,7 +27,7 @@ The psychology example can be followed in the journals: the *Journal of Philosop
 
 As the sciences left, philosophy also took many of them up as fields of its own. The neo-Kantian schools of the later nineteenth century each had a "philosophy of the special sciences", physics for Marburg, history for the Southwest school. The journal *Philosophy of Science* dates from 1934, and philosophy of biology became an independent field only in the 1960s and 1970s. The research university made philosophy a discipline among disciplines, and its old unity "shattered under the weight of increasing specialization by the turn of the 20th century" (Robert Frodeman and Adam Briggle, 2016).
 
-The genitive form is older than these fields: Voltaire coined "philosophy of history" in 1765, and [Hegel](/positioning/persons/h/hegel/)'s *Philosophy of Right* appeared in 1820. Internal division is older still: logic, physics and ethics, from Xenocrates and the Stoics (see [The hinge](/positioning/subjects/m/metaphilosophy/the-hinge/)).
+The genitive form is older than these fields: Voltaire coined "philosophy of history" in 1765, and [Hegel](/positioning/persons/h/hegel/)'s *Philosophy of Right* appeared in 1820. Internal division is older still: logic, physics and ethics, from Xenocrates and the Stoics (see [The hinge](/positioning/subjects/m/metaphilosophy/western/the-hinge/)).
 
 Politics shaped the form too. George Reisch (*How the Cold War Transformed Philosophy of Science*, 2005) follows the Unity of Science movement from its politically engaged arrival in the United States in the 1930s to its de-politicisation in the 1950s. Its leading figure, [Otto Neurath](https://en.wikipedia.org/wiki/Otto_Neurath), had wanted an integration of the sciences, not a system above them: "An encyclopedia and not a system is the genuine model of science as a whole."
 
@@ -43,4 +43,4 @@ Politics shaped the form too. George Reisch (*How the Cold War Transformed Philo
 
 ---
 
-See also: [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · [The hinge](/positioning/subjects/m/metaphilosophy/the-hinge/) · [A finite task?](/positioning/subjects/m/metaphilosophy/a-finite-task/) · [Russell](/positioning/persons/r/russell/) · [Husserl](/positioning/persons/h/husserl/) · [Kitcher](/positioning/persons/k/kitcher/) · [Philosophy of science](/positioning/subjects/p/philosophy-of-science/) · [Epistemology — the naturalistic turn](/positioning/subjects/e/epistemology/)
+See also: [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · [The hinge](/positioning/subjects/m/metaphilosophy/western/the-hinge/) · [A finite task?](/positioning/subjects/m/metaphilosophy/western/a-finite-task/) · [Russell](/positioning/persons/r/russell/) · [Husserl](/positioning/persons/h/husserl/) · [Kitcher](/positioning/persons/k/kitcher/) · [Philosophy of science](/positioning/subjects/p/philosophy-of-science/) · [Epistemology — the naturalistic turn](/positioning/subjects/e/epistemology/)

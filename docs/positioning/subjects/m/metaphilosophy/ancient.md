@@ -46,4 +46,4 @@ The name "Presocratic" is modern, coined by J. A. Eberhard in 1788 and made stan
 
 ---
 
-See also: [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · [Medieval philosophy](/positioning/subjects/m/metaphilosophy/medieval/) · [Plato](/positioning/persons/p/plato/) · [Aristotle](/positioning/persons/a/aristotle/) · [Heraclitus](/positioning/persons/h/heraclitus/)
+See also: [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · [Medieval philosophy](/positioning/subjects/m/metaphilosophy/western/medieval/) · [Plato](/positioning/persons/p/plato/) · [Aristotle](/positioning/persons/a/aristotle/) · [Heraclitus](/positioning/persons/h/heraclitus/)

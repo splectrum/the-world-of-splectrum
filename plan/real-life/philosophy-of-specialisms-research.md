@@ -83,8 +83,8 @@ Marking: **[C, Sn]** = checked against a source I opened (Sources list at the en
 
 | Page | Holds | Gap for this round |
 |---|---|---|
-| `metaphilosophy/the-residue-and-the-specialisms` | neo-Kantian "philosophy of the special sciences"; *Philosophy of Science* 1934; philosophy of biology 1960s–70s; Frodeman & Briggle; Voltaire, Hegel; Reisch; Neurath; Kitcher | Erkenntnis, BJPS, the post-Kuhn turn, philosophy of physics, attribution of the neo-Kantian phrase |
-| `metaphilosophy/the-scientists-verdict` | Maudlin 2012 "seamlessly integrated"; Wüthrich on Bell, Shimony, Putnam | none needed |
+| `metaphilosophy/western/the-residue-and-the-specialisms` | neo-Kantian "philosophy of the special sciences"; *Philosophy of Science* 1934; philosophy of biology 1960s–70s; Frodeman & Briggle; Voltaire, Hegel; Reisch; Neurath; Kitcher | Erkenntnis, BJPS, the post-Kuhn turn, philosophy of physics, attribution of the neo-Kantian phrase |
+| `metaphilosophy/western/the-scientists-verdict` | Maudlin 2012 "seamlessly integrated"; Wüthrich on Bell, Shimony, Putnam | none needed |
 | `reichenbach` | founded and edited *Erkenntnis* with Carnap (no year) | year 1930, if the subject states it |
 | `carnap` | *Erkenntnis* 1932 paper | none |
 | `cohen` | Marburg school, three-part system, SW school named | Natorp's 1910 *Logical Foundations* not there (not needed unless the subject names it) |

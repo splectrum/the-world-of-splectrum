@@ -5,13 +5,13 @@ title: "Metaphilosophy: The End of Philosophy"
 description: "Claims that philosophy has ended or should end, from Hegel and Comte to Heidegger and Rorty: the word each uses, what ends, and what carries on."
 ---
 
-[Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) > The end of philosophy
+[Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) > [Western philosophy](/positioning/subjects/m/metaphilosophy/western/) > The end of philosophy
 
 # The End of Philosophy
 
 Since the early nineteenth century, philosophers and scientists have announced that philosophy has ended, is ending, or should end. This page gathers those claims and ways of sorting them: by the word each author uses, by what ends, and by what carries on.
 
-The scientists' version and the replies to it have [their own page](/positioning/subjects/m/metaphilosophy/the-scientists-verdict/), as do the conditions behind the claims ([Why then](/positioning/subjects/m/metaphilosophy/why-then/)) and the question of whether philosophy has a task that could be finished ([A finite task?](/positioning/subjects/m/metaphilosophy/a-finite-task/)). The end of history (Kojève, Fukuyama) belongs to the [philosophy of history](/positioning/subjects/p/philosophy-of-history/).
+The scientists' version and the replies to it have [their own page](/positioning/subjects/m/metaphilosophy/western/the-scientists-verdict/), as do the conditions behind the claims ([Why then](/positioning/subjects/m/metaphilosophy/western/why-then/)) and the question of whether philosophy has a task that could be finished ([A finite task?](/positioning/subjects/m/metaphilosophy/western/a-finite-task/)). The end of history (Kojève, Fukuyama) belongs to the [philosophy of history](/positioning/subjects/p/philosophy-of-history/).
 
 ---
 
@@ -29,7 +29,7 @@ The word each author uses for the ending is part of the claim, and several of th
 
 **The foundations are given up.** [Nietzsche](/positioning/persons/n/nietzsche/) abolishes the "true world" but calls for new philosophers. [Rorty](/positioning/persons/r/rorty/) separates capital-P Philosophy, "the Platonic attempt to sift out the merely contingent and conventional truths from the Truths which were something more than that", from philosophy, and asks "whether a culture could get along without Philosophy". [Derrida](/positioning/persons/d/derrida/) glimpses the closure of an epoch of metaphysics: "I do not say the end."
 
-**Death** is the scientists' word, not the philosophers': "philosophy is dead" (Hawking and Mlodinow, 2010). See [The scientists' verdict](/positioning/subjects/m/metaphilosophy/the-scientists-verdict/).
+**Death** is the scientists' word, not the philosophers': "philosophy is dead" (Hawking and Mlodinow, 2010). See [The scientists' verdict](/positioning/subjects/m/metaphilosophy/western/the-scientists-verdict/).
 
 ---
 
@@ -67,4 +67,4 @@ The field's own frame for the debate is the title of *After Philosophy: End or T
 
 ---
 
-See also: [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · [The scientists' verdict](/positioning/subjects/m/metaphilosophy/the-scientists-verdict/) · [Why then](/positioning/subjects/m/metaphilosophy/why-then/) · [Metaphysics](/positioning/subjects/m/metaphysics/) · [Epistemology — the naturalistic turn](/positioning/subjects/e/epistemology/) · [Deconstruction](/positioning/subjects/d/deconstruction/) · [German idealism](/positioning/subjects/g/german-idealism/)
+See also: [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · [The scientists' verdict](/positioning/subjects/m/metaphilosophy/western/the-scientists-verdict/) · [Why then](/positioning/subjects/m/metaphilosophy/western/why-then/) · [Metaphysics](/positioning/subjects/m/metaphysics/) · [Epistemology — the naturalistic turn](/positioning/subjects/e/epistemology/) · [Deconstruction](/positioning/subjects/d/deconstruction/) · [German idealism](/positioning/subjects/g/german-idealism/)

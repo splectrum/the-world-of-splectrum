@@ -11,7 +11,7 @@ description: "What philosophy is, what it is for and how to do it in the Islamic
 
 *Falsafa* is a loanword from the Greek *philosophia*; [al-Kindī](https://en.wikipedia.org/wiki/Al-Kindi) gives its sense as "the love of wisdom (*ḥubb al-ḥikma*)". The *falāsifa* were, in Frank Griffel's words, "heirs to the late-antique tradition of understanding the works of Aristotle in Neoplatonic terms", and falsafa "was a movement where Christians, Muslims, and even pagan authors participated". What to call the field is itself disputed. [Peter Adamson](https://en.wikipedia.org/wiki/Peter_Adamson_(philosopher)) finds "Islamic philosophy" too narrow, since some of its philosophers were not Muslims, and "Arabic philosophy" too narrow, since some of the work is in Persian and Hebrew; he prefers "philosophy in the Islamic world", "a neutral designation".
 
-The stages below run from the ninth century to the seventeenth. *Falsafa* grew from the same Greek line of thought as [medieval philosophy](/positioning/subjects/m/metaphilosophy/medieval/) in Europe, ran beside it and was entwined with it; the later *ḥikma* went on largely apart from Europe. Each gave its own answers to the three questions: what philosophy is, what its point is, and how it should be done.
+The stages below run from the ninth century to the seventeenth. *Falsafa* grew from the same Greek line of thought as [medieval philosophy](/positioning/subjects/m/metaphilosophy/western/medieval/) in Europe, ran beside it and was entwined with it; the later *ḥikma* went on largely apart from Europe. Each gave its own answers to the three questions: what philosophy is, what its point is, and how it should be done.
 
 ---
 
@@ -67,7 +67,7 @@ Religion teaches the same things another way. A thing is understood either by it
 
 ## Into the Latin West
 
-In twelfth-century Toledo, Gerard of Cremona and Dominicus Gundissalinus translated al-Fārābī's *Enumeration*, and Gundissalinus's *On the Division of Philosophy* carried its map of the sciences into the Latin arts faculties, together with what Dag Nikolaus Hasse calls al-Fārābī's "emphasis on demonstration as the pivotal means for the acquisition of certain knowledge". Ibn Rushd's commentaries were translated from about 1220, and "already by the 1230s he is known as 'the Commentator'". al-Fārābī, Ibn Sīnā and Ibn Rushd shared a view of philosophy's point, happiness through the intellect's conjunction with the active intellect, possible in this life for philosophers. Aquinas rejected perfect happiness in this life, and in 1277 the bishop of Paris condemned the article that there is no more excellent state than to give oneself to philosophy ([Medieval philosophy](/positioning/subjects/m/metaphilosophy/medieval/)).
+In twelfth-century Toledo, Gerard of Cremona and Dominicus Gundissalinus translated al-Fārābī's *Enumeration*, and Gundissalinus's *On the Division of Philosophy* carried its map of the sciences into the Latin arts faculties, together with what Dag Nikolaus Hasse calls al-Fārābī's "emphasis on demonstration as the pivotal means for the acquisition of certain knowledge". Ibn Rushd's commentaries were translated from about 1220, and "already by the 1230s he is known as 'the Commentator'". al-Fārābī, Ibn Sīnā and Ibn Rushd shared a view of philosophy's point, happiness through the intellect's conjunction with the active intellect, possible in this life for philosophers. Aquinas rejected perfect happiness in this life, and in 1277 the bishop of Paris condemned the article that there is no more excellent state than to give oneself to philosophy ([Medieval philosophy](/positioning/subjects/m/metaphilosophy/western/medieval/)).
 
 Griffel traces the reading that philosophy declined in Islam after al-Ghazālī to nineteenth-century Europe, Ernest Renan among others, and reads the centuries after al-Ghazālī instead as a change of name and genre.
 
@@ -85,4 +85,4 @@ Griffel traces the reading that philosophy declined in Islam after al-Ghazālī 
 
 ---
 
-See also: [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · [Medieval philosophy](/positioning/subjects/m/metaphilosophy/medieval/) · [Aquinas](/positioning/persons/a/aquinas/)
+See also: [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · [Medieval philosophy](/positioning/subjects/m/metaphilosophy/western/medieval/) · [Aquinas](/positioning/persons/a/aquinas/)

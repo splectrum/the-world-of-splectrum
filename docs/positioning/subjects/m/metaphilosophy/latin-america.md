@@ -51,7 +51,7 @@ The text's influence came later: Arturo Ardao and Arturo Roig hold that it was r
 
 ## Order and progress
 
-**What it is.** [Comte](https://en.wikipedia.org/wiki/Auguste_Comte)'s positive philosophy ([The hinge](/positioning/subjects/m/metaphilosophy/the-hinge/)) became, in Gracia and Vargas's words, "the official state philosophy of several nations".
+**What it is.** [Comte](https://en.wikipedia.org/wiki/Auguste_Comte)'s positive philosophy ([The hinge](/positioning/subjects/m/metaphilosophy/western/the-hinge/)) became, in Gracia and Vargas's words, "the official state philosophy of several nations".
 
 **Its point.** "For positivists, the goal was national integration and economic and social progress" (Gracia and Vargas). Comte's *Système de politique positive* (1851) carries on its title page "Ordre et Progrès" and "L'Amour pour principe; L'Ordre pour base, Et le Progrès pour but". The Brazilian republic's flag of 1889, designed by positivists, carries *Ordem e Progresso*. In Mexico Gabino Barreda's *Oración cívica* (1867) closes: "que en lo de adelante sea nuestra divisa libertad, orden y progreso; la libertad como medio; el orden como base y el progreso como fin", liberty as the means, order as the base and progress as the end; where Comte's formula has love as the principle, Barreda's has liberty as the means. Positivism, Gracia and Vargas add, "was even used to justify dictatorial regimes, as in the case of Mexico".
 
@@ -88,4 +88,4 @@ The text's influence came later: Arturo Ardao and Arturo Roig hold that it was r
 
 ---
 
-See also: [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · [Medieval philosophy](/positioning/subjects/m/metaphilosophy/medieval/) · [The hinge](/positioning/subjects/m/metaphilosophy/the-hinge/) · [Philosophy in Africa](/positioning/subjects/m/metaphilosophy/africa/)
+See also: [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · [Medieval philosophy](/positioning/subjects/m/metaphilosophy/western/medieval/) · [The hinge](/positioning/subjects/m/metaphilosophy/western/the-hinge/) · [Philosophy in Africa](/positioning/subjects/m/metaphilosophy/africa/)

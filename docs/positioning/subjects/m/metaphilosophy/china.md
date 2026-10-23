@@ -121,4 +121,4 @@ Her paradox: "Chinese philosophy" "seems to have died of its own birth", the mas
 
 ---
 
-See also: [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · [Zhuangzi](/positioning/persons/z/zhuangzi/) · [Philosophy in India](/positioning/subjects/m/metaphilosophy/india/) · [The hinge](/positioning/subjects/m/metaphilosophy/the-hinge/)
+See also: [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · [Zhuangzi](/positioning/persons/z/zhuangzi/) · [Philosophy in India](/positioning/subjects/m/metaphilosophy/india/) · [The hinge](/positioning/subjects/m/metaphilosophy/western/the-hinge/)

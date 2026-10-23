@@ -38,7 +38,7 @@ Residue makes it sound like what is left in the pan. But knowledge grows, and th
 
 So, dead? The verdict needs a philosophy that stays put and loses its ground. The record shows one that kept changing what it was. That may be the better question to put to it: not whether it has ended, but what it has become.
 
-<small>This post is part of the [conversations series](/blog/label/conversations/). See also the reference entries on <a href="/positioning/subjects/m/metaphilosophy/the-end-of-philosophy/">the end of philosophy</a> and <a href="/positioning/subjects/m/metaphilosophy/the-scientists-verdict/">the scientists' verdict</a>, part of the <a href="/positioning/subjects/m/metaphilosophy/">metaphilosophy</a> subject.</small>
+<small>This post is part of the [conversations series](/blog/label/conversations/). See also the reference entries on <a href="/positioning/subjects/m/metaphilosophy/western/the-end-of-philosophy/">the end of philosophy</a> and <a href="/positioning/subjects/m/metaphilosophy/western/the-scientists-verdict/">the scientists' verdict</a>, part of the <a href="/positioning/subjects/m/metaphilosophy/">metaphilosophy</a> subject.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@PHOTOGRAPHER">NAME</a> / Unsplash</small>

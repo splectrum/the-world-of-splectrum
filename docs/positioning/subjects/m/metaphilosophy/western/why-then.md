@@ -5,7 +5,7 @@ title: "Metaphilosophy: Why Then"
 description: "Conditions named in the literature around the end-of-philosophy claims: the ideal of a completed science, the lost role after Hegel, the linguistic turn."
 ---
 
-[Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) > Why then
+[Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) > [Western philosophy](/positioning/subjects/m/metaphilosophy/western/) > Why then
 
 # Why Then
 
@@ -23,4 +23,4 @@ The end-of-philosophy claims cluster from the early nineteenth century on. The l
 
 ---
 
-See also: [The end of philosophy](/positioning/subjects/m/metaphilosophy/the-end-of-philosophy/) · [A finite task?](/positioning/subjects/m/metaphilosophy/a-finite-task/) · [Heidegger](/positioning/persons/h/heidegger/) · [Rorty](/positioning/persons/r/rorty/) · [Bergson](/positioning/persons/b/bergson/) · [German idealism](/positioning/subjects/g/german-idealism/)
+See also: [The end of philosophy](/positioning/subjects/m/metaphilosophy/western/the-end-of-philosophy/) · [A finite task?](/positioning/subjects/m/metaphilosophy/western/a-finite-task/) · [Heidegger](/positioning/persons/h/heidegger/) · [Rorty](/positioning/persons/r/rorty/) · [Bergson](/positioning/persons/b/bergson/) · [German idealism](/positioning/subjects/g/german-idealism/)

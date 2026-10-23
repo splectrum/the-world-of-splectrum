@@ -5,7 +5,7 @@ title: "Metaphilosophy: Medieval Philosophy"
 description: "What philosophy is, what it is for and how to do it from Clement and Augustine to the Renaissance: faith and reason, the schools, the way of life again."
 ---
 
-[Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) > Medieval philosophy
+[Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) > [Western philosophy](/positioning/subjects/m/metaphilosophy/western/) > Medieval philosophy
 
 # Medieval Philosophy
 
@@ -48,4 +48,4 @@ The masters of the Paris arts faculty answered otherwise. For [Boethius of Dacia
 
 ---
 
-See also: [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · [Ancient philosophy](/positioning/subjects/m/metaphilosophy/ancient/) · [Early modern philosophy](/positioning/subjects/m/metaphilosophy/early-modern/) · [Philosophy in the Islamic world](/positioning/subjects/m/metaphilosophy/islamic-world/) · [Aquinas](/positioning/persons/a/aquinas/)
+See also: [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · [Ancient philosophy](/positioning/subjects/m/metaphilosophy/ancient/) · [Early modern philosophy](/positioning/subjects/m/metaphilosophy/western/early-modern/) · [Philosophy in the Islamic world](/positioning/subjects/m/metaphilosophy/islamic-world/) · [Aquinas](/positioning/persons/a/aquinas/)

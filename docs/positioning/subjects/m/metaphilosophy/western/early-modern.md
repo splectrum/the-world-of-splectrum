@@ -5,11 +5,11 @@ title: "Metaphilosophy: Early Modern Philosophy"
 description: "What philosophy is, what it is for and how to do it from Descartes to Kant: the whole system, the under-labourer, the philosophe, the critique of reason."
 ---
 
-[Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) > Early modern philosophy
+[Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) > [Western philosophy](/positioning/subjects/m/metaphilosophy/western/) > Early modern philosophy
 
 # Early Modern Philosophy
 
-In the seventeenth century philosophy was again the whole system of knowledge, and in the same half-century the under-labourer to the natural philosophers; in the eighteenth it was the work of reason, and the philosophe a figure of society. Several of them turned first to the knower. [Locke](/positioning/persons/l/locke/) traced his *Essay* to a discussion that stalled, when "it came into my thoughts that we took a wrong course; and that before we set ourselves upon inquiries of that nature, it was necessary to examine our own abilities"; Hume set out "to enquire seriously into the nature of human understanding"; and [Kant](/positioning/persons/k/kant/) proposed "a complete revolution in the procedure of metaphysics". The page ends with Kant, after whom [the hinge](/positioning/subjects/m/metaphilosophy/the-hinge/) begins. Each stage gave its own answers to the three questions: what philosophy is, what its point is, and how it should be done.
+In the seventeenth century philosophy was again the whole system of knowledge, and in the same half-century the under-labourer to the natural philosophers; in the eighteenth it was the work of reason, and the philosophe a figure of society. Several of them turned first to the knower. [Locke](/positioning/persons/l/locke/) traced his *Essay* to a discussion that stalled, when "it came into my thoughts that we took a wrong course; and that before we set ourselves upon inquiries of that nature, it was necessary to examine our own abilities"; Hume set out "to enquire seriously into the nature of human understanding"; and [Kant](/positioning/persons/k/kant/) proposed "a complete revolution in the procedure of metaphysics". The page ends with Kant, after whom [the hinge](/positioning/subjects/m/metaphilosophy/western/the-hinge/) begins. Each stage gave its own answers to the three questions: what philosophy is, what its point is, and how it should be done.
 
 ---
 
@@ -53,4 +53,4 @@ In the seventeenth century philosophy was again the whole system of knowledge, a
 
 ---
 
-See also: [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · [Medieval philosophy](/positioning/subjects/m/metaphilosophy/medieval/) · [The hinge](/positioning/subjects/m/metaphilosophy/the-hinge/) · [Descartes](/positioning/persons/d/descartes/) · [Locke](/positioning/persons/l/locke/) · [Hume](/positioning/persons/h/hume/) · [Kant](/positioning/persons/k/kant/)
+See also: [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · [Medieval philosophy](/positioning/subjects/m/metaphilosophy/western/medieval/) · [The hinge](/positioning/subjects/m/metaphilosophy/western/the-hinge/) · [Descartes](/positioning/persons/d/descartes/) · [Locke](/positioning/persons/l/locke/) · [Hume](/positioning/persons/h/hume/) · [Kant](/positioning/persons/k/kant/)

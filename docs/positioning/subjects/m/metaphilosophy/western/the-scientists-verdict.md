@@ -5,7 +5,7 @@ title: "Metaphilosophy: The Scientists' Verdict"
 description: "Hawking's 'philosophy is dead', with Weinberg, Krauss and Tyson, what the physicists meant by it, and the replies from Maudlin, Pigliucci and Rovelli."
 ---
 
-[Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) > The scientists' verdict
+[Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) > [Western philosophy](/positioning/subjects/m/metaphilosophy/western/) > The scientists' verdict
 
 # The Scientists' Verdict
 
@@ -27,4 +27,4 @@ The claim itself is older than the physicists. [Nietzsche](/positioning/persons/
 
 ---
 
-See also: [The end of philosophy](/positioning/subjects/m/metaphilosophy/the-end-of-philosophy/) · [Why then](/positioning/subjects/m/metaphilosophy/why-then/) · [Hawking](/positioning/persons/h/hawking/) · [Rovelli](/positioning/persons/r/rovelli/) · [Nietzsche](/positioning/persons/n/nietzsche/) · [Putnam](/positioning/persons/p/putnam/) · [Philosophy of science](/positioning/subjects/p/philosophy-of-science/)
+See also: [The end of philosophy](/positioning/subjects/m/metaphilosophy/western/the-end-of-philosophy/) · [Why then](/positioning/subjects/m/metaphilosophy/western/why-then/) · [Hawking](/positioning/persons/h/hawking/) · [Rovelli](/positioning/persons/r/rovelli/) · [Nietzsche](/positioning/persons/n/nietzsche/) · [Putnam](/positioning/persons/p/putnam/) · [Philosophy of science](/positioning/subjects/p/philosophy-of-science/)
