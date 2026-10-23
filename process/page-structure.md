@@ -14,7 +14,7 @@ This doc covers structure only. The voice discipline these pages follow — outs
 6. **Key concepts**: bold term + explanation, one paragraph each. Outside voice — no seed references
 7. **Closing sections** ("where X stops"): synthesis work, not lifted from research — name what the thinker's own framework leaves unaddressed and the boundary that draws. Frame it as the thinker's own boundaries, not as the gap with SPLectrum. Deficit-naming ("X didn't reach Y"), not recharacterisation ("what X reached is less than it appears"). No P-tags, no seed vocabulary; keep it compact
 8. **Key works**: list with Wikipedia links, at the end before See also
-9. **See also**: primarily within-positioning interlinking — related persons and subjects. SPLectrum-side links (seed, resonance-ring pieces, blog) only as a clearly distinct sub-block, or omitted
+9. **See also**: only pages in direct relation to what this page says, never links found by looking for neighbours. If nothing relates directly, there is no See also. Within-positioning only — persons and subjects. SPLectrum-side links (seed, resonance-ring pieces, blog) only as a clearly distinct sub-block, or omitted
 
 Reference: [Wittgenstein](/docs/positioning/persons/w/wittgenstein.md), [Rorty](/docs/positioning/persons/r/rorty.md)
 
@@ -29,8 +29,7 @@ The whole page is outside voice — the subject on its own terms, in full breadt
 5. **Origin section**: where the concept comes from — the field it belongs to, but also where the pattern resonates beyond that field
 6. **Core sections**: the substance — what the concept is, how it works, key distinctions, its internal conflicts and contested receptions. Internal links to persons and other subjects where relevant
 7. **Meaning section**: what makes the concept more than technical — the semantic or philosophical weight of its constructs, framed within the subject's own field
-8. **Persons**: key figures associated with the subject, with links (Wikipedia for external, internal for persons with pages)
-9. **See also**: primarily within-positioning interlinking — related subjects and the persons who carry them. SPLectrum-side links (resonance-ring pieces, blog) only as a clearly distinct sub-block, or omitted
+8. **See also**: the only link section at the end — no separate Persons list; persons are linked in the body where the page discusses them (Wikipedia for external, internal for persons with pages). Only pages in direct relation to what this page says, never links found by looking for neighbours, and not pages the body already links. If nothing relates directly, there is no See also. Within-positioning only — subjects and persons. SPLectrum-side links (resonance-ring pieces, blog) only as a clearly distinct sub-block, or omitted
 
 Reference: [Domain Specific Languages](/docs/positioning/subjects/d/domain-specific-languages.md)
 

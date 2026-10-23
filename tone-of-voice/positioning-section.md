@@ -122,11 +122,11 @@ The strategy, the rules and the keyword inventory are in `process/keyword-doorwa
 
 ## See also on person/subject pages
 
-Primarily within-positioning interlinking — other persons in the same intellectual neighbourhood, the subject pages that touch this person's territory. These are the natural neighbours when the page is held as outside context.
+Only pages in direct relation to what the page itself says: the persons and subjects its content bears on. Do not go looking for links, and do not list pages only because they relate to pages the body links to. Within-positioning interlinking only.
 
 Links flow one way only: reality → affinity rings → subjects → persons, never up. "Up" means the SPLectrum side: inside the field, persons and subjects link to each other in both directions. A person page links to the subjects it belongs to (in the body at first mention, and in See also), just as a subject links to its persons. A person or subject page links **only** to other persons, subjects, or external references — never to the seed, the close-affinity or wider-landscape rings, or any other SPLectrum-side surface. Not woven into the See also, not as a separate sub-block, not as a quiet pointer. An upward link is a link-direction breach, not a formatting question — the same intrusion as SPLectrum vocabulary in the body, just wearing a hyperlink. The resonance rings link *down* to the person; the person does not link back up. Readers reach the SPLectrum-side reading from those rings, not from here.
 
-Empty See also is acceptable when neighbour pages or subject pages don't yet exist. Honest beats filler.
+Empty See also is acceptable, and is the right answer when nothing relates directly. Honest beats filler.
 
 ## Naming
 

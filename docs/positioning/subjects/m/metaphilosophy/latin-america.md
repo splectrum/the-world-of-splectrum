@@ -88,4 +88,4 @@ The text's influence came later: Arturo Ardao and Arturo Roig hold that it was r
 
 ---
 
-See also: [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · [Medieval philosophy](/positioning/subjects/m/metaphilosophy/medieval/) · [The hinge](/positioning/subjects/m/metaphilosophy/the-hinge/) · [Is it philosophy?](/positioning/subjects/m/metaphilosophy/is-it-philosophy/) · [Philosophy in Africa](/positioning/subjects/m/metaphilosophy/africa/)
+See also: [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · [Medieval philosophy](/positioning/subjects/m/metaphilosophy/medieval/) · [The hinge](/positioning/subjects/m/metaphilosophy/the-hinge/) · [Philosophy in Africa](/positioning/subjects/m/metaphilosophy/africa/)

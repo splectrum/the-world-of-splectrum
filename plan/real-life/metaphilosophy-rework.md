@@ -20,8 +20,7 @@ Three further reasons:
 2. **The philosophies** — an overview, one entry per tradition, on an equal footing: Greek, the Islamic world, Western (Latin), India, China, Japan, Africa, Latin America. Order to decide (chronological by first texts, or geographical).
 3. **How the conception changed** — a pointer and a few lines leading into the overview piece (below).
 4. **Claims of an end** — the pieces now under "Western philosophy in question".
-5. **The word** — "Is it philosophy?": how the traditions sit together under one word.
-6. **Other names**, **Persons**, See also (as now).
+6. No Persons list and no See also unless a page relates directly (done 2026-10-23); the name, explicit metaphilosophy and other names moved to a Western piece, The name.
 
 ### Pieces
 
@@ -38,7 +37,7 @@ Three further reasons:
 | Why then | The context of the end claims | Renamed. |
 | A finite task? | A finite task? | Kept, or "Can philosophy be finished?" |
 | Philosophy in the Islamic world, India, China, Japan, Africa, Latin America | Unchanged | Move from "Non-Western" to the traditions overview. |
-| Is it philosophy? | Is it philosophy? | Moves to its own hub section. |
+| Is it philosophy? | — | Removed (decided 2026-10-23); see below. |
 | — | How the conception changed | New. The overview of the line. |
 
 ### The new piece: how the conception changed
@@ -75,6 +74,13 @@ The chain: nature is reasoned about, reason is lived, it meets faith, it meets e
 Where other traditions meet the line it says so: the word sent abroad (*tetsugaku*, *zhexue*), the canon narrowed. Scope to begin with: the Greek line and its branchings, where the sources are solid. Lines for other traditions can be added when a tradition is expanded.
 
 Word test: the piece says "evolution" only where a source does; otherwise "how the conception changed".
+
+### Decided 2026-10-23
+
+- **No "Is it philosophy?" page.** Any general page on what counts as philosophy ends up judging by one tradition's standard. In its place, a few very general paragraphs on the hub: the subject takes philosophy as the love of knowledge and wisdom, the activity under whatever name (knowledge first, the Western sense; wisdom added for traditions less driven by matters of fact); what knowledge and wisdom are, what it is for and how it is sought are answered within each tradition, none the measure for another; explicit and implicit. The tradition-specific material moved to the tradition pages (India, China, Japan; Garfield and Van Norden to the Western page).
+- **Local discussions.** Each tradition page carries its own discussion of what the love of wisdom is there, and how that understanding changed within the tradition. To be developed as each tradition page is reworked.
+- **The name** (the word "metaphilosophy", its dispute, explicit metaphilosophy as a field, other names) is a Western piece.
+- **No Persons list and no See also** on the hub.
 
 ## Open points
 

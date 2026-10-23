@@ -29,6 +29,8 @@ Lives in `plan/`, one folder per topic; discussion captures not yet placed go to
 
 ### Not yet scheduled
 
+- [ ] **Subjects page** — future page within the site explaining what a subject is here (the subject pages, their pieces, the doorways) and what a metasubject is: a single neutral access point into the field around a word, gathering work from many disciplines, which sets its own parameters (metaphilosophy: the activity rather than the name). Needed now that "metasubject" appears on pages (the metaphilosophy hub uses it); settle the spelling at the same time ("meta subject" in the doorway convention, "metasubject" on the hub).
+
 - [ ] **Engineering** — `plan/engineering/`: the section's work on hold; the medium and subject experience in engineering terms; the wish list.
 
 - [ ] **Belonging** — `plan/belonging/`: the doorway scope, the alliance-to-society facet, the decoherence programme, the many-worlds note. Parked 2026-09-13.

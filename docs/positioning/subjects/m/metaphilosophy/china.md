@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-18
+lastmod: 2026-10-23
 title: "Metaphilosophy: Philosophy in China"
 description: "What philosophy is, what it is for and how to do it in China: Confucius, the Mohists, Xunzi, the Daoists, the Learning of the Way and the modern question."
 ---
@@ -11,7 +11,7 @@ description: "What philosophy is, what it is for and how to do it in China: Conf
 
 No classical Chinese word matches "philosophy". *Zhexue*, the modern word, is [Nishi Amane](https://en.wikipedia.org/wiki/Nishi_Amane)'s Japanese coinage *tetsugaku*, taken into Chinese at the end of the nineteenth century. In the texts below, learning (*xue*), the word the *Analects* opens its first saying on, names the activity, and the Way (*dao*) what it seeks; the two join in *Daoxue*, "the Learning of the Way", the name of the Song movement. [Feng Youlan](https://en.wikipedia.org/wiki/Feng_Youlan): "The term Neo-Confucianism is a newly coined western equivalent for Tao hsüeh." The thinkers were filed as *jia*, houses or lineages, which translators render "schools", and as *zhuzi*, the masters, a library category set apart from the classics.
 
-The founding modern histories were Hu Shi's (1919) and Feng's (1931–34), and Feng stated his method plainly: to select from the kinds of learning in Chinese history those that could be named by what the West calls philosophy. Reviewing Feng's, the logician Jin Yuelin asked whether such a book is a history of Chinese philosophy or a history of philosophy in China, philosophy discovered in China by a Western measure; he found both books on the second road. Whether there is a Chinese philosophy at all has been argued from [Hegel](/positioning/persons/h/hegel/)'s verdict on [Confucius](https://en.wikipedia.org/wiki/Confucius) to the debate over its "legitimacy" around 2000 ([Is it philosophy?](/positioning/subjects/m/metaphilosophy/is-it-philosophy/)). The title of this page follows the series in naming a place; it is also Jin's name for the second road.
+The founding modern histories were Hu Shi's (1919) and Feng's (1931–34), and Feng stated his method plainly: to select from the kinds of learning in Chinese history those that could be named by what the West calls philosophy. Reviewing Feng's, the logician Jin Yuelin asked whether such a book is a history of Chinese philosophy or a history of philosophy in China, philosophy discovered in China by a Western measure; he found both books on the second road. Whether there is a Chinese philosophy at all has been argued from [Hegel](/positioning/persons/h/hegel/)'s verdict on [Confucius](https://en.wikipedia.org/wiki/Confucius) to the debate over its "legitimacy" around 2000 (below). The title of this page follows the series in naming a place; it is also Jin's name for the second road.
 
 The masters argued with one another, and later stages took up earlier ones. Each gave its own answers to the three questions: what philosophy is, what its point is, and how it should be done.
 
@@ -91,6 +91,21 @@ The masters argued with one another, and later stages took up earlier ones. Each
 
 ---
 
+## Is there a Chinese philosophy?
+
+[Hegel](/positioning/persons/h/hegel/) judged Confucius "a moralist as such, not actually a philosopher". In 1999–2000 Zheng Jiadong raised the "legitimacy" of Chinese philosophy, aiming at the method of interpretation since Hu Shi. In 2001, in conversation in China, [Derrida](/positioning/persons/d/derrida/) said "中国没有哲学，只有思想", which can be read as "China has no philosophy, only thought" or "no philosophy, but it does have thought"; and Zheng and others paired his remark with the legitimacy question.
+
+Carine Defoort ("Is There Such a Thing as Chinese Philosophy?", 2001) finds the question "seldom explicitly stated", though implicit answers dominate institutions; denial is "primarily, though not exclusively, implicit and Western", affirmation "most explicitly represented in contemporary China". She sorts four positions:
+
+1. **It does not exist.** There is no Chinese philosophy, on historical or theoretical grounds.
+2. **It exists.** Feng Youlan's history is the founding case.
+3. **Redefine the word.** Widen the content of "philosophy" so that the masters fall within it.
+4. **Question the project.** "Why should China even have had a philosophy?"
+
+Her paradox: "Chinese philosophy" "seems to have died of its own birth", the masters' tradition having largely ended just as the modern discipline named it.
+
+---
+
 ## In one view
 
 | | What it is | Its point | How it is done |
@@ -106,4 +121,4 @@ The masters argued with one another, and later stages took up earlier ones. Each
 
 ---
 
-See also: [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · [Zhuangzi](/positioning/persons/z/zhuangzi/) · [Is it philosophy?](/positioning/subjects/m/metaphilosophy/is-it-philosophy/) · [Philosophy in India](/positioning/subjects/m/metaphilosophy/india/) · [The hinge](/positioning/subjects/m/metaphilosophy/the-hinge/)
+See also: [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · [Zhuangzi](/positioning/persons/z/zhuangzi/) · [Philosophy in India](/positioning/subjects/m/metaphilosophy/india/) · [The hinge](/positioning/subjects/m/metaphilosophy/the-hinge/)

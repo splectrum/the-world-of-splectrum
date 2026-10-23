@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-18
+lastmod: 2026-10-23
 title: "Metaphilosophy: Philosophy in India"
 description: "What philosophy is, what it is for and how to do it in India: the Upaniṣads, the Buddha and the Jina, Nyāya, the pramāṇa debate, Vedānta, modern India."
 ---
@@ -73,7 +73,7 @@ The schools below, Buddhist, Jaina and materialist as well as Vedic, with some t
 
 ## The modern question
 
-**What it is.** [Sarvepalli Radhakrishnan](https://en.wikipedia.org/wiki/Sarvepalli_Radhakrishnan) wrote in the introduction to his *Indian Philosophy* (1923), on its "General Characteristics": "Philosophy in India is essentially spiritual." The reading was contested from within. [B. K. Matilal](https://en.wikipedia.org/wiki/Bimal_Krishna_Matilal) (*Perception*, 1986): "Too often the term 'Indian philosophy' is identified with a subject that is presented as mystical and non-argumentative … A corrective to this view is long overdue." Daya Krishna counted the reduction of Indian philosophy to a spiritual, liberation-centred endeavour among his "Three Myths about Indian Philosophy". The dispute has a European prehistory in Hegel's verdict on Indian liberation ([Is it philosophy?](/positioning/subjects/m/metaphilosophy/is-it-philosophy/)).
+**What it is.** [Sarvepalli Radhakrishnan](https://en.wikipedia.org/wiki/Sarvepalli_Radhakrishnan) wrote in the introduction to his *Indian Philosophy* (1923), on its "General Characteristics": "Philosophy in India is essentially spiritual." The reading was contested from within. [B. K. Matilal](https://en.wikipedia.org/wiki/Bimal_Krishna_Matilal) (*Perception*, 1986): "Too often the term 'Indian philosophy' is identified with a subject that is presented as mystical and non-argumentative … A corrective to this view is long overdue." Daya Krishna counted the reduction of Indian philosophy to a spiritual, liberation-centred endeavour among his "Three Myths about Indian Philosophy". The dispute has a European prehistory in [Hegel](/positioning/persons/h/hegel/)'s verdict: as Halbfass quotes him, India's liberation was "only an abstract and negative liberation", and "The real philosophy begins only in the Occident".
 
 **Its point.** [K. C. Bhattacharyya](https://en.wikipedia.org/wiki/Krishna_Chandra_Bhattacharya)'s address "Svaraj in Ideas", given at Hooghly College during 1928–30 and published in 1954, names a "subtler domination exercised in the sphere of ideas by one culture on another": "There is cultural subjection only when one's traditional cast of ideas and sentiments is superseded without comparison or competition by a new cast representing an alien culture which possesses one like a ghost. This subjection is slavery of the spirit". It is "through philosophy that we can methodically attempt to discover" the soul of India.
 
@@ -95,4 +95,4 @@ The schools below, Buddhist, Jaina and materialist as well as Vedic, with some t
 
 ---
 
-See also: [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · [Śaṅkara](/positioning/persons/s/sankara/) · [Nāgārjuna](/positioning/persons/n/nagarjuna/) · [Madhyamaka](/positioning/subjects/m/madhyamaka/) · [Is it philosophy?](/positioning/subjects/m/metaphilosophy/is-it-philosophy/) · [Garfield](/positioning/persons/g/garfield/)
+See also: [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · [Śaṅkara](/positioning/persons/s/sankara/) · [Nāgārjuna](/positioning/persons/n/nagarjuna/) · [Madhyamaka](/positioning/subjects/m/madhyamaka/) · [Garfield](/positioning/persons/g/garfield/)

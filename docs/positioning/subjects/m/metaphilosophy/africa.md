@@ -88,4 +88,4 @@ Whether this is philosophy has been fought out over origins. G. G. M. James's *S
 
 ---
 
-See also: [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · [Ubuntu](/positioning/subjects/u/ubuntu/) · [Philosophy in the Islamic world](/positioning/subjects/m/metaphilosophy/islamic-world/) · [Philosophy in Latin America](/positioning/subjects/m/metaphilosophy/latin-america/) · [Is it philosophy?](/positioning/subjects/m/metaphilosophy/is-it-philosophy/)
+See also: [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) · [Ubuntu](/positioning/subjects/u/ubuntu/) · [Philosophy in the Islamic world](/positioning/subjects/m/metaphilosophy/islamic-world/) · [Philosophy in Latin America](/positioning/subjects/m/metaphilosophy/latin-america/)
