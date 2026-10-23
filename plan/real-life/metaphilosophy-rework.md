@@ -96,6 +96,13 @@ Every page in a tradition's section answers the three questions of the landing p
 - **Moves to the Western section**: Hegel's verdict, Jacobi and Hacker on *ānvīkṣikī*, Halbfass's judgements, the Western scholars' dispute over Hindu engagement with Islam, Europe's reception of India (Schlegel, Schopenhauer).
 - **Person pages**: none proposed; for discussion when the pages are drafted: Haribhadra, Daya Krishna, K. C. Bhattacharyya, Vivekananda, Radhakrishnan.
 
+### China (outline agreed 2026-10-23)
+
+- **Landing page** — the words for the work (*xue*, *dao*, *Daoxue*; the masters as *jia* and *zhuzi*), China sorting its own schools ("Tianxia", Sima Tan's six schools, Liu Xin's bibliography, Xunzi on the masters' blinkers), transmission and commentary as the shared form ("a transmitter and not a maker").
+- **School pages** — the Confucians (Confucius, Mencius, Xunzi); the Mohists; the Daoists; Buddhism in China; the Learning of the Way (with the Qing dispute between Han and Song learning); Modern China (*zhexue* from Japan, Hu Shi, Feng Youlan, Jin Yuelin, the 1958 manifesto, Zheng Jiadong's legitimacy debate). Grouping to settle after the gap research: the School of Names, the Legalists, Dark Learning (Wang Bi), the Buddhist doctrinal classifications, Wang Chong, Qing evidential learning.
+- **Moves to the Western section**: Hegel on Confucius, Defoort's four positions, Derrida's remark (kept on Modern China only as a clause, as what Zheng's debate answered).
+- **To fix in the Western rework**: the hinge says the Western verdicts, "Hegel's among them, are on the pages of the traditions they judged"; with the review material moved, they now belong on the hinge itself.
+
 ## Open points
 
 1. **Name of the Greek page**: "Greek philosophy", or "Greek and Roman philosophy".
