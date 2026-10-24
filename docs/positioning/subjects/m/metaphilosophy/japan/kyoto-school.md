@@ -1,0 +1,20 @@
+---
+layout: default
+lastmod: 2026-10-24
+title: "Metaphilosophy: The Kyoto School"
+description: "What philosophy is, what it is for and how to do it in the Kyoto School: Nishida's religion as the conclusion of philosophy, Tanabe's metanoetics, Nishitani, Watsuji's ethics and Tosaka's objection."
+---
+
+[Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) > [Philosophy in Japan](/positioning/subjects/m/metaphilosophy/japan/) > The Kyoto School
+
+# The Kyoto School
+
+The Kyoto School is the line of thinkers around [Nishida Kitarō](/positioning/persons/n/nishida/) (1870–1945) at Kyoto Imperial University and his successor Tanabe Hajime (1885–1962), continued by Nishitani Keiji (1900–1990). Tosaka Jun, one of its critics from within, held that without Tanabe's critical taking-up of Nishida there would be no school at all.
+
+Nishida's first book, *An Inquiry into the Good* (1911), sets the order of things in its preface. Its last part treats religion, "which I have long held to be the conclusion of philosophy". He named the book for the good because, "although philosophical inquiry fills its first half, I hold the problem of life to be the centre and the conclusion". And experience comes before the knower: "it is not that there is experience because there is an individual; there is an individual because there is experience". In 1932 he wrote that the motive of philosophy must be not wonder but the deep sorrow of life (as quoted).
+
+Tanabe turned philosophy against itself. Lectures at Kyoto at the end of 1944 became *Zangedō to shite no tetsugaku* (1946), philosophy as the Way of *zange*, the Buddhist word for repentance and confession, which Tanabe himself glossed with the Greek *metanoia*. In James Heisig's words, the book "argues for the ultimate futility of all philosophy, and proposes instead a 'philosophy that is not a philosophy'". Reason, in Bret Davis's account of it, is "inevitably driven to antinomies through which it must repeatedly die to its own self-power in order to be reborn again through the workings of an Other-power": the language is Shinran's ([Buddhism in Japan](/positioning/subjects/m/metaphilosophy/japan/buddhism/)).
+
+Nishitani said plainly where he stood. "When I say 'philosophy,' for a person such as myself, born and living in Japan, I first of all mean Western philosophy, since this is the most influential one", and "we are faced with the ineluctable necessity of re-thinking once more Oriental thought and philosophy with the help of what we learned from Western philosophy" (1984). His own concern: "Daily life is the basic problem and the last key to all problems. That is the standpoint of Zen … To think that standpoint by way of philosophy is my basic concern", and he aimed at "making philosophy work as the thinking of basic non-thinking, just like the everyday labor of working the field and pulling the weeds". In "The Standpoint of Zen" (1967) he reads Western philosophy back to the same root: for Augustine, as for Socrates, "the love of knowledge which gives rise to philosophy was backed up by a practice of self-investigation which sought a resting place for his own existence".
+
+Watsuji Tetsurō (1889–1960), who taught at Kyoto before moving to Tokyo in 1934, built ethics as a discipline on a word. "Ethics is the question 'what is *rinri*?'", and *rinri* is made of *rin*, fellows, "the group as a system of relations among certain people, and also the individuals defined by that group", and *ri*, principle. To define ethics as the study of *ningen*, the human being as between persons, was "to escape the modern error that makes ethics merely a problem of individual consciousness" (*Rinrigaku*, 1937). Tosaka Jun (1900–1945) objected to the method in 1935: "even if Japanese or Chinese could make the word *rinri*, analysing the word does not prove that the thing itself is so"; the word could serve only "as an illustration, an intuitive symbol".

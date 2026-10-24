@@ -101,6 +101,15 @@ Every page in a tradition's section answers the three questions of the landing p
 - **Landing page** — the words for the work (*xue*, *dao*, *Daoxue*; the masters as *jia* and *zhuzi*), China sorting its own schools ("Tianxia", Sima Tan's six schools, Liu Xin's bibliography, Xunzi on the masters' blinkers), transmission and commentary as the shared form ("a transmitter and not a maker").
 - **School pages** — the Confucians (Confucius, Mencius, Xunzi); the Mohists; the Daoists; Buddhism in China; the Learning of the Way (with the Qing dispute between Han and Song learning); Modern China (*zhexue* from Japan, Hu Shi, Feng Youlan, Jin Yuelin, the 1958 manifesto, Zheng Jiadong's legitimacy debate). Grouping to settle after the gap research: the School of Names, the Legalists, Dark Learning (Wang Bi), the Buddhist doctrinal classifications, Wang Chong, Qing evidential learning.
 - **Moves to the Western section**: Hegel on Confucius, Defoort's four positions, Derrida's remark (kept on Modern China only as a clause, as what Zheng's debate answered).
+### Japan (decided 2026-10-24)
+
+- **Landing page** — the words for the work (*gaku*, *michi*/*dō*, the names of Confucian learning, *kokugaku*), Japan sorting its own teachings: Kūkai's ten stages (ranking) and Tominaga Nakamoto's *kajō* and three things (historical layering, the Way of sincerity).
+- **Pages** — Buddhism in Japan (Kūkai, Hōnen and Shinran, Dōgen); the Confucians (Razan, Jinsai, Sorai, Ekken, Baigan); Native Studies (Mabuchi, Norinaga); Miura Baien and Andō Shōeki; Meiji (Nishi, the two Inoues, Chōmin); the Kyoto School (Nishida, Tanabe, Nishitani, Watsuji and Tosaka); After 1945 (Maruyama as paraphrased by Karatani, Karatani's reply, Fujita).
+- **Moves to the Western section**: Kasulis's "*Wissenschaft* or Way?", Maraldo's four senses and his "Japanese philosophy" against "philosophy in Japan".
+- **Open**: Maruyama's *Nihon no shisō* to be opened before he is quoted directly; the Japanese lines from NDL scans to be checked against the page images.
+
+### Western rework
+
 - **To fix in the Western rework**: the hinge says the Western verdicts, "Hegel's among them, are on the pages of the traditions they judged"; with the review material moved, they now belong on the hinge itself.
 
 ## Open points
