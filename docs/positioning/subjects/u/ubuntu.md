@@ -17,7 +17,7 @@ Its best-known statement is the maxim *umuntu ngumuntu ngabantu* — "a person i
 
 ## Personhood through relation
 
-The core claim is ontological before it is ethical: it is about what a person *is*, not only how a person should act. On the ubuntu account a newborn is human in potential but not yet a person in the full sense; personhood is acquired through participation in a community — through being named, raised, recognised, and held in a web of obligation and belonging. To be a person is to be a person *to* and *through* others. The widely cited formulation drawn from the Kenyan theologian John Mbiti puts the relation in both directions: "I am because we are, and since we are, therefore I am."
+The core claim is ontological before it is ethical: it is about what a person *is*, not only how a person should act. On the ubuntu account a newborn is human in potential but not yet a person in the full sense; personhood is acquired through participation in a community — through being named, raised, recognised, and held in a web of obligation and belonging. To be a person is to be a person *to* and *through* others. The widely cited formulation drawn from the Kenyan theologian John Mbiti puts the relation in both directions: "I am, because we are; and since we are, therefore I am."
 
 This inverts the order familiar from much European philosophy, where the individual is taken as given and the community as something individuals subsequently form. Here the community is the condition of individuality, not its result. The self is not dissolved into the group — ubuntu thought distinguishes the unique person from the collective — but the person is understood as constituted in relation, drawing their humanity from the humanity of others and owing it back.
 

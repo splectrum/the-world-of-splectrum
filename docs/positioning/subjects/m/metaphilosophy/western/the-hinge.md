@@ -45,7 +45,7 @@ The twentieth-century sequel, the residue view and the specialisms, is on [The r
 
 ## The canon and the word abroad
 
-**What it is.** Peter K. J. Park dates to these decades the rewriting of the history of philosophy, in his publisher's summary, "as a march of progress from the Greeks to Kant"; the verdicts that went with it, Hegel's among them, are on the pages of the traditions they judged ([India](/positioning/subjects/m/metaphilosophy/india/), [China](/positioning/subjects/m/metaphilosophy/china/), [Africa](/positioning/subjects/m/metaphilosophy/africa/), [Latin America](/positioning/subjects/m/metaphilosophy/latin-america/)).
+**What it is.** Peter K. J. Park dates to these decades the rewriting of the history of philosophy, in his publisher's summary, "as a march of progress from the Greeks to Kant".
 
 In the same century the word travelled as the name of a Western academic discipline. In Japan [Nishi Amane](https://en.wikipedia.org/wiki/Nishi_Amane) coined *tetsugaku*, first published in 1874, so that Western philosophy would not be confused with Confucianism; *-gaku* was the suffix of the new university disciplines. Chinese took the word over from Japanese as *zhexue* ([Philosophy in China](/positioning/subjects/m/metaphilosophy/china/)), and modern Indian languages came to use *darśana* for it ([Philosophy in India](/positioning/subjects/m/metaphilosophy/india/)).
 

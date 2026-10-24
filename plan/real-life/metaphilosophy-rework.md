@@ -108,9 +108,28 @@ Every page in a tradition's section answers the three questions of the landing p
 - **Moves to the Western section**: Kasulis's "*Wissenschaft* or Way?", Maraldo's four senses and his "Japanese philosophy" against "philosophy in Japan".
 - **Open**: Maruyama's *Nihon no shisō* to be opened before he is quoted directly; the Japanese lines from NDL scans to be checked against the page images.
 
+### Africa (decided 2026-10-24)
+
+- **Landing page** — the words for wisdom (*sbꜣyt*, *ḥatäta*, Akan *nyansa* and the proverb, Yoruba *ọgbọ́n* and *ìmọ̀*, the Arabic loans), Oruka's four trends as Africa's own sorting, Hountondji's quotation marks and "set of texts".
+- **Pages** — the instructions (Ptahhotep, Merikare, Amenemope, the Dispute); Ethiopia (the *Book of the Wise Philosophers*, the *Hatata*); the scholars of the Sahel (Timbuktu, Sokoto, Nana Asma'u); oral wisdom (proverbs, Ifá, Oruka's sages, Oluwole, the orality dispute); Négritude and the nationalists (Senghor, Nkrumah, Nyerere, Diop and Obenga); the ethnophilosophy debate (Kagame, Mbiti, Hountondji, Towa, Oruka, Amo; Tempels only as the book answered); after the debate (Wiredu, Gyekye, Mudimbe, Ramose, S. B. Diagne).
+- **Moves to the Western section**: Hegel and Lévy-Bruhl as the frame; Lefkowitz and Bernal on the "stolen legacy".
+- **Open**: Senghor's 1939 sentence (two wordings circulate; *Liberté I* to open); Gyekye 1987, Mudimbe 1988 and Hountondji's *Myth and Reality* behind lending walls; Lichtheim for modern translations of the Egyptian texts.
+
+### Latin America (decided 2026-10-24)
+
+- **Landing page** — the name and how late it came (*filosofía americana*, *nuestra América*, *Indo-América*), Gaos's *pensamiento* against *filosofía* and his *pensadores*, the region's own names for its generations (Romero's *fundadores*, Miró Quesada's *forjadores*).
+- **Pages** — the knowers (Nahua, K'iche', Andean); the colonial schools and Sor Juana; an American philosophy (Rodríguez, Bello, Alberdi, Martí); order and progress (Barreda, Teixeira Mendes); the founders and normality (Rodó, Caso, Korn, Romero); a philosophy of our America? (Ramos, Gaos, Zea, Salazar Bondy, Mariátegui, Kusch, Roig); liberation (Dussel, Freire, Fals Borda); after (Quijano, Lugones, Fornet-Betancourt). Brazil folded into the lines.
+- **Moves to the Western section**: Hegel's "echo of the Old World" as a frame; Maffie's and Nuccetelli's framings; Gracia and Vargas as the framing voice (kept for facts).
+
+### Future work: Indigenous philosophy (noted 2026-10-24)
+
+- **Latin America, Indigenous voices today** — beside the historical knowers: Fausto Reinaga's *indianismo* (*La revolución india*, 1970), *suma qamaña* / *sumak kawsay* ("living well", in the Ecuadorian and Bolivian constitutions), Mapuche *kimün*, and the debate over "Andean philosophy" and who defines it (Estermann's book is by an outsider). A page of its own or the second half of the knowers page, after a research round.
+- **North America** — Indigenous North American philosophy (Vine Deloria Jr., Viola Cordova, Brian Burkhart) has no home in the subject; a possible tradition of its own.
+
 ### Western rework
 
 - **To fix in the Western rework**: the hinge says the Western verdicts, "Hegel's among them, are on the pages of the traditions they judged"; with the review material moved, they now belong on the hinge itself.
+- **Done 2026-10-24**: the hinge's pointer to the tradition pages was cut, since the verdicts are no longer there. The Western review material removed from the traditions is recoverable from the earlier versions of the pages: India (`git show 2341d21:docs/positioning/subjects/m/metaphilosophy/india.md`; Hegel, Jacobi and Hacker, Halbfass's judgements), China (`git show 309d380:docs/positioning/subjects/m/metaphilosophy/china.md`; Hegel on Confucius, Defoort, Derrida), Japan (`git show 8d9890c:docs/positioning/subjects/m/metaphilosophy/japan.md`; Kasulis, Maraldo), Africa and Latin America (`git show a1a5135:docs/positioning/subjects/m/metaphilosophy/africa.md` and `…/latin-america.md`; Hegel and Lévy-Bruhl, Lefkowitz and Bernal, Hegel's "echo", Maffie, Nuccetelli, Gracia and Vargas), and the research notes in `plan/real-life/`. They belong on the hinge when it is reworked.
 
 ## Open points
 

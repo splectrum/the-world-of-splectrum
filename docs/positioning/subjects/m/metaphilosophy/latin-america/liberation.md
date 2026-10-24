@@ -1,0 +1,18 @@
+---
+layout: default
+lastmod: 2026-10-24
+title: "Metaphilosophy: Liberation"
+description: "The philosophies of liberation in their own words: Dussel from the periphery, Freire's true word as praxis, Fals Borda's action research."
+---
+
+[Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) > [Philosophy in Latin America](/positioning/subjects/m/metaphilosophy/latin-america/) > Liberation
+
+# Liberation
+
+The philosophy of liberation took shape in the 1970s. Against Salazar Bondy, its thinkers held that one need not wait for the culture to be freed before thinking liberation philosophically.
+
+Enrique Dussel (1934–2023) wrote *Filosofía de la liberación* (preface dated 1976) "desde la periferia para hombres de la periferia", from the periphery for the people of the periphery, though "se dirige también al hombre del centro", it is addressed also to those at the centre. For him, "la filosofía, patrimonio exclusivo del Mediterráneo, desde los griegos, y en la edad moderna sólo europea, comienza por primera vez su proceso de mundialización real": philosophy, once the property of the Mediterranean and in modern times of Europe alone, begins for the first time its real worldwide process. It is done in a borrowed tongue: "Parte, es evidente, de la periferia, pero usa todavía el lenguaje del centro, como el esclavo que habla la lengua del señor cuando se rebela", it starts, plainly, from the periphery, but still uses the language of the centre, like the slave who speaks the master's language when he rebels.
+
+Paulo Freire (1921–1997), the Brazilian educator, wrote *Pedagogia do oprimido*, its preface signed in Santiago, Chile, in 1968. The true word is praxis: "Não há palavra verdadeira que não seja práxis. Daí que dizer a palavra verdadeira seja transformar o mundo", there is no true word that is not praxis; so to speak the true word is to transform the world. No one can do it alone or for others: "ninguém pode dizer a palavra verdadeira sozinho, ou dizê-la para os outros, num ato de prescrição", no one can say the true word alone, or say it for others in an act of prescription. Against the "banking" conception of education, which "nega a dialogicidade como essência da educação", denies dialogue as the essence of education, he set dialogue, "este encontro dos homens, mediatizados pelo mundo, para pronunciá-lo", this meeting of people, mediated by the world, to name it, and the formula: "ninguém educa ninguém, como tampouco ninguém se educa a si mesmo: os homens se educam em comunhão, mediatizados pelo mundo", no one educates anyone, nor does anyone educate himself: people educate one another in communion, mediated by the world.
+
+Orlando Fals Borda (1925–2008), the Colombian sociologist, made action the test. His central idea, he wrote in 1978, was "la posibilidad de crear y poseer conocimiento científico en la propia acción de las masas trabajadoras: que la investigación social y la acción política con ellas, pueden sintetizarse e influirse mutuamente", the possibility of creating and holding scientific knowledge in the very action of the working masses: that social research and political action with them can be joined and shape each other, so that "el último criterio de validez del conocimiento científico venía a ser, entonces la praxis", the final criterion of the validity of scientific knowledge became praxis. The aim was "una 'ciencia popular'", a people's science, and the method *investigación-acción*, action research, a name he says was adopted "con cierto entusiasmo ingenuo", with a certain naive enthusiasm.

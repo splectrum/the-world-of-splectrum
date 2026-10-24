@@ -1,0 +1,20 @@
+---
+layout: default
+lastmod: 2026-10-24
+title: "Metaphilosophy: Africa after the Debate"
+description: "African philosophy after the ethnophilosophy debate: Wiredu's conceptual decolonisation, Gyekye, Mudimbe, Ramose, Souleymane Bachir Diagne."
+---
+
+[Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) > [Philosophy in Africa](/positioning/subjects/m/metaphilosophy/africa/) > After the debate
+
+# After the Debate
+
+From the 1980s African philosophers turned to how the work should be done: in which languages, with which concepts, and with what relation to the traditions of others.
+
+Kwasi Wiredu (1931–2022) defined the activity by its object: "philosophy, or at any rate the best kind of philosophy, is a critique, for the most part, of fundamental conceptualization. That is to say, it is the critical examination of the conceptual framework upon which the thought of a culture is erected" ("Toward Decolonizing African Philosophy and Religion", 1998). Its method is decolonisation: "By decolonization, I mean divesting African philosophical thinking of all undue influences emanating from our colonial past. The crucial word in this formulation is 'undue'." Language matters but does not decide: "a language, most assuredly, is not conceptually neutral; syntax and vocabulary are apt to suggest definite modes of conceptualization. Note, however, that I say 'suggest' not 'compel'". So "African philosophers have to be doubly critical", and the work "has of necessity to be comparative". His example is the Akan *Nokware mu nni abra*, which he renders "there is no conflict in truth" and reads as "an invocation of the principle of non-contradiction". And not decolonisation alone: "African philosophers in our time cannot live by decolonization alone but also by the direct interrogation of reality. What is truth, goodness, freedom, time, causality, justice?" Philosophy, for him, is argument between opposing views: "Philosophy is a dialectic, and a dialectic implies the interplay of opposites. Where two or three or more are gathered in a philosophic enterprise, there opposing points of view shall be found" (1992).
+
+Kwame Gyekye (1939–2019), author of *An Essay on African Philosophical Thought: The Akan Conceptual Scheme* (1987), co-edited *Person and Community* (1992) with Wiredu and disagreed with him over the nature of the person.
+
+V. Y. Mudimbe (1941–2025) set beside "philosophy" the Greek *gnosis* in the title of *The Invention of Africa: Gnosis, Philosophy, and the Order of Knowledge* (1988), a book that, he said later, "is precisely based on the question: 'What is Africa? And what do we understand by "Africa" when we use the term?'" Mogobe Ramose's *African Philosophy through Ubuntu* (1999) set out African philosophy through ubuntu, the being of a person through other persons ([Ubuntu](/positioning/subjects/u/ubuntu/)).
+
+Souleymane Bachir Diagne (b. 1955) turned to the written tradition and to translation. *L'encre des savants* (2013; *The Ink of the Scholars*, 2016) is meant "to shift the focus from the usual discussion about orality and oral tradition to the consideration of a tradition of written erudition", the manuscripts of Timbuktu and Sokoto ([The scholars of the Sahel](/positioning/subjects/m/metaphilosophy/africa/sahel/)). He states what the critics of ethnophilosophy found missing: "A philosophy to which one adheres, literally, without the possibility of questioning it … is no longer a philosophy … his [Tempels's] critics saw precisely the lack of what would constitute philosophy, namely distance." And against the idea of concrete and abstract languages: "there is nothing more concrete than the word 'abstract' itself … The reason that there are no concrete languages is because there are no abstract ones. All that we find are abstract uses of the words of language." Wiredu's call to "philosophize in our languages", he notes, "has a tradition", in the West African scholars who wrote in Hausa and Fulfulde.
