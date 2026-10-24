@@ -287,10 +287,13 @@ Keep each surface doing its own job. If a page starts telling a story, that mate
 
 ### Sitemap lastmod
 
-Both sitemaps are auto-generated from frontmatter:
+The sitemaps are section sitemaps, each bringing one type of content together, listed in the index `sitemap.xml` and auto-generated from frontmatter:
 
-- `sitemap-site.xml` — generated from `site.pages`, uses `page.lastmod`
+- `sitemap-library.xml` — the reference library: pages under `/positioning/persons/` and `/positioning/subjects/`, uses `page.lastmod`
+- `sitemap-site.xml` — every other page in `site.pages` (not claimed by a section sitemap), uses `page.lastmod`
 - `sitemap-blog.xml` — generated from `site.posts`, uses `post.lastmod` (falls back to `post.date`)
+
+**Adding a section sitemap:** create `sitemap-<name>.xml` with a URL-prefix test, add the same prefixes to the `unless` in `sitemap-site.xml`, list the file in `sitemap.xml` and in the required files of `publish.sh`.
 
 **When editing a page or post:** bump `lastmod: YYYY-MM-DD` in the frontmatter only for a substantial update: new material, a rewritten passage, a section added or removed, a changed position. Leave it alone for typo and wording fixes, link fixes, a sentence trimmed, or a reference added in passing. Crawlers use lastmod to prioritise re-crawl, so a date that moves on every small touch tells them nothing.
 

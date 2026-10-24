@@ -5,9 +5,11 @@ permalink: /sitemap-site.xml
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {%- for page in site.pages -%}
-{%- if page.layout and page.url != "/sitemap-site.xml" and page.url != "/sitemap-blog.xml" and page.url != "/sitemap.xml" -%}
+{%- if page.layout and page.url != "/sitemap-site.xml" and page.url != "/sitemap-blog.xml" and page.url != "/sitemap-library.xml" and page.url != "/sitemap.xml" -%}
+{%- unless page.url contains "/positioning/persons/" or page.url contains "/positioning/subjects/" -%}
 {%- unless page.sitemap == false %}
   <url><loc>https://splectrum.world{{ page.url }}</loc>{% if page.lastmod %}<lastmod>{{ page.lastmod }}</lastmod>{% endif %}</url>
+{%- endunless -%}
 {%- endunless -%}
 {%- endif -%}
 {%- endfor %}

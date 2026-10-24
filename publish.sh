@@ -99,7 +99,7 @@ today = datetime.datetime.now(datetime.timezone.utc).date().isoformat()   # the 
 problems, notes = [], []
 
 # Required files
-for f in ["404.html", "robots.txt", "sitemap.xml", "sitemap-site.xml", "sitemap-blog.xml", "feed.xml"]:
+for f in ["404.html", "robots.txt", "sitemap.xml", "sitemap-site.xml", "sitemap-library.xml", "sitemap-blog.xml", "feed.xml"]:
     if not os.path.isfile(os.path.join("publish", f)):
         problems.append(f"missing publish/{f}")
 
