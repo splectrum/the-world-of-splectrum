@@ -18,7 +18,6 @@ Three further reasons:
 
 1. **What metaphilosophy is** — the three questions, the name and its dispute, explicit and implicit metaphilosophy (as now).
 2. **The philosophies** — an overview, one entry per tradition, on an equal footing: Greek, the Islamic world, Western (Latin), India, China, Japan, Africa, Latin America. Order to decide (chronological by first texts, or geographical).
-3. **How the conception changed** — a pointer and a few lines leading into the overview piece (below).
 4. **Claims of an end** — the pieces now under "Western philosophy in question".
 6. No Persons list and no See also unless a page relates directly (done 2026-10-23); the name, explicit metaphilosophy and other names moved to a Western piece, The name.
 
@@ -38,42 +37,10 @@ Three further reasons:
 | A finite task? | A finite task? | Kept, or "Can philosophy be finished?" |
 | Philosophy in the Islamic world, India, China, Japan, Africa, Latin America | Unchanged | Move from "Non-Western" to the traditions overview. |
 | Is it philosophy? | — | Removed (decided 2026-10-23); see below. |
-| — | How the conception changed | New. The overview of the line. |
 
-### The new piece: how the conception changed
+### The overview piece: dropped (2026-10-24)
 
-Follows the changes in philosophy's self-understanding in order, with the cause of each change as a source gives it. Working sequence, in neutral wording:
-
-1. The inquiry into nature (the early Greek thinkers).
-2. A way of life (Socrates to the Hellenistic schools).
-3. The branching: the Latin West and the Islamic world.
-4. Reason and faith (the Latin and Islamic debates; the two components of the mixture, philosophy and revealed religion).
-5. The complete system (Descartes's tree, Hegel).
-6. The critique of reason (Kant).
-7. Philosophy defined against the sciences (the nineteenth century: "scientist", the identity crisis, the neo-Kantians).
-8. What the sciences leave (Russell, 1912).
-9. The philosophies of the special sciences (the twentieth-century fields; the post-Kuhn turn, Machamer and Muller).
-10. The end claims (Hegel to Derrida; the scientists' verdict).
-
-### The mixture of each period
-
-Each period is named by its mixture: the two components it held together, and what grew out of the mixture leads into the next period (from reason and faith, for instance, to Descartes, whose system rests on God's guarantee and whose method is new). A first set, agreed as a start (2026-10-22). The pairs go on the evolution piece and as the heading of each period page's core section; the page titles keep the period names, so readers still find "medieval philosophy".
-
-| Period | Mixture | Why this pair |
-|---|---|---|
-| Early Greek | **Nature and reason** | *Physis*, the inquiry into nature, worked out by argument (*logos*) rather than story. Not "myth and reason": "from mythos to logos" is a contested narrative. |
-| Socrates to the Hellenistic schools | **Knowledge and life** | Philosophy as a way of life: knowing as a way of living well (Hadot; the schools' own claim). |
-| Medieval | **Reason and faith** | Decided. |
-| Early modern, to Kant | **Reason and experience** | The period's own quarrel, rationalists and empiricists, with the new science behind both. Kant's critique tries to settle it and closes the period. |
-| Nineteenth century | **Nature and history** | The sciences take nature; philosophy's remaining claims gather round history and the human world (Hegel, Dilthey's *Geisteswissenschaften*, Windelband). The most interpretive pair: needs a source framing the period this way; Windelband's rectorial address "Geschichte und Naturwissenschaft" (1894) is the first candidate. |
-| Twentieth century | **Language and experience** | The analytic turn to language; phenomenology's and pragmatism's experience. Holds across all three streams. |
-| The special sciences | **The core and the specialisms** | The mixture that comes apart and feeds back. |
-
-The chain: nature is reasoned about, reason is lived, it meets faith, it meets experience, experience splits into nature and history, history turns to language, and the whole divides into specialisms. Each pair is to be checked against the sources of its page before it is used.
-
-Where other traditions meet the line it says so: the word sent abroad (*tetsugaku*, *zhexue*), the canon narrowed. Scope to begin with: the Greek line and its branchings, where the sources are solid. Lines for other traditions can be added when a tradition is expanded.
-
-Word test: the piece says "evolution" only where a source does; otherwise "how the conception changed".
+The planned "How the conception changed" piece and the period mixtures are dropped. The line now shows on the pages themselves, the mixtures were mostly interpretive (only reason and faith, and reason and experience, had sources), and a single line from Greece onward would retell the "from the Greeks to Kant" story the reading-other-traditions pages describe. In its place the Western landing page has one paragraph on the causes of change the thinkers themselves give (Kant, Hegel, Comte, Whewell, Windelband, Ortega, Russell).
 
 ### Decided 2026-10-23
 
@@ -121,6 +88,18 @@ Every page in a tradition's section answers the three questions of the landing p
 - **Pages** — the knowers (Nahua, K'iche', Andean); the colonial schools and Sor Juana; an American philosophy (Rodríguez, Bello, Alberdi, Martí); order and progress (Barreda, Teixeira Mendes); the founders and normality (Rodó, Caso, Korn, Romero); a philosophy of our America? (Ramos, Gaos, Zea, Salazar Bondy, Mariátegui, Kusch, Roig); liberation (Dussel, Freire, Fals Borda); after (Quijano, Lugones, Fornet-Betancourt). Brazil folded into the lines.
 - **Moves to the Western section**: Hegel's "echo of the Old World" as a frame; Maffie's and Nuccetelli's framings; Gracia and Vargas as the framing voice (kept for facts).
 
+### Greece and Rome, the Islamic world, Western (decided 2026-10-24)
+
+The three remaining sections get the same treatment as the five above: a folder each, a landing page with the tradition's own words for the work and its own sortings, pages answering the three questions in running text, told by the tradition's own texts; scholars for facts; the "In one view" tables and per-question labels go. This supersedes the rows for these pages in the table above.
+
+- **Philosophy in Greece and Rome** (`greece-and-rome/`, replacing `ancient/`). Landing page: the words (*philosophia* and its late date, *historia peri physeos*, *sophia*, *theōria*, *scholē*), the Greeks' own sortings (Aristotle's theoretical, practical and productive; the Stoic division into logic, physics and ethics; Diogenes Laertius's successions). Pages: the inquiry into nature; the sophists and Socrates; Plato and the Academy; Aristotle and the Lyceum; the Hellenistic schools; Rome (Lucretius, Cicero's Latin vocabulary, Seneca, Epictetus, Marcus Aurelius); late antiquity (Plotinus, Porphyry, Proclus, the commentators, the Alexandrian prolegomena's six definitions, which reappear in al-Kindī), closing on a short paragraph on Byzantium (Psellos, Plethon).
+- **Hadot.** "Philosophy as a way of life" is Hadot's thesis, a twentieth-century Western reading; on the Greek pages the ancients make the case in their own words (the *Gorgias*, the *Phaedo*, Epicurus, Seneca). Hadot stays for facts only; his thesis goes on the Western twentieth-century pages.
+- **Philosophy in the Islamic world** (`islamic-world/`). Landing page: the words (*falsafa*, *ḥikma*, *ʿilm*, *ʿaql*, *kalām*), the tradition's own sortings (al-Fārābī's *Enumeration of the Sciences*, Ibn Sīnā's division of the sciences, al-Shahrastānī's *al-Milal wa-l-niḥal*, Ibn Khaldūn's *Muqaddima*). Pages: the reception and al-Kindī; kalām; al-Fārābī; Ibn Sīnā; al-Ghazālī and Ibn Rushd; al-Andalus (Ibn Bājja, Ibn Ṭufayl, Maimonides); the later *ḥikma* (Suhrawardī, Ṭūsī, Mullā Ṣadrā); a modern page (al-Afghānī and ʿAbduh, Iqbal, al-Jābirī, Ṭāhā ʿAbd al-Raḥmān, Nasr). Adamson's dispute over the name moves to the Western section; "Into the Latin West" moves to the Western medieval page.
+- **Islamic world, as drafted (2026-10-24):** al-Ghazālī and Ibn Rushd share a page; Ibn Khaldūn sorts the sciences on the landing page and his refutation closes the later *ḥikma*; Ṭāhā ʿAbd al-Raḥmān is left out until a line of his own is checked; al-Jābirī rests on a summary for now. To move in the Western rework: the Latin reception of the Arabic texts to the schools-and-universities page; Renan, the decline narrative, Adamson on the name, Griffel, Sabra, Gutas on Ibn Sīnā, Strauss, Rizvi after Hadot, and Europe reading *Ḥayy* to the West reading the other traditions (both in the Islamic-world research note).
+- **Western.** Landing page: the words (Latin *philosophia*, natural philosophy, *Weltweisheit*, *Wissenschaft*), the West's own sortings (the arts faculty, Descartes's tree, the *Encyclopédie*'s map after Bacon, Kant's *Conflict of the Faculties*, the histories of philosophy from Brucker to Hegel). The line: the schools and the universities (with the Latin reception of the Arabic texts); the humanists; the new philosophy; Enlightenment to Kant; the nineteenth century (renamed from the hinge); analytic philosophy, pragmatism, continental philosophy (the twentieth-century page split, Hadot added); philosophy and the special sciences; the name. Claims of an end stays a group of its own, with the renames above.
+- **The West reading the other traditions.** A group of its own on the Western landing page, outside the Western line, with its own timeline: open interest (*Confucius Sinarum Philosophus*, Leibniz, Wolff's Halle lecture, Brucker), the narrowing of 1780–1830 (Park; Tennemann, Hegel; Schlegel and Schopenhauer alongside), the colonial frame (Lévy-Bruhl, Tempels as read in Europe, Hegel's "echo"), comparative philosophy (the East–West Philosophers' Conferences, *Philosophy East and West*), the present disputes (the review material from the five tradition pages, Adamson on the name, Garfield and Van Norden). Dates to be checked in research. The other direction, each tradition receiving the West, stays on the tradition pages.
+- **Western, as drafted (2026-10-24):** the line in ten pages (schools-and-universities, humanists, new-philosophy, enlightenment-to-kant, nineteenth-century, analytic-philosophy, pragmatism, continental-philosophy with Hadot and Foucault, philosophy-and-the-special-sciences as its own page, the-name); `western/reading-other-traditions/` with five pages by period (open-interest, philosophy-proper, colonial-frame, comparative-philosophy, present-disputes); claims of an end renamed (scientists-on-philosophy, context-of-the-end-claims). Kant's handmaid retort sits on enlightenment-to-kant. Person pages: none. **Backing to flow down** to person pages: `hegel` ("Philosophy proper commences in the West", the exclusion and Arabian-philosophy sentences, Confucius "no speculative philosophy", Africa in Sibree), `kant` (the *Logik* passage), `leibniz` (the *Novissima Sinica* preface), `schopenhauer` (the 1818 preface, the Oupnek'hat).
+
 ### Future work: Indigenous philosophy (noted 2026-10-24)
 
 - **Latin America, Indigenous voices today** — beside the historical knowers: Fausto Reinaga's *indianismo* (*La revolución india*, 1970), *suma qamaña* / *sumak kawsay* ("living well", in the Ecuadorian and Bolivian constitutions), Mapuche *kimün*, and the debate over "Andean philosophy" and who defines it (Estermann's book is by an outsider). A page of its own or the second half of the knowers page, after a research round.
@@ -133,19 +112,14 @@ Every page in a tradition's section answers the three questions of the landing p
 
 ## Open points
 
-1. **Name of the Greek page**: "Greek philosophy", or "Greek and Roman philosophy".
-2. **Byzantium**: neither branch covers it now. Leave, or a short section on the Greek page.
-3. **Order of the traditions** on the hub.
-4. **Philosophy and the special sciences**: own piece after the twentieth century, or folded into it.
-5. **Name of the new piece**: "How the conception changed", or another.
-6. **"Under other names"**: the heading is used by three subject pages and by the doorway convention; change it in all, or here only ("Other names for the subject", "Also called").
-7. **The other renames**: "Scientists on philosophy", "The context of the end claims", "A finite task?".
-8. **The mixture pairs**: a first set is in place; refine as the pages are reworked, Nature and history first (source check).
-9. **Wording inside pages**: other coloured terms ("servant", "the hinge", "residue" used as a label rather than as Russell's word) to be swept when the pages are reworked.
+1. **Order of the traditions** on the hub.
+2. **"Under other names"**: the heading is used by three subject pages and by the doorway convention; change it in all, or here only ("Other names for the subject", "Also called").
+3. **"A finite task?"**: keep, or "Can philosophy be finished?".
+4. **Wording inside pages**: other coloured terms ("servant", "the hinge", "residue" used as a label rather than as Russell's word) to be swept when the pages are reworked.
 
 ## Practicalities
 
-- **URLs.** Renames change URLs: `ancient/` → e.g. `greek/`, `western/the-hinge/` → `western/nineteenth-century/`, `western/the-residue-and-the-specialisms/`, `western/the-scientists-verdict/`, `western/why-then/`. Before moving, find and update every link (pages, posts, plan docs, task list) and check the built site for missing targets. No redirects.
+- **URLs.** Renames change URLs: `ancient/` → `greece-and-rome/`, `islamic-world.md` → `islamic-world/`, `western/the-hinge/` → `western/nineteenth-century/`, `western/the-residue-and-the-specialisms/`, `western/the-scientists-verdict/`, `western/why-then/`. Before moving, find and update every link (pages, posts, plan docs, task list) and check the built site for missing targets. No redirects.
 - **Breadcrumbs, prev/next, titles and descriptions** follow each rename.
 - **Posts** that link the old URLs: check before moving (the end-of-philosophy post links two pieces).
-- **Order of work**: the non-Western traditions one by one, India first → Greek → the Western pages one by one (renames, the special-sciences extension, the review material moved in from the traditions) → the new overview piece → sweep of coloured terms.
+- **Order of work**: the non-Western traditions one by one, India first (done) → Greece and Rome → the Islamic world → the Western pages (the line, then the West reading the other traditions, then claims of an end) → sweep of coloured terms → cold review. Each section starts with a gap research round.

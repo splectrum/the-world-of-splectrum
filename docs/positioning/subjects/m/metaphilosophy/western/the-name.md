@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-23
+lastmod: 2026-10-24
 title: "Metaphilosophy: The Name"
 description: "The word metaphilosophy: Lazerowitz's coinage, the dispute over what the meta means, metaphilosophy as a field of its own, and the other names it goes by."
 ---
@@ -9,7 +9,7 @@ description: "The word metaphilosophy: Lazerowitz's coinage, the dispute over wh
 
 # The Name
 
-The word "metaphilosophy" and the disputes over it belong to Western philosophy, from the twentieth century on. This subject applies the study it names to every tradition (see [Metaphilosophy](/positioning/subjects/m/metaphilosophy/)).
+The word "metaphilosophy" and the disputes over it belong to Western philosophy, from the twentieth century on.
 
 ---
 
@@ -24,13 +24,12 @@ The word "metaphilosophy" and the disputes over it belong to Western philosophy,
 
 ## Explicit metaphilosophy
 
-Explicit metaphilosophy, pursued as a field of its own, is small. Even when it waxes, it "generates much less activity than philosophy", and book-length works on it are "not the rule but the exception". The IEP names three: Williamson's *The Philosophy of Philosophy*, Rescher's *Essay on Metaphilosophy*, and Deleuze and Guattari's *What Is Philosophy?*. It counts as probable causes of the field's growth in the early twenty-first century analytic philosophy's growing awareness of itself as a tradition, the rise of more empirical philosophising, and a softening of the analytic–continental divide. How metaphilosophies can be sorted is on [The twentieth century](/positioning/subjects/m/metaphilosophy/western/twentieth-century/).
+In the IEP's account, explicit metaphilosophy, pursued as a field of its own, is small: even when it waxes, it "generates much less activity than philosophy", and book-length works on it are "not the rule but the exception". It names three: Williamson's *The Philosophy of Philosophy*, Rescher's *Essay on Metaphilosophy*, and Deleuze and Guattari's *What Is Philosophy?*. It counts as probable causes of the field's growth in the early twenty-first century analytic philosophy's growing awareness of itself as a tradition, the rise of more empirical philosophising, and a softening of the analytic–continental divide.
 
 ---
 
 ## Other names
 
-- **The philosophy of philosophy** — Williamson's preferred name.
-- **What is philosophy?** — the question as a title, from Windelband (1884) to Ortega, Heidegger, and Deleuze and Guattari; see [The hinge](/positioning/subjects/m/metaphilosophy/western/the-hinge/), [The twentieth century](/positioning/subjects/m/metaphilosophy/western/twentieth-century/) and [The residue and the specialisms](/positioning/subjects/m/metaphilosophy/western/the-residue-and-the-specialisms/).
+- **What is philosophy?** — the question as a title, from Windelband (1884) to Ortega, Heidegger, and Deleuze and Guattari; see [The nineteenth century](/positioning/subjects/m/metaphilosophy/western/nineteenth-century/), [Continental philosophy](/positioning/subjects/m/metaphilosophy/western/continental-philosophy/) and [Philosophy and the special sciences](/positioning/subjects/m/metaphilosophy/western/philosophy-and-the-special-sciences/).
 - **Post-philosophy** — metaphilosophy read as what comes after philosophy; see [The end of philosophy](/positioning/subjects/m/metaphilosophy/western/the-end-of-philosophy/).
-- **Philosophy as a way of life** — Hadot's phrase for the ancient conception, and the title of the English collection of his essays; see [Ancient philosophy](/positioning/subjects/m/metaphilosophy/ancient/).
+- **Philosophy as a way of life** — Hadot's phrase for his reading of ancient philosophy, and the title of the English collection of his essays; see [Continental philosophy](/positioning/subjects/m/metaphilosophy/western/continental-philosophy/).

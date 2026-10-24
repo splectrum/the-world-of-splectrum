@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-13
+lastmod: 2026-10-24
 title: "Gottfried Wilhelm Leibniz (1646–1716)"
 description: "Leibniz articulated the relational view of space two centuries before the tools existed to make it work — no space without things."
 ---
@@ -26,6 +26,8 @@ Leibniz gave the earliest clear articulation of the relational view — space is
 **The principle of sufficient reason.** Nothing happens without a reason why it is so and not otherwise. Every truth has an explanation. This drives Leibniz's metaphysics: the actual world is the best of all possible worlds because God had sufficient reason to choose it.
 
 **The universal characteristic.** Leibniz dreamed of a universal formal language — a *characteristica universalis* — in which all truths could be expressed and disputes settled by calculation. "Let us calculate!" The project was never realised. [Frege](/positioning/persons/f/frege/) named it as a model in the preface to his *Begriffsschrift*, the start of the formal language tradition that [Russell](/positioning/persons/r/russell/) and the early [Wittgenstein](/positioning/persons/w/wittgenstein/) pursued — and that the later Wittgenstein abandoned.
+
+**China.** In the preface to *Novissima Sinica* (second edition 1699), fate has gathered "maximus generis humani cultus ornatusque", the highest culture and refinement of the human race, at the two ends of the continent, "Europa et Tschina". Europe excels in logic, metaphysics and mathematics; the Chinese "seem to have been ignorant of that great light of the mind, the art of demonstrating", "ignorasse magnum illud mentis lumen, artem demonstrandi". "Certe practica philosophia (quod propemodum fateri pudet) victi sumus, id est Ethicae et Politicae praeceptis": in practical philosophy, which it is almost shameful to admit, we are certainly beaten, that is, in the precepts of ethics and politics. So it seems almost necessary that Chinese missionaries be sent to Europe "qui nos Theologiae naturalis usum praxinque doceant, quemadmodum nos illis mittimus qui Theologiam eos doceant revelatam", to teach us the use and practice of natural theology, as we send them those who teach them revealed theology (English rendered from the Latin of 1699).
 
 ---
 

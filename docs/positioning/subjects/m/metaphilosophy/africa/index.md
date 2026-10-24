@@ -13,7 +13,7 @@ The Egyptian instructions call themselves *sbꜣyt*, "teaching"; Zera Yacob's Ge
 
 African philosophers sorted their own field. H. Odera Oruka, in "Four Trends in Current African Philosophy" (1978), named ethnophilosophy, philosophic sagacity, nationalist-ideological philosophy and professional philosophy, and later added two more. Paulin Hountondji put the phrase itself in quotation marks, *Sur la « philosophie africaine »* (English 1983), and defined African philosophy as "a set of texts, specifically, the set of texts written by Africans and described as philosophical by their authors themselves".
 
-Clement in Alexandria and Augustine in North Africa are on [Medieval philosophy](/positioning/subjects/m/metaphilosophy/western/medieval/); Ibn Khaldūn in the Maghreb is on [Philosophy in the Islamic world](/positioning/subjects/m/metaphilosophy/islamic-world/).
+Augustine in North Africa is on [The schools and the universities](/positioning/subjects/m/metaphilosophy/western/schools-and-universities/); Ibn Khaldūn in the Maghreb is on [Philosophy in the Islamic world](/positioning/subjects/m/metaphilosophy/islamic-world/).
 
 Where no translator is named, the English is rendered from the original.
 

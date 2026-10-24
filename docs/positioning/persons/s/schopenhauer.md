@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-06-13
+lastmod: 2026-10-24
 title: "Arthur Schopenhauer (1788–1860)"
 description: "German philosopher — the world as will and representation, structural pessimism, aesthetic contemplation, music, compassion, the denial of the will."
 ---
@@ -58,6 +58,8 @@ The connection to aesthetics is structural: aesthetic will-lessness is the felt 
 Aesthetic contemplation and compassion are way-stations. The system's capstone is the denial of the will (*Verneinung des Willens zum Leben*) — the complete turning-away from the will to life, achieved through asceticism, voluntary poverty, chastity, and resignation. Where aesthetic contemplation suspends the will temporarily and compassion sees through the principium individuationis locally, the denial of the will is the permanent and total recognition that individuality and desire are the source of suffering, followed by the renunciation of both.
 
 Schopenhauer draws explicitly on the Christian mystics (Meister Eckhart, the quietists), Hindu asceticism (the Upanishads, Vedantic renunciation), and above all Buddhism. The Four Noble Truths (life is suffering; suffering arises from craving; the cessation of craving is the cessation of suffering; there is a path) map directly onto the system's architecture. *Nirvana* and the denial of the will are, for Schopenhauer, the same insight expressed in different vocabularies.
+
+The preface to the first edition of *The World as Will and Representation* (1818) calls the access to the Vedas, "opened to us through the Upanishads", "in my eyes the greatest advantage which this still young century enjoys over previous ones", while each of their "individual and disconnected aphorisms … may be deduced as a consequence from the thought I am going to impart, though the converse, that my thought is to be found in the Upanishads, is by no means the case" (tr. Haldane and Kemp). He read them in the *Oupnek'hat*, Anquetil-Duperron's Latin made from a Persian translation: "In the whole world there is no study, except that of the originals, so beneficial and so elevating as that of the Oupnekhat. It has been the solace of my life, it will be the solace of my death!" (*Parerga* II §185, in Max Müller's English).
 
 The denial is not suicide — which Schopenhauer explicitly rejects as an affirmation of the will (it destroys one manifestation while leaving the will itself untouched). It is the gradual quieting of the will through knowledge and practice: the saint or ascetic who has seen through the illusion of individuality and no longer strives. What remains, from the standpoint of the world, is "nothing" — but Schopenhauer insists that this "nothing" is only nothing relative to the world of will and representation. For those who have turned, it is everything. "To those in whom the will has turned and denied itself, this very real world of ours, with all its suns and milky ways, is — nothing."
 

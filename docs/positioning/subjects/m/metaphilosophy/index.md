@@ -21,9 +21,9 @@ It also follows the IEP's account that much metaphilosophy is implicit: "Any phi
 
 ## Traditions
 
-- [Ancient philosophy](/positioning/subjects/m/metaphilosophy/ancient/) — the inquiry into nature, then a way of life, from Socrates to the Hellenistic schools.
-- [Philosophy in the Islamic world](/positioning/subjects/m/metaphilosophy/islamic-world/) — *falsafa* and the later *ḥikma*, from al-Kindī to the seventeenth century.
-- [Western philosophy](/positioning/subjects/m/metaphilosophy/western/) — the Latin West from the medieval period to the twentieth century, and the claims that philosophy has ended.
+- [Philosophy in Greece and Rome](/positioning/subjects/m/metaphilosophy/greece-and-rome/) — *philosophia*, inquiry into nature, wisdom and leisure, the Greeks' own sortings, and the lines from the first thinkers to late antiquity and Byzantium.
+- [Philosophy in the Islamic world](/positioning/subjects/m/metaphilosophy/islamic-world/) — *falsafa* and *ḥikma*, philosophy and wisdom, the tradition's maps of the sciences, and the lines from al-Kindī to the modern reply to Renan.
+- [Western philosophy](/positioning/subjects/m/metaphilosophy/western/) — the words and the maps of knowledge, the line from the medieval schools to the special sciences, how the West read the other traditions, and the claims that philosophy has ended.
 - [Philosophy in India](/positioning/subjects/m/metaphilosophy/india/) — the desire to know (*jijñāsā*), root text and commentary, and the schools from the Upaniṣads to modern India.
 - [Philosophy in China](/positioning/subjects/m/metaphilosophy/china/) — learning (*xue*) and the Way (*dao*), China's own surveys of its schools, and the masters to modern China.
 - [Philosophy in Japan](/positioning/subjects/m/metaphilosophy/japan/) — learning (*gaku*) and the Ways (*michi*), Kūkai's and Tominaga's sortings of the teachings, and the lines to the present.
