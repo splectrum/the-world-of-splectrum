@@ -336,7 +336,7 @@ Cloudflare Pages serves everything at trailing-slash URLs. Non-slash URLs redire
 
 ### Short URLs and moves
 
-A page lives where its section puts it, even when that makes the URL long. Where a shorter address is useful — to share, or for a page readers look for by name — add it as a 301 redirect in `docs/_redirects` (e.g. `/start-here/` → `/real-life/spl/start-here/`). Common practice; add them as needed, not up front. Internal links always use the full canonical URL, never the short one. A page that moves gets a 301 from its old URL.
+A page lives where its section puts it, even when that makes the URL long. Where a shorter address is useful — to share, or for a page readers look for by name — add it as a 301 redirect in `docs/_redirects` (e.g. `/start-here/` → `/real-life/spl/start-here/`). Add them sparingly: `/start-here/` is the only one kept. Internal links always use the full canonical URL, never the short one. A page that moves or is renamed gets no redirect: find and update every link to it (pages, posts, plan docs, task list) and check the built site for missing targets; the old URL drops out of the sitemap.
 
 ### Sources blocks & freshness
 
