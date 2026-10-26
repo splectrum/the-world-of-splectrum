@@ -24,4 +24,4 @@ Alien cognition would be cognition arising from a construction history that is n
 
 **Backing:** the assembly theory bundle (the extensions page carries the boundary-of-life claim), Walker, Cronin.
 
-**Ordering:** this one needs the decentralised-cognition post (scheduled 2026-11-04) and the upward direction under it.
+**Ordering:** this one needs the decentralised-cognition post (scheduled 2026-11-08) and the upward direction under it.
