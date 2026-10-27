@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-19
+lastmod: 2026-10-27
 title: "R. G. Collingwood (1889–1943)"
 description: "Collingwood identified art with expression and language with art — failed expression produces corrupt consciousness, the worst disease of mind."
 ---
@@ -32,6 +32,8 @@ Collingwood made expression the foundation of conscious life. Art is not imitati
 ---
 
 ## Beyond aesthetics
+
+**The Idea of Nature** (1945, posthumous). On [Galileo](/positioning/persons/g/galileo/): "the exclusion of everything qualitative and the restriction of natural reality to a complex of quantities … The principle of science as understood by Galileo is that nothing is scientifically knowable except what is measurable." What is left out has to go somewhere: "that which has been extruded from the concept of nature must find a lodgement somewhere else in metaphysical theory. These homeless entities fall into two main divisions: first, qualities in general; secondly, minds. According to Galileo, whose views on this subject were adopted by Descartes and Locke and became what may be called the orthodoxy of the seventeenth century, minds form a class of beings outside nature, and qualities are explained as appearances to minds." Each cosmological movement "was followed by a movement in which the focus of interest shifted from nature to mind": in the eighteenth century "the centre of gravity in philosophical thought swung over from the theory of nature to the theory of mind, Berkeley being the critical point here as Socrates was for the Greeks".
 
 **The Idea of History** (1946, posthumous). The historian's task is to discover the thought behind the action — to re-enact past thought in the historian's own mind. Not psychological reproduction but recovery of propositional content: the reasons, intentions, and beliefs that made the action intelligible. From his archaeological work, Collingwood learned that "knowledge comes only by answering questions" — evidence means nothing apart from the question it is summoned to answer.
 
@@ -67,6 +69,7 @@ But Collingwood concedes the medium is practically necessary while maintaining i
 - [*The Principles of Art*](https://en.wikipedia.org/wiki/The_Principles_of_Art) (1938) — the expression theory: art, language, corrupt consciousness
 - *An Essay on Metaphysics* (1940) — absolute presuppositions, the historicity of inquiry
 - [*The New Leviathan*](https://en.wikipedia.org/wiki/The_New_Leviathan) (1942) — civilisation, barbarism, the theory of mind
+- *The Idea of Nature* (1945) — the idea of nature in Greek, Renaissance and modern cosmology; minds and qualities outside nature
 - [*The Idea of History*](https://en.wikipedia.org/wiki/The_Idea_of_History) (1946) — re-enactment, the logic of question and answer
 
 ---

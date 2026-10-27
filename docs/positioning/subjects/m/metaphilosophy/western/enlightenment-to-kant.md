@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-24
+lastmod: 2026-10-27
 title: "Metaphilosophy: Enlightenment to Kant"
 description: "The eighteenth century in its own words: Wolff's science of the possibles, the philosophe, Hume, and Kant's school and world concepts of philosophy."
 ---

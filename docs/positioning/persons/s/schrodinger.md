@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-28
+lastmod: 2026-10-27
 title: "Erwin Schrödinger (1887–1961)"
 description: "Austrian physicist — the Schrödinger equation, wave mechanics, What is Life?, negative entropy, and the physicist's question that shaped molecular biology."
 ---
@@ -47,6 +47,12 @@ The book's influence was less in its specific claims (the "negative entropy" con
 
 ---
 
+## Mind and Matter
+
+In *Mind and Matter* (1958, from his Tarner lectures) Schrödinger names "the principle of objectivation": "a certain simplification which we adopt in order to master the infinitely intricate problem of nature. Without being aware of it and without being rigorously systematic about it, we exclude the Subject of Cognizance from the domain of nature that we endeavor to understand. We step with our own person back into the part of an onlooker who does not belong to the world, which by this very procedure becomes an objective world" (as Tam Hunt quotes it, *Scientific American*, 2020).
+
+---
+
 ## Where Schrödinger stops
 
 Schrödinger's question in *What is Life?* — how does an organism maintain its order? — is a physicist's question addressed to biology. The answer (negative entropy, open systems, free-energy processing) identifies the thermodynamic conditions that life requires but does not address how living systems achieve what they achieve: how genetic information is encoded, how it is read, how development produces form, how evolution generates novelty. The thermodynamic framing establishes a necessary condition for life — an entropy gradient — without addressing the biological mechanisms that exploit it. [Prigogine's](/positioning/persons/p/prigogine/) dissipative structures later formalised the far-from-equilibrium dynamics; molecular biology supplied the mechanistic detail. Schrödinger posed the question at the right level of generality; the answers came from other programmes.
@@ -59,6 +65,7 @@ Schrödinger's question in *What is Life?* — how does an organism maintain its
 - *What is Life? The Physical Aspect of the Living Cell* (Cambridge, 1944) — negative entropy, the aperiodic crystal, the physicist's question to biology
 - "Die gegenwärtige Situation in der Quantenmechanik" ("The present situation in quantum mechanics"), *Naturwissenschaften* 23 (1935) — the cat thought experiment
 - *Nature and the Greeks* (Cambridge, 1954) — philosophy of science, the Greek inheritance
+- *Mind and Matter* (Cambridge, 1958) — the principle of objectivation
 
 ---
 

@@ -37,7 +37,7 @@ Mach never accepted the reality of atoms. Even after the Brownian-motion evidenc
 
 ## Mach's principle and the critique of Newtonian mechanics
 
-Mach's other major contribution to physics was his critique of [Newton](https://en.wikipedia.org/wiki/Isaac_Newton)'s concept of absolute space.
+Mach's other major contribution to physics was his critique of [Newton](/positioning/persons/n/newton/)'s concept of absolute space.
 
 **Newton's bucket.** Newton argued that the curvature of water in a spinning bucket demonstrates the reality of absolute rotation — rotation with respect to absolute space itself, not with respect to any material body. Mach objected: all we observe is the water's motion relative to the distant stars. If the stars were removed, we would have no way to detect "absolute" rotation. The concept of absolute space is empirically empty — it does no work that relative motion with respect to the distribution of matter in the universe cannot do.
 

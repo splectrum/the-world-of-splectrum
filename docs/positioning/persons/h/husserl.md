@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-19
+lastmod: 2026-10-27
 title: "Edmund Husserl (1859–1938)"
 description: "Husserl founded phenomenology — the systematic study of experience from the inside. Intentionality, time-consciousness, and the lifeworld."
 ---
@@ -27,7 +27,7 @@ Husserl founded [phenomenology](/positioning/subjects/p/phenomenology/) — the 
 
 **Passive synthesis.** Not all constitution is active. Beneath attention and judgment, experience is already being organised — associations forming, similarities pairing, the perceptual field structuring itself — before the ego does anything. Husserl's later, "genetic" phenomenology studied this pre-active layer: sense arrives already synthesised, and active thought works on material passive synthesis has prepared. Developed in the lectures published as *Analyses Concerning Passive and Active Synthesis*.
 
-**The lifeworld (*Lebenswelt*).** The pre-scientific, pre-theoretical world of lived experience — the ground on which all theoretical constructions are built. The sciences abstract from the lifeworld but depend on it. Introduced in *The Crisis of European Sciences*, where objectivism, in the *Internet Encyclopedia of Philosophy*'s account, helps to cause "a 'crisis of European humanity'". The crisis is not in the sciences' results but in "what science in general had meant and can mean for human existence": "Merely fact-minded sciences make merely fact-minded people" (§2, tr. Carr). Parts I–II appeared in 1936, the whole in 1954.
+**The lifeworld (*Lebenswelt*).** The pre-scientific, pre-theoretical world of lived experience — the ground on which all theoretical constructions are built. The sciences abstract from the lifeworld but depend on it. Introduced in *The Crisis of European Sciences*, where objectivism, in the *Internet Encyclopedia of Philosophy*'s account, helps to cause "a 'crisis of European humanity'". The crisis is not in the sciences' results but in "what science in general had meant and can mean for human existence": "Merely fact-minded sciences make merely fact-minded people" (§2, tr. Carr). Parts I–II appeared in 1936, the whole in 1954. In §9 [Galileo](/positioning/persons/g/galileo/)'s achievement is a "mathematizing reinterpretation of nature", after which people came to "take for true being what is actually a method" (tr. Carr, as the *Stanford Encyclopedia of Philosophy* quotes it).
 
 **Intersubjectivity.** Other subjects are not inferred — they are experienced. In the *Fifth Cartesian Meditation*, Husserl develops the account: I experience the other's body as like mine and transfer the sense of subjectivity through analogical apperception (*Einfühlung*). The other is constituted as an alter ego — a subject like me, but irreducibly not me. Merleau-Ponty and Levinas each took this in different directions, but the move is Husserl's: intersubjectivity is given in experience, not constructed by reasoning.
 

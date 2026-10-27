@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-19
+lastmod: 2026-10-27
 title: "René Descartes (1596–1650)"
 description: "Descartes fired the starting shot — the thinking subject at the centre, but the mirror and the mind-body split persisted for centuries."
 ---
@@ -19,7 +19,9 @@ Descartes placed the thinking subject at the centre of philosophy. The mirror of
 
 **The cogito.** "I think, therefore I am." The one thing that survives radical doubt: the act of doubting proves the existence of a doubter. This places the thinking subject at the centre of philosophy — a move whose consequences are still being worked through.
 
-**The mind-body split (substance dualism).** Mind (*res cogitans*) and body (*res extensa*) are separate substances. The mind thinks; the body is extended in space. This freed science to treat the physical world as pure mechanism — no teleology, no hidden intentions — and licensed the mathematical description of nature. But it also created the problem that haunted philosophy for centuries: how do mind and body interact?
+**The mind-body split (substance dualism).** Mind (*res cogitans*) and body (*res extensa*) are separate substances. "Sed quid igitur sum? Res cogitans": "But what then am I? A thing which thinks. What is a thing which thinks? It is a thing which doubts, understands, … affirms, denies, wills, refuses, which also imagines and feels" (*Meditations* II, tr. Haldane and Ross). The sixth Meditation draws the line: "I have a clear and distinct idea of myself inasmuch as I am only a thinking and unextended thing, and as, on the other, I possess a distinct idea of body, inasmuch as it is only an extended and unthinking thing, it is certain that this I … is entirely and absolutely distinct from my body, and can exist without it" ("res cogitans, non extensa … res extensa, non cogitans"). It also created the problem that haunted philosophy for centuries: how do mind and body interact?
+
+**Body as extension, physics as geometry.** In the *Principles* each substance has one principal attribute: "extension in length, breadth, and depth, constitutes the nature of corporeal substance; and thought the nature of thinking substance" (I.53, tr. Veitch). So the nature of body consists not "in its being hard, or ponderous, or coloured, or that which affects our senses in any other way, but simply in its being a substance extended in length, breadth, and depth" (II.4). Physics follows from it: "plane profiteor me nullam aliam rerum corporearum materiam agnoscere, quam illam omnimode divisibilem, figurabilem & mobilem, quam Geometrae quantitatem vocant", I frankly declare that I recognise no matter of corporeal things other than that which is divisible, shapeable and movable in every way, which the geometers call quantity; and "nulla alia Physicae principia puto esse admittenda, nec alia etiam optanda", I think no other principles of physics should be admitted, nor even wished for (II.64; English rendered from the Latin). To Mersenne in 1638 he put it in one line: "toute ma Physique n'est autre chose que Géométrie", my whole physics is nothing other than geometry (English rendered from the French).
 
 **The mirror.** Descartes assumed that clear and distinct ideas — when God is not deceiving us — correspond to how things really are. The mind is a mirror of nature, and the philosopher's task is to polish the mirror. This picture persisted through Locke, Kant, and the empiricist tradition, and was only systematically dismantled by [Rorty](/positioning/persons/r/rorty/) in the twentieth century.
 

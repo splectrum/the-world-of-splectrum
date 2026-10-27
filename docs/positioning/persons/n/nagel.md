@@ -1,8 +1,8 @@
 ---
 layout: default
-lastmod: 2026-06-14
+lastmod: 2026-10-27
 title: "Thomas Nagel (1937–)"
-description: "Nagel insisted that subjective experience is real and irreducible — there is something it is like to be a conscious subject, and no objective account captures it."
+description: "Nagel held that subjective experience is real and irreducible: there is something it is like to be a conscious subject, beyond any objective account."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Nagel
@@ -19,7 +19,7 @@ Nagel made the strongest case from within analytic philosophy that subjective ex
 
 **What is it like to be a bat?** The question that made the point. A bat perceives the world through echolocation — there is something it is like to be that bat, to have that experience. No amount of knowledge about bat neurology, sonar physics, or behavioural data tells you what it is like from the inside. Subjective experience is structurally inaccessible from the third-person perspective.
 
-**The subjective-objective gap.** Objective knowledge proceeds by abstracting away from particular points of view. But consciousness *is* a point of view. The more objective our account becomes, the further it moves from what it is trying to explain. This is not a temporary limitation — it is a structural feature of the relationship between subjective experience and objective description.
+**The subjective-objective gap.** Objective knowledge proceeds by abstracting away from particular points of view. But consciousness *is* a point of view. The more objective our account becomes, the further it moves from what it is trying to explain. This is not a temporary limitation — it is a structural feature of the relationship between subjective experience and objective description. In *Mind and Cosmos* the physical sciences "leave out something essential, without which there would be no mind. And what they leave out is just what was deliberately left out of the physical world by Descartes and Galileo in order to form the modern concept of the physical, namely, subjective appearances" (as quoted in H. Allen Orr's review, *New York Review of Books*, 2013).
 
 **The reality of the subjective.** Nagel does not deny that consciousness depends on the brain. He denies that a complete physical description of the brain would constitute an explanation of consciousness. Something is left out — the subjective character of experience. His positive claim: a complete account of reality must include the subjective, not as an add-on to physics but as something physics in its current form cannot capture. Physicalism is not wrong about what it includes; it is incomplete about what it leaves out.
 

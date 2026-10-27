@@ -132,6 +132,7 @@ Individual thinkers referenced across the positioning section. Each page present
 ## G
 
 - [Gadamer, Hans-Georg (1900–2002)](/positioning/persons/g/gadamer/) · philosopher<span class="kw">philosophical hermeneutics, prejudice, effective history, fusion of horizons</span>
+- [Galilei, Galileo (1564–1642)](/positioning/persons/g/galileo/) · astronomer, natural philosopher<span class="kw">the book of nature written in mathematics, the telescope and the Sidereus Nuncius, the law of fall, the ship and the relativity of motion, the qualities in the sensing body, Scripture and nature, the 1633 trial</span>
 - [Galton, Francis (1822–1911)](/positioning/persons/g/galton/) · polymath, statistician<span class="kw">eugenics, regression to the mean, correlation, the biometric programme, hereditary genius</span>
 - [Garfield, Jay (1955–)](/positioning/persons/g/garfield/) · philosopher<span class="kw">Nāgārjuna translation and commentary, cross-cultural philosophy, Madhyamaka and Western philosophy</span>
 - [Gause, Georgy (1910–1986)](/positioning/persons/g/gause/) · biologist<span class="kw">the competitive exclusion principle, experimental population ecology, The Struggle for Existence</span>
@@ -258,6 +259,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Nagel, Thomas (1937–)](/positioning/persons/n/nagel/) · philosopher<span class="kw">subjectivity, the view from nowhere, against reductionism</span>
 - [Narkhede, Neha](/positioning/persons/n/narkhede/) · software engineer<span class="kw">co-creator of Apache Kafka, co-founder and former CTO of Confluent, data infrastructure at LinkedIn</span>
 - [Nelson, Richard R. (1930–2025)](/positioning/persons/n/nelson/) · economist<span class="kw">An Evolutionary Theory of Economic Change, routines, search and selection, the economics of basic research, national innovation systems, physical and social technologies</span>
+- [Newton, Isaac (1642–1727)](/positioning/persons/n/newton/) · natural philosopher, mathematician<span class="kw">the Principia, the laws of motion, universal gravitation, the Rules of Reasoning, hypotheses non fingo, absolute space and time, light and colours, God in natural philosophy</span>
 - [Nietzsche, Friedrich (1844–1900)](/positioning/persons/n/nietzsche/) · philosopher<span class="kw">the death of God, the will to power, eternal recurrence, perspectivism, inverted Platonism, the revaluation of all values</span>
 - [Nishida, Kitarō (1870–1945)](/positioning/persons/n/nishida/) · philosopher<span class="kw">pure experience, the logic of basho, absolute nothingness, action-intuition, the Kyoto School</span>
 - [Nussbaum, Martha (1947–)](/positioning/persons/n/nussbaum/) · philosopher<span class="kw">the capabilities approach, central human capabilities, emotions as judgments, the fragility of goodness, human development</span>

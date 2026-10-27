@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-06-13
+lastmod: 2026-10-27
 title: "Lee Smolin (1955–)"
 description: "American-Canadian theoretical physicist — loop quantum gravity, cosmological natural selection, the reality of time, The Trouble with Physics."
 ---
@@ -38,6 +38,8 @@ The hypothesis is speculative but makes a testable prediction: the constants of 
 ## The reality of time
 
 [*Time Reborn*](https://en.wikipedia.org/wiki/Time_Reborn) (2013) and *The Singular Universe and the Reality of Time* (with Roberto Mangabeira Unger, 2015) argue that time is real and fundamental — not an illusion, not emergent from a timeless substrate, not a dimension to be "spatialised" and treated on a par with space. The dominant view in theoretical physics (from Einstein through Wheeler to many contemporary approaches) treats the block universe — the four-dimensional spacetime manifold in which past, present, and future are equally real — as the correct picture. Smolin argues this view is a mistake inherited from Newtonian mechanics (where the laws are timeless) and extended uncritically into cosmology.
+
+The book with Unger is subtitled *A Proposal in Natural Philosophy*, and its jointly written preface defines the term: "The proximate subject matter of the philosophy of science is science. The proximate subject matter of natural philosophy is nature. Unlike the philosophy of science, natural philosophy shares its subject matter with science." Natural philosophy "has long ceased to exist as a recognized genre": "The duo of popular science and philosophy of science has usurped the place of natural philosophy", and it "cannot be at the beginning of the twenty-first century what it was at the beginning of the nineteenth. It must turn into something else". It is not "a super-science in which untrammeled speculation can take the place of the dialectic of empirical inquiry and theoretical analysis": "Our watchword is to take on foundational matters on terms that dispense with foundational doctrines."
 
 If time is real, then the laws of physics themselves may evolve — they are not eternal regularities but the current state of regularities that have developed over time. This connects to the CNS hypothesis (the constants vary across universe-generations) and to Smolin's collaboration with [Kauffman](/positioning/persons/k/kauffman/) on the adjacent possible (novelty is real, not merely the rearrangement of timeless constituents). The claim that the laws themselves may be historical is the most radical element: it challenges the conception of physics as the discovery of timeless truths.
 

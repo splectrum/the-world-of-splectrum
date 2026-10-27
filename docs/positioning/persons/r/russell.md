@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-19
+lastmod: 2026-10-27
 title: "Bertrand Russell (1872–1970)"
 description: "Russell built the analytical tradition on logic — Principia Mathematica, the theory of descriptions, and the conviction that philosophy should be precise."
 ---
@@ -26,6 +26,8 @@ Russell, together with [Frege](/positioning/persons/f/frege/), built the analyti
 **Types.** Russell's response to the paradox: a hierarchy of types, where sets of one level can only contain members of a lower level. The self-referential loop is broken by prohibition. Effective but artificial — a patch, not a resolution.
 
 **The value of philosophy.** The last chapter of *The Problems of Philosophy* (1912), "The Value of Philosophy", holds that "the uncertainty of philosophy is more apparent than real": "as soon as definite knowledge concerning any subject becomes possible, this subject ceases to be called philosophy, and becomes a separate science". Astronomy and psychology are his examples; the questions not yet answerable "remain to form the residue which is called philosophy". The chapter closes: "Philosophy is to be studied, not for the sake of any definite answers to its questions, since no definite answers can, as a rule, be known to be true, but rather for the sake of the questions themselves".
+
+**What remains.** In "On Scientific Method in Philosophy" (1914, reprinted in *Mysticism and Logic*, 1918): "If the notion of the universe and the notion of good and evil are extruded from scientific philosophy, it may be asked what specific problems remain for the philosopher as opposed to the man of science?" Scientific method "compels us to abandon the hope of solving many of the more ambitious and humanly interesting problems of traditional philosophy. Some of these it relegates … to special sciences, others it shows to be such as our capacities are essentially incapable of solving". The introduction to *A History of Western Philosophy* (1946) gives the map: "All definite knowledge—so I should contend—belongs to science; all dogma as to what surpasses definite knowledge belongs to theology. But between theology and science there is a No Man's Land, exposed to attack from both sides; this No Man's Land is philosophy." Its first question: "Is the world divided into mind and matter, and, if so, what is mind and what is matter?"
 
 **Philosophy as analysis.** *A Critical Exposition of the Philosophy of Leibniz* (1900) holds that "all sound philosophy should begin with an analysis of propositions" (as the *Internet Encyclopedia of Philosophy* quotes it). The second of his 1914 Lowell lectures, published as *Our Knowledge of the External World*, is titled "Logic as the Essence of Philosophy".
 
