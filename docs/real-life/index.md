@@ -16,5 +16,6 @@ Real Life is where we communicate without strict constraints, but with the benef
 - [Start Here](/real-life/spl/start-here/) — your way in: what to expect and how to get going.
 - [SPLectrum 101](/real-life/spl/splectrum-101/) — the philosophy in a nutshell, at beginner's level.
 - [The 9-Box Homepage](/real-life/spl/the-9-box-homepage/) — the structure of the site explained.
+- [A Modern Natural Philosophy](/real-life/spl/splectrum-101/common-face/a-modern-natural-philosophy/) — the inquiry into nature as the whole, taken up again in language.
 
 This section may look rather thin at the moment, but rest assured it will change. We are growing from seed.

@@ -16,6 +16,8 @@ The seed principles explain how the medium of language gives rise to many voices
 
 How does that fit with equal standing? Quite simply: equal standing is about what a language says, its content. This face takes no part in that.
 
+- [A Modern Natural Philosophy](/real-life/spl/splectrum-101/common-face/a-modern-natural-philosophy/) — the inquiry into nature as the whole, taken up again in language.
+
 This subsection is still under construction.
 
 ---

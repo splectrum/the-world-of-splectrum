@@ -5,7 +5,7 @@ date: 2026-11-08
 lastmod: 2026-10-27
 labels: [conversations, philosophy]
 description: "Isaac Newton, in his own words and his assistant's: a man still living in the old world of alchemy and theology, out of whom the new physics came."
-status: draft
+status: ready
 words: 610
 ---
 <img src="https://images.unsplash.com/photo-1609929986805-6fc98967b2a1?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" alt="The Last of the Magicians" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
