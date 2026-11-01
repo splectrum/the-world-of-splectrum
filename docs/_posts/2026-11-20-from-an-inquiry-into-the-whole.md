@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "From an Inquiry into the Whole"
-date: 2030-03-04
+date: 2026-11-20
 lastmod: 2026-11-01
 labels: [conversations, philosophy]
 description: "Natural philosophy began as one inquiry with the whole as its object. It became a branch, a curriculum, the trunk of all knowledge, and then the sciences."
 status: draft
 words: 646
 ---
-<img src="IMAGE_URL&w=700" alt="From an Inquiry into the Whole" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1776062356815-d5e8312792a8?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" alt="From an Inquiry into the Whole" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
 
 The first Greek thinkers had a name for their work: inquiry into nature, *historia peri physeos*. Its object was the whole. It had no parts yet, and it was not even called philosophy; that name came later. Plato's Socrates remembers it from his youth: "the kind of wisdom which they call investigation of nature". Looking back, [Aristotle](/positioning/persons/a/aristotle/) placed its beginning in wonder "about the changes of the moon and of the sun, about the stars and about the origin of the universe". Pythagoras, asked what human beings are born for, is said to have answered: "to be an observer of the sky".
 
@@ -25,4 +25,4 @@ Read as loss, this is the end of philosophy, announced again and again. Read as 
 <small>This post is part of the [conversations series](/blog/label/conversations/). See also the reference entry on <a href="/positioning/subjects/m/metaphilosophy/western/natural-philosophy/">natural philosophy</a>, part of the <a href="/positioning/subjects/m/metaphilosophy/">metaphilosophy</a> subject, and <a href="/positioning/wider-landscape/natural-philosophy-in-evolution/">Natural Philosophy in Evolution</a>.</small>
 
 ---
-<small>Photo: <a href="https://unsplash.com/@PHOTOGRAPHER">PHOTOGRAPHER</a> / Unsplash</small>
+<small>Photo: <a href="https://unsplash.com/@alanaprilio">alanaprilio</a> / Unsplash</small>
