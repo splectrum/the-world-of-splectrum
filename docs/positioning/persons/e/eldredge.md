@@ -73,4 +73,4 @@ Eldredge's programme is hierarchical and paleontological. It identifies the leve
 
 ---
 
-See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Gould](/positioning/persons/g/gould/) · [Mayr](/positioning/persons/m/mayr/) · [Dobzhansky](/positioning/persons/d/dobzhansky/) · [Darwin](/positioning/persons/d/darwin/)
+See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Evolution](/positioning/subjects/e/evolution/) · [Mineral Evolution: The Word](/positioning/subjects/e/evolution/mineral-evolution/) · [Gould](/positioning/persons/g/gould/) · [Mayr](/positioning/persons/m/mayr/) · [Dobzhansky](/positioning/persons/d/dobzhansky/) · [Darwin](/positioning/persons/d/darwin/)

@@ -67,4 +67,4 @@ The step his successors took was to deny that understanding is a method at all. 
 
 ---
 
-See also: [Hermeneutics](/positioning/subjects/h/hermeneutics/) · [Schleiermacher](/positioning/persons/s/schleiermacher/) · [Heidegger](/positioning/persons/h/heidegger/) · [Gadamer](/positioning/persons/g/gadamer/)
+See also: [Hermeneutics](/positioning/subjects/h/hermeneutics/) · [Hermeneutics: the general turn and the human sciences](/positioning/subjects/h/hermeneutics/the-general-turn/) · [Philosophy of History](/positioning/subjects/p/philosophy-of-history/) · [Schleiermacher](/positioning/persons/s/schleiermacher/) · [Heidegger](/positioning/persons/h/heidegger/) · [Gadamer](/positioning/persons/g/gadamer/)

@@ -13,7 +13,7 @@ Nussbaum's project bridges moral philosophy, political theory, and classical sch
 
 ## Life
 
-Born in New York in 1947. She studied theatre and classics at New York University, then philosophy at Harvard, where she was among the first women admitted to the programme. Her doctoral work on Aristotle's *De Motu Animalium* launched a career that has moved between classical philosophy, ethics, political theory, law, and development economics.
+Born in New York in 1947. She studied theatre and classics at New York University, then philosophy at Harvard, where she was among the first women admitted to the programme. Her doctoral work on Aristotle's *De Motu Animalium* launched a career that has moved between classical philosophy, [ethics](/positioning/subjects/e/ethics/), political theory, law, and development economics.
 
 She taught at Harvard, Brown, and Oxford before joining the University of Chicago in 1995, where she holds appointments in philosophy, law, and divinity. Her public engagement is extensive — she has written on disability rights, animal rights, LGBTQ rights, religious liberty, and the role of emotions in law and public policy. She is one of the most widely read philosophers of her generation, unusual in combining scholarly depth with public accessibility.
 
@@ -73,4 +73,4 @@ The relationship between individual capabilities and collective life is a second
 
 ---
 
-See also: [Sen](/positioning/persons/s/sen/) · [Rawls](/positioning/persons/r/rawls/) · [Aristotle](/positioning/persons/a/aristotle/) · [MacIntyre](/positioning/persons/m/macintyre/)
+See also: [Ethics](/positioning/subjects/e/ethics/) · [Political philosophy](/positioning/subjects/p/political-philosophy/) · [Sen](/positioning/persons/s/sen/) · [Rawls](/positioning/persons/r/rawls/) · [Aristotle](/positioning/persons/a/aristotle/) · [MacIntyre](/positioning/persons/m/macintyre/)

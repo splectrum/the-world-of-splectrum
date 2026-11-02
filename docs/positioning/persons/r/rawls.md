@@ -9,7 +9,7 @@ description: "American political philosopher — A Theory of Justice, the origin
 
 # John Rawls (1921–2002)
 
-Rawls revived political philosophy. *A Theory of Justice* (1971) gave the discipline a systematic alternative to utilitarianism for the first time in a century, and the debate it provoked — with libertarians ([Nozick](https://plato.stanford.edu/entries/nozick-political/)), communitarians ([Sandel](/positioning/persons/s/sandel/), [Taylor](/positioning/persons/t/taylor/), [MacIntyre](/positioning/persons/m/macintyre/)), feminists, and global justice theorists — structured anglophone political philosophy for the rest of the twentieth century. The central device is the original position: a thought experiment in which rational agents, placed behind a "veil of ignorance" that strips away knowledge of their particular circumstances, choose principles of justice for the basic structure of society. The result is justice as fairness: equal basic liberties for all, and social and economic inequalities permitted only when they benefit the least advantaged.
+Rawls revived [political philosophy](/positioning/subjects/p/political-philosophy/). *A Theory of Justice* (1971) gave the discipline a systematic alternative to utilitarianism for the first time in a century, and the debate it provoked — with libertarians ([Nozick](https://plato.stanford.edu/entries/nozick-political/)), communitarians ([Sandel](/positioning/persons/s/sandel/), [Taylor](/positioning/persons/t/taylor/), [MacIntyre](/positioning/persons/m/macintyre/)), feminists, and global justice theorists — structured anglophone political philosophy for the rest of the twentieth century. The central device is the original position: a thought experiment in which rational agents, placed behind a "veil of ignorance" that strips away knowledge of their particular circumstances, choose principles of justice for the basic structure of society. The result is justice as fairness: equal basic liberties for all, and social and economic inequalities permitted only when they benefit the least advantaged.
 
 ## Life
 
@@ -72,4 +72,4 @@ The global question is the other boundary Rawls drew. *The Law of Peoples* (1999
 
 ---
 
-See also: [Sandel](/positioning/persons/s/sandel/) · [Taylor](/positioning/persons/t/taylor/) · [MacIntyre](/positioning/persons/m/macintyre/) · [Berlin](/positioning/persons/b/berlin/) · [Arendt](/positioning/persons/a/arendt/)
+See also: [Ethics](/positioning/subjects/e/ethics/) · [Political philosophy](/positioning/subjects/p/political-philosophy/) · [Authority, legitimacy, and justice](/positioning/subjects/p/political-philosophy/authority-legitimacy-and-justice/) · [Sandel](/positioning/persons/s/sandel/) · [Taylor](/positioning/persons/t/taylor/) · [MacIntyre](/positioning/persons/m/macintyre/) · [Berlin](/positioning/persons/b/berlin/) · [Arendt](/positioning/persons/a/arendt/)

@@ -44,4 +44,4 @@ His account of consciousness draws the parallel objection from both sides. Reduc
 
 ---
 
-See also: [Austin](/positioning/persons/a/austin-jl/) · [Wittgenstein](/positioning/persons/w/wittgenstein/) · [Turing](/positioning/persons/t/turing/) · [The Social Construction of Reality](/positioning/subjects/s/social-construction-of-reality/)
+See also: [Austin](/positioning/persons/a/austin-jl/) · [Wittgenstein](/positioning/persons/w/wittgenstein/) · [Turing](/positioning/persons/t/turing/) · [The Social Construction of Reality](/positioning/subjects/s/social-construction-of-reality/) · [Deconstruction](/positioning/subjects/d/deconstruction/) · [Emergence](/positioning/subjects/e/emergence/) · [The Paradigm Cases of Emergence](/positioning/subjects/e/emergence/the-paradigm-cases/)

@@ -55,7 +55,7 @@ Mayr and William B. Provine later edited *The Evolutionary Synthesis: Perspectiv
 
 ## Population thinking
 
-Mayr introduced the distinction between typological thinking (species as fixed types, with variation as deviation from the type) and population thinking (species as populations of genetically unique individuals, with variation as the reality and the "type" as an abstraction). He considered the shift from typological to population thinking the most important conceptual change in biology — more fundamental than any particular theory — and traced it to Darwin's recognition that variation is not noise but the raw material of evolution.
+Mayr introduced the distinction between typological thinking (species as fixed types, with variation as deviation from the type) and population thinking (species as populations of genetically unique individuals, with variation as the reality and the "type" as an abstraction). He considered the shift from typological to population thinking the most important conceptual change in biology — more fundamental than any particular theory — and traced it to Darwin's recognition that variation is not noise but the raw material of [evolution](/positioning/subjects/e/evolution/).
 
 ---
 
@@ -84,4 +84,4 @@ Mayr's programme is organismal and populational. Species are populations; specia
 
 ---
 
-See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Darwin](/positioning/persons/d/darwin/) · [Maynard Smith](/positioning/persons/m/maynard-smith/) · [Dawkins](/positioning/persons/d/dawkins/) · [Trivers](/positioning/persons/t/trivers/)
+See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Evolution](/positioning/subjects/e/evolution/) · [Evolution in Biology](/positioning/subjects/e/evolution/biology/) · [Darwin](/positioning/persons/d/darwin/) · [Maynard Smith](/positioning/persons/m/maynard-smith/) · [Dawkins](/positioning/persons/d/dawkins/) · [Trivers](/positioning/persons/t/trivers/)

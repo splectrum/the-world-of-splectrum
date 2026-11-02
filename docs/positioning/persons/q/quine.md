@@ -9,7 +9,7 @@ description: "American philosopher — Two Dogmas of Empiricism, ontological rel
 
 # Willard Van Orman Quine (1908–2000)
 
-Quine dismantled two pillars of the empiricist tradition and rebuilt epistemology on what survived. "Two Dogmas of Empiricism" (1951) attacked the analytic-synthetic distinction (truths of meaning versus truths of fact) and the reductionist programme (each meaningful statement has its own empirical content). Without these, knowledge is not a hierarchy of sentences resting on experience but a web of belief — a fabric that touches experience at its edges and is revised as a whole when experience forces change. No statement is immune to revision (even logic), and no statement faces experience alone. This holism about meaning and confirmation reshaped analytic philosophy and opened the path that [Rorty](/positioning/persons/r/rorty/) would later take toward the abandonment of epistemology as a foundational enterprise.
+Quine dismantled two pillars of the empiricist tradition and rebuilt [epistemology](/positioning/subjects/e/epistemology/) on what survived. "Two Dogmas of Empiricism" (1951) attacked the analytic-synthetic distinction (truths of meaning versus truths of fact) and the reductionist programme (each meaningful statement has its own empirical content). Without these, knowledge is not a hierarchy of sentences resting on experience but a web of belief — a fabric that touches experience at its edges and is revised as a whole when experience forces change. No statement is immune to revision (even logic), and no statement faces experience alone. This holism about meaning and confirmation reshaped analytic philosophy and opened the path that [Rorty](/positioning/persons/r/rorty/) would later take toward the abandonment of epistemology as a foundational enterprise.
 
 ## Life
 
@@ -33,7 +33,7 @@ The positive alternative is **holism**: the unit of empirical significance is no
 
 ## Ontological relativity
 
-*Word and Object* (1960) develops the **indeterminacy of translation**: given all possible evidence (the totality of speech dispositions of a linguistic community), there is no fact of the matter about which translation of a foreign language is the correct one. Multiple incompatible translation manuals can fit all the evidence equally well. This is not a practical limitation (translation is hard) but a principled indeterminacy (there is no fact to be right about).
+*Word and Object* (1960) develops the **indeterminacy of [translation](/positioning/subjects/t/translation-theory/)**: given all possible evidence (the totality of speech dispositions of a linguistic community), there is no fact of the matter about which translation of a foreign language is the correct one. Multiple incompatible translation manuals can fit all the evidence equally well. This is not a practical limitation (translation is hard) but a principled indeterminacy (there is no fact to be right about).
 
 The consequence is **ontological relativity** — what there is (the ontology of a theory) is relative to a background language. "To be is to be the value of a variable," Quine's famous slogan, means that ontological commitments are read off from the variables a theory quantifies over. But since translation between theories is indeterminate, ontology is not absolute but always relative to a choice of interpretive framework.
 
@@ -68,4 +68,4 @@ The indeterminacy of translation raises the question of how communication succee
 
 ---
 
-See also: [Carnap](/positioning/persons/c/carnap/) · [Rorty](/positioning/persons/r/rorty/) · [Putnam](/positioning/persons/p/putnam/) · [Sellars](/positioning/persons/s/sellars/) · [Russell](/positioning/persons/r/russell/)
+See also: [Epistemology](/positioning/subjects/e/epistemology/) · [Translation Theory](/positioning/subjects/t/translation-theory/) · [Carnap](/positioning/persons/c/carnap/) · [Rorty](/positioning/persons/r/rorty/) · [Putnam](/positioning/persons/p/putnam/) · [Sellars](/positioning/persons/s/sellars/) · [Russell](/positioning/persons/r/russell/)

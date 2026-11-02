@@ -63,4 +63,4 @@ The "status anxiety" and "paranoid style" analyses have been criticised as conde
 
 ---
 
-See also: [Spencer](/positioning/persons/s/spencer/) · [Darwin](/positioning/persons/d/darwin/) · [Galton](/positioning/persons/g/galton/) · [Darwinism](/positioning/subjects/d/darwinism/)
+See also: [Spencer](/positioning/persons/s/spencer/) · [Darwin](/positioning/persons/d/darwin/) · [Galton](/positioning/persons/g/galton/) · [Darwinism](/positioning/subjects/d/darwinism/) · [Social Darwinism](/positioning/subjects/d/darwinism/social-darwinism/)

@@ -9,7 +9,7 @@ description: "Ukrainian-American geneticist — Genetics and the Origin of Speci
 
 # Theodosius Dobzhansky (1900–1975)
 
-Dobzhansky was a geneticist and evolutionary biologist whose *Genetics and the Origin of Species* (1937) is the single most important bridge work of the Modern Synthesis — the book that connected the mathematical population genetics of [Fisher](/positioning/persons/f/fisher/), [Wright](/positioning/persons/w/wright/), and [Haldane](/positioning/persons/h/haldane/) with field observations of natural populations. Where the theoreticians worked with equations, Dobzhansky worked with *Drosophila pseudoobscura* in the mountains of California and showed that the genetic variation the mathematicians modelled was observable in real populations and subject to natural selection in the wild. He was also among the first to articulate the biological species concept (before [Mayr](/positioning/persons/m/mayr/) gave it its most systematic twentieth-century treatment) and a lifelong advocate for the centrality of evolution to all of biology — captured in his 1973 essay title, "Nothing in biology makes sense except in the light of evolution."
+Dobzhansky was a geneticist and evolutionary biologist whose *Genetics and the Origin of Species* (1937) is the single most important bridge work of the Modern Synthesis — the book that connected the mathematical population genetics of [Fisher](/positioning/persons/f/fisher/), [Wright](/positioning/persons/w/wright/), and [Haldane](/positioning/persons/h/haldane/) with field observations of natural populations. Where the theoreticians worked with equations, Dobzhansky worked with *Drosophila pseudoobscura* in the mountains of California and showed that the genetic variation the mathematicians modelled was observable in real populations and subject to natural selection in the wild. He was also among the first to articulate the biological species concept (before [Mayr](/positioning/persons/m/mayr/) gave it its most systematic twentieth-century treatment) and a lifelong advocate for the centrality of [evolution](/positioning/subjects/e/evolution/) to all of biology — captured in his 1973 essay title, "Nothing in biology makes sense except in the light of evolution."
 
 ---
 
@@ -64,4 +64,4 @@ Dobzhansky's programme is empirical population genetics applied to the species p
 
 ---
 
-See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Lewontin](/positioning/persons/l/lewontin/) · [Mayr](/positioning/persons/m/mayr/) · [Fisher](/positioning/persons/f/fisher/) · [Gould](/positioning/persons/g/gould/)
+See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Evolution](/positioning/subjects/e/evolution/) · [Evolution in Metaphysics](/positioning/subjects/e/evolution/metaphysics/) · [Lewontin](/positioning/persons/l/lewontin/) · [Mayr](/positioning/persons/m/mayr/) · [Fisher](/positioning/persons/f/fisher/) · [Gould](/positioning/persons/g/gould/)

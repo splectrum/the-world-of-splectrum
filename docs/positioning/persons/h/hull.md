@@ -9,7 +9,7 @@ description: "American philosopher of biology — Science as a Process, the repl
 
 # David Hull (1935–2010)
 
-Hull applied Darwinian selection theory to the evolution of science itself. *Science as a Process: An Evolutionary Account of the Social and Conceptual Development of Science* (1988) argued that scientific change is genuinely selective — that theories, methods, and research programmes compete, replicate, and are differentially retained in a process structurally analogous to biological evolution. The claim is not a loose metaphor: Hull developed the replicator-interactor framework (generalising [Dawkins](/positioning/persons/d/dawkins/)' replicator-vehicle distinction) and showed that it applies to the units of scientific change as rigorously as to biological populations. He was also a leading philosopher of biology in his own right — his species-as-individuals thesis (that species are not natural kinds but historical individuals) reshaped the metaphysics of biology and connected the philosophy of biology to the philosophy of science in ways that remain productive.
+Hull applied Darwinian selection theory to the [evolution](/positioning/subjects/e/evolution/) of science itself. *Science as a Process: An Evolutionary Account of the Social and Conceptual Development of Science* (1988) argued that scientific change is genuinely selective — that theories, methods, and research programmes compete, replicate, and are differentially retained in a process structurally analogous to biological evolution. The claim is not a loose metaphor: Hull developed the replicator-interactor framework (generalising [Dawkins](/positioning/persons/d/dawkins/)' replicator-vehicle distinction) and showed that it applies to the units of scientific change as rigorously as to biological populations. He was also a leading philosopher of biology in his own right — his species-as-individuals thesis (that species are not natural kinds but historical individuals) reshaped the metaphysics of biology and connected the philosophy of biology to the philosophy of science in ways that remain productive.
 
 ---
 
@@ -62,4 +62,4 @@ The species-as-individuals thesis is widely accepted but has consequences Hull d
 
 ---
 
-See also: [Dawkins](/positioning/persons/d/dawkins/) · [Sober](/positioning/persons/s/sober/) · [Kuhn](/positioning/persons/k/kuhn/) · [Darwinism](/positioning/subjects/d/darwinism/)
+See also: [Dawkins](/positioning/persons/d/dawkins/) · [Sober](/positioning/persons/s/sober/) · [Kuhn](/positioning/persons/k/kuhn/) · [Darwinism](/positioning/subjects/d/darwinism/) · [Evolution](/positioning/subjects/e/evolution/) · [Science and Knowledge](/positioning/subjects/e/evolution/science-and-knowledge/)

@@ -58,4 +58,4 @@ Rorty's anti-foundationalism is therapeutic — he tears down the mirror but del
 
 ---
 
-See also: [Pragmatism](/positioning/subjects/p/pragmatism/) · [Wittgenstein](/positioning/persons/w/wittgenstein/) · [Dewey](/positioning/persons/d/dewey/) · [Habermas](/positioning/persons/h/habermas/)
+See also: [Pragmatism](/positioning/subjects/p/pragmatism/) · [Pluralism](/positioning/subjects/p/pluralism/) · [The dimensions of pluralism](/positioning/subjects/p/pluralism/the-dimensions/) · [Hermeneutics](/positioning/subjects/h/hermeneutics/) · [Hermeneutics: the ontological turn and the disputes](/positioning/subjects/h/hermeneutics/the-ontological-turn/) · [Wittgenstein](/positioning/persons/w/wittgenstein/) · [Dewey](/positioning/persons/d/dewey/) · [Habermas](/positioning/persons/h/habermas/)

@@ -27,7 +27,7 @@ Born 30 December 1887 in Harlesden, Middlesex, an only child. He entered Trinity
 
 **Mind, and the mind-body survey.** The book's larger business is the mind-body problem, surveyed with Broad's usual completeness — he distinguishes seventeen possible positions before settling on "emergent materialism": mental properties as emergent qualities of certain material structures, with the compresence of mind and matter a trans-ordinal fact. His treatment of the alternatives, more than his own verdict, is what endured: the taxonomy became the debate's map.
 
-**The afterlife.** Eclipsed for half a century, Broad's apparatus returned when emergence did: the contemporary debate's vocabulary — levels, in-principle non-deducibility, downward implications, natural piety — is Broad's, cited by friends of strong emergence as the honest original and by critics as the clearest target. The revival reads him both ways: the position that failed on chemistry, and the formulation precise enough to fail informatively — which is its own kind of philosophical success.
+**The afterlife.** Eclipsed for half a century, Broad's apparatus returned when [emergence](/positioning/subjects/e/emergence/) did: the contemporary debate's vocabulary — levels, in-principle non-deducibility, downward implications, natural piety — is Broad's, cited by friends of strong emergence as the honest original and by critics as the clearest target. The revival reads him both ways: the position that failed on chemistry, and the formulation precise enough to fail informatively — which is its own kind of philosophical success.
 
 ---
 
@@ -47,4 +47,4 @@ Broad's emergentism is a thesis about deducibility between levels; it offers no 
 
 ---
 
-See also: [Kim](/positioning/persons/k/kim/) · [Bedau](/positioning/persons/b/bedau/) · [Anderson](/positioning/persons/a/anderson/) · [Whitehead](/positioning/persons/w/whitehead/)
+See also: [Emergence](/positioning/subjects/e/emergence/) · [The Principals of the Emergence Debate](/positioning/subjects/e/emergence/the-principals/) · [Kim](/positioning/persons/k/kim/) · [Bedau](/positioning/persons/b/bedau/) · [Anderson](/positioning/persons/a/anderson/) · [Whitehead](/positioning/persons/w/whitehead/)

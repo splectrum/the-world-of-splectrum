@@ -88,4 +88,4 @@ Lewontin's programme is critical and dialectical. It identifies what reductionis
 
 ---
 
-See also: [Darwinism](/positioning/subjects/d/darwinism/) · [The criterion](/positioning/subjects/e/evolution/the-criterion/) · [Darwin](/positioning/persons/d/darwin/) · [Dawkins](/positioning/persons/d/dawkins/) · [Mayr](/positioning/persons/m/mayr/) · [Fisher](/positioning/persons/f/fisher/)
+See also: [Darwinism](/positioning/subjects/d/darwinism/) · [The criterion](/positioning/subjects/e/evolution/the-criterion/) · [After the Synthesis](/positioning/subjects/d/darwinism/after-the-synthesis/) · [Darwin](/positioning/persons/d/darwin/) · [Dawkins](/positioning/persons/d/dawkins/) · [Mayr](/positioning/persons/m/mayr/) · [Fisher](/positioning/persons/f/fisher/)

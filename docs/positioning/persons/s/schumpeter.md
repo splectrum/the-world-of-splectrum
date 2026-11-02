@@ -60,4 +60,4 @@ Schumpeter's entrepreneur is a heroic figure — the visionary who breaks the ex
 
 ---
 
-See also: [Arthur](/positioning/persons/a/arthur/) · [Spencer](/positioning/persons/s/spencer/) · [Marx](/positioning/persons/m/marx/) · [Darwinism](/positioning/subjects/d/darwinism/)
+See also: [Arthur](/positioning/persons/a/arthur/) · [Spencer](/positioning/persons/s/spencer/) · [Marx](/positioning/persons/m/marx/) · [Darwinism](/positioning/subjects/d/darwinism/) · [Evolution](/positioning/subjects/e/evolution/) · [Economic and Institutional Change](/positioning/subjects/e/evolution/economic-change/)

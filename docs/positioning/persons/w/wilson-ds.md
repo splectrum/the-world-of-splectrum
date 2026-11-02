@@ -65,4 +65,4 @@ Wilson's applied work — the Evolution Institute, the Prosocial project — rep
 
 ---
 
-See also: [Sober](/positioning/persons/s/sober/) · [Williams](/positioning/persons/w/williams/) · [Hamilton](/positioning/persons/h/hamilton/) · [Ostrom](/positioning/persons/o/ostrom/) · [Darwinism](/positioning/subjects/d/darwinism/)
+See also: [Sober](/positioning/persons/s/sober/) · [Williams](/positioning/persons/w/williams/) · [Hamilton](/positioning/persons/h/hamilton/) · [Ostrom](/positioning/persons/o/ostrom/) · [Darwinism](/positioning/subjects/d/darwinism/) · [After the Synthesis](/positioning/subjects/d/darwinism/after-the-synthesis/)

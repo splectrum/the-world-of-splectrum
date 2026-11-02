@@ -70,4 +70,4 @@ Prigogine's programme shows how order arises from non-equilibrium dynamics — h
 
 ---
 
-See also: [Stengers](/positioning/persons/s/stengers/) · [Kauffman](/positioning/persons/k/kauffman/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) · [Thermodynamics](/positioning/subjects/t/thermodynamics/) · [Time evolution in physics](/positioning/subjects/e/evolution/time-evolution/)
+See also: [Stengers](/positioning/persons/s/stengers/) · [Kauffman](/positioning/persons/k/kauffman/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) · [Thermodynamics](/positioning/subjects/t/thermodynamics/) · [Time evolution in physics](/positioning/subjects/e/evolution/time-evolution/) · [Away from Equilibrium](/positioning/subjects/t/thermodynamics/away-from-equilibrium/) · [Emergence](/positioning/subjects/e/emergence/) · [Emergence Under Other Names](/positioning/subjects/e/emergence/under-other-names/)

@@ -13,7 +13,7 @@ Sandel's central argument is that the liberal conception of the self as prior to
 
 ## Life
 
-Born in Minneapolis in 1953, raised in a Jewish family. Educated at Brandeis University and at Balliol College, Oxford, as a Rhodes Scholar, where he studied with [Charles Taylor](/positioning/persons/t/taylor/). He has taught political philosophy at Harvard since 1980. His undergraduate course "Justice" became one of the most widely attended in Harvard's history and was adapted into a public television series and online course that reached millions. He is among the most publicly visible philosophers in the world — unusual for a political theorist, and the public role is not incidental to his work: Sandel argues that political philosophy should engage citizens, not merely other philosophers.
+Born in Minneapolis in 1953, raised in a Jewish family. Educated at Brandeis University and at Balliol College, Oxford, as a Rhodes Scholar, where he studied with [Charles Taylor](/positioning/persons/t/taylor/). He has taught [political philosophy](/positioning/subjects/p/political-philosophy/) at Harvard since 1980. His undergraduate course "Justice" became one of the most widely attended in Harvard's history and was adapted into a public television series and online course that reached millions. He is among the most publicly visible philosophers in the world — unusual for a political theorist, and the public role is not incidental to his work: Sandel argues that political philosophy should engage citizens, not merely other philosophers.
 
 ---
 
@@ -61,4 +61,4 @@ The relationship between the encumbered self and pluralism is the underlying ten
 
 ---
 
-See also: [Taylor](/positioning/persons/t/taylor/) · [MacIntyre](/positioning/persons/m/macintyre/) · [Arendt](/positioning/persons/a/arendt/) · [Berlin](/positioning/persons/b/berlin/)
+See also: [Political philosophy](/positioning/subjects/p/political-philosophy/) · [Taylor](/positioning/persons/t/taylor/) · [MacIntyre](/positioning/persons/m/macintyre/) · [Arendt](/positioning/persons/a/arendt/) · [Berlin](/positioning/persons/b/berlin/)

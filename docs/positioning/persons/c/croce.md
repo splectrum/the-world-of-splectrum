@@ -9,7 +9,7 @@ description: "Croce identified aesthetics with general linguistics and placed it
 
 # Benedetto Croce (1866–1952)
 
-Croce made aesthetics foundational. In his Philosophy of Spirit, aesthetic intuition is the first and most basic form of knowledge — prior to logic, prior to economics, prior to ethics. And he identified aesthetics with general linguistics: "Philosophy of language and philosophy of art are the same thing." Every genuine act of expression, from a single well-made sentence to a symphony, is the same kind of spiritual activity. Beauty is not pleasure or harmony — it is "nothing but the precision of the image, and therefore of the expression."
+Croce made [aesthetics](/positioning/subjects/a/aesthetics-in-philosophy/) foundational. In his Philosophy of Spirit, aesthetic intuition is the first and most basic form of knowledge — prior to logic, prior to economics, prior to ethics. And he identified aesthetics with general linguistics: "Philosophy of language and philosophy of art are the same thing." Every genuine act of expression, from a single well-made sentence to a symphony, is the same kind of spiritual activity. Beauty is not pleasure or harmony — it is "nothing but the precision of the image, and therefore of the expression."
 
 [Benedetto Croce](https://plato.stanford.edu/entries/croce-aesthetics/) (1866–1952). Born in Pescasseroli, Abruzzo; orphaned at seventeen when an earthquake killed his parents and sister. The inherited fortune enabled a life of independent scholarship from his palazzo in Naples — he never held an academic post. Co-founded the journal *La Critica* with Giovanni Gentile in 1903 and edited it for forty-one years. Senator from 1910, Minister of Public Education (1920–21). Author of the *Manifesto of the Anti-Fascist Intellectuals* (1925), the most prominent non-clerical opponent of Mussolini's regime through fifteen years of political isolation. Nominated sixteen times for the Nobel Prize in Literature.
 
@@ -70,4 +70,4 @@ By making the work of art complete at the moment of internal formulation — bef
 
 ---
 
-See also: [Hegel](/positioning/persons/h/hegel/) · [Collingwood](/positioning/persons/c/collingwood/) · [Gramsci](https://plato.stanford.edu/entries/gramsci/) · [Vico](https://plato.stanford.edu/entries/vico/)
+See also: [The standing of aesthetics in philosophy](/positioning/subjects/a/aesthetics-in-philosophy/) · [The counter-current](/positioning/subjects/a/aesthetics-in-philosophy/the-counter-current/) · [Hegel](/positioning/persons/h/hegel/) · [Collingwood](/positioning/persons/c/collingwood/) · [Gramsci](https://plato.stanford.edu/entries/gramsci/) · [Vico](https://plato.stanford.edu/entries/vico/)

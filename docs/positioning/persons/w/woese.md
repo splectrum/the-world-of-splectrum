@@ -62,4 +62,4 @@ Woese's progenote concept — the idea that the last universal common ancestor w
 
 ---
 
-See also: [Margulis](/positioning/persons/m/margulis/) · [Darwin](/positioning/persons/d/darwin/) · [Darwinism](/positioning/subjects/d/darwinism/)
+See also: [Margulis](/positioning/persons/m/margulis/) · [Darwin](/positioning/persons/d/darwin/) · [Darwinism](/positioning/subjects/d/darwinism/) · [Common Descent](/positioning/subjects/d/darwinism/common-descent/)

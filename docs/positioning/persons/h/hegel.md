@@ -53,4 +53,4 @@ Hegel's system is totalising — spirit arrives at absolute knowing, the dialect
 
 ---
 
-See also: [German idealism](/positioning/subjects/g/german-idealism/) · [Process philosophy](/positioning/subjects/p/process-philosophy/) · [Fichte](/positioning/persons/f/fichte/) · [Kant](/positioning/persons/k/kant/)
+See also: [German idealism](/positioning/subjects/g/german-idealism/) · [Process philosophy](/positioning/subjects/p/process-philosophy/) · [The standing of aesthetics in philosophy](/positioning/subjects/a/aesthetics-in-philosophy/) · [The subordination of aesthetics](/positioning/subjects/a/aesthetics-in-philosophy/the-subordination-arc/) · [Cognition](/positioning/subjects/c/cognition/) · [Cognition in Core Philosophy](/positioning/subjects/c/cognition/philosophy/core/) · [Metaphysics](/positioning/subjects/m/metaphysics/) · [The critical branch](/positioning/subjects/m/metaphysics/the-critical-branch/) · [Philosophy of History](/positioning/subjects/p/philosophy-of-history/) · [Fichte](/positioning/persons/f/fichte/) · [Kant](/positioning/persons/k/kant/)

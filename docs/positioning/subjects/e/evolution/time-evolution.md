@@ -15,7 +15,7 @@ In physics "evolution" names the change of a system's state over time as a rule 
 
 In classical mechanics the state of a system is the positions and momenta of its parts, and Hamilton's equations carry it forward in time; physicists speak of the Hamiltonian flow and of a system's evolution in its space of states. In quantum mechanics the state is a vector whose change is given by [Schrödinger](/positioning/persons/s/schrodinger/)'s equation, and the map that takes the state at one time to the state at another is called the time-evolution operator. The evolution it describes is unitary: it preserves the information in the state and can be run backwards, so that nothing in the equation distinguishes past from future. The Schrödinger and Heisenberg pictures differ over whether the states or the observables are said to evolve, and agree in their predictions.
 
-John von Neumann's *Mathematical Foundations of Quantum Mechanics* (1932) set a second kind of change beside the first: alongside the continuous, reversible evolution of the Schrödinger equation, the discontinuous and irreversible change that occurs on measurement. How the two relate is the measurement problem, and one of the reasons the question of reversibility has never closed in physics.
+[John von Neumann](/positioning/persons/v/von-neumann/)'s *Mathematical Foundations of Quantum Mechanics* (1932) set a second kind of change beside the first: alongside the continuous, reversible evolution of the Schrödinger equation, the discontinuous and irreversible change that occurs on measurement. How the two relate is the measurement problem, and one of the reasons the question of reversibility has never closed in physics.
 
 ## Irreversible evolution
 

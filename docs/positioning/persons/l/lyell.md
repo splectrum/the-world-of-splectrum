@@ -39,7 +39,7 @@ Lyell argued that orogeny — mountain-building, as in the Pyrenees — results 
 
 ## *The Geological Evidences of the Antiquity of Man* (1863)
 
-Published four years after Darwin's *Origin*. The book treated glaciation, deep human prehistory, and — equivocally — Darwinian evolution. It was widely received as a disappointment on the last point. Lyell acknowledged natural selection but could not bring himself to apply it fully to the human case — the special status of human reason, grounded in his religious convictions, held him back. The equivocation is part of the record. Darwin was privately hurt; their friendship survived but the intellectual distance was real.
+Published four years after Darwin's *Origin*. The book treated glaciation, deep human prehistory, and — equivocally — Darwinian [evolution](/positioning/subjects/e/evolution/). It was widely received as a disappointment on the last point. Lyell acknowledged natural selection but could not bring himself to apply it fully to the human case — the special status of human reason, grounded in his religious convictions, held him back. The equivocation is part of the record. Darwin was privately hurt; their friendship survived but the intellectual distance was real.
 
 Lyell was not a secular hero against religious catastrophists. He was himself a religious man with strong views on the distinctiveness of human intellect. The standard science-versus-religion framing distorts both Lyell and the catastrophists he argued against.
 
@@ -57,4 +57,4 @@ Lyell's uniformitarianism bundled four commitments: uniformity of natural law, o
 
 ---
 
-See also: [Darwin](/positioning/persons/d/darwin/) · [Philosophy of science](/positioning/subjects/p/philosophy-of-science/) · [Darwinism](/positioning/subjects/d/darwinism/)
+See also: [Darwin](/positioning/persons/d/darwin/) · [Philosophy of science](/positioning/subjects/p/philosophy-of-science/) · [Darwinism](/positioning/subjects/d/darwinism/) · [Evolution](/positioning/subjects/e/evolution/) · [Progress and Direction](/positioning/subjects/e/evolution/progress-and-direction/)

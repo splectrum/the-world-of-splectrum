@@ -9,7 +9,7 @@ lastmod: 2026-07-03
 
 # Heinz von Foerster (1911–2002)
 
-Von Foerster turned cybernetics on itself. First-order cybernetics ([Wiener](/positioning/persons/w/wiener/), [Ashby](/positioning/persons/a/ashby/)) studied systems from outside — the observer watches the feedback loop, describes the regulation, maps the dynamics. Von Foerster's move: the observer is part of the system being observed. Observation is not a transparent window onto the world; it is an operation that produces its objects. This reflexive turn — cybernetics of cybernetics, or second-order cybernetics — reshaped the tradition and fed into constructivism, [autopoiesis](/positioning/subjects/a/autopoiesis/), and the philosophy of cognition.
+Von Foerster turned cybernetics on itself. First-order cybernetics ([Wiener](/positioning/persons/w/wiener/), [Ashby](/positioning/persons/a/ashby/)) studied systems from outside — the observer watches the feedback loop, describes the regulation, maps the dynamics. Von Foerster's move: the observer is part of the system being observed. Observation is not a transparent window onto the world; it is an operation that produces its objects. This reflexive turn — cybernetics of cybernetics, or second-order cybernetics — reshaped the tradition and fed into [constructivism](/positioning/subjects/c/constructivism/), [autopoiesis](/positioning/subjects/a/autopoiesis/), and the philosophy of cognition.
 
 ---
 
@@ -65,4 +65,4 @@ Von Foerster's second-order cybernetics is a framework for understanding observa
 
 ---
 
-See also: [Wiener](/positioning/persons/w/wiener/) · [Ashby](/positioning/persons/a/ashby/) · [Maturana](/positioning/persons/m/maturana/) · [Varela](/positioning/persons/v/varela/) · [Von Glasersfeld](/positioning/persons/v/von-glasersfeld/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/)
+See also: [Wiener](/positioning/persons/w/wiener/) · [Ashby](/positioning/persons/a/ashby/) · [Maturana](/positioning/persons/m/maturana/) · [Varela](/positioning/persons/v/varela/) · [Von Glasersfeld](/positioning/persons/v/von-glasersfeld/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) · [Constructivism](/positioning/subjects/c/constructivism/)

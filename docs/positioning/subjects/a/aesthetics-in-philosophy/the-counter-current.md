@@ -29,7 +29,7 @@ This radically departs from [Kant](/positioning/persons/k/kant/), who treats aes
 
 ### Schelling — art as the organ of philosophy (1800)
 
-[Friedrich Schelling's](/positioning/persons/s/schelling/) *System of Transcendental Idealism* (1800) goes further. Art is "the only true and eternal organ and document of philosophy." Where philosophy can only represent the identity of the conscious and unconscious in concepts, art presents it directly in the artwork. Art is not an illustration of philosophical truth — it is the highest form of access to it.
+[Friedrich Schelling's](https://en.wikipedia.org/wiki/Friedrich_Wilhelm_Joseph_Schelling) *System of Transcendental Idealism* (1800) goes further. Art is "the only true and eternal organ and document of philosophy." Where philosophy can only represent the identity of the conscious and unconscious in concepts, art presents it directly in the artwork. Art is not an illustration of philosophical truth — it is the highest form of access to it.
 
 The early German Romantics — Friedrich Schlegel, Novalis — make parallel moves. Schlegel: "Poetry and philosophy should be made one." Novalis: "The world must be romanticised" — the ordinary raised to the dignity of the unknown, the finite made to appear infinite. This is not aestheticism (art for art's sake) but a metaphysical claim: the aesthetic mode of experience discloses what rational analysis cannot.
 

@@ -17,7 +17,7 @@ Stengers asks how practices — scientific, political, artistic — coexist with
 
 ## The Prigogine collaboration
 
-Three books with Ilya Prigogine (1917–2003), Russian-Belgian physical chemist and 1977 Nobel laureate: *La Nouvelle Alliance* (1979), its substantially reworked English version *Order Out of Chaos* (1984), and *The End of Certainty* (1997). The argument: classical science's denial of irreversibility had been overturned by non-equilibrium thermodynamics. Dissipative structures — far-from-equilibrium systems that maintain themselves through energy exchange with their environment — are not anomalies but central to how order emerges in nature, including biological order. The arrow of time is a universal phenomenon rather than an artefact of observer limitations. The books are usually classified as popular science, but the philosophical and historical frame is Stengers' and is substantial. Prigogine brought the science; Stengers brought the question of what irreversibility means for how we think about science itself.
+Three books with Ilya Prigogine (1917–2003), Russian-Belgian physical chemist and 1977 Nobel laureate: *La Nouvelle Alliance* (1979), its substantially reworked English version *Order Out of Chaos* (1984), and *The End of Certainty* (1997). The argument: classical science's denial of irreversibility had been overturned by non-equilibrium [thermodynamics](/positioning/subjects/t/thermodynamics/). Dissipative structures — far-from-equilibrium systems that maintain themselves through energy exchange with their environment — are not anomalies but central to how order emerges in nature, including biological order. The arrow of time is a universal phenomenon rather than an artefact of observer limitations. The books are usually classified as popular science, but the philosophical and historical frame is Stengers' and is substantial. Prigogine brought the science; Stengers brought the question of what irreversibility means for how we think about science itself.
 
 ---
 
@@ -79,4 +79,4 @@ Sole-authored or with other collaborators:
 
 ---
 
-See also: [Whitehead](/positioning/persons/w/whitehead/) · [Cosmopolitics](/positioning/subjects/c/cosmopolitics/) · [Philosophy of organism](/positioning/subjects/p/philosophy-of-organism/) · [Process philosophy](/positioning/subjects/p/process-philosophy/)
+See also: [Whitehead](/positioning/persons/w/whitehead/) · [Cosmopolitics](/positioning/subjects/c/cosmopolitics/) · [Philosophy of organism](/positioning/subjects/p/philosophy-of-organism/) · [Process philosophy](/positioning/subjects/p/process-philosophy/) · [Pluralism](/positioning/subjects/p/pluralism/) · [The dimensions of pluralism](/positioning/subjects/p/pluralism/the-dimensions/) · [Thermodynamics](/positioning/subjects/t/thermodynamics/) · [Away from Equilibrium](/positioning/subjects/t/thermodynamics/away-from-equilibrium/)

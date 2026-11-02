@@ -76,4 +76,4 @@ Williams' framework is gene-centric and methodologically adaptationist: it deman
 
 ---
 
-See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Dawkins](/positioning/persons/d/dawkins/) · [Hamilton](/positioning/persons/h/hamilton/) · [Maynard Smith](/positioning/persons/m/maynard-smith/) · [Fisher](/positioning/persons/f/fisher/)
+See also: [Darwinism](/positioning/subjects/d/darwinism/) · [After the Synthesis](/positioning/subjects/d/darwinism/after-the-synthesis/) · [Dawkins](/positioning/persons/d/dawkins/) · [Hamilton](/positioning/persons/h/hamilton/) · [Maynard Smith](/positioning/persons/m/maynard-smith/) · [Fisher](/positioning/persons/f/fisher/)

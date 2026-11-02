@@ -45,4 +45,4 @@ De Man's method is built to deny that a text can be pinned to a single, accounta
 
 ---
 
-See also: [Deconstruction](/positioning/subjects/d/deconstruction/) · [Derrida](/positioning/persons/d/derrida/)
+See also: [Deconstruction](/positioning/subjects/d/deconstruction/) · [Translation Theory](/positioning/subjects/t/translation-theory/) · [Derrida](/positioning/persons/d/derrida/)

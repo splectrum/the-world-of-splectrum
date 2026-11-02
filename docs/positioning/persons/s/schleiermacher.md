@@ -75,4 +75,4 @@ What lies outside this programme is the productivity of that distance itself —
 
 ---
 
-See also: [Hermeneutics](/positioning/subjects/h/hermeneutics/) · [Dilthey](/positioning/persons/d/dilthey/) · [Gadamer](/positioning/persons/g/gadamer/) · [Heidegger](/positioning/persons/h/heidegger/)
+See also: [Hermeneutics](/positioning/subjects/h/hermeneutics/) · [Translation Theory](/positioning/subjects/t/translation-theory/) · [The Foreign and the Home](/positioning/subjects/t/translation-theory/the-foreign-and-the-home/) · [Dilthey](/positioning/persons/d/dilthey/) · [Gadamer](/positioning/persons/g/gadamer/) · [Heidegger](/positioning/persons/h/heidegger/)

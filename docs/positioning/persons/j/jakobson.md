@@ -42,4 +42,4 @@ Jakobson's gift was for structure — for finding the small set of contrasts and
 
 ---
 
-See also: [Semiotics](/positioning/subjects/s/semiotics/) · [Structuralism](/positioning/subjects/s/structuralism/) · [Saussure](/positioning/persons/s/saussure/) · [Peirce](/positioning/persons/p/peirce/) · [Lévi-Strauss](/positioning/persons/l/levi-strauss/)
+See also: [Semiotics](/positioning/subjects/s/semiotics/) · [Structuralism](/positioning/subjects/s/structuralism/) · [Translation Theory](/positioning/subjects/t/translation-theory/) · [Saussure](/positioning/persons/s/saussure/) · [Peirce](/positioning/persons/p/peirce/) · [Lévi-Strauss](/positioning/persons/l/levi-strauss/)

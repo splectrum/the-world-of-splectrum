@@ -58,4 +58,4 @@ The school's history carries a harder question. The Kyoto School's wartime "worl
 
 ---
 
-See also: [James](/positioning/persons/j/james/) · [Hegel](/positioning/persons/h/hegel/) · [Fichte](/positioning/persons/f/fichte/) · [Yogācāra](/positioning/subjects/y/yogacara/)
+See also: [James](/positioning/persons/j/james/) · [Hegel](/positioning/persons/h/hegel/) · [Fichte](/positioning/persons/f/fichte/) · [Yogācāra](/positioning/subjects/y/yogacara/) · [Cognition](/positioning/subjects/c/cognition/) · [Cognition in Core Philosophy](/positioning/subjects/c/cognition/philosophy/core/)

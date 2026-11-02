@@ -43,4 +43,4 @@ His central positive theory was also cut short. *How to Do Things with Words* en
 
 ---
 
-See also: [Ryle](/positioning/persons/r/ryle/) · [Wittgenstein](/positioning/persons/w/wittgenstein/) · [Searle](/positioning/persons/s/searle/)
+See also: [Deconstruction](/positioning/subjects/d/deconstruction/) · [Ryle](/positioning/persons/r/ryle/) · [Wittgenstein](/positioning/persons/w/wittgenstein/) · [Searle](/positioning/persons/s/searle/)

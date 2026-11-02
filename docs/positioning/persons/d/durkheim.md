@@ -9,7 +9,7 @@ description: "French sociologist — the discipline's founder: social facts sui 
 
 # Émile Durkheim (1858–1917)
 
-Durkheim founded sociology on a single claim: that society is a reality *sui generis* — of its own kind, irreducible to the psychology or biology of its members. Social facts — ways of acting, thinking, and feeling that are general across a society, exterior to any individual, and *constraining* on each — are, he insisted, things: to be studied as things, explained by other social facts, never explained away downward. When individual consciousnesses associate, something forms that none of them contains — as he put it, the hardness of bronze is in none of the copper, tin, or lead. The claim made a science possible: a domain of its own facts needs its own discipline. It is also the social sciences' founding irreducibility claim — the contemporary emergence literature reads Durkheim as its earliest sustained practitioner (Sawyer applies the label explicitly), though the word was never his.
+Durkheim founded sociology on a single claim: that society is a reality *sui generis* — of its own kind, irreducible to the psychology or biology of its members. Social facts — ways of acting, thinking, and feeling that are general across a society, exterior to any individual, and *constraining* on each — are, he insisted, things: to be studied as things, explained by other social facts, never explained away downward. When individual consciousnesses associate, something forms that none of them contains — as he put it, the hardness of bronze is in none of the copper, tin, or lead. The claim made a science possible: a domain of its own facts needs its own discipline. It is also the social sciences' founding irreducibility claim — the contemporary [emergence](/positioning/subjects/e/emergence/) literature reads Durkheim as its earliest sustained practitioner (Sawyer applies the label explicitly), though the word was never his.
 
 ---
 
@@ -49,4 +49,4 @@ The programme explains the social by the social, and its boundary is the join it
 
 ---
 
-See also: [Berger](/positioning/persons/b/berger/) · [Luckmann](/positioning/persons/l/luckmann/) · [Social construction of reality](/positioning/subjects/s/social-construction-of-reality/) · [Schelling](/positioning/persons/s/schelling/) · [Hayek](/positioning/persons/h/hayek/)
+See also: [Berger](/positioning/persons/b/berger/) · [Luckmann](/positioning/persons/l/luckmann/) · [Social construction of reality](/positioning/subjects/s/social-construction-of-reality/) · [Emergence](/positioning/subjects/e/emergence/) · [Emergence Under Other Names](/positioning/subjects/e/emergence/under-other-names/) · [Schelling](/positioning/persons/s/schelling/) · [Hayek](/positioning/persons/h/hayek/)

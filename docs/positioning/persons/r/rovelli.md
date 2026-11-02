@@ -63,4 +63,4 @@ Rovelli's relational quantum mechanics drops the privileged observer within phys
 
 ---
 
-See also: [Relational quantum mechanics](/positioning/subjects/r/relational-quantum-mechanics/) · [Leibniz](/positioning/persons/l/leibniz/) · [Heraclitus](/positioning/persons/h/heraclitus/)
+See also: [Relational quantum mechanics](/positioning/subjects/r/relational-quantum-mechanics/) · [Pluralism](/positioning/subjects/p/pluralism/) · [The dimensions of pluralism](/positioning/subjects/p/pluralism/the-dimensions/) · [Thermodynamics](/positioning/subjects/t/thermodynamics/) · [What Entropy Is](/positioning/subjects/t/thermodynamics/what-entropy-is/) · [Leibniz](/positioning/persons/l/leibniz/) · [Heraclitus](/positioning/persons/h/heraclitus/)

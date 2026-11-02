@@ -9,7 +9,7 @@ description: "German philosopher — Marburg neo-Kantianism, the logic of pure c
 
 # Hermann Cohen (1842–1918)
 
-Cohen founded the Marburg school of neo-Kantianism — the tradition that read [Kant](/positioning/persons/k/kant/) not as setting limits to knowledge but as revealing the constitutive role of thought in producing experience. Where Kant had asked what the conditions of possible experience are, Cohen shifted the emphasis: thought does not merely organise given experience; it generates the object of knowledge. The "given" — raw sensory data waiting to be shaped by the categories — disappears in Cohen's reading; what remains is the productive activity of thought, which constitutes its objects through logical operations. The shift made Kant a philosopher of science (the categories are the formal conditions of mathematical natural science, not of ordinary perception) and set the terms for [Cassirer](/positioning/persons/c/cassirer/)'s extension into symbolic forms and for the broader neo-Kantian influence on twentieth-century philosophy of science. Cohen was also a major figure in German Jewish intellectual life, developing a philosophy of religion that argued for the ethical core of Judaism and its compatibility with the ideals of the German Enlightenment.
+Cohen founded the Marburg school of neo-Kantianism — the tradition that read [Kant](/positioning/persons/k/kant/) not as setting limits to knowledge but as revealing the constitutive role of thought in producing experience. Where Kant had asked what the conditions of possible experience are, Cohen shifted the emphasis: thought does not merely organise given experience; it generates the object of knowledge. The "given" — raw sensory data waiting to be shaped by the categories — disappears in Cohen's reading; what remains is the productive activity of thought, which constitutes its objects through logical operations. The shift made Kant a philosopher of science (the categories are the formal conditions of mathematical natural science, not of ordinary perception) and set the terms for [Cassirer](/positioning/persons/c/cassirer/)'s extension into [symbolic forms](/positioning/subjects/s/symbolic-forms/) and for the broader neo-Kantian influence on twentieth-century philosophy of science. Cohen was also a major figure in German Jewish intellectual life, developing a philosophy of religion that argued for the ethical core of Judaism and its compatibility with the ideals of the German Enlightenment.
 
 ---
 
@@ -60,4 +60,4 @@ Cassirer transformed Cohen's programme rather than continuing it. The move from 
 
 ---
 
-See also: [Cassirer](/positioning/persons/c/cassirer/) · [Kant](/positioning/persons/k/kant/) · [Husserl](/positioning/persons/h/husserl/)
+See also: [Symbolic forms](/positioning/subjects/s/symbolic-forms/) · [Cassirer](/positioning/persons/c/cassirer/) · [Kant](/positioning/persons/k/kant/) · [Husserl](/positioning/persons/h/husserl/)

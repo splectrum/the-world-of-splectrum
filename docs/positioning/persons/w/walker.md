@@ -23,7 +23,7 @@ Met Cronin at a NASA astrobiology workshop in 2012; the collaboration that becam
 
 ## The physics of life
 
-Walker's programme starts from a dissatisfaction with existing accounts. Biology describes what life does — metabolism, reproduction, evolution — but does not say what life is in terms that physics can work with. Physics describes matter and energy but has no account of why some arrangements of matter are alive and others are not.
+Walker's programme starts from a dissatisfaction with existing accounts. Biology describes what life does — metabolism, reproduction, [evolution](/positioning/subjects/e/evolution/) — but does not say what life is in terms that physics can work with. Physics describes matter and energy but has no account of why some arrangements of matter are alive and others are not.
 
 The question is whether the distinction is measurable. Not "what are the features of living things?" but "is there a physical quantity that separates living from non-living matter, in the way that temperature separates phases?" Assembly theory's biosignature claim — that above a certain assembly index threshold, objects require selection-like processes to exist — is how the framework answers it.
 
@@ -77,4 +77,4 @@ Walker's programme is theoretical. The empirical apparatus — mass spectrometry
 
 ---
 
-See also: [Assembly theory](/positioning/subjects/a/assembly-theory/) · [Cronin](/positioning/persons/c/cronin/) · [Hazen](/positioning/persons/h/hazen/) · [Kauffman](/positioning/persons/k/kauffman/)
+See also: [Assembly theory](/positioning/subjects/a/assembly-theory/) · [Assembly Theory — Development](/positioning/subjects/a/assembly-theory/development/) · [Evolution](/positioning/subjects/e/evolution/) · [Chemical Evolution](/positioning/subjects/e/evolution/chemical-evolution/) · [Emergence](/positioning/subjects/e/emergence/) · [Emergence Under Other Names](/positioning/subjects/e/emergence/under-other-names/) · [Cronin](/positioning/persons/c/cronin/) · [Hazen](/positioning/persons/h/hazen/) · [Kauffman](/positioning/persons/k/kauffman/)

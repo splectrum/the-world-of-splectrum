@@ -61,4 +61,4 @@ The historical reputation is shaped by Hofstadter's framing, which placed Sumner
 
 ---
 
-See also: [Spencer](/positioning/persons/s/spencer/) · [Hofstadter](/positioning/persons/h/hofstadter/) · [Galton](/positioning/persons/g/galton/) · [Darwinism](/positioning/subjects/d/darwinism/)
+See also: [Spencer](/positioning/persons/s/spencer/) · [Hofstadter](/positioning/persons/h/hofstadter/) · [Galton](/positioning/persons/g/galton/) · [Darwinism](/positioning/subjects/d/darwinism/) · [Social Darwinism](/positioning/subjects/d/darwinism/social-darwinism/)

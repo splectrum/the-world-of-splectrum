@@ -23,7 +23,7 @@ Leibniz gave the earliest clear articulation of the relational view — space is
 
 **Pre-established harmony.** Monads don't interact — they only appear to. God arranged their internal programmes at creation so that they unfold in perfect coordination. This solves the mind-body problem by eliminating interaction altogether: everything that happens to a monad unfolds from its own nature.
 
-**The principle of sufficient reason.** Nothing happens without a reason why it is so and not otherwise. Every truth has an explanation. This drives Leibniz's metaphysics: the actual world is the best of all possible worlds because God had sufficient reason to choose it.
+**The principle of sufficient reason.** Nothing happens without a reason why it is so and not otherwise. Every truth has an explanation. This drives Leibniz's [metaphysics](/positioning/subjects/m/metaphysics/): the actual world is the best of all possible worlds because God had sufficient reason to choose it.
 
 **The universal characteristic.** Leibniz dreamed of a universal formal language — a *characteristica universalis* — in which all truths could be expressed and disputes settled by calculation. "Let us calculate!" The project was never realised. [Frege](/positioning/persons/f/frege/) named it as a model in the preface to his *Begriffsschrift*, the start of the formal language tradition that [Russell](/positioning/persons/r/russell/) and the early [Wittgenstein](/positioning/persons/w/wittgenstein/) pursued — and that the later Wittgenstein abandoned.
 
@@ -46,4 +46,4 @@ Leibniz's relational view of space stayed a philosophical position. In the Clark
 
 ---
 
-See also: [Descartes](/positioning/persons/d/descartes/) · [Spinoza](/positioning/persons/s/spinoza/) · [Rovelli](/positioning/persons/r/rovelli/)
+See also: [Metaphysics](/positioning/subjects/m/metaphysics/) · [The constructive branch](/positioning/subjects/m/metaphysics/the-constructive-branch/) · [Descartes](/positioning/persons/d/descartes/) · [Spinoza](/positioning/persons/s/spinoza/) · [Rovelli](/positioning/persons/r/rovelli/)

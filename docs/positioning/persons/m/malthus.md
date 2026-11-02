@@ -67,4 +67,4 @@ Malthus described a binding constraint — population pressing against subsisten
 
 ---
 
-See also: [Darwin](/positioning/persons/d/darwin/) · [Mutualism](/positioning/subjects/m/mutualism/)
+See also: [Darwin](/positioning/persons/d/darwin/) · [Mutualism](/positioning/subjects/m/mutualism/) · [Darwinism](/positioning/subjects/d/darwinism/) · [Social Darwinism](/positioning/subjects/d/darwinism/social-darwinism/)

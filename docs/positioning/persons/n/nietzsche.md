@@ -29,7 +29,7 @@ Abolishing the true world did not, for Nietzsche, end philosophy. *Beyond Good a
 
 ## The death of God
 
-"God is dead. God remains dead. And we have killed him" (*The Gay Science*, §125). This is not an atheistic argument but a diagnosis: the moral and metaphysical framework that organised Western civilisation — [Christian morality](https://plato.stanford.edu/entries/nietzsche-moral-political/), Platonic metaphysics, the idea of objective truth — has lost its authority. The consequences have not yet been faced. Nihilism — the sense that nothing has value, that there is no purpose, that the highest values devalue themselves — is the condition that follows.
+"God is dead. God remains dead. And we have killed him" (*The Gay Science*, §125). This is not an atheistic argument but a diagnosis: the moral and metaphysical framework that organised Western civilisation — [Christian morality](https://plato.stanford.edu/entries/nietzsche-moral-political/), Platonic [metaphysics](/positioning/subjects/m/metaphysics/), the idea of objective truth — has lost its authority. The consequences have not yet been faced. Nihilism — the sense that nothing has value, that there is no purpose, that the highest values devalue themselves — is the condition that follows.
 
 Nietzsche's response to nihilism is not consolation but transformation: the creation of new values, not the recovery of old ones. The *Übermensch* (overman, overhuman) is the figure who creates values rather than inheriting them — not a biological superman but an existential stance. Eternal recurrence is the test: if you could affirm your life exactly as it is, repeated infinitely, without change — that affirmation is the overcoming of nihilism.
 
@@ -92,4 +92,4 @@ The Nazi appropriation, facilitated by Elisabeth Nietzsche's editorial distortio
 
 ---
 
-See also: [Plato](/positioning/persons/p/plato/) · [Schopenhauer](/positioning/persons/s/schopenhauer/) · [Heidegger](/positioning/persons/h/heidegger/) · [Deleuze](/positioning/persons/d/deleuze/) · [Rorty](/positioning/persons/r/rorty/) · [Music and meaning](/positioning/subjects/m/music-and-meaning/) · [The standing of aesthetics](/positioning/subjects/a/aesthetics-in-philosophy/)
+See also: [Plato](/positioning/persons/p/plato/) · [Schopenhauer](/positioning/persons/s/schopenhauer/) · [Heidegger](/positioning/persons/h/heidegger/) · [Deleuze](/positioning/persons/d/deleuze/) · [Rorty](/positioning/persons/r/rorty/) · [Music and meaning](/positioning/subjects/m/music-and-meaning/) · [The standing of aesthetics](/positioning/subjects/a/aesthetics-in-philosophy/) · [Metaphysics](/positioning/subjects/m/metaphysics/) · [The genealogical branch](/positioning/subjects/m/metaphysics/the-genealogical-branch/) · [The counter-current](/positioning/subjects/a/aesthetics-in-philosophy/the-counter-current/)

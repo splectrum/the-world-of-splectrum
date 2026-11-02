@@ -9,7 +9,7 @@ description: "British evolutionary biologist — the gene-centric view of evolut
 
 # Richard Dawkins (1941–)
 
-Dawkins is an evolutionary biologist and science communicator whose central contribution is the gene-centric view of evolution: that natural selection is best understood as operating at the level of the gene rather than the organism, the group, or the species. *The Selfish Gene* (1976) gave this position its popular articulation and its lasting influence — reframing organisms as "survival machines" built by genes for gene replication. The book also introduced the concept of the meme, a unit of cultural transmission analogous to the gene. His later work on the extended phenotype broadened the gene's-eye view further. From the 2000s onward, Dawkins became at least as well known for his public atheism as for his evolutionary biology.
+Dawkins is an evolutionary biologist and science communicator whose central contribution is the gene-centric view of [evolution](/positioning/subjects/e/evolution/): that natural selection is best understood as operating at the level of the gene rather than the organism, the group, or the species. *The Selfish Gene* (1976) gave this position its popular articulation and its lasting influence — reframing organisms as "survival machines" built by genes for gene replication. The book also introduced the concept of the meme, a unit of cultural transmission analogous to the gene. His later work on the extended phenotype broadened the gene's-eye view further. From the 2000s onward, Dawkins became at least as well known for his public atheism as for his evolutionary biology.
 
 ---
 
@@ -86,4 +86,4 @@ Dawkins' framework is gene-centric and replicator-based. Selection requires a re
 
 ---
 
-See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Darwin](/positioning/persons/d/darwin/) · [Trivers](/positioning/persons/t/trivers/) · [Maynard Smith](/positioning/persons/m/maynard-smith/)
+See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Evolution](/positioning/subjects/e/evolution/) · [The Criterion](/positioning/subjects/e/evolution/the-criterion/) · [Darwin](/positioning/persons/d/darwin/) · [Trivers](/positioning/persons/t/trivers/) · [Maynard Smith](/positioning/persons/m/maynard-smith/)

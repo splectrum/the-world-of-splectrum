@@ -9,7 +9,7 @@ lastmod: 2026-05-28
 
 # Thomas Henry Huxley (1825–1895)
 
-Huxley was a comparative anatomist and paleontologist who became the most visible public defender of Darwinian evolution in Britain, later known as "Darwin's bulldog" — an epithet that appears to be his own coinage but became standard only after his death. He coined the term *agnostic* in 1869, published the first sustained scientific argument for human continuity with the apes, argued that birds descend from dinosaurs, and delivered a late lecture — *Evolution and Ethics* (1893) — insisting that morality cannot be derived from the evolutionary process. He was also a working education reformer who helped establish science as a publicly taught discipline in Britain.
+Huxley was a comparative anatomist and paleontologist who became the most visible public defender of Darwinian [evolution](/positioning/subjects/e/evolution/) in Britain, later known as "Darwin's bulldog" — an epithet that appears to be his own coinage but became standard only after his death. He coined the term *agnostic* in 1869, published the first sustained scientific argument for human continuity with the apes, argued that birds descend from dinosaurs, and delivered a late lecture — *Evolution and Ethics* (1893) — insisting that morality cannot be derived from the evolutionary process. He was also a working education reformer who helped establish science as a publicly taught discipline in Britain.
 
 ---
 
@@ -57,7 +57,7 @@ The X Club (1864–93), an informal dining society of nine evolution-sympathetic
 
 ## *Evolution and Ethics* (1893)
 
-The Romanes Lecture, delivered at Oxford on 18 May 1893. The argument: ethical conduct is not derivable from the evolutionary process. *"Ethical nature, while born of cosmic nature, is necessarily at enmity with its parent."* Against [Spencer](/positioning/persons/s/spencer/)'s attempts to ground morality in the workings of evolution, Huxley insisted that the cosmic process of struggle and the ethical process of cooperation pull in opposite directions, and that human moral progress consists precisely in setting itself against the natural process from which it arose. The lecture was widely influential, particularly in China through Yan Fu's 1898 translation, which transformed the reception of Darwinism there.
+The Romanes Lecture, delivered at Oxford on 18 May 1893. The argument: ethical conduct is not derivable from the evolutionary process. *"Ethical nature, while born of cosmic nature, is necessarily at enmity with its parent."* Against [Spencer](/positioning/persons/s/spencer/)'s attempts to ground morality in the workings of evolution, Huxley insisted that the cosmic process of struggle and the ethical process of cooperation pull in opposite directions, and that human moral progress consists precisely in setting itself against the natural process from which it arose. The lecture was widely influential, particularly in China through Yan Fu's 1898 translation, which transformed the reception of [Darwinism](/positioning/subjects/d/darwinism/) there.
 
 ## Where Huxley stops
 
@@ -76,4 +76,4 @@ Huxley was a polemicist as much as a scientist — the public defence of Darwini
 
 ---
 
-See also: [Darwin](/positioning/persons/d/darwin/) · [Spencer](/positioning/persons/s/spencer/) · [Hume](/positioning/persons/h/hume/) · [Kant](/positioning/persons/k/kant/) · [Philosophy of science](/positioning/subjects/p/philosophy-of-science/) · [Mutualism](/positioning/subjects/m/mutualism/)
+See also: [Darwin](/positioning/persons/d/darwin/) · [Spencer](/positioning/persons/s/spencer/) · [Hume](/positioning/persons/h/hume/) · [Kant](/positioning/persons/k/kant/) · [Philosophy of science](/positioning/subjects/p/philosophy-of-science/) · [Mutualism](/positioning/subjects/m/mutualism/) · [Evolution](/positioning/subjects/e/evolution/) · [The Word](/positioning/subjects/e/evolution/the-word/) · [Darwinism](/positioning/subjects/d/darwinism/) · [Social Darwinism](/positioning/subjects/d/darwinism/social-darwinism/)

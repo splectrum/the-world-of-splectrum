@@ -46,4 +46,4 @@ Polanyi showed that knowing is personal, tacit, embodied — but he kept the kno
 
 ---
 
-See also: [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) · [Ostrom](/positioning/persons/o/ostrom/) · [Gadamer](/positioning/persons/g/gadamer/) · [Philosophy of science](/positioning/subjects/p/philosophy-of-science/)
+See also: [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) · [Ostrom](/positioning/persons/o/ostrom/) · [Gadamer](/positioning/persons/g/gadamer/) · [Philosophy of science](/positioning/subjects/p/philosophy-of-science/) · [Cognition](/positioning/subjects/c/cognition/) · [Cognition in Core Philosophy](/positioning/subjects/c/cognition/philosophy/core/)

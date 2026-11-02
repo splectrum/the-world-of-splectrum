@@ -47,4 +47,4 @@ Habermas grounded communication in universal validity claims — truth, rightnes
 
 ---
 
-See also: [Rorty](/positioning/persons/r/rorty/) · [Luhmann](/positioning/persons/l/luhmann/) · [Dewey](/positioning/persons/d/dewey/) · [Ostrom](/positioning/persons/o/ostrom/)
+See also: [Hermeneutics](/positioning/subjects/h/hermeneutics/) · [Hermeneutics: the ontological turn and the disputes](/positioning/subjects/h/hermeneutics/the-ontological-turn/) · [Rorty](/positioning/persons/r/rorty/) · [Luhmann](/positioning/persons/l/luhmann/) · [Dewey](/positioning/persons/d/dewey/) · [Ostrom](/positioning/persons/o/ostrom/)

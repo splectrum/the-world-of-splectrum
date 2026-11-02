@@ -83,4 +83,4 @@ The aesthetic theory depends on the Platonic Ideas as a metaphysical layer betwe
 
 ---
 
-See also: [Kant](/positioning/persons/k/kant/) · [Nietzsche](/positioning/persons/n/nietzsche/) · [Hegel](/positioning/persons/h/hegel/) · [Bergson](/positioning/persons/b/bergson/) · [Music and meaning](/positioning/subjects/m/music-and-meaning/) · [The standing of aesthetics](/positioning/subjects/a/aesthetics-in-philosophy/)
+See also: [Kant](/positioning/persons/k/kant/) · [Nietzsche](/positioning/persons/n/nietzsche/) · [Hegel](/positioning/persons/h/hegel/) · [Bergson](/positioning/persons/b/bergson/) · [Music and meaning](/positioning/subjects/m/music-and-meaning/) · [The standing of aesthetics](/positioning/subjects/a/aesthetics-in-philosophy/) · [The counter-current](/positioning/subjects/a/aesthetics-in-philosophy/the-counter-current/)

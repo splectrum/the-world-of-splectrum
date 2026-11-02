@@ -67,4 +67,4 @@ Language is framed as human natural history: "Commanding, questioning, recountin
 
 ---
 
-See also: [Rorty](/positioning/persons/r/rorty/) · [Brandom](/positioning/persons/b/brandom/) · [Saussure](/positioning/persons/s/saussure/)
+See also: [Pluralism](/positioning/subjects/p/pluralism/) · [The dimensions of pluralism](/positioning/subjects/p/pluralism/the-dimensions/) · [Cognition](/positioning/subjects/c/cognition/) · [Cognition in Core Philosophy](/positioning/subjects/c/cognition/philosophy/core/) · [Rorty](/positioning/persons/r/rorty/) · [Brandom](/positioning/persons/b/brandom/) · [Saussure](/positioning/persons/s/saussure/)

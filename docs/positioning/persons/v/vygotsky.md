@@ -69,4 +69,4 @@ His own sense of the boundary was that he had glimpsed the country without enter
 
 ---
 
-See also: [Piaget](/positioning/persons/p/piaget/) · [Marx](/positioning/persons/m/marx/) · [Hegel](/positioning/persons/h/hegel/) · [Spinoza](/positioning/persons/s/spinoza/) · [Pavlov](/positioning/persons/p/pavlov/)
+See also: [Developmental Psychology](/positioning/subjects/d/developmental-psychology/) · [Constructivism](/positioning/subjects/c/constructivism/) · [Piaget](/positioning/persons/p/piaget/) · [Marx](/positioning/persons/m/marx/) · [Hegel](/positioning/persons/h/hegel/) · [Spinoza](/positioning/persons/s/spinoza/) · [Pavlov](/positioning/persons/p/pavlov/)

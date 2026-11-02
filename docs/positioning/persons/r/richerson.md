@@ -15,7 +15,7 @@ Richerson is an evolutionary biologist whose collaboration with [Robert Boyd](/p
 
 ## Life
 
-Born 1943. Undergraduate at Denison University. PhD in zoology at the University of California, Davis (1969), studying limnology — the ecology of lakes. The limnological training is significant: Richerson's early work studied how lake ecosystems respond to environmental change on timescales of decades to millennia, which gave him a practical understanding of how populations adapt to variable environments. The step from ecological adaptation to cultural adaptation was natural: if lake ecosystems can show adaptive change on timescales too short for genetic evolution, so can human populations — and culture is the mechanism.
+Born 1943. Undergraduate at Denison University. PhD in zoology at the University of California, Davis (1969), studying limnology — the ecology of lakes. The limnological training is significant: Richerson's early work studied how lake ecosystems respond to environmental change on timescales of decades to millennia, which gave him a practical understanding of how populations adapt to variable environments. The step from ecological adaptation to cultural adaptation was natural: if lake ecosystems can show adaptive change on timescales too short for genetic [evolution](/positioning/subjects/e/evolution/), so can human populations — and culture is the mechanism.
 
 Professor of environmental science and policy at UC Davis (1969–2008). Emeritus since 2008 but continues to publish actively. Richerson's institutional base in environmental science rather than anthropology or biology reflects the interdisciplinary character of the programme: cultural evolution draws on ecology, evolutionary biology, anthropology, and psychology, and no single department houses it comfortably.
 
@@ -50,4 +50,4 @@ Richerson's emphasis on ecological context distinguishes his approach from more 
 
 ---
 
-See also: [Boyd](/positioning/persons/b/boyd/) · [Dawkins](/positioning/persons/d/dawkins/) · [Sperber](/positioning/persons/s/sperber/) · [Darwinism](/positioning/subjects/d/darwinism/)
+See also: [Boyd](/positioning/persons/b/boyd/) · [Dawkins](/positioning/persons/d/dawkins/) · [Sperber](/positioning/persons/s/sperber/) · [Darwinism](/positioning/subjects/d/darwinism/) · [Evolution](/positioning/subjects/e/evolution/) · [Cultural Evolution](/positioning/subjects/e/evolution/cultural-evolution/) · [Cultural Extensions](/positioning/subjects/d/darwinism/cultural-extensions/)

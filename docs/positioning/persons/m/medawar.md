@@ -68,4 +68,4 @@ Medawar's evolutionary theory of ageing establishes the principle — the declin
 
 ---
 
-See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Williams](/positioning/persons/w/williams/) · [Dawkins](/positioning/persons/d/dawkins/)
+See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Evolution](/positioning/subjects/e/evolution/) · [Evolution in Metaphysics](/positioning/subjects/e/evolution/metaphysics/) · [Williams](/positioning/persons/w/williams/) · [Dawkins](/positioning/persons/d/dawkins/)

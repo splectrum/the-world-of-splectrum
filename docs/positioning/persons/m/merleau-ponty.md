@@ -53,4 +53,4 @@ The body grounds everything in Merleau-Ponty — but his account stays with the 
 
 ---
 
-See also: [Phenomenology](/positioning/subjects/p/phenomenology/) · [Husserl](/positioning/persons/h/husserl/) · [Varela](/positioning/persons/v/varela/) · [Jonas](/positioning/persons/j/jonas/)
+See also: [Phenomenology](/positioning/subjects/p/phenomenology/) · [The standing of aesthetics in philosophy](/positioning/subjects/a/aesthetics-in-philosophy/) · [The counter-current](/positioning/subjects/a/aesthetics-in-philosophy/the-counter-current/) · [Cognition](/positioning/subjects/c/cognition/) · [Cognition in Core Philosophy](/positioning/subjects/c/cognition/philosophy/core/) · [Metaphysics](/positioning/subjects/m/metaphysics/) · [The disclosive branch](/positioning/subjects/m/metaphysics/the-disclosive-branch/) · [Husserl](/positioning/persons/h/husserl/) · [Varela](/positioning/persons/v/varela/) · [Jonas](/positioning/persons/j/jonas/)

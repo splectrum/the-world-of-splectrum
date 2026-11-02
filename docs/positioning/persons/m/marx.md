@@ -85,4 +85,4 @@ Marx's critique is more fully developed than his construction. How the transitio
 
 ---
 
-See also: [Hegel](/positioning/persons/h/hegel/) · [Proudhon](/positioning/persons/p/proudhon/)
+See also: [Mutualism](/positioning/subjects/m/mutualism/) · [Philosophy of History](/positioning/subjects/p/philosophy-of-history/) · [Hegel](/positioning/persons/h/hegel/) · [Proudhon](/positioning/persons/p/proudhon/)

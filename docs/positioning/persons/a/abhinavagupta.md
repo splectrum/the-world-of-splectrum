@@ -64,4 +64,4 @@ His axis runs inward. Generalisation lifts the spectator out of private circumst
 
 ---
 
-See also: [Rasa](/positioning/subjects/r/rasa/) · [Śaṅkara](/positioning/persons/s/sankara/) · [Yogācāra](/positioning/subjects/y/yogacara/)
+See also: [Rasa](/positioning/subjects/r/rasa/) · [Śaṅkara](/positioning/persons/s/sankara/) · [Yogācāra](/positioning/subjects/y/yogacara/) · [Cognition](/positioning/subjects/c/cognition/) · [Cognition in Core Philosophy](/positioning/subjects/c/cognition/philosophy/core/)

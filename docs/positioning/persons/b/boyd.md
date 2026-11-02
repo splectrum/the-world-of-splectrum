@@ -9,7 +9,7 @@ description: "American anthropologist — dual-inheritance theory (with Richerso
 
 # Robert Boyd (1948–)
 
-Boyd is a mathematical anthropologist whose collaboration with [Peter Richerson](/positioning/persons/r/richerson/) produced the theoretical framework for studying culture as an evolutionary process. *Culture and the Evolutionary Process* (1985) treats humans as inheriting through two channels — genes and culture — and models the dynamics of cultural transmission using the population-genetic tools Boyd was trained in. The framework specifies the transmission biases (conformist, prestige, content) that shape what cultural variants spread, and it models the interaction between genetic and cultural inheritance that makes human evolution distinctive. Boyd's contribution to the partnership is the formal modelling: the population-dynamic equations, the stability analyses, the game-theoretic treatments that give dual-inheritance theory its mathematical rigour.
+Boyd is a mathematical anthropologist whose collaboration with [Peter Richerson](/positioning/persons/r/richerson/) produced the theoretical framework for studying culture as an evolutionary process. *Culture and the Evolutionary Process* (1985) treats humans as inheriting through two channels — genes and culture — and models the dynamics of cultural transmission using the population-genetic tools Boyd was trained in. The framework specifies the transmission biases (conformist, prestige, content) that shape what cultural variants spread, and it models the interaction between genetic and cultural inheritance that makes human [evolution](/positioning/subjects/e/evolution/) distinctive. Boyd's contribution to the partnership is the formal modelling: the population-dynamic equations, the stability analyses, the game-theoretic treatments that give dual-inheritance theory its mathematical rigour.
 
 ---
 
@@ -52,4 +52,4 @@ The cultural-group-selection claim has faced sustained criticism. [Steven Pinker
 
 ---
 
-See also: [Richerson](/positioning/persons/r/richerson/) · [Sperber](/positioning/persons/s/sperber/) · [Wilson (D. S.)](/positioning/persons/w/wilson-ds/) · [Darwinism](/positioning/subjects/d/darwinism/)
+See also: [Richerson](/positioning/persons/r/richerson/) · [Sperber](/positioning/persons/s/sperber/) · [Wilson (D. S.)](/positioning/persons/w/wilson-ds/) · [Darwinism](/positioning/subjects/d/darwinism/) · [Cultural Extensions](/positioning/subjects/d/darwinism/cultural-extensions/) · [Evolution](/positioning/subjects/e/evolution/) · [Cultural Evolution](/positioning/subjects/e/evolution/cultural-evolution/)

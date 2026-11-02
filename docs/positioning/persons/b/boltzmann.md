@@ -9,7 +9,7 @@ description: "Austrian physicist — statistical mechanics, the statistical inte
 
 # Ludwig Boltzmann (1844–1906)
 
-Boltzmann was a theoretical physicist who argued that the second law of thermodynamics is not a fundamental law of nature but a statistical consequence of the behaviour of large numbers of particles. His central result: entropy is a measure of the number of microscopic configurations (microstates) consistent with a system's macroscopic properties — S = k_B ln Ω. The second law follows because there are overwhelmingly more high-entropy configurations than low-entropy ones; the system migrates toward what is statistically dominant. The interpretation was fiercely contested during Boltzmann's lifetime, particularly by energeticists who rejected the atomic hypothesis on which it depended. It is now the standard framework — and the basis on which later work (Eddington, Penrose, Carroll) built the modern understanding of the arrow of time as a consequence of the statistical mechanics Boltzmann developed.
+Boltzmann was a theoretical physicist who argued that the second law of [thermodynamics](/positioning/subjects/t/thermodynamics/) is not a fundamental law of nature but a statistical consequence of the behaviour of large numbers of particles. His central result: [entropy](/positioning/subjects/e/entropy/) is a measure of the number of microscopic configurations (microstates) consistent with a system's macroscopic properties — S = k_B ln Ω. The second law follows because there are overwhelmingly more high-entropy configurations than low-entropy ones; the system migrates toward what is statistically dominant. The interpretation was fiercely contested during Boltzmann's lifetime, particularly by energeticists who rejected the atomic hypothesis on which it depended. It is now the standard framework — and the basis on which later work (Eddington, Penrose, Carroll) built the modern understanding of the arrow of time as a consequence of the statistical mechanics Boltzmann developed.
 
 ---
 
@@ -71,4 +71,4 @@ Boltzmann's framework explains why entropy increases: there are more ways for a 
 
 ---
 
-See also: [Prigogine](/positioning/persons/p/prigogine/) · [Rovelli](/positioning/persons/r/rovelli/) · [Von Neumann](/positioning/persons/v/von-neumann/)
+See also: [Thermodynamics](/positioning/subjects/t/thermodynamics/) · [The Laws and the Reduction](/positioning/subjects/t/thermodynamics/the-laws-and-the-reduction/) · [Entropy](/positioning/subjects/e/entropy/) · [Prigogine](/positioning/persons/p/prigogine/) · [Rovelli](/positioning/persons/r/rovelli/) · [Von Neumann](/positioning/persons/v/von-neumann/)

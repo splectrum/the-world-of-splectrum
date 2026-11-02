@@ -9,7 +9,7 @@ description: "Greek philosopher — atomism, the void, the earliest systematic m
 
 # Democritus (c. 460–c. 370 BCE)
 
-Democritus, developing the atomic theory originated by his teacher [Leucippus](https://en.wikipedia.org/wiki/Leucippus), argued that reality consists of nothing but atoms and the void. Atoms are indivisible, indestructible, and infinite in number; they differ from each other only in shape, size, and arrangement. Everything that exists — earth, water, air, fire, living things, the soul, the gods — is composed of atoms moving through empty space. The theory is the earliest systematic materialism and the earliest systematic pluralism: reality is irreducibly many, and the many (atoms) are fundamental. The properties of macroscopic things — colour, taste, warmth — do not belong to the atoms themselves; they arise from the arrangement of atoms and the interaction between atoms and the perceiving soul. "By convention sweet, by convention bitter, by convention colour; in reality atoms and void" — Democritus's most famous fragment, and the first clear statement of the distinction between primary and secondary qualities that [Locke](/positioning/persons/l/locke/) would develop two millennia later.
+Democritus, developing the atomic theory originated by his teacher [Leucippus](https://en.wikipedia.org/wiki/Leucippus), argued that reality consists of nothing but atoms and the void. Atoms are indivisible, indestructible, and infinite in number; they differ from each other only in shape, size, and arrangement. Everything that exists — earth, water, air, fire, living things, the soul, the gods — is composed of atoms moving through empty space. The theory is the earliest systematic materialism and the earliest systematic [pluralism](/positioning/subjects/p/pluralism/): reality is irreducibly many, and the many (atoms) are fundamental. The properties of macroscopic things — colour, taste, warmth — do not belong to the atoms themselves; they arise from the arrangement of atoms and the interaction between atoms and the perceiving soul. "By convention sweet, by convention bitter, by convention colour; in reality atoms and void" — Democritus's most famous fragment, and the first clear statement of the distinction between primary and secondary qualities that [Locke](/positioning/persons/l/locke/) would develop two millennia later.
 
 ---
 
@@ -51,4 +51,4 @@ No complete works survive. The fragment collection is preserved in:
 
 ---
 
-See also: [Heraclitus](/positioning/persons/h/heraclitus/) · [Aristotle](/positioning/persons/a/aristotle/) · [Spinoza](/positioning/persons/s/spinoza/)
+See also: [Pluralism](/positioning/subjects/p/pluralism/) · [The dimensions of pluralism](/positioning/subjects/p/pluralism/the-dimensions/) · [Heraclitus](/positioning/persons/h/heraclitus/) · [Aristotle](/positioning/persons/a/aristotle/) · [Spinoza](/positioning/persons/s/spinoza/)

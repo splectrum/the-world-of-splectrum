@@ -17,7 +17,7 @@ Maturana turned neurobiology into philosophy by taking one observation seriously
 
 ## Key concepts
 
-**Biology of cognition.** *"Living systems are cognitive systems, and living as a process is a process of cognition."* The 1970 paper that preceded autopoiesis. The claim is not that organisms think — it is that the maintenance of viability through interaction *is* cognition, all the way down. A bacterium swimming up a chemical gradient is knowing. Cognition is not a faculty added to life; it is what life does.
+**Biology of [cognition](/positioning/subjects/c/cognition/).** *"Living systems are cognitive systems, and living as a process is a process of cognition."* The 1970 paper that preceded autopoiesis. The claim is not that organisms think — it is that the maintenance of viability through interaction *is* cognition, all the way down. A bacterium swimming up a chemical gradient is knowing. Cognition is not a faculty added to life; it is what life does.
 
 **Autopoiesis.** See [Autopoiesis](/positioning/subjects/a/autopoiesis/) for the full account. Maturana coined the term and originated the core insight: a living system is a network of processes that produces the components that constitute the network. The defining move is that organisation, not substance, is what matters — the same molecules cycle through, but the organisation maintains itself.
 
@@ -45,4 +45,4 @@ Maturana placed the observer inside the system and refused to let it back out. T
 
 ---
 
-See also: [Autopoiesis](/positioning/subjects/a/autopoiesis/) · [Varela](/positioning/persons/v/varela/) · [Bateson](/positioning/persons/b/bateson/) · [Luhmann](/positioning/persons/l/luhmann/) · [Solé](/positioning/persons/s/sole/)
+See also: [Autopoiesis](/positioning/subjects/a/autopoiesis/) · [Cognition](/positioning/subjects/c/cognition/) · [Cognition as a Property of Life](/positioning/subjects/c/cognition/philosophy/biology/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) · [CAS — Adjacent traditions](/positioning/subjects/c/complex-adaptive-systems/adjacent-traditions/) · [Enactivism](/positioning/subjects/e/enactivism/) · [Emergence](/positioning/subjects/e/emergence/) · [Emergence Under Other Names](/positioning/subjects/e/emergence/under-other-names/) · [Metaphysics](/positioning/subjects/m/metaphysics/) · [Where the stances combine](/positioning/subjects/m/metaphysics/where-the-stances-combine/) · [Varela](/positioning/persons/v/varela/) · [Bateson](/positioning/persons/b/bateson/) · [Luhmann](/positioning/persons/l/luhmann/) · [Solé](/positioning/persons/s/sole/)

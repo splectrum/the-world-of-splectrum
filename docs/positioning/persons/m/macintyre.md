@@ -67,4 +67,4 @@ MacIntyre's relationship to politics is deliberately underdeveloped. He has desc
 
 ---
 
-See also: [Berlin](/positioning/persons/b/berlin/) · [Gadamer](/positioning/persons/g/gadamer/) · [Connolly](/positioning/persons/c/connolly/)
+See also: [Political philosophy](/positioning/subjects/p/political-philosophy/) · [Ethics](/positioning/subjects/e/ethics/) · [Berlin](/positioning/persons/b/berlin/) · [Gadamer](/positioning/persons/g/gadamer/) · [Connolly](/positioning/persons/c/connolly/)

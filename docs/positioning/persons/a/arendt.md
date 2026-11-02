@@ -82,4 +82,4 @@ Action's two defining features — unpredictability and irreversibility — also
 
 ---
 
-See also: [Jonas](/positioning/persons/j/jonas/) · [Connolly](/positioning/persons/c/connolly/) · [Heidegger](/positioning/persons/h/heidegger/)
+See also: [Pluralism](/positioning/subjects/p/pluralism/) · [The dimensions of pluralism](/positioning/subjects/p/pluralism/the-dimensions/) · [Political philosophy](/positioning/subjects/p/political-philosophy/) · [Jonas](/positioning/persons/j/jonas/) · [Connolly](/positioning/persons/c/connolly/) · [Heidegger](/positioning/persons/h/heidegger/)

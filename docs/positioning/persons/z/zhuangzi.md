@@ -53,4 +53,4 @@ The refusal of system is his own stance, not a gap others found. He advances no 
 
 ---
 
-See also: [Wittgenstein](/positioning/persons/w/wittgenstein/) · [Ryle](/positioning/persons/r/ryle/) · [Polanyi](/positioning/persons/p/polanyi/) · [Abhinavagupta](/positioning/persons/a/abhinavagupta/)
+See also: [Cognition](/positioning/subjects/c/cognition/) · [Cognition in Core Philosophy](/positioning/subjects/c/cognition/philosophy/core/) · [Wittgenstein](/positioning/persons/w/wittgenstein/) · [Ryle](/positioning/persons/r/ryle/) · [Polanyi](/positioning/persons/p/polanyi/) · [Abhinavagupta](/positioning/persons/a/abhinavagupta/)

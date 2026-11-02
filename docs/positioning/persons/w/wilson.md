@@ -84,4 +84,4 @@ Wilson's programme is biological and synthetic — it seeks to bring behaviour, 
 
 ---
 
-See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Trivers](/positioning/persons/t/trivers/) · [Lewontin](/positioning/persons/l/lewontin/) · [Gould](/positioning/persons/g/gould/) · [Dawkins](/positioning/persons/d/dawkins/) · [Mutualism](/positioning/subjects/m/mutualism/)
+See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Trivers](/positioning/persons/t/trivers/) · [Lewontin](/positioning/persons/l/lewontin/) · [Gould](/positioning/persons/g/gould/) · [Dawkins](/positioning/persons/d/dawkins/) · [Mutualism](/positioning/subjects/m/mutualism/) · [After the Synthesis](/positioning/subjects/d/darwinism/after-the-synthesis/)

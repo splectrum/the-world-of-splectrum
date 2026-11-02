@@ -9,7 +9,7 @@ description: "Theoretical physicist — singularity theorems, Hawking radiation,
 
 # Stephen Hawking (1942–2018)
 
-Hawking was a theoretical physicist whose work centred on the large-scale structure of spacetime — singularities, black holes, and the origin of the universe. His most influential results are the singularity theorems (with [Penrose](/positioning/persons/r/penrose/)), which showed that singularities are unavoidable in general relativity; the discovery that black holes radiate thermally (Hawking radiation), which connected general relativity, quantum field theory, and thermodynamics for the first time; and the no-boundary proposal (with James Hartle), which attempts to specify the initial condition of the universe without a boundary or singularity. His framework for the arrow of time — three arrows (thermodynamic, cosmological, psychological) that must align in a universe containing observers — organised a question that had been discussed piecemeal since [Boltzmann](/positioning/persons/b/boltzmann/) and [Eddington](/positioning/persons/e/eddington/).
+Hawking was a theoretical physicist whose work centred on the large-scale structure of spacetime — singularities, black holes, and the origin of the universe. His most influential results are the singularity theorems (with [Penrose](/positioning/persons/r/penrose/)), which showed that singularities are unavoidable in general relativity; the discovery that black holes radiate thermally (Hawking radiation), which connected general relativity, quantum field theory, and [thermodynamics](/positioning/subjects/t/thermodynamics/) for the first time; and the no-boundary proposal (with James Hartle), which attempts to specify the initial condition of the universe without a boundary or singularity. His framework for the arrow of time — three arrows (thermodynamic, cosmological, psychological) that must align in a universe containing observers — organised a question that had been discussed piecemeal since [Boltzmann](/positioning/persons/b/boltzmann/) and [Eddington](/positioning/persons/e/eddington/).
 
 ---
 
@@ -75,4 +75,4 @@ The no-boundary proposal offers a specific answer to the initial-condition probl
 
 ---
 
-See also: [Penrose](/positioning/persons/r/penrose/) · [Boltzmann](/positioning/persons/b/boltzmann/) · [Rovelli](/positioning/persons/r/rovelli/)
+See also: [Thermodynamics](/positioning/subjects/t/thermodynamics/) · [Black Holes](/positioning/subjects/t/thermodynamics/black-holes/) · [Penrose](/positioning/persons/r/penrose/) · [Boltzmann](/positioning/persons/b/boltzmann/) · [Rovelli](/positioning/persons/r/rovelli/)

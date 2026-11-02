@@ -9,7 +9,7 @@ description: "British philosopher and historian of ideas — value pluralism, th
 
 # Isaiah Berlin (1909–1997)
 
-Berlin argued that fundamental human values — liberty, equality, justice, mercy — are genuinely plural and irreducibly in conflict. They cannot be ranked on a single scale, harmonised into a system, or resolved by a formula. This is value pluralism: not the claim that values are subjective or culturally relative, but the structural claim that some goods are incommensurable — they cannot be measured in each other's terms, and no meta-ranking settles their conflicts. The consequence is that political life necessarily involves tragic choices between things that are genuinely good. Practical wisdom navigates these collisions; it does not dissolve them.
+Berlin argued that fundamental human values — liberty, equality, justice, mercy — are genuinely plural and irreducibly in conflict. They cannot be ranked on a single scale, harmonised into a system, or resolved by a formula. This is value [pluralism](/positioning/subjects/p/pluralism/): not the claim that values are subjective or culturally relative, but the structural claim that some goods are incommensurable — they cannot be measured in each other's terms, and no meta-ranking settles their conflicts. The consequence is that political life necessarily involves tragic choices between things that are genuinely good. Practical wisdom navigates these collisions; it does not dissolve them.
 
 ---
 
@@ -86,4 +86,4 @@ Berlin's historical work — the Counter-Enlightenment, the Romantics — establ
 
 ---
 
-See also: [James](/positioning/persons/j/james/) · [Connolly](/positioning/persons/c/connolly/) · [Goodman](/positioning/persons/g/goodman/)
+See also: [Pluralism](/positioning/subjects/p/pluralism/) · [The dimensions of pluralism](/positioning/subjects/p/pluralism/the-dimensions/) · [Political philosophy](/positioning/subjects/p/political-philosophy/) · [Liberty and the self](/positioning/subjects/p/political-philosophy/liberty-and-the-self/) · [James](/positioning/persons/j/james/) · [Connolly](/positioning/persons/c/connolly/) · [Goodman](/positioning/persons/g/goodman/)

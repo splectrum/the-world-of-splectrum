@@ -9,7 +9,7 @@ description: "British philosopher — neo-Aristotelian naturalism, natural goodn
 
 # Philippa Foot (1920–2010)
 
-Foot revived virtue ethics in analytic philosophy and developed the most distinctive contemporary defence of natural teleology: the argument that moral evaluation is structurally continuous with the evaluation of living things. A good root system is one that serves the plant's life; a good hunting strategy is one that gets the wolf its prey; good human action is action that serves distinctively human flourishing. The evaluative structure is the same across all cases — an organism or a part or an activity is good insofar as it performs the function that its life-form requires. The argument, developed in *Natural Goodness* (2001), is a direct engagement with [Aristotle](/positioning/persons/a/aristotle/)'s ergon claim: that there is a human function, and the virtues are the excellences that fulfil it. Foot also introduced the trolley problem (1967), the thought experiment that became the most discussed example in modern moral philosophy.
+Foot revived virtue [ethics](/positioning/subjects/e/ethics/) in analytic philosophy and developed the most distinctive contemporary defence of natural teleology: the argument that moral evaluation is structurally continuous with the evaluation of living things. A good root system is one that serves the plant's life; a good hunting strategy is one that gets the wolf its prey; good human action is action that serves distinctively human flourishing. The evaluative structure is the same across all cases — an organism or a part or an activity is good insofar as it performs the function that its life-form requires. The argument, developed in *Natural Goodness* (2001), is a direct engagement with [Aristotle](/positioning/persons/a/aristotle/)'s ergon claim: that there is a human function, and the virtues are the excellences that fulfil it. Foot also introduced the trolley problem (1967), the thought experiment that became the most discussed example in modern moral philosophy.
 
 ---
 
@@ -61,4 +61,4 @@ The framework is naturalistic in a specific sense: it grounds moral evaluation i
 
 ---
 
-See also: [Aristotle](/positioning/persons/a/aristotle/) · [Williams (Bernard)](/positioning/persons/w/williams-b/) · [MacIntyre](/positioning/persons/m/macintyre/)
+See also: [Ethics](/positioning/subjects/e/ethics/) · [Aristotle](/positioning/persons/a/aristotle/) · [Williams (Bernard)](/positioning/persons/w/williams-b/) · [MacIntyre](/positioning/persons/m/macintyre/)

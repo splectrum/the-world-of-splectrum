@@ -23,7 +23,7 @@ From the mid-1850s he suffered lifelong ill health — he wrote only a few hours
 
 Spencer was an evolutionist before he read [Darwin](/positioning/persons/d/darwin/). *The Development Hypothesis* appeared in 1852, seven years before *On the Origin of Species*. His evolutionism was Lamarckian as much as Darwinian, and his commitment to progressive, directional development was his own.
 
-The magnum opus, *A System of Synthetic Philosophy* (1862–96), comprised *First Principles* (1862), *Principles of Biology* (1864–67), the revised *Principles of Psychology* (1870–72), *Principles of Sociology* (1874–96), and *Principles of Ethics* (1879–93). The whole point of the system was that one principle covered all domains. In *First Principles* he defined evolution — in the first edition of 1862 as "a change from an indefinite incoherent homogeneity, to a definite, coherent heterogeneity, through continuous differentiations and integrations", and in the revised editions from 1867 in the formula that became famous:
+The magnum opus, *A System of Synthetic Philosophy* (1862–96), comprised *First Principles* (1862), *Principles of Biology* (1864–67), the revised *Principles of Psychology* (1870–72), *Principles of Sociology* (1874–96), and *Principles of Ethics* (1879–93). The whole point of the system was that one principle covered all domains. In *First Principles* he defined [evolution](/positioning/subjects/e/evolution/) — in the first edition of 1862 as "a change from an indefinite incoherent homogeneity, to a definite, coherent heterogeneity, through continuous differentiations and integrations", and in the revised editions from 1867 in the formula that became famous:
 
 *"an integration of matter and concomitant dissipation of motion; during which the matter passes from an indefinite, incoherent homogeneity to a definite, coherent heterogeneity; and during which the retained motion undergoes a parallel transformation."*
 
@@ -57,4 +57,4 @@ Spencer treated evolution as inherently progressive and directional — heteroge
 
 ---
 
-See also: [Darwin](/positioning/persons/d/darwin/) · [Malthus](/positioning/persons/m/malthus/) · [Mutualism](/positioning/subjects/m/mutualism/) · [Philosophy of science](/positioning/subjects/p/philosophy-of-science/) · [Darwinism](/positioning/subjects/d/darwinism/)
+See also: [Darwin](/positioning/persons/d/darwin/) · [Malthus](/positioning/persons/m/malthus/) · [Mutualism](/positioning/subjects/m/mutualism/) · [Philosophy of science](/positioning/subjects/p/philosophy-of-science/) · [Darwinism](/positioning/subjects/d/darwinism/) · [Evolution](/positioning/subjects/e/evolution/) · [Progress and Direction](/positioning/subjects/e/evolution/progress-and-direction/) · [Social Darwinism](/positioning/subjects/d/darwinism/social-darwinism/)

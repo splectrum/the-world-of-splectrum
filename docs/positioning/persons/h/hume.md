@@ -39,7 +39,7 @@ Hume is the most important philosopher to write in English — empiricist episte
 
 ## Moral philosophy
 
-**Reason as servant of the passions.** "Reason is, and ought only to be the slave of the passions" (*Treatise* 2.3.3). Reason cannot motivate action; the passions move us, and reason calculates means. This situates the whole of Hume's ethics in sentiment rather than rational principle.
+**Reason as servant of the passions.** "Reason is, and ought only to be the slave of the passions" (*Treatise* 2.3.3). Reason cannot motivate action; the passions move us, and reason calculates means. This situates the whole of Hume's [ethics](/positioning/subjects/e/ethics/) in sentiment rather than rational principle.
 
 **Sentiment-based morality.** Morality is grounded in feeling, not reason. The sentiments of approbation and disapprobation — felt responses to character and conduct — are the foundation of moral judgment. Sympathy is the affective mechanism by which we enter into the sentiments of others and form shared moral assessments.
 
@@ -59,7 +59,7 @@ Hume is the most important philosopher to write in English — empiricist episte
 
 ## Where Hume stops
 
-Hume stayed within sense-impression empiricism: the mind receives impressions and forms habits from their conjunction. How minds might actively structure experience — [Kant](/positioning/persons/k/kant/)'s later question — sits outside his programme. His account of convention is roughly coordination-and-utility based; how shared meaning is constituted in language — later Wittgensteinian terrain — is not his question. His picture stays at the individual scale aggregated through repeated interaction; the social constitution of knowledge as a primary phenomenon is not part of his frame. His scepticism is mitigated by naturalism, but he does not pursue the consequences of his scepticism into a positive metaphysics.
+Hume stayed within sense-impression empiricism: the mind receives impressions and forms habits from their conjunction. How minds might actively structure experience — [Kant](/positioning/persons/k/kant/)'s later question — sits outside his programme. His account of convention is roughly coordination-and-utility based; how shared meaning is constituted in language — later Wittgensteinian terrain — is not his question. His picture stays at the individual scale aggregated through repeated interaction; the social constitution of knowledge as a primary phenomenon is not part of his frame. His scepticism is mitigated by naturalism, but he does not pursue the consequences of his scepticism into a positive [metaphysics](/positioning/subjects/m/metaphysics/).
 
 ---
 
@@ -73,4 +73,4 @@ Hume stayed within sense-impression empiricism: the mind receives impressions an
 
 ---
 
-See also: [Kant](/positioning/persons/k/kant/) · [Descartes](/positioning/persons/d/descartes/) · [Pragmatism](/positioning/subjects/p/pragmatism/)
+See also: [Kant](/positioning/persons/k/kant/) · [Descartes](/positioning/persons/d/descartes/) · [Pragmatism](/positioning/subjects/p/pragmatism/) · [Metaphysics](/positioning/subjects/m/metaphysics/) · [The deflationary branch](/positioning/subjects/m/metaphysics/the-deflationary-branch/) · [Ethics](/positioning/subjects/e/ethics/)

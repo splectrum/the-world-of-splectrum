@@ -49,4 +49,4 @@ Popper's fallibilism is powerful — but it assumes a single game. Falsification
 
 ---
 
-See also: [Philosophy of science](/positioning/subjects/p/philosophy-of-science/) · [Science and knowledge](/positioning/subjects/e/evolution/science-and-knowledge/) · [Kuhn](/positioning/persons/k/kuhn/) · [Feyerabend](/positioning/persons/f/feyerabend/) · [Campbell](/positioning/persons/c/campbell/)
+See also: [Philosophy of science](/positioning/subjects/p/philosophy-of-science/) · [Science and knowledge](/positioning/subjects/e/evolution/science-and-knowledge/) · [Philosophy of History](/positioning/subjects/p/philosophy-of-history/) · [Psychoanalysis](/positioning/subjects/p/psychoanalysis/) · [Kuhn](/positioning/persons/k/kuhn/) · [Feyerabend](/positioning/persons/f/feyerabend/) · [Campbell](/positioning/persons/c/campbell/)

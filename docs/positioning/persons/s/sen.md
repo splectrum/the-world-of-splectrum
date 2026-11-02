@@ -9,7 +9,7 @@ description: "Indian economist and philosopher — the capability approach, deve
 
 # Amartya Sen (1933–)
 
-Sen's central contribution is the capability approach: the idea that freedom should be understood not as the absence of interference or the possession of resources but as the real ability to live the life one has reason to value. What matters is not what people have (income, goods) but what they can do and be (capabilities and functionings). A wealthy person who is prevented from participating in public life is not free; a poor person who can participate is free in a way the wealthy one is not. This reframing — from resources to capabilities, from means to what the means make possible — has reshaped development economics, welfare economics, and political philosophy.
+Sen's central contribution is the capability approach: the idea that freedom should be understood not as the absence of interference or the possession of resources but as the real ability to live the life one has reason to value. What matters is not what people have (income, goods) but what they can do and be (capabilities and functionings). A wealthy person who is prevented from participating in public life is not free; a poor person who can participate is free in a way the wealthy one is not. This reframing — from resources to capabilities, from means to what the means make possible — has reshaped development economics, welfare economics, and [political philosophy](/positioning/subjects/p/political-philosophy/).
 
 ## Life
 
@@ -64,4 +64,4 @@ The capability approach assesses what people can do and be, but it does not deve
 
 ---
 
-See also: [Rawls](/positioning/persons/r/rawls/) · [Arendt](/positioning/persons/a/arendt/) · [Berlin](/positioning/persons/b/berlin/)
+See also: [Political philosophy](/positioning/subjects/p/political-philosophy/) · [Rawls](/positioning/persons/r/rawls/) · [Arendt](/positioning/persons/a/arendt/) · [Berlin](/positioning/persons/b/berlin/)

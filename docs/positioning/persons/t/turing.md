@@ -63,4 +63,4 @@ The morphogenesis paper was ahead of its time — reaction-diffusion patterns we
 
 ---
 
-See also: [Von Neumann](/positioning/persons/v/von-neumann/) · [Penrose](/positioning/persons/r/penrose/) · [Shannon](/positioning/persons/s/shannon/)
+See also: [Evolution](/positioning/subjects/e/evolution/) · [Evolutionary Computation](/positioning/subjects/e/evolution/evolutionary-computation/) · [Von Neumann](/positioning/persons/v/von-neumann/) · [Penrose](/positioning/persons/r/penrose/) · [Shannon](/positioning/persons/s/shannon/)

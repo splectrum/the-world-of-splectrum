@@ -15,7 +15,7 @@ Ecological psychology is the tradition in perceptual psychology that takes the a
 
 ## Roots
 
-The position did not start with its conclusion. Behind it stand the new realism and radical empiricism that reached James Gibson through his mentor Edwin Holt — a lineage running back through William James, and further back to [Reid](/positioning/persons/r/reid/)'s direct realism; the Gestalt psychology of his Smith College colleague Kurt Koffka, whose conviction that the world is perceived already meaningful Gibson kept while rejecting the framework around it; and the wartime aviation research that broke the laboratory's frozen stimuli against the problem of what a pilot actually sees. The formation is told in full on the [James Gibson](/positioning/persons/g/gibson-j/) page; the point here is that the tradition's realism and its insistence on the moving observer both arrived with histories.
+The position did not start with its conclusion. Behind it stand the new realism and radical empiricism that reached James Gibson through his mentor Edwin Holt — a lineage running back through [William James](/positioning/persons/j/james/), and further back to [Reid](/positioning/persons/r/reid/)'s direct realism; the Gestalt psychology of his Smith College colleague Kurt Koffka, whose conviction that the world is perceived already meaningful Gibson kept while rejecting the framework around it; and the wartime aviation research that broke the laboratory's frozen stimuli against the problem of what a pilot actually sees. The formation is told in full on the [James Gibson](/positioning/persons/g/gibson-j/) page; the point here is that the tradition's realism and its insistence on the moving observer both arrived with histories.
 
 ## The commitments
 

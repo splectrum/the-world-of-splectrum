@@ -9,7 +9,7 @@ description: "Feyerabend showed that science has no single method — theoretica
 
 # Paul Feyerabend (1924–1994)
 
-Feyerabend made the case for pluralism from inside the [philosophy of science](/positioning/subjects/p/philosophy-of-science/). No single method, no privileged vocabulary, no tradition that ranks above another. His theoretical pluralism — competing theories expose what a dominant one hides — showed that monopoly of ideas is as dangerous as monopoly of power. His incommensurability, developed alongside [Kuhn](/positioning/persons/k/kuhn/), showed that different frameworks carve reality differently without one being reducible to another. Where [Popper](/positioning/persons/p/popper/) sought a universal demarcation criterion, Feyerabend showed that the history of science consistently violates whatever criterion you set.
+Feyerabend made the case for [pluralism](/positioning/subjects/p/pluralism/) from inside the [philosophy of science](/positioning/subjects/p/philosophy-of-science/). No single method, no privileged vocabulary, no tradition that ranks above another. His theoretical pluralism — competing theories expose what a dominant one hides — showed that monopoly of ideas is as dangerous as monopoly of power. His incommensurability, developed alongside [Kuhn](/positioning/persons/k/kuhn/), showed that different frameworks carve reality differently without one being reducible to another. Where [Popper](/positioning/persons/p/popper/) sought a universal demarcation criterion, Feyerabend showed that the history of science consistently violates whatever criterion you set.
 
 [Paul Feyerabend](https://plato.stanford.edu/entries/feyerabend/) (1924–1994). Philosopher of science who argued that science has no single method — and that this is a strength, not a weakness. Wounded on the Eastern Front in WWII, he studied under [Popper](/positioning/persons/p/popper/) in London and then spent his career dismantling the very programme Popper had taught him. Against the rationalist tradition that sought universal rules for scientific inquiry, Feyerabend showed that the breakthroughs in the history of science consistently violated the methodological principles that were supposed to govern them.
 
@@ -45,4 +45,4 @@ Feyerabend tore down the methodological monopoly but — like [Rorty](/positioni
 
 ---
 
-See also: [Philosophy of science](/positioning/subjects/p/philosophy-of-science/) · [Kuhn](/positioning/persons/k/kuhn/) · [Popper](/positioning/persons/p/popper/) · [Connolly](/positioning/persons/c/connolly/)
+See also: [Philosophy of science](/positioning/subjects/p/philosophy-of-science/) · [Pluralism](/positioning/subjects/p/pluralism/) · [The dimensions of pluralism](/positioning/subjects/p/pluralism/the-dimensions/) · [Kuhn](/positioning/persons/k/kuhn/) · [Popper](/positioning/persons/p/popper/) · [Connolly](/positioning/persons/c/connolly/)

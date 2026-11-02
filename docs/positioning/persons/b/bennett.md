@@ -9,7 +9,7 @@ description: "American physicist — reversible computation, the resolution of M
 
 # Charles Bennett (1943–)
 
-Bennett showed that computation need not be thermodynamically irreversible. His 1973 proof — that any computation can be performed using only logically reversible operations — established that the fundamental thermodynamic cost of computation lies not in the computation itself but in the erasure of information: the clearing of memory, the discarding of intermediate results. The result completed the resolution of [Maxwell](/positioning/persons/m/maxwell/)'s demon paradox that [Landauer](/positioning/persons/l/landauer/) had begun, and it placed the thermodynamics of information on a rigorous footing. Bennett later became a founding figure of quantum information science, contributing to the development of quantum teleportation, quantum key distribution, and the theory of quantum error correction.
+Bennett showed that computation need not be thermodynamically irreversible. His 1973 proof — that any computation can be performed using only logically reversible operations — established that the fundamental thermodynamic cost of computation lies not in the computation itself but in the erasure of information: the clearing of memory, the discarding of intermediate results. The result completed the resolution of [Maxwell](/positioning/persons/m/maxwell/)'s demon paradox that [Landauer](/positioning/persons/l/landauer/) had begun, and it placed the [thermodynamics](/positioning/subjects/t/thermodynamics/) of information on a rigorous footing. Bennett later became a founding figure of quantum information science, contributing to the development of quantum teleportation, quantum key distribution, and the theory of quantum error correction.
 
 ---
 
@@ -71,4 +71,4 @@ BB84 and quantum teleportation are rigorously proven secure and correct given id
 
 ---
 
-See also: [Landauer](/positioning/persons/l/landauer/) · [Maxwell](/positioning/persons/m/maxwell/) · [Shannon](/positioning/persons/s/shannon/)
+See also: [Thermodynamics](/positioning/subjects/t/thermodynamics/) · [Information and Computation](/positioning/subjects/t/thermodynamics/information-and-computation/) · [Landauer](/positioning/persons/l/landauer/) · [Maxwell](/positioning/persons/m/maxwell/) · [Shannon](/positioning/persons/s/shannon/)

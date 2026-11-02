@@ -9,7 +9,7 @@ description: "German-American physicist — Landauer's principle, the thermodyna
 
 # Rolf Landauer (1927–1999)
 
-Landauer established that information is physical — that the processing and erasure of information are thermodynamic acts with irreducible energetic costs. His principle (1961): erasing one bit of information in a system at temperature T requires a minimum dissipation of k_B T ln 2 of energy, where k_B is [Boltzmann](/positioning/persons/b/boltzmann/)'s constant. The result is small (at room temperature, about 3 × 10⁻²¹ joules per bit — far below what any current technology approaches) but conceptually foundational: it connects the abstract concept of information to the physical processes of thermodynamics, and it resolved [Maxwell](/positioning/persons/m/maxwell/)'s century-old demon paradox by showing that the demon's information processing generates at least as much entropy as its sorting saves. "Information is not a disembodied abstract entity; it is always tied to a physical representation" — Landauer's formulation made information a subject of physics, not just of mathematics.
+Landauer established that information is physical — that the processing and erasure of information are thermodynamic acts with irreducible energetic costs. His principle (1961): erasing one bit of information in a system at temperature T requires a minimum dissipation of k_B T ln 2 of energy, where k_B is [Boltzmann](/positioning/persons/b/boltzmann/)'s constant. The result is small (at room temperature, about 3 × 10⁻²¹ joules per bit — far below what any current technology approaches) but conceptually foundational: it connects the abstract concept of information to the physical processes of [thermodynamics](/positioning/subjects/t/thermodynamics/), and it resolved [Maxwell](/positioning/persons/m/maxwell/)'s century-old demon paradox by showing that the demon's information processing generates at least as much entropy as its sorting saves. "Information is not a disembodied abstract entity; it is always tied to a physical representation" — Landauer's formulation made information a subject of physics, not just of mathematics.
 
 ---
 
@@ -62,4 +62,4 @@ Landauer's methodological stance — "information is physical," the insistence o
 
 ---
 
-See also: [Shannon](/positioning/persons/s/shannon/) · [Maxwell](/positioning/persons/m/maxwell/) · [Boltzmann](/positioning/persons/b/boltzmann/)
+See also: [Thermodynamics](/positioning/subjects/t/thermodynamics/) · [Information and Computation](/positioning/subjects/t/thermodynamics/information-and-computation/) · [Shannon](/positioning/persons/s/shannon/) · [Maxwell](/positioning/persons/m/maxwell/) · [Boltzmann](/positioning/persons/b/boltzmann/)

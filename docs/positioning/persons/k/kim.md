@@ -9,7 +9,7 @@ description: "Korean-American philosopher — the causal exclusion argument, sup
 
 # Jaegwon Kim (1934–2019)
 
-Kim built the argument every modern account of emergence and mental causation must answer. The causal exclusion argument runs on three commitments most philosophers of mind already held: the physical domain is causally closed (every physical effect has a sufficient physical cause); mental properties supervene on physical ones; and effects are not systematically caused twice over. From these, a dilemma: if a mental property causes anything, either its causal work is identical with that of its physical base — reduction — or the physical base does all the work and the mental property is idle — epiphenomenalism. The dominant middle position of the 1970s and 80s, non-reductive physicalism (mental properties real, irreducible, and efficacious, resting on a physical base), is squeezed out: on Kim's argument it cannot say what mental causes *do* that their bases leave undone. Three decades of the mind-body literature are structured around attempts to escape the squeeze.
+Kim built the argument every modern account of [emergence](/positioning/subjects/e/emergence/) and mental causation must answer. The causal exclusion argument runs on three commitments most philosophers of mind already held: the physical domain is causally closed (every physical effect has a sufficient physical cause); mental properties supervene on physical ones; and effects are not systematically caused twice over. From these, a dilemma: if a mental property causes anything, either its causal work is identical with that of its physical base — reduction — or the physical base does all the work and the mental property is idle — epiphenomenalism. The dominant middle position of the 1970s and 80s, non-reductive physicalism (mental properties real, irreducible, and efficacious, resting on a physical base), is squeezed out: on Kim's argument it cannot say what mental causes *do* that their bases leave undone. Three decades of the mind-body literature are structured around attempts to escape the squeeze.
 
 ---
 
@@ -49,4 +49,4 @@ The exclusion argument is stated within the layered picture it disciplines: dist
 
 ---
 
-See also: [Putnam](/positioning/persons/p/putnam/) · [Fodor](/positioning/persons/f/fodor/) · [Broad](/positioning/persons/b/broad/) · [Bedau](/positioning/persons/b/bedau/) · [Dennett](/positioning/persons/d/dennett/) · [Anderson](/positioning/persons/a/anderson/)
+See also: [Emergence](/positioning/subjects/e/emergence/) · [The Principals of the Emergence Debate](/positioning/subjects/e/emergence/the-principals/) · [Putnam](/positioning/persons/p/putnam/) · [Fodor](/positioning/persons/f/fodor/) · [Broad](/positioning/persons/b/broad/) · [Bedau](/positioning/persons/b/bedau/) · [Dennett](/positioning/persons/d/dennett/) · [Anderson](/positioning/persons/a/anderson/)

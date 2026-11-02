@@ -9,7 +9,7 @@ description: "Rancière argues that aesthetics and politics share the same groun
 
 # Jacques Rancière (b. 1940)
 
-Rancière connects aesthetics and politics at the root. The "distribution of the sensible" — the order that determines what can be seen, said, heard, and thought — is the common ground of both. Before a political argument can be heard, the speaker must be recognisable as someone capable of speech. Before art can disrupt, there must be an order to disrupt. Politics is the moment when those who have been assigned to silence demonstrate that they can speak. Aesthetics is the regime that determines what counts as speech in the first place.
+Rancière connects [aesthetics](/positioning/subjects/a/aesthetics-in-philosophy/) and politics at the root. The "distribution of the sensible" — the order that determines what can be seen, said, heard, and thought — is the common ground of both. Before a political argument can be heard, the speaker must be recognisable as someone capable of speech. Before art can disrupt, there must be an order to disrupt. Politics is the moment when those who have been assigned to silence demonstrate that they can speak. Aesthetics is the regime that determines what counts as speech in the first place.
 
 [Jacques Rancière](https://plato.stanford.edu/entries/ranciere/) (b. 1940). Born in Algiers. Studied at the École Normale Supérieure under Althusser; co-authored *Reading Capital* (1965). Broke publicly with Althusser after May 1968 — the uprising demonstrated that the masses could act without theoretical permission, exposing what Rancière saw as the conservatism embedded in Althusser's science/ideology distinction. Edited the journal *Les Révoltes logiques* (1975–1981), combining philosophy and workers' history. Emeritus Professor at the University of Paris VIII (Saint-Denis).
 
@@ -70,4 +70,4 @@ But if politics is a rare eruption that disrupts the police order, what happens 
 
 ---
 
-See also: [Schiller](/positioning/persons/s/schiller/) · [Hegel](/positioning/persons/h/hegel/) · [Marx](/positioning/persons/m/marx/) · [Latour](/positioning/persons/l/latour/)
+See also: [The standing of aesthetics in philosophy](/positioning/subjects/a/aesthetics-in-philosophy/) · [The counter-current](/positioning/subjects/a/aesthetics-in-philosophy/the-counter-current/) · [Schiller](/positioning/persons/s/schiller/) · [Hegel](/positioning/persons/h/hegel/) · [Marx](/positioning/persons/m/marx/) · [Latour](/positioning/persons/l/latour/)

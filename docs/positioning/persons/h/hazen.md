@@ -72,4 +72,4 @@ Hazen's programme stays with the geological and mineralogical layer. Mineral evo
 
 ---
 
-See also: [Assembly theory](/positioning/subjects/a/assembly-theory/) · [Cronin](/positioning/persons/c/cronin/) · [Walker](/positioning/persons/w/walker/) · [Mineral Evolution](/positioning/subjects/m/mineral-evolution/)
+See also: [Assembly theory](/positioning/subjects/a/assembly-theory/) · [Cronin](/positioning/persons/c/cronin/) · [Walker](/positioning/persons/w/walker/) · [Mineral Evolution](/positioning/subjects/m/mineral-evolution/) · [Evolution](/positioning/subjects/e/evolution/) · [Mineral Evolution: The Word](/positioning/subjects/e/evolution/mineral-evolution/) · [Mineral Evolution — The Ten Stages](/positioning/subjects/m/mineral-evolution/the-ten-stages/)

@@ -9,7 +9,7 @@ lastmod: 2026-05-15
 
 # Charles Darwin (1809–1882)
 
-Darwin was a naturalist who spent decades accumulating evidence before publishing, who described *On the Origin of Species* as "one long argument," and who followed what he called a golden rule: recording counter-evidence at once, before he could forget it. The theory of evolution by natural selection, developed across *Origin*, *The Descent of Man*, and a long sequence of monographs on orchids, climbing plants, insectivorous plants, and earthworms, is treated at the [Darwinism](/positioning/subjects/d/darwinism/) subject page. This page is about the man and his working life.
+Darwin was a naturalist who spent decades accumulating evidence before publishing, who described *On the Origin of Species* as "one long argument," and who followed what he called a golden rule: recording counter-evidence at once, before he could forget it. The theory of [evolution](/positioning/subjects/e/evolution/) by natural selection, developed across *Origin*, *The Descent of Man*, and a long sequence of monographs on orchids, climbing plants, insectivorous plants, and earthworms, is treated at the [Darwinism](/positioning/subjects/d/darwinism/) subject page. This page is about the man and his working life.
 
 ---
 
@@ -79,4 +79,4 @@ It is interesting to contemplate an entangled bank, clothed with many plants of 
 
 ---
 
-See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Mutualism](/positioning/subjects/m/mutualism/) · [Van Beneden](/positioning/persons/v/van-beneden/)
+See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Mutualism](/positioning/subjects/m/mutualism/) · [Evolution](/positioning/subjects/e/evolution/) · [Progress and Direction](/positioning/subjects/e/evolution/progress-and-direction/) · [Social Darwinism](/positioning/subjects/d/darwinism/social-darwinism/) · [Van Beneden](/positioning/persons/v/van-beneden/)

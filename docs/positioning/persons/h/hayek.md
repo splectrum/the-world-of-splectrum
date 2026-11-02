@@ -73,4 +73,4 @@ Hayek's "Why I Am Not a Conservative" (postscript to *The Constitution of Libert
 
 ---
 
-See also: [Spencer](/positioning/persons/s/spencer/) · [Ostrom](/positioning/persons/o/ostrom/) · [Kauffman](/positioning/persons/k/kauffman/)
+See also: [Evolution](/positioning/subjects/e/evolution/) · [Economic and Institutional Change](/positioning/subjects/e/evolution/economic-change/) · [Emergence](/positioning/subjects/e/emergence/) · [Emergence Under Other Names](/positioning/subjects/e/emergence/under-other-names/) · [Spencer](/positioning/persons/s/spencer/) · [Ostrom](/positioning/persons/o/ostrom/) · [Kauffman](/positioning/persons/k/kauffman/)

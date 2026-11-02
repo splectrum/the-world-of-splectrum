@@ -51,7 +51,7 @@ The central claim: natural selection is an algorithmic process — a procedure t
 
 Dennett distinguished "cranes" (explanatory devices that work from below, through mechanism) from "skyhooks" (explanatory devices that appeal to something outside the causal order — miracles, vital forces, irreducible consciousness). His programme was systematically anti-skyhook: every apparent skyhook, on examination, turns out to be a crane in disguise.
 
-The book developed [Dawkins'](/positioning/persons/d/dawkins/) concept of the meme — cultural replicators analogous to genes — into a philosophical framework. If cultural transmission involves replication, variation, and selection, then cultural change is Darwinian in the same algorithmic sense as biological evolution. Dennett acknowledged the disanalogies (cultural transmission is less faithful than genetic, the replicator-vehicle distinction is murkier) but argued that the algorithmic pattern is the load-bearing structure, not the analogy's specific details.
+The book developed [Dawkins'](/positioning/persons/d/dawkins/) concept of the meme — cultural replicators analogous to genes — into a philosophical framework. If cultural transmission involves replication, variation, and selection, then cultural change is Darwinian in the same algorithmic sense as biological [evolution](/positioning/subjects/e/evolution/). Dennett acknowledged the disanalogies (cultural transmission is less faithful than genetic, the replicator-vehicle distinction is murkier) but argued that the algorithmic pattern is the load-bearing structure, not the analogy's specific details.
 
 The extension to universal Darwinism was contested by critics from several directions. [Gould](/positioning/persons/g/gould/) — who received extended criticism in the book — objected that Dennett flattened the hierarchical structure of evolution into a gene-level algorithm. [Lewontin](/positioning/persons/l/lewontin/) argued that extending Darwinian logic beyond biology confuses mechanism with metaphor. [Dan Sperber](/positioning/persons/s/sperber/) challenged the meme concept on empirical grounds. The debate over universal Darwinism remains open.
 
@@ -83,4 +83,4 @@ Dennett's programme is deflationary and mechanistic. It takes phenomena that see
 
 ---
 
-See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Dawkins](/positioning/persons/d/dawkins/) · [Gould](/positioning/persons/g/gould/) · [Rorty](/positioning/persons/r/rorty/) · [Nagel](/positioning/persons/n/nagel/)
+See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Evolution](/positioning/subjects/e/evolution/) · [The Criterion](/positioning/subjects/e/evolution/the-criterion/) · [Dawkins](/positioning/persons/d/dawkins/) · [Gould](/positioning/persons/g/gould/) · [Rorty](/positioning/persons/r/rorty/) · [Nagel](/positioning/persons/n/nagel/)

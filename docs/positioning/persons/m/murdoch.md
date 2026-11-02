@@ -69,4 +69,4 @@ But Murdoch's framework is centred on perception; action is treated as derivativ
 
 ---
 
-See also: [Weil](https://plato.stanford.edu/entries/simone-weil/) · [Foot](/positioning/persons/f/foot/) · [Williams](/positioning/persons/w/williams-b/) · [Plato](https://plato.stanford.edu/entries/plato/)
+See also: [The standing of aesthetics in philosophy](/positioning/subjects/a/aesthetics-in-philosophy/) · [The counter-current](/positioning/subjects/a/aesthetics-in-philosophy/the-counter-current/) · [Weil](https://plato.stanford.edu/entries/simone-weil/) · [Foot](/positioning/persons/f/foot/) · [Williams](/positioning/persons/w/williams-b/) · [Plato](https://plato.stanford.edu/entries/plato/)

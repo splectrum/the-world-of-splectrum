@@ -9,7 +9,7 @@ description: "Goodman argued there is no one true description of the world — m
 
 # Nelson Goodman (1906–1998)
 
-Goodman built a rigorous case for the claim that there is no version-free world. His ways of worldmaking — worlds constructed through symbol systems, not discovered behind them — replaced truth-as-correspondence with rightness of fit. His general theory of symbol systems covered art, science, notation, and depiction — well beyond linguistics. Where [Rorty](/positioning/persons/r/rorty/) dismantled the mirror through conversation, Goodman dismantled it through construction. Both arrive at pluralism; Goodman's is more structural.
+Goodman built a rigorous case for the claim that there is no version-free world. His ways of worldmaking — worlds constructed through symbol systems, not discovered behind them — replaced truth-as-correspondence with rightness of fit. His general theory of symbol systems covered art, science, notation, and depiction — well beyond linguistics. Where [Rorty](/positioning/persons/r/rorty/) dismantled the mirror through conversation, Goodman dismantled it through construction. Both arrive at [pluralism](/positioning/subjects/p/pluralism/); Goodman's is more structural.
 
 [Nelson Goodman](https://plato.stanford.edu/entries/goodman/) (1906–1998). Harvard philosopher, art collector, and founder of Project Zero — a research group on arts education that still exists. Early collaborator with Quine (they co-authored "Steps Toward a Constructive Nominalism," 1947); where Quine moved toward naturalised epistemology, Goodman moved toward pluralism and irrealism. He argued that there is no one true description of the world — there are many, each constructed through a different symbol system. Worldmaking is not discovery of a pre-existing reality but the active construction of versions, each internally coherent but not reducible to each other.
 
@@ -44,4 +44,4 @@ Goodman's pluralism is constructive — he doesn't just tear down one world, he 
 
 ---
 
-See also: [Rorty](/positioning/persons/r/rorty/) · [Connolly](/positioning/persons/c/connolly/) · [Kuhn](/positioning/persons/k/kuhn/)
+See also: [Symbolic forms](/positioning/subjects/s/symbolic-forms/) · [Pluralism](/positioning/subjects/p/pluralism/) · [The dimensions of pluralism](/positioning/subjects/p/pluralism/the-dimensions/) · [Rorty](/positioning/persons/r/rorty/) · [Connolly](/positioning/persons/c/connolly/) · [Kuhn](/positioning/persons/k/kuhn/)

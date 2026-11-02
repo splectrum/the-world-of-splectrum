@@ -71,4 +71,4 @@ The eugenics programme raises a question that is not primarily scientific but et
 
 ---
 
-See also: [Darwin](/positioning/persons/d/darwin/) · [Fisher](/positioning/persons/f/fisher/) · [Darwinism](/positioning/subjects/d/darwinism/)
+See also: [Darwin](/positioning/persons/d/darwin/) · [Fisher](/positioning/persons/f/fisher/) · [Darwinism](/positioning/subjects/d/darwinism/) · [Social Darwinism](/positioning/subjects/d/darwinism/social-darwinism/)

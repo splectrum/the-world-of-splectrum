@@ -58,4 +58,4 @@ Husserl's phenomenology stays with the transcendental ego — a purified conscio
 
 ---
 
-See also: [Phenomenology](/positioning/subjects/p/phenomenology/) · [Heidegger](/positioning/persons/h/heidegger/) · [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) · [Gadamer](/positioning/persons/g/gadamer/)
+See also: [Phenomenology](/positioning/subjects/p/phenomenology/) · [Metaphysics](/positioning/subjects/m/metaphysics/) · [The disclosive branch](/positioning/subjects/m/metaphysics/the-disclosive-branch/) · [Cognition](/positioning/subjects/c/cognition/) · [Cognition in Core Philosophy](/positioning/subjects/c/cognition/philosophy/core/) · [Heidegger](/positioning/persons/h/heidegger/) · [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) · [Gadamer](/positioning/persons/g/gadamer/)

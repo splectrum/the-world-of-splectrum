@@ -48,4 +48,4 @@ Uexküll also turned his organicism on society. *Staatsbiologie* (1920) treated 
 
 ---
 
-See also: [Semiotics](/positioning/subjects/s/semiotics/) · [Biosemiotics](/positioning/subjects/b/biosemiotics/) · [Sebeok](/positioning/persons/s/sebeok/) · [Hoffmeyer](/positioning/persons/h/hoffmeyer/) · [Cassirer](/positioning/persons/c/cassirer/) · [Heidegger](/positioning/persons/h/heidegger/) · [Merleau-Ponty](/positioning/persons/m/merleau-ponty/)
+See also: [Semiotics](/positioning/subjects/s/semiotics/) · [Biosemiotics](/positioning/subjects/b/biosemiotics/) · [Cognition](/positioning/subjects/c/cognition/) · [Cognition as a Property of Life](/positioning/subjects/c/cognition/philosophy/biology/) · [Sebeok](/positioning/persons/s/sebeok/) · [Hoffmeyer](/positioning/persons/h/hoffmeyer/) · [Cassirer](/positioning/persons/c/cassirer/) · [Heidegger](/positioning/persons/h/heidegger/) · [Merleau-Ponty](/positioning/persons/m/merleau-ponty/)

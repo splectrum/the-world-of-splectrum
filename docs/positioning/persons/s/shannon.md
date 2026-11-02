@@ -9,7 +9,7 @@ description: "American mathematician and engineer — information theory, the bi
 
 # Claude Shannon (1916–2001)
 
-Shannon was a mathematician and electrical engineer whose "A Mathematical Theory of Communication" (1948) founded information theory — the mathematical framework for quantifying, transmitting, and processing information. The central result: information can be measured, and its measure takes the same mathematical form as thermodynamic entropy. A message is informative to the extent that it reduces uncertainty; the amount of information is quantified by the logarithm of the number of possible messages — the same structure as [Boltzmann's](/positioning/persons/b/boltzmann/) S = k log Ω. Shannon did not claim that information *is* entropy in a physical sense; he showed that the mathematics is identical. The connection between information and thermodynamics, which [Rolf Landauer](/positioning/persons/l/landauer/) later made physical, runs through Shannon's formalism.
+Shannon was a mathematician and electrical engineer whose "A Mathematical Theory of Communication" (1948) founded information theory — the mathematical framework for quantifying, transmitting, and processing information. The central result: information can be measured, and its measure takes the same mathematical form as thermodynamic [entropy](/positioning/subjects/e/entropy/). A message is informative to the extent that it reduces uncertainty; the amount of information is quantified by the logarithm of the number of possible messages — the same structure as [Boltzmann's](/positioning/persons/b/boltzmann/) S = k log Ω. Shannon did not claim that information *is* entropy in a physical sense; he showed that the mathematics is identical. The connection between information and thermodynamics, which [Rolf Landauer](/positioning/persons/l/landauer/) later made physical, runs through Shannon's formalism.
 
 ---
 
@@ -65,4 +65,4 @@ Shannon's theory is a theory of information quantity, not information meaning. T
 
 ---
 
-See also: [Thermodynamics](/positioning/subjects/t/thermodynamics/) · [Boltzmann](/positioning/persons/b/boltzmann/) · [Von Neumann](/positioning/persons/v/von-neumann/) · [Wiener](/positioning/persons/w/wiener/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/)
+See also: [Thermodynamics](/positioning/subjects/t/thermodynamics/) · [Boltzmann](/positioning/persons/b/boltzmann/) · [Von Neumann](/positioning/persons/v/von-neumann/) · [Wiener](/positioning/persons/w/wiener/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) · [Entropy](/positioning/subjects/e/entropy/)

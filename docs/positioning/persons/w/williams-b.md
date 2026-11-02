@@ -9,7 +9,7 @@ description: "British philosopher — the critique of moral theory, internal rea
 
 # Bernard Williams (1929–2003)
 
-Williams was the most persistent and incisive critic of systematic moral philosophy in the twentieth century. His target was the ambition — shared by utilitarianism, Kantianism, and neo-Aristotelian virtue ethics — to derive moral conclusions from a single principle or framework. Against this ambition, Williams argued that the ethical life is thicker, more particular, and less systematisable than moral theory allows: it involves personal commitments ("ground projects") that cannot be overridden by impartial calculation, forms of moral luck that no theory accounts for, and a relationship between reasons and motivation that makes "external" moral demands — demands not connected to the agent's existing motivational set — incoherent. The arguments are destructive rather than constructive: Williams offered no systematic alternative, holding that the demand for a system is itself the problem.
+Williams was the most persistent and incisive critic of systematic moral philosophy in the twentieth century. His target was the ambition — shared by utilitarianism, Kantianism, and neo-Aristotelian virtue [ethics](/positioning/subjects/e/ethics/) — to derive moral conclusions from a single principle or framework. Against this ambition, Williams argued that the ethical life is thicker, more particular, and less systematisable than moral theory allows: it involves personal commitments ("ground projects") that cannot be overridden by impartial calculation, forms of moral luck that no theory accounts for, and a relationship between reasons and motivation that makes "external" moral demands — demands not connected to the agent's existing motivational set — incoherent. The arguments are destructive rather than constructive: Williams offered no systematic alternative, holding that the demand for a system is itself the problem.
 
 ---
 
@@ -85,4 +85,4 @@ The critique of the ergon argument — that there is no human function — is th
 
 ---
 
-See also: [Aristotle](/positioning/persons/a/aristotle/) · [Foot](/positioning/persons/f/foot/) · [Nagel](/positioning/persons/n/nagel/) · [MacIntyre](/positioning/persons/m/macintyre/) · [Blackburn](/positioning/persons/b/blackburn/)
+See also: [Ethics](/positioning/subjects/e/ethics/) · [Aristotle](/positioning/persons/a/aristotle/) · [Foot](/positioning/persons/f/foot/) · [Nagel](/positioning/persons/n/nagel/) · [MacIntyre](/positioning/persons/m/macintyre/) · [Blackburn](/positioning/persons/b/blackburn/)

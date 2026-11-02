@@ -31,7 +31,7 @@ Haldane's mathematical contributions to population genetics were published prima
 
 Where Fisher's approach was synthetic (the fundamental theorem, the overall architecture of selection in large populations) and Wright's was structural (population subdivision, drift, the adaptive landscape), Haldane's was case-by-case: he worked through specific genetic scenarios with specific mathematics, producing results that could be directly compared with experimental and field data. *The Causes of Evolution* (1932) gathered the main results into a book-length treatment, with an appendix that remains one of the clearest introductions to the mathematics.
 
-**Haldane's dilemma.** "The cost of natural selection" (1957) formalised the concept of substitutional load — the number of selective deaths needed to replace one allele with another in a population. Haldane calculated that natural selection can fix only a limited number of alleles per generation, implying a limit on the rate of adaptive evolution. The concept became known as Haldane's dilemma and contributed to the plausibility of [Kimura's](/positioning/persons/k/kimura/) neutral theory (1968) — if selection cannot account for all observed molecular substitutions, many of them may be selectively neutral.
+**Haldane's dilemma.** "The cost of natural selection" (1957) formalised the concept of substitutional load — the number of selective deaths needed to replace one allele with another in a population. Haldane calculated that natural selection can fix only a limited number of alleles per generation, implying a limit on the rate of adaptive [evolution](/positioning/subjects/e/evolution/). The concept became known as Haldane's dilemma and contributed to the plausibility of [Kimura's](/positioning/persons/k/kimura/) neutral theory (1968) — if selection cannot account for all observed molecular substitutions, many of them may be selectively neutral.
 
 ---
 
@@ -77,4 +77,4 @@ Haldane's programme is mathematical and case-specific. He worked through the gen
 
 ---
 
-See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Fisher](/positioning/persons/f/fisher/) · [Wright](/positioning/persons/w/wright/) · [Dobzhansky](/positioning/persons/d/dobzhansky/) · [Maynard Smith](/positioning/persons/m/maynard-smith/)
+See also: [Darwinism](/positioning/subjects/d/darwinism/) · [The Integration with Genetics](/positioning/subjects/d/darwinism/integration-with-genetics/) · [Evolution](/positioning/subjects/e/evolution/) · [Chemical Evolution](/positioning/subjects/e/evolution/chemical-evolution/) · [Fisher](/positioning/persons/f/fisher/) · [Wright](/positioning/persons/w/wright/) · [Dobzhansky](/positioning/persons/d/dobzhansky/) · [Maynard Smith](/positioning/persons/m/maynard-smith/)

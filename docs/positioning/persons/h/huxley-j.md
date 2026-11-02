@@ -76,4 +76,4 @@ The eugenics advocacy remains the most contested element. Huxley's "reform eugen
 
 ---
 
-See also: [Huxley (T.H.)](/positioning/persons/h/huxley/) · [Dobzhansky](/positioning/persons/d/dobzhansky/) · [Mayr](/positioning/persons/m/mayr/) · [Darwinism](/positioning/subjects/d/darwinism/)
+See also: [Huxley (T.H.)](/positioning/persons/h/huxley/) · [Dobzhansky](/positioning/persons/d/dobzhansky/) · [Mayr](/positioning/persons/m/mayr/) · [Darwinism](/positioning/subjects/d/darwinism/) · [Evolution](/positioning/subjects/e/evolution/) · [Evolution in Metaphysics](/positioning/subjects/e/evolution/metaphysics/)

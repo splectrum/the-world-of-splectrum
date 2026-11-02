@@ -39,7 +39,7 @@ Taylor calls this the "HHH" tradition — Hamann, Herder, Humboldt — and contr
 
 ## The communitarian critique
 
-Taylor is one of the principal communitarian critics of liberal political philosophy, alongside [Sandel](https://plato.stanford.edu/entries/communitarianism/), [MacIntyre](/positioning/persons/m/macintyre/), and Michael Walzer. The critique targets the liberal conception of the self as "unencumbered" — a self that exists prior to its values and attachments, capable of stepping back from any commitment and choosing freely. Taylor argues this gets the relationship backwards: the self is constituted by its commitments, its community's languages, its moral frameworks. You cannot step behind them and choose, because without them there is no "you" to do the choosing.
+Taylor is one of the principal communitarian critics of liberal [political philosophy](/positioning/subjects/p/political-philosophy/), alongside [Sandel](https://plato.stanford.edu/entries/communitarianism/), [MacIntyre](/positioning/persons/m/macintyre/), and Michael Walzer. The critique targets the liberal conception of the self as "unencumbered" — a self that exists prior to its values and attachments, capable of stepping back from any commitment and choosing freely. Taylor argues this gets the relationship backwards: the self is constituted by its commitments, its community's languages, its moral frameworks. You cannot step behind them and choose, because without them there is no "you" to do the choosing.
 
 The practical consequence: politics cannot be merely procedural (neutral rules for individuals to pursue their own goods). It must engage with the substantive visions of the good that communities carry — otherwise it is not neutral but covertly committed to an atomistic conception of the self.
 
@@ -73,4 +73,4 @@ The philosophy of language — expression as constitutive, not instrumental — 
 
 ---
 
-See also: [MacIntyre](/positioning/persons/m/macintyre/) · [Berlin](/positioning/persons/b/berlin/) · [Hegel](/positioning/persons/h/hegel/) · [Gadamer](/positioning/persons/g/gadamer/)
+See also: [Political philosophy](/positioning/subjects/p/political-philosophy/) · [MacIntyre](/positioning/persons/m/macintyre/) · [Berlin](/positioning/persons/b/berlin/) · [Hegel](/positioning/persons/h/hegel/) · [Gadamer](/positioning/persons/g/gadamer/)

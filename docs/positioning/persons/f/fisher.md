@@ -76,4 +76,4 @@ Fisher's programme is mathematical and populational. It works at the level of ge
 
 ---
 
-See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Darwin](/positioning/persons/d/darwin/) · [Mayr](/positioning/persons/m/mayr/) · [Dawkins](/positioning/persons/d/dawkins/)
+See also: [Darwinism](/positioning/subjects/d/darwinism/) · [The Integration with Genetics](/positioning/subjects/d/darwinism/integration-with-genetics/) · [Darwin](/positioning/persons/d/darwin/) · [Mayr](/positioning/persons/m/mayr/) · [Dawkins](/positioning/persons/d/dawkins/)

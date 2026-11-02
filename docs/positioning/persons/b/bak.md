@@ -61,4 +61,4 @@ Bak's programme gives a mechanism — local rules driving a system to criticalit
 
 ---
 
-See also: [Kauffman](/positioning/persons/k/kauffman/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/)
+See also: [Kauffman](/positioning/persons/k/kauffman/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) · [Emergence](/positioning/subjects/e/emergence/) · [Emergence Under Other Names](/positioning/subjects/e/emergence/under-other-names/) · [Phase Transitions](/positioning/subjects/p/phase-transitions/)

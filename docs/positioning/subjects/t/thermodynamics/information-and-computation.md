@@ -47,7 +47,7 @@ The standard anthology is Harvey Leff and Andrew Rex's *Maxwell's Demon 2* (2003
 
 A distinct field has grown from the same root, and the distinction is worth keeping. Information thermodynamics in the sense above concerns single bits and single demons. The thermodynamics of computation concerns the entropic costs of *computational structures* — circuits, logically reversible circuits, information ratchets, Turing machines.
 
-David Wolpert's "The stochastic thermodynamics of computation" (2019) is the field's programmatic statement, and makes a historical point about why it changed: the pre-2000 thermodynamics of computation was built on equilibrium statistical mechanics because that was the tool available, while the questions were about processes far from equilibrium. Stochastic thermodynamics supplied the machinery the subject had needed all along.
+[David Wolpert](/positioning/persons/w/wolpert/)'s "The stochastic thermodynamics of computation" (2019) is the field's programmatic statement, and makes a historical point about why it changed: the pre-2000 thermodynamics of computation was built on equilibrium statistical mechanics because that was the tool available, while the questions were about processes far from equilibrium. Stochastic thermodynamics supplied the machinery the subject had needed all along.
 
 ---
 

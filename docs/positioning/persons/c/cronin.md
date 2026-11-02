@@ -43,7 +43,7 @@ Co-developed with [Sara Walker](/positioning/persons/w/walker/) from 2017 onward
 
 Cronin's contribution to assembly theory comes from the chemistry side: the observation that complex molecules cannot just emerge into existence because the combinatorial space of possible constructions is too vast, and the development of the assembly index as a measurable quantity — computable from molecular structure and experimentally accessible via mass spectrometry. The empirical apparatus — measuring molecular complexity through fragmentation patterns — grows directly from his laboratory's capabilities in analytical chemistry.
 
-The collaboration with Walker extended the framework beyond a measurement tool for molecular complexity into a proposed account of selection, evolution, and time. Walker brought the broader metaphysical ambition that extended assembly theory from a measurement tool into a proposed account of time and complexity; Cronin co-signs the full reach — the 2023 *Nature* paper, the Aeon essay, and the unification framing are joint work. The chemical grounding and the empirical programme are Cronin's distinctive contribution.
+The collaboration with Walker extended the framework beyond a measurement tool for molecular complexity into a proposed account of selection, [evolution](/positioning/subjects/e/evolution/), and time. Walker brought the broader metaphysical ambition that extended assembly theory from a measurement tool into a proposed account of time and complexity; Cronin co-signs the full reach — the 2023 *Nature* paper, the Aeon essay, and the unification framing are joint work. The chemical grounding and the empirical programme are Cronin's distinctive contribution.
 
 ---
 
@@ -64,4 +64,4 @@ Cronin's work is grounded in chemistry — in making, measuring, and automating 
 
 ---
 
-See also: [Assembly theory](/positioning/subjects/a/assembly-theory/) · [Walker](/positioning/persons/w/walker/) · [Hazen](/positioning/persons/h/hazen/) · [Kauffman](/positioning/persons/k/kauffman/)
+See also: [Assembly theory](/positioning/subjects/a/assembly-theory/) · [Assembly Theory — Development](/positioning/subjects/a/assembly-theory/development/) · [Evolution](/positioning/subjects/e/evolution/) · [Chemical Evolution](/positioning/subjects/e/evolution/chemical-evolution/) · [Walker](/positioning/persons/w/walker/) · [Hazen](/positioning/persons/h/hazen/) · [Kauffman](/positioning/persons/k/kauffman/)

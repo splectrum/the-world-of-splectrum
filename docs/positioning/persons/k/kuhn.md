@@ -46,4 +46,4 @@ Kuhn showed that paradigm shifts transform the world scientists inhabit — but 
 
 ---
 
-See also: [Philosophy of science](/positioning/subjects/p/philosophy-of-science/) · [Popper](/positioning/persons/p/popper/) · [Feyerabend](/positioning/persons/f/feyerabend/) · [Wittgenstein](/positioning/persons/w/wittgenstein/)
+See also: [Philosophy of science](/positioning/subjects/p/philosophy-of-science/) · [Evolution](/positioning/subjects/e/evolution/) · [Science and Knowledge](/positioning/subjects/e/evolution/science-and-knowledge/) · [Pluralism](/positioning/subjects/p/pluralism/) · [The dimensions of pluralism](/positioning/subjects/p/pluralism/the-dimensions/) · [Popper](/positioning/persons/p/popper/) · [Feyerabend](/positioning/persons/f/feyerabend/) · [Wittgenstein](/positioning/persons/w/wittgenstein/)

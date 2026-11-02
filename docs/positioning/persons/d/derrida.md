@@ -33,7 +33,7 @@ Derrida reads the Western philosophical tradition as structured by what he calls
 
 Derrida argues that the features attributed to writing — iterability (a sign can be repeated in new contexts), the absence of the author, the possibility of misunderstanding — are not defects of writing but conditions of all language, including speech. If a word could not be repeated beyond its original context, it would not be a word. The "writerly" features philosophy pushes to the margins are the conditions of the language it uses to push them there.
 
-Derrida does not announce the end of this metaphysics. In *Of Grammatology* (1967) the epoch is one "of which we merely glimpse the closure. I do not say the end" (Spivak's translation). "The age of the sign is essentially theological. Perhaps it will never end. Its historical closure is, however, outlined." What closes is a historical epoch of metaphysics, and the reading goes on working inside it.
+Derrida does not announce the end of this [metaphysics](/positioning/subjects/m/metaphysics/). In *Of Grammatology* (1967) the epoch is one "of which we merely glimpse the closure. I do not say the end" (Spivak's translation). "The age of the sign is essentially theological. Perhaps it will never end. Its historical closure is, however, outlined." What closes is a historical epoch of metaphysics, and the reading goes on working inside it.
 
 ---
 
@@ -83,4 +83,4 @@ The relationship to politics is the other persistent question. Deconstruction ca
 
 ---
 
-See also: [Saussure](/positioning/persons/s/saussure/) · [Deleuze](/positioning/persons/d/deleuze/) · [Lyotard](/positioning/persons/l/lyotard/) · [Rorty](/positioning/persons/r/rorty/) · [Husserl](/positioning/persons/h/husserl/)
+See also: [Metaphysics](/positioning/subjects/m/metaphysics/) · [The genealogical branch](/positioning/subjects/m/metaphysics/the-genealogical-branch/) · [Translation Theory](/positioning/subjects/t/translation-theory/) · [Hermeneutics](/positioning/subjects/h/hermeneutics/) · [Hermeneutics: the ontological turn and the disputes](/positioning/subjects/h/hermeneutics/the-ontological-turn/) · [Saussure](/positioning/persons/s/saussure/) · [Deleuze](/positioning/persons/d/deleuze/) · [Lyotard](/positioning/persons/l/lyotard/) · [Rorty](/positioning/persons/r/rorty/) · [Husserl](/positioning/persons/h/husserl/)

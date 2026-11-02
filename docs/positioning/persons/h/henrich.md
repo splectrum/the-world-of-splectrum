@@ -17,7 +17,7 @@ Henrich argued that what makes humans ecologically dominant is not individual in
 
 Born 1968 in Abbotsford, British Columbia, Canada. Undergraduate at the University of Notre Dame. PhD in anthropology at UCLA (1999), under Robert Boyd — extending the Boyd-Richerson programme into empirical fieldwork and cross-cultural experimental economics. Postdoctoral work at Emory University. Professor of psychology and economics at the University of British Columbia (2006–2020). Professor of human evolutionary biology at Harvard (2020–), where he chairs the Department of Human Evolutionary Biology.
 
-Henrich's distinctive methodological contribution is the combination of formal cultural-evolution theory with large-scale cross-cultural experiments. His fieldwork spans fifteen societies across five continents — from Machiguenga horticulturalists in Peru to Mapuche farmers in Chile to Hadza foragers in Tanzania — testing economic-game behaviour (ultimatum games, dictator games, public-goods games) across populations with radically different social structures. The cross-cultural experimental programme has been one of the most productive empirical research streams in cultural evolution.
+Henrich's distinctive methodological contribution is the combination of formal cultural-[evolution](/positioning/subjects/e/evolution/) theory with large-scale cross-cultural experiments. His fieldwork spans fifteen societies across five continents — from Machiguenga horticulturalists in Peru to Mapuche farmers in Chile to Hadza foragers in Tanzania — testing economic-game behaviour (ultimatum games, dictator games, public-goods games) across populations with radically different social structures. The cross-cultural experimental programme has been one of the most productive empirical research streams in cultural evolution.
 
 ---
 
@@ -58,4 +58,4 @@ The cross-cultural experimental programme, while more extensive than any predece
 
 ---
 
-See also: [Boyd](/positioning/persons/b/boyd/) · [Richerson](/positioning/persons/r/richerson/) · [Pinker](/positioning/persons/p/pinker/) · [Darwinism](/positioning/subjects/d/darwinism/)
+See also: [Boyd](/positioning/persons/b/boyd/) · [Richerson](/positioning/persons/r/richerson/) · [Pinker](/positioning/persons/p/pinker/) · [Darwinism](/positioning/subjects/d/darwinism/) · [Evolution](/positioning/subjects/e/evolution/) · [Cultural Evolution](/positioning/subjects/e/evolution/cultural-evolution/)

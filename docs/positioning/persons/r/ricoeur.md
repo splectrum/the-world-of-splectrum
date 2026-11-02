@@ -9,7 +9,7 @@ description: "French philosopher — hermeneutics of the self, the rule of metap
 
 # Paul Ricoeur (1913–2005)
 
-Ricoeur's philosophy is a hermeneutics of the self that takes the long route — through language, symbol, metaphor, narrative, and action — rather than claiming direct access to what the self is. The self is not transparent to itself; it is disclosed through detours. Metaphor is not ornament but "an event of thought" that redescribes reality. Narrative is not a literary device applied after the fact but the form through which temporal existence becomes intelligible — we understand who we are by telling and retelling the stories of our lives. The result is a philosophical anthropology of the "capable human being" (*l'homme capable*) — a self that can speak, act, narrate, and take responsibility, but that reaches itself only through mediation, never directly.
+Ricoeur's philosophy is a [hermeneutics](/positioning/subjects/h/hermeneutics/) of the self that takes the long route — through language, symbol, metaphor, narrative, and action — rather than claiming direct access to what the self is. The self is not transparent to itself; it is disclosed through detours. Metaphor is not ornament but "an event of thought" that redescribes reality. Narrative is not a literary device applied after the fact but the form through which temporal existence becomes intelligible — we understand who we are by telling and retelling the stories of our lives. The result is a philosophical anthropology of the "capable human being" (*l'homme capable*) — a self that can speak, act, narrate, and take responsibility, but that reaches itself only through mediation, never directly.
 
 ## Life
 
@@ -80,4 +80,4 @@ The relationship to Levinas marks the other boundary. Ricoeur takes seriously Le
 
 ---
 
-See also: [Levinas](/positioning/persons/l/levinas/) · [Gadamer](/positioning/persons/g/gadamer/) · [Husserl](/positioning/persons/h/husserl/) · [Heidegger](/positioning/persons/h/heidegger/)
+See also: [Hermeneutics](/positioning/subjects/h/hermeneutics/) · [Hermeneutics: the ontological turn and the disputes](/positioning/subjects/h/hermeneutics/the-ontological-turn/) · [Translation Theory](/positioning/subjects/t/translation-theory/) · [Psychoanalysis](/positioning/subjects/p/psychoanalysis/) · [Philosophy of History](/positioning/subjects/p/philosophy-of-history/) · [Levinas](/positioning/persons/l/levinas/) · [Gadamer](/positioning/persons/g/gadamer/) · [Husserl](/positioning/persons/h/husserl/) · [Heidegger](/positioning/persons/h/heidegger/)

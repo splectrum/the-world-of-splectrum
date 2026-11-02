@@ -73,4 +73,4 @@ Kauffman's programme describes the conditions under which order arises spontaneo
 
 ---
 
-See also: [Solé](/positioning/persons/s/sole/) · [Mutualism](/positioning/subjects/m/mutualism/) · [Maturana](/positioning/persons/m/maturana/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) · [Assembly Theory](/positioning/subjects/a/assembly-theory/)
+See also: [Solé](/positioning/persons/s/sole/) · [Mutualism](/positioning/subjects/m/mutualism/) · [Maturana](/positioning/persons/m/maturana/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) · [Assembly Theory](/positioning/subjects/a/assembly-theory/) · [CAS — Formation and roots](/positioning/subjects/c/complex-adaptive-systems/formation-and-roots/) · [Evolution](/positioning/subjects/e/evolution/) · [Chemical Evolution](/positioning/subjects/e/evolution/chemical-evolution/)

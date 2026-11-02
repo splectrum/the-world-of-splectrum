@@ -49,7 +49,7 @@ The *npj Complexity* (2025) paper is the formal response to the AIT critique. Th
 
 ## Adjacent support
 
-The TAP (Theory of the Adjacent Possible) collaboration with Stuart Kauffman, Lee Smolin, and Marina Cortês extends assembly theory's framework into broader complexity-science and cosmological territory rather than directly defending it against specific critiques. The collaboration connects assembly theory's path-dependent construction-history framework to broader questions about how novelty enters cosmological and biological history. See [Extensions](/positioning/subjects/a/assembly-theory/extensions/) for the TAP framework.
+The TAP (Theory of the Adjacent Possible) collaboration with [Stuart Kauffman](/positioning/persons/k/kauffman/), [Lee Smolin](/positioning/persons/s/smolin/), and Marina Cortês extends assembly theory's framework into broader complexity-science and cosmological territory rather than directly defending it against specific critiques. The collaboration connects assembly theory's path-dependent construction-history framework to broader questions about how novelty enters cosmological and biological history. See [Extensions](/positioning/subjects/a/assembly-theory/extensions/) for the TAP framework.
 
 ---
 

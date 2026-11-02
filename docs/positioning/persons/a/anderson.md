@@ -9,7 +9,7 @@ description: "American physicist — 'More is Different', emergence, Anderson lo
 
 # Philip Anderson (1923–2020)
 
-Anderson argued that the laws of physics at each level of complexity are genuinely new — not derivable from the level below, even in principle. "More Is Different" (1972), a two-page paper in *Science*, is the founding statement of modern emergence: "The ability to reduce everything to simple fundamental laws does not imply the ability to start from those laws and reconstruct the universe." The claim is not that higher-level phenomena violate lower-level laws, but that they cannot be predicted from them — that at each scale of organisation, new regularities, new symmetries, and new organising principles appear. Anderson's technical work in condensed-matter physics — Anderson localisation, the theory of symmetry breaking, the Anderson model of magnetic impurities — provided the concrete cases from which the philosophical claim was drawn. He was also a co-founder of the Santa Fe Institute, where the emergence programme extended beyond physics into biology, economics, and the social sciences.
+Anderson argued that the laws of physics at each level of complexity are genuinely new — not derivable from the level below, even in principle. "More Is Different" (1972), a two-page paper in *Science*, is the founding statement of modern [emergence](/positioning/subjects/e/emergence/): "The ability to reduce everything to simple fundamental laws does not imply the ability to start from those laws and reconstruct the universe." The claim is not that higher-level phenomena violate lower-level laws, but that they cannot be predicted from them — that at each scale of organisation, new regularities, new symmetries, and new organising principles appear. Anderson's technical work in condensed-matter physics — Anderson localisation, the theory of symmetry breaking, the Anderson model of magnetic impurities — provided the concrete cases from which the philosophical claim was drawn. He was also a co-founder of the Santa Fe Institute, where the emergence programme extended beyond physics into biology, economics, and the social sciences.
 
 ---
 
@@ -65,4 +65,4 @@ Anderson's anti-hierarchical stance — that condensed-matter physics is not "ap
 
 ---
 
-See also: [Gell-Mann](/positioning/persons/g/gell-mann/) · [Boltzmann](/positioning/persons/b/boltzmann/) · [Kauffman](/positioning/persons/k/kauffman/)
+See also: [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) · [CAS — Adjacent traditions](/positioning/subjects/c/complex-adaptive-systems/adjacent-traditions/) · [Emergence](/positioning/subjects/e/emergence/) · [Emergence — Relation with Mechanism](/positioning/subjects/e/emergence/relation-with-mechanism/) · [Phase Transitions](/positioning/subjects/p/phase-transitions/) · [Gell-Mann](/positioning/persons/g/gell-mann/) · [Boltzmann](/positioning/persons/b/boltzmann/) · [Kauffman](/positioning/persons/k/kauffman/)

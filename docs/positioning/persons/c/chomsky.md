@@ -68,4 +68,4 @@ Chomsky is foundational and contested in equal measure. Within linguistics, the 
 
 ---
 
-See also: [Nativism](/positioning/subjects/n/nativism/) · [Skinner](/positioning/persons/s/skinner/) · [Behaviourism](/positioning/subjects/b/behaviourism/) · [Tomasello](/positioning/persons/t/tomasello/) · [Quine](/positioning/persons/q/quine/) · [Descartes](/positioning/persons/d/descartes/) · [Dennett](/positioning/persons/d/dennett/)
+See also: [Nativism](/positioning/subjects/n/nativism/) · [Skinner](/positioning/persons/s/skinner/) · [Behaviourism](/positioning/subjects/b/behaviourism/) · [Developmental Psychology](/positioning/subjects/d/developmental-psychology/) · [Tomasello](/positioning/persons/t/tomasello/) · [Quine](/positioning/persons/q/quine/) · [Descartes](/positioning/persons/d/descartes/) · [Dennett](/positioning/persons/d/dennett/)

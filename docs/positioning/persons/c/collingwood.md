@@ -11,7 +11,7 @@ description: "Collingwood identified art with expression and language with art �
 
 Collingwood made expression the foundation of conscious life. Art is not imitation, not craft, not amusement — it is the process by which confused feeling becomes articulate. "Language and art become interchangeable" because both are the same activity: the act of making emotion lucid and intelligible. When expression fails — when a person disowns what they feel — consciousness becomes corrupt. Art is the community's medicine for this corruption.
 
-[R. G. Collingwood](https://plato.stanford.edu/entries/collingwood/) (1889–1943). Philosopher, historian, archaeologist. Born in Cartmel Fell, Lancashire, son of the painter and antiquary W. G. Collingwood (John Ruskin's secretary). Educated at Rugby and University College Oxford; Fellow of Pembroke College from 1912. Spent summers directing excavations of Roman sites in northern England — *The Archaeology of Roman Britain* (1930) and contributions to *Roman Britain and the English Settlements* (1936). The archaeological work was not a hobby alongside philosophy; it was the laboratory in which his philosophy of history was forged. Waynflete Professor of Metaphysical Philosophy at Oxford from 1935. A series of strokes from 1938 left him increasingly debilitated; he died at fifty-three.
+[R. G. Collingwood](https://plato.stanford.edu/entries/collingwood/) (1889–1943). Philosopher, historian, archaeologist. Born in Cartmel Fell, Lancashire, son of the painter and antiquary W. G. Collingwood (John Ruskin's secretary). Educated at Rugby and University College Oxford; Fellow of Pembroke College from 1912. Spent summers directing excavations of Roman sites in northern England — *The Archaeology of Roman Britain* (1930) and contributions to *Roman Britain and the English Settlements* (1936). The archaeological work was not a hobby alongside philosophy; it was the laboratory in which his [philosophy of history](/positioning/subjects/p/philosophy-of-history/) was forged. Waynflete Professor of Metaphysical Philosophy at Oxford from 1935. A series of strokes from 1938 left him increasingly debilitated; he died at fifty-three.
 
 ---
 
@@ -55,7 +55,7 @@ Collingwood made expression the foundation of conscious life. Art is not imitati
 
 ## Where Collingwood stops
 
-The expression theory illuminates the phenomenology of artistic creation — why artists report not knowing what they are making until the work reveals it, why technique alone does not produce art, why the same form can be art or entertainment depending on the process that generated it. Corrupt consciousness gives an account of cultural pathology that connects aesthetics, ethics, and politics without reducing one to another.
+The expression theory illuminates the phenomenology of artistic creation — why artists report not knowing what they are making until the work reveals it, why technique alone does not produce art, why the same form can be art or entertainment depending on the process that generated it. Corrupt consciousness gives an account of cultural pathology that connects [aesthetics](/positioning/subjects/a/aesthetics-in-philosophy/), ethics, and politics without reducing one to another.
 
 But Collingwood concedes the medium is practically necessary while maintaining it is theoretically dispensable. Whether that concession reveals something the theory cannot accommodate remains an open question. And the mechanism of expression remains individual consciousness raising its own feelings to clarity — the social dimension is added to the account rather than built into it.
 
@@ -74,4 +74,4 @@ But Collingwood concedes the medium is practically necessary while maintaining i
 
 ---
 
-See also: [Croce](/positioning/persons/c/croce/) · [Hegel](/positioning/persons/h/hegel/) · [Dewey](/positioning/persons/d/dewey/)
+See also: [The standing of aesthetics in philosophy](/positioning/subjects/a/aesthetics-in-philosophy/) · [The counter-current](/positioning/subjects/a/aesthetics-in-philosophy/the-counter-current/) · [Philosophy of History](/positioning/subjects/p/philosophy-of-history/) · [Croce](/positioning/persons/c/croce/) · [Hegel](/positioning/persons/h/hegel/) · [Dewey](/positioning/persons/d/dewey/)

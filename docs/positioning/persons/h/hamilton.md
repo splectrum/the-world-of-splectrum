@@ -68,4 +68,4 @@ Hamilton's programme is gene-centric and theoretical. It works at the level of a
 
 ---
 
-See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Trivers](/positioning/persons/t/trivers/) · [Dawkins](/positioning/persons/d/dawkins/) · [Wilson](/positioning/persons/w/wilson/) · [Maynard Smith](/positioning/persons/m/maynard-smith/)
+See also: [Darwinism](/positioning/subjects/d/darwinism/) · [After the Synthesis](/positioning/subjects/d/darwinism/after-the-synthesis/) · [Trivers](/positioning/persons/t/trivers/) · [Dawkins](/positioning/persons/d/dawkins/) · [Wilson](/positioning/persons/w/wilson/) · [Maynard Smith](/positioning/persons/m/maynard-smith/)

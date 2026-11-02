@@ -65,4 +65,4 @@ Veblen's prose style — ironic, circuitous, mock-solemn — is itself a barrier
 
 ---
 
-See also: [Spencer](/positioning/persons/s/spencer/) · [Arthur](/positioning/persons/a/arthur/) · [Darwin](/positioning/persons/d/darwin/) · [Darwinism](/positioning/subjects/d/darwinism/)
+See also: [Spencer](/positioning/persons/s/spencer/) · [Arthur](/positioning/persons/a/arthur/) · [Darwin](/positioning/persons/d/darwin/) · [Darwinism](/positioning/subjects/d/darwinism/) · [Evolution](/positioning/subjects/e/evolution/) · [Economic and Institutional Change](/positioning/subjects/e/evolution/economic-change/)

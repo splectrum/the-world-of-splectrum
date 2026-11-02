@@ -62,4 +62,4 @@ Holland's programme gives CAS its micro-level — the adaptive agent with intern
 
 ---
 
-See also: [Kauffman](/positioning/persons/k/kauffman/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) · [Evolutionary computation](/positioning/subjects/e/evolution/evolutionary-computation/)
+See also: [Kauffman](/positioning/persons/k/kauffman/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) · [Evolutionary computation](/positioning/subjects/e/evolution/evolutionary-computation/) · [CAS — Formation and roots](/positioning/subjects/c/complex-adaptive-systems/formation-and-roots/)

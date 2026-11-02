@@ -33,7 +33,7 @@ James made relations real. His radical empiricism — the insistence that relati
 
 ## Where James stops
 
-James kept pragmatism personal. Truth is what works *for me*, what helps *me* live. The social dimension — how a community converges on shared truth — was left to Dewey. The structural question — what it means for language itself to be the medium of that convergence — was left further still. His pluralism opens the door; his individualism means the relational and the shared need other sources.
+James kept pragmatism personal. Truth is what works *for me*, what helps *me* live. The social dimension — how a community converges on shared truth — was left to Dewey. The structural question — what it means for language itself to be the medium of that convergence — was left further still. His [pluralism](/positioning/subjects/p/pluralism/) opens the door; his individualism means the relational and the shared need other sources.
 
 ---
 
@@ -47,4 +47,4 @@ James kept pragmatism personal. Truth is what works *for me*, what helps *me* li
 
 ---
 
-See also: [Pragmatism](/positioning/subjects/p/pragmatism/) · [Peirce](/positioning/persons/p/peirce/) · [Dewey](/positioning/persons/d/dewey/) · [Connolly](/positioning/persons/c/connolly/) · [Process philosophy](/positioning/subjects/p/process-philosophy/)
+See also: [Pragmatism](/positioning/subjects/p/pragmatism/) · [Peirce](/positioning/persons/p/peirce/) · [Dewey](/positioning/persons/d/dewey/) · [Connolly](/positioning/persons/c/connolly/) · [Process philosophy](/positioning/subjects/p/process-philosophy/) · [Pluralism](/positioning/subjects/p/pluralism/) · [The dimensions of pluralism](/positioning/subjects/p/pluralism/the-dimensions/) · [Cognition](/positioning/subjects/c/cognition/) · [Cognition in Core Philosophy](/positioning/subjects/c/cognition/philosophy/core/) · [Metaphysics](/positioning/subjects/m/metaphysics/) · [The deflationary branch](/positioning/subjects/m/metaphysics/the-deflationary-branch/)

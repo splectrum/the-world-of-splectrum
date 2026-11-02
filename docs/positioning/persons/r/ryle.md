@@ -57,4 +57,4 @@ Ryle's standing rests on several things at once: the reshaping of philosophy of 
 
 ---
 
-See also: [Descartes](/positioning/persons/d/descartes/) · [Wittgenstein](/positioning/persons/w/wittgenstein/) · [Austin](/positioning/persons/a/austin-jl/) · [Dennett](/positioning/persons/d/dennett/) · [Carnap](/positioning/persons/c/carnap/) · [Putnam](/positioning/persons/p/putnam/) · [Behaviourism](/positioning/subjects/b/behaviourism/)
+See also: [Descartes](/positioning/persons/d/descartes/) · [Wittgenstein](/positioning/persons/w/wittgenstein/) · [Austin](/positioning/persons/a/austin-jl/) · [Dennett](/positioning/persons/d/dennett/) · [Carnap](/positioning/persons/c/carnap/) · [Putnam](/positioning/persons/p/putnam/) · [Behaviourism](/positioning/subjects/b/behaviourism/) · [Cognition](/positioning/subjects/c/cognition/) · [Cognition in Core Philosophy](/positioning/subjects/c/cognition/philosophy/core/)

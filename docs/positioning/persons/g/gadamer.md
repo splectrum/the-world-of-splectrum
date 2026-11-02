@@ -9,7 +9,7 @@ description: "Gadamer argued that all understanding is historically situated —
 
 # Hans-Georg Gadamer (1900–2002)
 
-Gadamer made the case that understanding is never neutral — it is always already shaped by what came before. His philosophical hermeneutics turned the Enlightenment's suspicion of prejudice on its head: what we carry forward from tradition is not an obstacle to knowledge but its precondition. Understanding is historical all the way down.
+Gadamer made the case that understanding is never neutral — it is always already shaped by what came before. His philosophical [hermeneutics](/positioning/subjects/h/hermeneutics/) turned the Enlightenment's suspicion of prejudice on its head: what we carry forward from tradition is not an obstacle to knowledge but its precondition. Understanding is historical all the way down.
 
 [Hans-Georg Gadamer](https://plato.stanford.edu/entries/gadamer/) (1900–2002). German philosopher, student of [Heidegger](/positioning/persons/h/heidegger/), professor at Leipzig and Heidelberg. His masterwork *Truth and Method* (1960) established philosophical hermeneutics as a major field. Where Heidegger asked what it means to be, Gadamer asked what it means to understand — and arrived at the same conclusion: we are always inside the situation we are trying to grasp. There is no view from outside. Late in life he engaged in extended dialogue with Derrida, defending hermeneutics against deconstruction while acknowledging common ground. He published actively into his nineties.
 
@@ -46,4 +46,4 @@ Gadamer's hermeneutics is deeply historical and deeply social. Understanding is 
 
 ---
 
-See also: [Heidegger](/positioning/persons/h/heidegger/) · [Husserl](/positioning/persons/h/husserl/) · [Rorty](/positioning/persons/r/rorty/)
+See also: [Hermeneutics](/positioning/subjects/h/hermeneutics/) · [Hermeneutics: the ontological turn and the disputes](/positioning/subjects/h/hermeneutics/the-ontological-turn/) · [The standing of aesthetics in philosophy](/positioning/subjects/a/aesthetics-in-philosophy/) · [The counter-current](/positioning/subjects/a/aesthetics-in-philosophy/the-counter-current/) · [Cognition](/positioning/subjects/c/cognition/) · [Cognition in Core Philosophy](/positioning/subjects/c/cognition/philosophy/core/) · [Philosophy of History](/positioning/subjects/p/philosophy-of-history/) · [The Critical Tradition](/positioning/subjects/p/philosophy-of-history/the-critical-tradition/) · [Heidegger](/positioning/persons/h/heidegger/) · [Husserl](/positioning/persons/h/husserl/) · [Rorty](/positioning/persons/r/rorty/)

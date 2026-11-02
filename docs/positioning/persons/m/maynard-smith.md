@@ -74,4 +74,4 @@ The ESS framework models evolution as a game between strategies — powerful for
 
 ---
 
-See also: [Mutualism](/positioning/subjects/m/mutualism/) · [Maturana](/positioning/persons/m/maturana/) · [Solé](/positioning/persons/s/sole/)
+See also: [Mutualism](/positioning/subjects/m/mutualism/) · [Darwinism](/positioning/subjects/d/darwinism/) · [After the Synthesis](/positioning/subjects/d/darwinism/after-the-synthesis/) · [Maturana](/positioning/persons/m/maturana/) · [Solé](/positioning/persons/s/sole/)

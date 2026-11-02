@@ -29,7 +29,7 @@ Alexander Agassiz Professor of Vertebrate Paleontology at Harvard's Museum of Co
 
 The 1944 book that reconciled paleontology with population genetics. Simpson organised the problem around two variables: tempo (how fast evolution proceeds) and mode (the population-genetic processes responsible).
 
-**Rates of evolution.** Simpson systematised the observation that evolution does not proceed at a uniform rate. He distinguished three rate categories:
+**Rates of [evolution](/positioning/subjects/e/evolution/).** Simpson systematised the observation that evolution does not proceed at a uniform rate. He distinguished three rate categories:
 
 - *Bradytely*: very slow evolution. "Living fossils" — lineages that persist with little morphological change over long periods. The opossum, the horseshoe crab, the coelacanth.
 - *Horotely*: the average or modal rate — the rate at which most lineages evolve most of the time.
@@ -74,4 +74,4 @@ Simpson's classification of evolutionary rates remains useful as descriptive voc
 
 ---
 
-See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Dobzhansky](/positioning/persons/d/dobzhansky/) · [Gould](/positioning/persons/g/gould/) · [Eldredge](/positioning/persons/e/eldredge/)
+See also: [Darwinism](/positioning/subjects/d/darwinism/) · [Evolution](/positioning/subjects/e/evolution/) · [Lamarck and the Inheritance of Acquired Characters](/positioning/subjects/e/evolution/lamarck/) · [Dobzhansky](/positioning/persons/d/dobzhansky/) · [Gould](/positioning/persons/g/gould/) · [Eldredge](/positioning/persons/e/eldredge/)

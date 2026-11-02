@@ -49,7 +49,7 @@ The cosmological framing reaches further than the formal apparatus currently sup
 
 ## TAP — Theory of the Adjacent Possible
 
-The collaboration with Stuart [Kauffman](/positioning/persons/k/kauffman/), Lee Smolin, and Marina Cortês: Cortês, Kauffman, Liddle, Smolin (2023) "The TAP equation: evaluating combinatorial innovation in biocosmology."
+The collaboration with Stuart [Kauffman](/positioning/persons/k/kauffman/), [Lee Smolin](/positioning/persons/s/smolin/), and Marina Cortês: Cortês, Kauffman, Liddle, Smolin (2023) "The TAP equation: evaluating combinatorial innovation in biocosmology."
 
 TAP addresses the broader question of how novelty enters cosmological and biological history. The adjacent possible — the set of things that could come into existence given what already exists — grows as new things are created, opening paths that did not previously exist. TAP formalises this as an equation governing the rate of combinatorial innovation.
 
