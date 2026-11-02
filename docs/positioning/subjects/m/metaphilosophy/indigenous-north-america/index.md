@@ -1,0 +1,18 @@
+---
+layout: default
+lastmod: 2026-11-02
+title: "Metaphilosophy: Philosophy in Indigenous North America"
+description: "Indigenous thought in North America in its own words: knowing from experience and from the land, and a new field in the academy."
+---
+
+[Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) > Philosophy in Indigenous North America
+
+# Philosophy in Indigenous North America
+
+The field names itself American Indian thought or philosophy, and, more recently, Native American and Indigenous philosophy: Anne Waters titled her collection *American Indian Thought: Philosophical Essays* (2004), and the American Philosophical Association's newsletter, first "on American Indians in Philosophy", now carries the second name. As a field in the academy it is young. In the words of Erin McKenna and Scott Pratt, "it would not be misleading to say that American Indian philosophy is a 'new' field. Although Native American thinkers have been discussing and publishing on questions easily recognized as philosophical for centuries, few of these thinkers have carried out their discussion and writing in the context of the North American academy" (2015, as quoted in the *APA Newsletter on Native American and Indigenous Philosophy*).
+
+Vine Deloria Jr. (1933–2005), Dakota, described how the academy had sorted that thought: "all courses and publications on Indians were classified as anthropology" ("Indian Studies—The Orphan of Academia", 1986). He set two perceptions of the world apart: "The fundamental factor that keeps Indians and non-Indians from communicating is that they are speaking about two entirely different perceptions of the world" (*The Metaphysics of Modern Existence*, 1979, as quoted by Joel Southall). In the Indian conception, "Knowledge was derived from individual and communal experiences in daily life, in keen observation of the environment, and in interpretive messages that they received from spirits in ceremonies, visions, and dreams" (*Spirit & Reason*, 1999, as quoted by Southall). In *Power and Place* (2001), written with Daniel Wildcat, "power and place produce personality", and the universe is "personal and, therefore, must be approached in a personal manner" (as quoted by Southall).
+
+Viola Cordova (1937–2002), Jicarilla Apache, wrote her doctoral dissertation on "The concept of monism in Navajo thought" (1992) and held that the minority student has "not only the 'right' to engage in philosophical discourse, but the duty to do so" ("Western Thought: An Outsider's Perspective", 1994); her essays were gathered as *How It Is: The Native American Philosophy of V. F. Cordova* (2007). On who speaks for whom: "If you speak for me, you rob me of my voice" (*How It Is*).
+
+The Cherokee philosopher Brian Burkhart, whom Deloria mentored, roots thought in the land. Meaning and value "arise in the intersection between us and all that is around us" (2004, as quoted in the *APA Newsletter*), and "Locality is being-from-the-land and knowing-from-the-land. I use 'locality' as a term of art in this book as a way to reference the manner in which being, meaning, and knowing are rooted in the land" (*Indigenizing Philosophy through the Land*, 2019, as quoted in the *APA Newsletter*).

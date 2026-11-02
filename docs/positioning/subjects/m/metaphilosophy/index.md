@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-24
+lastmod: 2026-11-02
 title: "Metaphilosophy"
 description: "The study of the nature of philosophy: what it is, what it is for and how it is done, in each tradition on its own terms."
 ---
@@ -29,3 +29,4 @@ It also follows the IEP's account that much metaphilosophy is implicit: "Any phi
 - [Philosophy in the Islamic world](/positioning/subjects/m/metaphilosophy/islamic-world/) — *falsafa* and *ḥikma*, philosophy and wisdom, the tradition's maps of the sciences, and the lines from al-Kindī to the modern reply to Renan.
 - [Philosophy in Japan](/positioning/subjects/m/metaphilosophy/japan/) — learning (*gaku*) and the Ways (*michi*), Kūkai's and Tominaga's sortings of the teachings, and the lines to the present.
 - [Philosophy in Latin America](/positioning/subjects/m/metaphilosophy/latin-america/) — thought (*pensamiento*) and philosophy, from the Indigenous knowers to liberation and after.
+- [Philosophy in Indigenous North America](/positioning/subjects/m/metaphilosophy/indigenous-north-america/) — American Indian thought and philosophy, knowing from experience and from the land, and a new field in the academy.

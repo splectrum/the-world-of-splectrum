@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-24
+lastmod: 2026-11-02
 title: "Metaphilosophy: Philosophy in Latin America"
 description: "Philosophy in Latin America in its own words: a late name, Gaos's thought against philosophy, the region's own generations, and its lines."
 ---
@@ -29,3 +29,4 @@ English without a named translator on these pages is the page's own rendering fr
 - [A philosophy of our America?](/positioning/subjects/m/metaphilosophy/latin-america/our-america/) — Ramos, Gaos's philosophy of philosophy, Mariátegui, Zea, Salazar Bondy, Kusch and Roig.
 - [Liberation](/positioning/subjects/m/metaphilosophy/latin-america/liberation/) — Dussel's philosophy from the periphery, Freire's "true word", Fals Borda's praxis as the test of knowledge.
 - [After liberation](/positioning/subjects/m/metaphilosophy/latin-america/after/) — Quijano's coloniality of power, Lugones on gender, Fornet-Betancourt's intercultural dialogue.
+- [Indigenous voices today](/positioning/subjects/m/metaphilosophy/latin-america/indigenous-voices/) — Andean *yachay*, Mapuche *kimün*, *buen vivir* in two constitutions, Reinaga's *indianismo* and Rivera Cusicanqui's practice before theory.
