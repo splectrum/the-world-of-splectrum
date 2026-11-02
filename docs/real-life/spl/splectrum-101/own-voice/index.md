@@ -1,8 +1,8 @@
 ---
 layout: default
-lastmod: 2026-10-16
+lastmod: 2026-11-02
 title: "The Own Voice 101"
-description: "SPLectrum's own voice in plain words: its own philosophy and view of reality, aiming at a modern natural philosophy that doesn't put humans at the centre."
+description: "SPLectrum's own voice in plain words: its own philosophy and view of reality, built on a modern natural philosophy that doesn't put humans at the centre."
 sitemap: false
 ---
 
@@ -14,7 +14,7 @@ This is the other face of the coin: SPLectrum speaking for itself.
 
 Here SPLectrum develops its own philosophy and its own view of reality, still with the seed principles as its starting point. It begins with the subject and three core values: belonging, privacy and creativity.
 
-The aim is a modern natural philosophy, in tune with current scientific thinking and technological progress. It sets out to embrace the wisdom of all voices, and at the same time to move away from a view that puts humans at the centre, as if they were privileged.
+Its philosophy stands on the ground the common face opens up: [a modern natural philosophy](/real-life/spl/splectrum-101/common-face/a-modern-natural-philosophy/), the inquiry into nature as a web of languages. It aims to be in tune with current scientific thinking and technological progress, to embrace the wisdom of all voices, and at the same time to move away from a view that puts humans at the centre, as if they were privileged.
 
 It speaks as one voice among many, with equal standing and no more. Everything on this side is yours to disagree with.
 

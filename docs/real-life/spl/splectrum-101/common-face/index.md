@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-16
+lastmod: 2026-11-02
 title: "The Common Face 101"
 description: "The common face of the SPLectrum coin in plain words: a language about what all voices hold in common in structure, not in what they say."
 sitemap: false
@@ -15,6 +15,8 @@ SPLectrum has two faces, like a coin. This is the first.
 The seed principles explain how the medium of language gives rise to many voices, each with its own say. On this face, SPLectrum explores what all those voices have structurally in common. Not what they say, but how it is expressed. You could call it a language about common structure.
 
 How does that fit with equal standing? Quite simply: equal standing is about what a language says, its content. This face takes no part in that.
+
+Seen from this face, the many languages together cover the whole of nature, and that opens an old inquiry again:
 
 - [A Modern Natural Philosophy](/real-life/spl/splectrum-101/common-face/a-modern-natural-philosophy/) — the inquiry into nature as the whole, taken up again in language.
 

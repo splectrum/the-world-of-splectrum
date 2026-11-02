@@ -74,7 +74,8 @@ SPLectrum 101 (landing) — the one line: reality disclosed in language
 
 ## 3. Open questions
 
-- **Voice** — "we" (the Real Life voice) or the third-person "SPLectrum". With short pages, consistency across the set matters most.
+- **[A] Voice** (2026-11-02): where "we" would mean SPLectrum, write "SPLectrum". "We" and "us" stay where they mean subjects in general (the seed principles' "us", not humans only).
+- **[A] Further nodes** (2026-11-02): the remaining common face and own voice nodes stay on this plan, not scheduled.
 - **The pillars** — a node each, or a few sentences inside their realm (realisation: epistemology, ontology, aesthetics; coexistence: ethics, politics).
 - **The common face** — whether historicity and privacy-as-fact get nodes of their own.
 - **The existing 101 page** — its text is the quarry for the nodes; what replaces it at the landing URL once the first nodes are ready.
@@ -85,11 +86,11 @@ SPLectrum 101 (landing) — the one line: reality disclosed in language
 |---|---|
 | Landing — the one line | live draft (2026-10-13); branches link to the strict sections until the 101 nodes exist |
 | The seed principles (branch landing) | drafted 2026-10-14 |
-| P0–P5 | a page each under the branch folder; P1–P5 reworked 2026-10-16 (short, everyday language, See also); P0 still to be brought in line (drop the nutshell sentence, shorten) |
+| P0–P5 | a page each under the branch folder; reworked to short, everyday language with See also (P1–P5 2026-10-16, P0 2026-11-02) |
 | The coin | on the landing (the pluralism paragraph); no page of its own |
 | The common face | holding page 2026-10-16: a language about common structure; under construction |
 | The own voice | holding page 2026-10-16: own philosophy and view of reality, a modern natural philosophy, not anthropocentric; under construction |
-| Common face nodes | material in the existing page |
+| Common face nodes | *A Modern Natural Philosophy* drafted 2026-10-28, reworked 2026-10-31 (title without 101), linked from the common face and the own voice; further nodes: material in the existing page |
 | Own voice nodes | material in the existing page |
 
 ## 5. Ideas and material not yet ready
