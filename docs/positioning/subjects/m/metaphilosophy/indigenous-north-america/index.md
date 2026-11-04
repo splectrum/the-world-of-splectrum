@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-11-02
+lastmod: 2026-11-05
 title: "Metaphilosophy: Philosophy in Indigenous North America"
 description: "Indigenous thought in North America in its own words: knowing from experience and from the land, and a new field in the academy."
 ---
@@ -8,6 +8,8 @@ description: "Indigenous thought in North America in its own words: knowing from
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Metaphilosophy](/positioning/subjects/m/metaphilosophy/) > Philosophy in Indigenous North America
 
 # Philosophy in Indigenous North America
+
+In the Navajo Nation's Fundamental Law, written into its code in 2002, the Holy People ordained *nitsáhákees*, thinking, *nahat'á*, planning, *iiná*, life, and *sihasin*, which the Council's English renders wisdom: "Thinking is the foundation of planning. Life is the foundation of wisdom" (*Nitsáhákees éí nahat'á bitsé silá. Iiná éí sihasin bitsé silá*). In Dakota, wisdom is *wóksape*, from *ksápa*, "wise, prudent, having understanding" (Stephen Riggs's Dakota dictionary, 1890); Oglala Lakota College calls its library *Woksape Tipi*, the house of wisdom, and holds that "no oral tradition can survive unless people know how to listen well and to share knowledge and wisdom". In Ojibwe, knowledge is *gikendaasowin* and wisdom *nibwaakaawin*; the verb *gikendan*, "know it", carries a part the *Ojibwe People's Dictionary* glosses "act by thought on it; perceive it by thought; feel in the mind", and its example for *mino-bimaadiziwin*, "the good life", reads: "You should often visit the elders. You will learn something there about leading a good life."
 
 The field names itself American Indian thought or philosophy, and, more recently, Native American and Indigenous philosophy: Anne Waters titled her collection *American Indian Thought: Philosophical Essays* (2004), and the American Philosophical Association's newsletter, first "on American Indians in Philosophy", now carries the second name. As a field in the academy it is young. In the words of Erin McKenna and Scott Pratt, "it would not be misleading to say that American Indian philosophy is a 'new' field. Although Native American thinkers have been discussing and publishing on questions easily recognized as philosophical for centuries, few of these thinkers have carried out their discussion and writing in the context of the North American academy" (2015, as quoted in the *APA Newsletter on Native American and Indigenous Philosophy*).
 
