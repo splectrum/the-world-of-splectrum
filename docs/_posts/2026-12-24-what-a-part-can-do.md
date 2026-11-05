@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What a Part Can Do"
-date: 2026-11-16
+date: 2026-12-24
 lastmod: 2026-09-25
 labels: [conversations, science]
 description: "The second law says entropy does not decrease. Sosuke Ito and Takahiro Sagawa showed that for a component of a network, the real bound is not zero but the information flowing in from the rest — so what a part can do depends on where it sits."

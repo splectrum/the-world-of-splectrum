@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Last of the Magicians"
-date: 2026-11-08
+date: 2026-11-12
 lastmod: 2026-10-27
 labels: [conversations, philosophy]
 description: "Isaac Newton, in his own words and his assistant's: a man still living in the old world of alchemy and theology, out of whom the new physics came."

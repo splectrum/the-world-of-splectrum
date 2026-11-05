@@ -12,13 +12,13 @@ Lives in `plan/`, one folder per topic; discussion captures not yet placed go to
 
 ## Research
 
-**Order of work (state 2026-10-12):** 1. Real Life (active) · 2. Life · 3. AI · 4. Language · 5. Cognition continued.
+**Order of work (state 2026-11-05):** 1. Life (active) · 2. AI · 3. Language (with the Language, Vocabulary and Tools sections) · 4. Cognition continued · 5. Real Life's remainder.
 
-- [ ] **Real Life** — `plan/real-life/`: the section concept (accessible, longer pages that talk about the strict sections), the SPLectrum 101 bundle (`splectrum-101-bundle.md`), the foundations draft, the start-here page, the 404 page, the placeholder sections, the top-navigation pages. Active — where we are: Start Here, the 404 page, the landing page and the 9-box page done (2026-10-13); SPLectrum 101 is being reworked into a bundle — first version live (2026-10-16): the seed principles pages and holding pages for the two faces; the further common face and own voice nodes stay on the plan, not scheduled.
+- [ ] **Real Life** — `plan/real-life/`: the section concept (accessible, longer pages that talk about the strict sections), the SPLectrum 101 bundle (`splectrum-101-bundle.md`), the foundations draft, the start-here page, the 404 page, the placeholder sections. Where we are: Start Here, the 404 page, the landing page and the 9-box page done (2026-10-13); SPLectrum 101 is being reworked into a bundle — first version live (2026-10-16): the seed principles pages and holding pages for the two faces; the further common face and own voice nodes stay on the plan, not scheduled.
   - **Metaphilosophy** — subject live at `/positioning/subjects/m/metaphilosophy/`, rework closed 2026-10-26: the hub on what metaphilosophy is, with nine traditions on an equal footing, each a folder with a landing page (its own words for the work and its own sortings) and pages answering the three questions in its own texts: Greece and Rome, the Islamic world, Western (the line, the West reading the other traditions, claims of an end), India, China, Japan, Africa, Latin America, and (2026-11-02) Indigenous North America. The research notes (`metaphilosophy-*`, `end-of-philosophy`, `philosophy-is-dead`, `philosophy-of-specialisms`, `specialisation`, `what-is-philosophy`) are removed; recover any with `git show 9de23be:plan/real-life/<name>-research.md` (list them with `git ls-tree --name-only 9de23be plan/real-life/`). Sources to fetch: Marmura's *Tahāfut*, Wickens's *Nasirean Ethics* (Ṭūsī), Ṭāhā ʿAbd al-Raḥmān, al-Jābirī's own text, Zhu Xi's commentary, Tanabe's preface, Towa 1971, Gyekye 1987, Mudimbe 1988, Hountondji's *Myth and Reality*, Lichtheim, Maruyama's *Nihon no shisō*, Kusch's *Obras completas*, Gertz's Elias and David, Woodhouse's Plethon, Habermas's *Postmetaphysical Thinking* date.
   - **Modern natural philosophy** — bundle plan § 5a: the Real Life page *A Modern Natural Philosophy*, drafted on the common face (2026-10-31). Research notes in `plan/real-life/` (`natural-philosophy-research.md`, `natural-philosophy-history-research.md`, `natural-philosophy-narrowing-research.md`).
 
-- [ ] **Life** — `plan/life/`: the life doorway (`life-meta-subject.md`), the aliveness sketch, origin of life with two post candidates.
+- [ ] **Life** — active: `plan/life/`: the life doorway (`life-meta-subject.md`), the position on life and alive (`life-and-alive-position.md`), the definitions collected (`definitions-of-life-research.md`), the aliveness sketch, origin of life with two post candidates.
 
 - [ ] **AI** — `plan/ai/`: the AI doorway and the earlier information-field plan.
 
@@ -30,7 +30,7 @@ Lives in `plan/`, one folder per topic; discussion captures not yet placed go to
 
 - [ ] **Subjects page** — future page within the site explaining what a subject is here (the subject pages, their pieces, the doorways) and what a metasubject is: a single neutral access point into the field around a word, gathering work from many disciplines, which sets its own parameters (metaphilosophy: the activity rather than the name). Needed now that "metasubject" appears on pages (the metaphilosophy hub uses it); settle the spelling at the same time ("meta subject" in the doorway convention, "metasubject" on the hub).
 
-- [ ] **Engineering** — `plan/engineering/`: the section's work on hold; the medium and subject experience in engineering terms; the wish list.
+- [ ] **Engineering** — `plan/engineering/`: the section's work on hold; the medium and subject experience in engineering terms; the wish list. Coming: a rework of the section to the new P2P cluster work (`splectrum/dev-env-2-p2p-cluster`), unscheduled, once the click-and-run demos are available.
 
 - [ ] **Belonging** — `plan/belonging/`: the doorway scope, the alliance-to-society facet, the decoherence programme, the many-worlds note. Parked 2026-09-13.
 

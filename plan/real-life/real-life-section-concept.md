@@ -52,9 +52,7 @@
 
 ## 3a. Further Real Life work noted (Jules, 2026-10-13)
 
-- **[A]** Check the "placeholder sections" to see whether they need more information for a reader. The bottom three boxes — Language, Vocabulary, Tools — haven't been started, and Engineering has stalled (not for a bad reason).
-- **[A]** Review the top-navigation pages (About, HAICC, P2P) and think about the way HAICC and P2P are currently framed.
-- **[A, 2026-10-13]** The three top-navigation pages are a Jules ten Bos as author view (the personal register in the tone-of-voice guidance). The view for them: a proper About — the project introduced by its creator; HAICC covering the project as a whole rather than just engineering — the whole project is done under it, in collaboration with AI, though perhaps not in name; P2P as interrelational pluralism in engineering — it mirrors the subject-centred view, no central command.
+- **[A]** Check the "placeholder sections" to see whether they need more information for a reader (comes after Life and AI). The bottom three boxes — Language, Vocabulary, Tools — haven't been started, and Engineering has stalled (not for a bad reason).
 
 ## 4. Open questions
 

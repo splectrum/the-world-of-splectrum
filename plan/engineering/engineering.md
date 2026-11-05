@@ -32,3 +32,12 @@
 
 - **[A]** This needs figuring out.
 - **[C]** Proposal: the Engineering landing opens with one honest paragraph — engineering is where SPLectrum began, the ideas still hold, building is paused while the thinking matures and the AI field settles; what follows is a record, not a running build. The About page carries the origin story in the author's voice. The P2P page speaks of what is wanted, not of what is being built.
+
+## 5. The coming rework
+
+- **[A, 2026-11-05]** The section gets a rework to the new P2P cluster work, not yet: it waits until the click-and-run demos are available. Unscheduled.
+- **[C]** Likely in scope when it comes:
+  - The structure: Platform, Components and Solutions rest on the older picture (bridgehead, federation, seed nodes), against the swarm, managers, nodes and projects that now run. Rethink the structure before updating pages.
+  - New or changed: Splectral (absent from the section), HAICC as tools as well as personas, Mycelium as built, data in topics.
+  - What runs is written as fact; directions not settled stay marked as directions.
+  - Outside the section: the lines in About and P2P that say progress is slow and that P2P is a wish list. They stand until the rework.
