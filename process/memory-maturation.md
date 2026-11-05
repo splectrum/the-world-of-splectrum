@@ -2,6 +2,10 @@
 
 Live memory (Claude Code's `~/.claude/projects/.../memory/`) captures session-level observations. Mature memory lives in the repo, travels with it, and is accessible to any collaborator or session. This process documents how live memory graduates to the repo.
 
+## Working rules go in the repo at once
+
+A rule about how we work, given or corrected in a session, goes into the repo in the same session: `process/`, `tone-of-voice/` or `posting-guide.md`, whichever fits, and the repo is brought into line with it (`process/organic-ecosystem.md`). It does not wait in live memory for a walk, and a note in live memory alone does not count as having recorded it. Live memory then holds at most a pointer. The walk below is for what has accumulated, not a reason to delay.
+
 ## When to trigger
 
 - End of a work session, before closing down.

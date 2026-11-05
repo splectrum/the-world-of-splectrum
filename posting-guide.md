@@ -27,7 +27,7 @@ Blog cadence is layered: roughly weekly as a minimum schedule looking four month
 - **Current operation (2026-07-23).** Reduced availability: the schedule runs track A only — one post per week. Track B is dormant until time allows.
 - **Parking.** Posts not yet scheduled are parked on fictitious 2030 dates, grouped in series blocks, and brought back when ready. On unparking: rename the file to the real date, set the frontmatter `date:` to match (it overrides the filename), and re-point any internal cross-links to the post's new URL.
 - Publication date: the post's `date:` (UTC); it goes live with the first deploy on or after that date.
-- Active schedule tracked in `scheduled-tasks.md`.
+- The live schedule is the `date:` of the posts in `docs/_posts/`. It is not tracked in `scheduled-tasks.md`, and scheduling is Jules's call (`process/drafted-posts.md`).
 - Main and topnav update as the work evolves, not on a cadence.
 
 ## Markdown Format
@@ -222,7 +222,7 @@ When reviewing existing or new posts, check:
 
 ## Tweets
 
-Each post gets a tweet on publication. Draft alongside the post, tracked in `scheduled-tasks.md`.
+Each post gets a tweet on publication, drafted when Jules asks. Tweets are not tracked in `scheduled-tasks.md`.
 
 - **URL format — `splectrum.world/blog/YYYY/MM/slug/`. Year and month only, NEVER the day.** The permalink (`_config.yml`) is `/blog/:year/:month/:title/`. A tweet like `/blog/2026/07/08/evolution-and-brain/` is a **broken link** — the correct URL is `/blog/2026/07/evolution-and-brain/`. Get the slug from the filename (strip the date prefix), not by guessing.
 - **Length — target ≤ 270 characters total, hard max 280** (text + URL + hashtags). Leave a margin; do not sail up to 280. Count the URL as its literal character length (≈40–50 chars for these), not a t.co estimate.

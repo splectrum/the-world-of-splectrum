@@ -17,9 +17,9 @@ The site's public voice lives at splectrum.world (a Jekyll site in `docs/`, buil
 
 **Authoring and workflow**
 - **[tone-of-voice/](tone-of-voice/)** — voice, register, authoring stance (three axes of the site, setting examples not imposing, "is like" not "is", standing back, quality rubric).
-- **[process/](process/)** — internal processes: collaboration, memory maturation, rework vs research, vocabulary shadow extraction.
+- **[process/](process/)** — internal processes: collaboration, memory maturation, drafted posts, rework vs research, vocabulary shadow extraction.
 - **[posting-guide.md](posting-guide.md)** — publishing conventions (pipeline, Jekyll workflow, cadence, scheduling strategy, labels, links, review checklist).
-- **[scheduled-tasks.md](scheduled-tasks.md)** — tasks triggered by post publication.
+- **[scheduled-tasks.md](scheduled-tasks.md)** — plan work and research tracking.
 
 **Archive and off-site assets**
 - **[archive/](archive/)** — snapshots of reworked site areas preserved as source material for future blog posts and reference.
