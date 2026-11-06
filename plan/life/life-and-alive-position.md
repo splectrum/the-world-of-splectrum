@@ -1,6 +1,6 @@
 # Life and alive: the position, and how it stands against the field
 
-*Working document, opened 2026-11-05. Keeps Jules's position apart from the analysis of it. The position is in § 1, the analysis in §§ 2 and 3, the open points in § 4.*
+*Working document, opened 2026-11-05. Keeps Jules's position apart from the analysis of it. The position is in § 1, the analysis in §§ 2 and 3, the wider-landscape material in § 4, the open points in § 5.*
 
 - **[A]** — the author's position, verbatim or near-verbatim.
 - **[C]** — analysis or a formulation supplied by Claude in discussion, to be confirmed.
@@ -29,6 +29,12 @@
 - **[A]** For the definitions of life we use the mainstream interpretation of Darwinian, as that is what is alive within our discussion context.
 - **[A]** The main difference is the reference point. The mainstream centres on agents, but it is the landscape evolution that really matters.
 - **[A]** A lineage is a line traced through a changing landscape.
+- **[A]** Absolutism is the pursuit of time standing still, the end of process: the end of alive, with life remaining frozen.
+- **[A]** In that sense the big bang can be seen as a story, a representation of alive, with life being the diversifications of its products. It sort of removes the special status of life and alive. For us it is a biological progression of the story of the big bang.
+- **[A]** There is no one first moment. What there is, is the emergence of new contexts taking part in the story.
+- **[A]** When we ask about the origin of life, or what life is, in a way we ask how far our kinship stretches: where the beginning is of contexts that feel like us, like beings that are alive.
+- **[A]** Alien life is very interesting in that light: there is kinship because it is life, but it is alien because it doesn't feel close.
+- **[A]** We try to define life as a process with specific properties and at the same time neglect the substrate it runs on.
 - **[A]** Life consists of things that are alive and things that are not alive. That is not about a dead cat: things that are alive need the right not-alive substances. Evolution has created more and more of these, and on the early Earth a whole activity of generating not-alive substances made life as we know it possible. That makes the origin of life fuzzier.
 
 ## 2. Against Walker
@@ -63,11 +69,27 @@
 - Death is a context ending, not a line through everything inside it.
 - Contexts nest in both directions, up to the perimeter.
 
-## 4. Open
+## 4. Material for the wider landscape
+
+*Discussion of 2026-11-06, to be shaped when the positioning work reaches it. This stays out of the neutral doorway, which keeps the field's families.*
+
+- **[C]** Kinship explains part of why definitions never settle: each draws a circle around what counts as us. Viruses and mules are hard at the edge of the kin, not only for want of data.
+- **[C]** The "we" is in the definitions from the start: Aristotle's "by life we mean". Machery's folk concept is the sceptic's version; here it becomes a finding.
+- **[C]** Kinship goes with alive more than with life: a fellow process, something to which things matter. Jonas is the nearest neighbour, placing the edge at metabolism.
+- **[C]** Needs saying: the contexts are real, and what is ours is where we draw the edge of us. Otherwise it reads as relativism.
+- **[C]** Two kinds of kin: relatives by common descent, which may be why the Darwinian definition feels right, and fellow participants in the story.
+- **[C]** Alien life splits the two: kin by process, alien by substrate and by feel.
+- **[C]** Substrate links back to the not-alive substances alive things depend on. Langton's form over matter is the clearest case of setting substrate aside; the Substance family is the one that kept it, and is usually read as the narrowest.
+- **[C]** Emergence may belong here, as how new contexts come to take part in the story, not as a mark of life.
+- **[C]** Bridge to the AI block: "does it feel like us?" is the question being asked of AI, and definitions alone do not answer it.
+- **[C]** Unchecked pointer: Indigenous thought on relations with the non-human as a neighbour to kinship.
+
+## 5. Open
 
 - **[C]** Self-contained: the water cycle closes the river's loop, and the Gaia question sits one boundary further out. Is closure enough, or does alive need the player as well?
 - **[C]** Player: what separates it from a piece. Candidate: it engages in a language of its own and has a stake in the outcome. Field neighbours: agents in complex adaptive systems (adaptive units with internal structure), Kauffman's autonomous agent ("can both reproduce itself and do at least one thermodynamic work cycle"; ant workers are Gershenson's objection).
 - **[C]** Alive and cognition: identity (Maturana: "living as a process is a process of cognition"), or one process described twice, alive as the player seen from outside and cognition as the same process lived from within.
 - **[C]** "Artifacts": usually read as human-made. Keep it, or use another word.
+- **[C]** Big bang as alive: the universe is the one context that meets the closure test without strain, since nothing lies outside it. Does the test then hold only at the perimeter, or at each nested context too? If everything is alive the word stops distinguishing; levels may be what keeps the distinction (the dead cat, not alive at the level of the cat). Neighbours to check: Chaisson on cosmic evolution, Haeckel's monism, Smolin. Heat death as time standing still in physical form.
 - **[C]** Emergence: kept out of the post. In the definitions note only Friston uses it for what life is ("an inevitable and emergent property"); the note did not search for it. If the meta subject wants it, it is probably an axis across the families, not a family: it names how something stands to what it arises from, not a mark.
 - **[C]** Bichat is recalled as describing death as staged, the animal life ending before the organic. Unchecked; the research note quotes only his definition. If it holds, the oldest definition on the list has the nesting in it.
