@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-18
+lastmod: 2026-11-07
 title: "Subjects A–Z"
 description: "Movements, theories and themes of importance to SPLectrum — from domain specific languages and phenomenology to relational quantum mechanics"
 ---
@@ -62,6 +62,10 @@ These are subjects of importance to SPLectrum, referenced within the site.
 ## K
 
 - [Kafka](/positioning/subjects/k/kafka/) · event streaming, software engineering<span class="kw">distributed event-streaming platform built on a durable append-only log: topics, partitions, offsets, replay, Kreps, Confluent</span>
+
+## L
+
+- [Life](/positioning/subjects/l/life/) · meta subject<span class="kw">the word across its homes — what is alive, where it came from, the living world, the life a person lives, and the word's uses beyond biology; the definitions of life and what each goes by</span>
 
 ## M
 
