@@ -31,6 +31,9 @@ destinations: seed, reality
 
 - **[A]** Together with the proliferation of specialisms, the pursuit of the scientific method itself led to the insight that there is no absolute rock to stand on (Russell, Wittgenstein, and others).
 - **[A]** They had already arrived at language, but had not relinquished the hierarchy: the judgement seat as the rock.
+- **[A]** The judge is the tendency, from the early days, to say what reality is, with the belief that one can do so with certainty.
+- **[A]** It fell apart when the focus had already shifted to language (the scientific method; Russell). Where before it was posited, it became clear that it could not be carried through logically.
+- **[A]** Nowadays a considerable number of philosophers still keep positing.
 - **[A]** What unifies is the experience of reality, which gives rise to the diversification of language as knowledge grows.
 - **[A]** The centre can't be a specific language, because languages evolve with growing knowledge.
 - **[A]** Absolutism is the pursuit of "time standing still", the end of process.
@@ -45,7 +48,7 @@ destinations: seed, reality
 
 - **[C]** The name stayed with physics; the intent went to the sciences: astronomy, cosmology, biology, psychology.
 - **[C]** The figure of the room: "the place where they met", "without the room they used to share". Whewell, 1834: "physical science itself is endlessly subdivided, and the subdivisions insulated". The British Association members had "no general term", hence "scientist".
-- **[C]** Hawking and Mlodinow: "Traditionally these are questions for philosophy, but philosophy is dead", asked from the science that kept the name.
+- **[C]** The second post now ends on: the name gone and the project forgotten; the method failing from within, from Russell on; the feeling of falling apart, with Hawking and Mlodinow's "philosophy is dead" as its expression, and many still positing; what failed is Rorty's capital P; the project goes on, mostly without knowing that it is one. The Vienna Circle's unity of science is named there in one clause.
 - **[C]** Rorty's capital P: philosophy as judge and jury. So the new centre must not read as that seat returning. A room, not a bench.
 
 ## Points in the current draft
