@@ -5,7 +5,7 @@ title: "avsc-rpc Wire Protocol"
 description: "The avsc-rpc wire format: handshake, frame and Netty framing, multiplexing, and protocol negotiation that structure bytes on the wire."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc-rpc](/engineering/infrastructure/bare-for-pear/avsc-rpc/) > Wire Protocol
+[Home](/) > [Engineering](/engineering/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc-rpc](/engineering/infrastructure/bare-for-pear/avsc-rpc/) > Wire Protocol
 
 # avsc-rpc Wire Protocol
 

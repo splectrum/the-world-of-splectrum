@@ -5,7 +5,7 @@ title: "avsc Barification"
 description: "What changed to run avsc on Bare: replacing Node.js modules with Bare equivalents, a TextEncoder/TextDecoder polyfill, and buffer handling."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc](/engineering/infrastructure/bare-for-pear/avsc/) > Barification
+[Home](/) > [Engineering](/engineering/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc](/engineering/infrastructure/bare-for-pear/avsc/) > Barification
 
 # avsc Barification
 

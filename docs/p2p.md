@@ -15,7 +15,7 @@ That is how real communities work: people share directly with those they know an
 
 ## What I would like to build
 
-[Bare](/engineering/infrastructure/bare/) and [Pear](https://docs.pear.holepunch.to), from [Holepunch](https://holepunch.to), make peer-to-peer practical: applications discovered, distributed and updated directly between peers — no servers, no app stores. That is the ground I would build on. Progress on the engineering is slow for now; this is on my wish list.
+[Bare](/engineering/third-party-software/bare/) and [Pear](https://docs.pear.holepunch.to), from [Holepunch](https://holepunch.to), make peer-to-peer practical: applications discovered, distributed and updated directly between peers — no servers, no app stores. That is the ground I would build on. Progress on the engineering is slow for now; this is on my wish list.
 
 The centralised internet is the substrate, not the enemy. Decentralised ecosystems can grow on top of what already exists. No revolution to replace, but emergence.
 

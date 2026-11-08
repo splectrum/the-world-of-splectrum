@@ -5,11 +5,11 @@ title: "git — Git CLI Wrapper"
 description: "A git CLI wrapper for the Bare runtime: structured output, subtree lifecycle management, a two-reality model, and hosted repo operations."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > Git
+[Home](/) > [Engineering](/engineering/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > Git
 
 # git — Git CLI Wrapper
 
-A git CLI wrapper for the [Bare](/engineering/infrastructure/bare/) runtime. Provides programmatic access to git with structured output, subtree lifecycle management, and configurable hosted repo operations.
+A git CLI wrapper for the [Bare](/engineering/third-party-software/bare/) runtime. Provides programmatic access to git with structured output, subtree lifecycle management, and configurable hosted repo operations.
 
 **Source:** [github.com/bare-for-pear/git](https://github.com/bare-for-pear/git)
 

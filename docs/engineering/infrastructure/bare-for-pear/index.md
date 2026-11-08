@@ -5,11 +5,11 @@ title: "bare-for-pear"
 description: "Modules built for the Bare runtime: community forks barified, git infrastructure, and a minimal P2P git engine."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > bare-for-pear
+[Home](/) > [Engineering](/engineering/) > bare-for-pear
 
 # bare-for-pear
 
-Modules built for the [Bare](/engineering/infrastructure/bare/) runtime — a mix
+Modules built for the [Bare](/engineering/third-party-software/bare/) runtime — a mix
 of community forks (Node.js assumptions stripped, Bare's minimal API surface
 honoured), git infrastructure, and a minimal P2P git engine. Published under
 the [bare-for-pear](https://github.com/bare-for-pear) GitHub organisation.

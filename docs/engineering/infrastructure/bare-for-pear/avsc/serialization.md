@@ -5,7 +5,7 @@ title: "avsc Serialization"
 description: "Avro binary encoding in avsc: compact schema-driven serialization, the Tap reader/writer, schema fingerprints, and encoding characteristics."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc](/engineering/infrastructure/bare-for-pear/avsc/) > Serialization
+[Home](/) > [Engineering](/engineering/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc](/engineering/infrastructure/bare-for-pear/avsc/) > Serialization
 
 # avsc Serialization
 

@@ -5,7 +5,7 @@ title: "avsc-rpc Service Definition"
 description: "How avsc-rpc turns Avro protocols into services via Service.forProtocol, with messages, type resolution, and protocol hash negotiation."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc-rpc](/engineering/infrastructure/bare-for-pear/avsc-rpc/) > Service Definition
+[Home](/) > [Engineering](/engineering/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc-rpc](/engineering/infrastructure/bare-for-pear/avsc-rpc/) > Service Definition
 
 # avsc-rpc Service Definition
 

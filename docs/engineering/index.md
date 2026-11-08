@@ -13,9 +13,9 @@ description: "SPLectrum engineering — the SPLectrum philosophy and human-AI co
 
 **[Engineering Commitments](/engineering/engineering-commitments/)** — commitments taken before the architecture is reached. They explain why it has the shape it does.
 
-**[Third Party Software](/engineering/infrastructure/)** — external software maintained by third parties. Runtimes, platforms, and standalone modules. Includes [bare-for-pear](/engineering/infrastructure/bare-for-pear/) (adaptations of external packages for Bare/Pear).
+**[Third Party Software](/engineering/third-party-software/)** — external software maintained by third parties: runtimes, platforms and modules, as they come from upstream.
 
-**[SPL Software](/engineering/spl/software/)** — software we write from the ground up. Modules, components, libraries.
+**[SPL Software](/engineering/spl/software/)** — software we write from the ground up. Modules, components, libraries. Also [bare-for-pear](/engineering/infrastructure/bare-for-pear/): outside packages we have cloned and adapted for Bare.
 
 **[SPL Platform](/engineering/spl/platform/)** — the core architecture. P2P substrate, Mycelium, and the committed languages that constitute the fabric.
 

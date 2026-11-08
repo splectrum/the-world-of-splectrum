@@ -41,3 +41,24 @@
   - New or changed: Splectral (absent from the section), HAICC as tools as well as personas, Mycelium as built, data in topics.
   - What runs is written as fact; directions not settled stay marked as directions.
   - Outside the section: the lines in About and P2P that say progress is slow and that P2P is a wish list. They stand until the rework.
+
+## 6. The structure, agreed 2026-11-08
+
+On the phase 2 rework request (`plan/engineering/phase-2-rework-request.md`).
+
+- **[A]** Three pillars: SPLectrum, HAICC and Mycelium. They sit on core languages and run on P2P swarms. SPLectrum is the language fabric (not yet started), HAICC is now the platform, Mycelium the data repository. It is being built with AI autonomy in mind.
+- **[A]** The landing's entries:
+  - **Engineering Rules**, in place of the Engineering Commitments: the platform's rules (single concern first, the consistency rules) are better than the previous commitments.
+  - **HAICC Platform**: P2P is part of it, its structure; Splectral is within it, the user interaction platform (in the browser); components and solutions are now part of it.
+  - **Mycelium Repository**: a multi-paradigm repository built on the five languages (URI, XPath, Git, AVRO, Kafka), which sit in this subsection. The languages are optimised for a P2P sublayer; Mycelium itself has no notion of that layer.
+  - **SPLectrum DSL Engine**: SPLectrum is expressed with Mycelium data structures, as are all applications.
+  - **Our Software**, in place of SPL Software: an overview of the GitHub organisations and what they are for.
+  - **Third Party Software**: stays, updated; title and URI changed (`/engineering/third-party-software/`, the old `/engineering/infrastructure/` redirected); missing third-party software added.
+  - **[A]** bare-for-pear is third-party software we have cloned and adapted; pear-full-square is software we write from the ground up. Both go in Our Software; for bare-for-pear, Our Software deals with the upstream each module was cloned from.
+  - The Components and Solutions links go.
+- **[C]** Open:
+  - How much of the rules the page carries: single concern in full, the consistency rules as short groups with what each ensures, the repository's `docs/rules.md` linked as the authority.
+  - Where the old commitments that are not rules go (data first, functionality as metadata, logical over physical): proposed to the Mycelium and SPLectrum pages, as design intent.
+  - The name's spelling on the site: Splectral (the request, the GitHub organisation) or SPLectral.
+  - The landing's order.
+  - The source commit `dev-env-2-p2p-cluster@c6b73bb` is not in the local clone: fetch before writing from it.

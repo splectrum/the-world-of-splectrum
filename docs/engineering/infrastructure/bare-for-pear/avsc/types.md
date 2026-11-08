@@ -5,7 +5,7 @@ title: "avsc Type System"
 description: "The Avro type system in avsc: Type.forSchema, primitive and complex types, logical types, type inference, schema evolution, and Type methods."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc](/engineering/infrastructure/bare-for-pear/avsc/) > Type System
+[Home](/) > [Engineering](/engineering/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc](/engineering/infrastructure/bare-for-pear/avsc/) > Type System
 
 # avsc Type System
 

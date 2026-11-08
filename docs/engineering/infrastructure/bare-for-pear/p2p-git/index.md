@@ -5,7 +5,7 @@ title: "p2p-git — Minimal Git Engine for Embedding"
 description: "isomorphic-git stripped to 42 plumbing exports — object operations, refs, index, merge, log, walk. No porcelain, no network, no packfiles, no working tree."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > p2p-git
+[Home](/) > [Engineering](/engineering/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > p2p-git
 
 # p2p-git — Minimal Git Engine for Embedding
 

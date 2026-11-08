@@ -45,6 +45,6 @@ This is the beginning of the core design. The swarm structure, the bridgehead co
 
 ## See also
 
-- **[Hyperdrive](/engineering/infrastructure/p2p/hyperdrive/)** — the distributed filesystem that carries the swarm's install and content.
-- **[HyperDHT](/engineering/infrastructure/p2p/hyperdht/)** — the distributed hash table for peer discovery and connectivity.
+- **[Hyperdrive](/engineering/third-party-software/p2p/hyperdrive/)** — the distributed filesystem that carries the swarm's install and content.
+- **[HyperDHT](/engineering/third-party-software/p2p/hyperdht/)** — the distributed hash table for peer discovery and connectivity.
 - **[hyperdrive-fuse](/engineering/spl/software/hyperdrive-fuse/)** — the FUSE mount that exposes the replicated drive as a local filesystem.

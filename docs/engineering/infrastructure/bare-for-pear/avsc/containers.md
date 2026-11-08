@@ -5,7 +5,7 @@ title: "avsc Container Files"
 description: "Avro container files (OCF) in avsc: self-describing binary files that embed the writer schema with data, plus reading, writing, and stream classes."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc](/engineering/infrastructure/bare-for-pear/avsc/) > Container Files
+[Home](/) > [Engineering](/engineering/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc](/engineering/infrastructure/bare-for-pear/avsc/) > Container Files
 
 # avsc Container Files
 

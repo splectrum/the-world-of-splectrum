@@ -5,7 +5,7 @@ title: "avsc-rpc Middleware"
 description: "Request and response interception on avsc-rpc clients and servers for cross-cutting concerns like tracing, logging, and context propagation."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc-rpc](/engineering/infrastructure/bare-for-pear/avsc-rpc/) > Middleware
+[Home](/) > [Engineering](/engineering/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc-rpc](/engineering/infrastructure/bare-for-pear/avsc-rpc/) > Middleware
 
 # avsc-rpc Middleware
 

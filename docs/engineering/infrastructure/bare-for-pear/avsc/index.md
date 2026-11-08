@@ -5,13 +5,13 @@ title: "avsc — Avro Type System"
 description: "avsc is a complete pure JavaScript implementation of the Apache Avro specification, forked and adapted for the Bare runtime."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > avsc
+[Home](/) > [Engineering](/engineering/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > avsc
 
 # avsc — Avro Type System
 
 Reference for avsc — a complete pure JavaScript
 implementation of the Apache Avro specification,
-forked and adapted for the [Bare](/engineering/infrastructure/bare/) runtime.
+forked and adapted for the [Bare](/engineering/third-party-software/bare/) runtime.
 
 ---
 

@@ -5,7 +5,7 @@ title: "avsc-rpc Transports"
 description: "How avsc-rpc messages move between client and server: in-memory, TCP stateful, and HTTP stateless transports with channel options."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc-rpc](/engineering/infrastructure/bare-for-pear/avsc-rpc/) > Transports
+[Home](/) > [Engineering](/engineering/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc-rpc](/engineering/infrastructure/bare-for-pear/avsc-rpc/) > Transports
 
 # avsc-rpc Transports
 

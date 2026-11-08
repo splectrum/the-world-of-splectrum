@@ -10,7 +10,7 @@ sitemap: false
 
 # SPLectrum — logical design
 
-The logical side of SPLectrum's engineering. How the system must look, how the pillars weave. The committed languages live in [Substrate](/engineering/spl/platform/substrate/); their Bare-runtime implementations live in [Infrastructure](/engineering/infrastructure/).
+The logical side of SPLectrum's engineering. How the system must look, how the pillars weave. The committed languages live in [Substrate](/engineering/spl/platform/substrate/); their Bare-runtime implementations live in [Third Party Software](/engineering/third-party-software/).
 
 ## Top level
 

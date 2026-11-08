@@ -5,13 +5,13 @@ title: "avsc-rpc — Avro RPC Protocol"
 description: "avsc-rpc is the Avro RPC/IPC layer extracted from avsc v5 and maintained as a standalone library for the Bare runtime."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > avsc-rpc
+[Home](/) > [Engineering](/engineering/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > avsc-rpc
 
 # avsc-rpc — Avro RPC Protocol
 
 Reference for avsc-rpc — the Avro RPC/IPC protocol
 layer, extracted from avsc v5 and maintained as a
-standalone library for the [Bare](/engineering/infrastructure/bare/) runtime.
+standalone library for the [Bare](/engineering/third-party-software/bare/) runtime.
 
 ---
 

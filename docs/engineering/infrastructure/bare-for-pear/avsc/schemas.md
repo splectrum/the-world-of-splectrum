@@ -5,7 +5,7 @@ title: "avsc Schema Parsing"
 description: "Schema definition formats in avsc: JSON schemas and Avro IDL, how they parse into Type instances, plus protocols, imports, and namespaces."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc](/engineering/infrastructure/bare-for-pear/avsc/) > Schema Parsing
+[Home](/) > [Engineering](/engineering/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc](/engineering/infrastructure/bare-for-pear/avsc/) > Schema Parsing
 
 # avsc Schema Parsing
 

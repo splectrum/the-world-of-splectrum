@@ -5,11 +5,11 @@ title: "RPC Server — Lifecycle Module"
 description: "Server lifecycle management for the Bare runtime: TCP listener management, PID tracking, file-based command IPC, and request logging."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > RPC Server
+[Home](/) > [Engineering](/engineering/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > RPC Server
 
 # RPC Server — Lifecycle Module
 
-Server lifecycle management for the [Bare](/engineering/infrastructure/bare/) runtime. TCP listener management, PID tracking, file-based command IPC, and request logging.
+Server lifecycle management for the [Bare](/engineering/third-party-software/bare/) runtime. TCP listener management, PID tracking, file-based command IPC, and request logging.
 
 Source: [bare-for-pear/rpc-server](https://github.com/bare-for-pear/rpc-server)
 

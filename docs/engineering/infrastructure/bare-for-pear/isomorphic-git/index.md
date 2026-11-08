@@ -5,7 +5,7 @@ title: "isomorphic-git — Dual-Backend Git"
 description: "Full isomorphic-git with a Hyperdrive fs adapter for P2P storage — standard git operations on bare-fs or Hyperdrive, selected by plugging in the fs."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > isomorphic-git
+[Home](/) > [Engineering](/engineering/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > isomorphic-git
 
 # isomorphic-git — Dual-Backend Git
 

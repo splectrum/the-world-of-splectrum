@@ -5,7 +5,7 @@ title: "avsc-rpc Barification"
 description: "Extracting the avsc v5 RPC layer into a standalone module and replacing Node.js dependencies with Bare equivalents, including the v5/v6 bridge."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc-rpc](/engineering/infrastructure/bare-for-pear/avsc-rpc/) > Barification
+[Home](/) > [Engineering](/engineering/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc-rpc](/engineering/infrastructure/bare-for-pear/avsc-rpc/) > Barification
 
 # avsc-rpc Barification
 

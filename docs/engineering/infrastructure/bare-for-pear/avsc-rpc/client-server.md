@@ -5,7 +5,7 @@ title: "avsc-rpc Client and Server"
 description: "Creating avsc-rpc endpoints: registering server handlers, making client calls, channel lifecycle, and in-memory connections."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [Infrastructure](/engineering/infrastructure/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc-rpc](/engineering/infrastructure/bare-for-pear/avsc-rpc/) > Client and Server
+[Home](/) > [Engineering](/engineering/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc-rpc](/engineering/infrastructure/bare-for-pear/avsc-rpc/) > Client and Server
 
 # avsc-rpc Client and Server
 
