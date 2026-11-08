@@ -6,7 +6,7 @@ Marking: **[C]** = checked in a source actually opened, named by its key in the 
 
 Each entry gives: definition and source; who and which discipline; what it takes life to be; best-known objection or counter-case; word check (does the author use "life" or "living" for it?).
 
-Tally: **43 entries**. Author's own words opened: **23**. Second-hand but checked as quoted: **15**. Unverified: **5** (Bernal, Pirie, Dawkins, Lovelock, Machery). Sources to fetch are under *Blocked sources*.
+Tally: **44 entries**. Author's own words opened: **24**. Second-hand but checked as quoted: **15**. Unverified: **5** (Bernal, Pirie, Dawkins, Lovelock, Machery). Sources to fetch are under *Blocked sources*.
 
 Access note: Science, Springer, Britannica, Taylor & Francis and Royal Society full texts were not reachable. Book chapters still in copyright (Monod, Rosen, Mayr, Dawkins, Lovelock, Margulis) were not opened. Hosted copies of walled papers (course sites, proxies, mirrors) were deliberately not used, and an attempt to fetch several of them was refused by the permission system; they are listed under *Blocked sources* instead. One exception to flag: the Schrödinger wording was read in a user-uploaded Internet Archive copy (S18), so it should be checked against a printed edition before a page quotes it. A similar upload of Oparin's 1952 edition was downloaded but not used; Oparin here rests on the library scan S20.
 
@@ -357,6 +357,17 @@ Access note: Science, Springer, Britannica, Taylor & Francis and Royal Society f
 
 - Fields: "to be alive is to be considered alive by systems that consider themselves alive" [C, as quoted by S4]. Adami: "information that can replicate itself" [C, as quoted by S4]. Marshall: "fire that lights itself", which the authors call metaphorical [C, as quoted by S4]. Word check: the survey asked for "definitions of life"; these are short respondent answers, some shortened by the editors [C, S4].
 
+### 44. Hazen, *Genesis: The Scientific Quest for Life's Origin* (2005), ch. 2 "What Is Life?"; mineral evolution (2008 onward)
+
+- **Position.** Against a sharp line: "Attempts to formulate an absolute definition that distinguishes between life and nonlife represents a similar false dichotomy" (p. 28), because life "must have arisen through a sequence of emergent events" (pp. 28-29). "To define the exact point at which such a system of gradually increasing complexity becomes 'alive' is intrinsically arbitrary. Where you, or I, or anyone else chooses to draw such a line is more a question of perceived value than of science" (p. 29). "'What is life?' is fundamentally a semantic question, a subjective matter of taxonomy" (p. 30) [C, S51].
+- **But.** He keeps a working definition for practice: the NASA panel's sentence "is probably as general, useful, and concise as any we are likely to come up with—at least until we discover more about what is actually out there" (p. 27) [C, S51]. He reports Cleland and Chyba's water analogy, the passage ending "Better, therefore, to keep an open mind and simply describe the characteristics of whatever we find" (p. 30; whether the sentence is theirs or his is not clear from the text), and adds his own suspicion that "any universal theory of life will rest, at least in part, on the ideas of emergence" (p. 30). In place of one line, many: "If life arose as a sequence of emergent steps, then each of those steps represents a taxonomically distinct, fundamentally important stage"; "Each step deserves its own label" (pp. 30-31) [C, S51]. His own guess for the first thing to fit the NASA definition is "flat life", a molecular coating on mineral surfaces (p. 28) [C, S51].
+- **Who.** Mineralogist, astrobiologist (origin-of-life research at the Carnegie Institution).
+- **Takes life to be.** The far end of a graded chemical sequence; where to put the word "alive" on it is a choice made by value. The candidate lines he lists: a membrane ("the intrinsic isolation of each living thing"), self-replication, or genetic information (p. 29) [C, S51].
+- **Mineral evolution: co-evolution, not a definition.** The 2008 paper: "The mineralogy of terrestrial planets evolves as a consequence of a range of physical, chemical, and biological processes", one mechanism being "the generation of far-from-equilibrium conditions by living systems"; "Biochemical processes may thus be responsible, directly or indirectly, for most of Earth's 4300 known mineral species" [C, S54]. 2009: "Evolution, the process by which systems under non-random selective pressure become more complex", with "the subsequent co-evolution of the geo- and biospheres" one of its episodes [C, S52]. 2024: "Evidence for the co-evolution of Earth and life is abundantly preserved in the minerals"; "life changed near-surface environments in ways that led to the formation of approximately half of all known mineral species, most of which are only known to form through biological mediation" [C, S53]. An interview line, "Life begets rock, rocks beget life" [U; Smithsonian, 403 here].
+- **Objection.** None opened against the false-dichotomy claim. Against the mineral programme's word "evolution", see the stretches in §7.
+- **Word check.** Passes for "life", "nonlife" and "alive", the last in scare quotes; he uses "Protolife" for the stages before (p. 29) [C, S51]. In the mineral-evolution texts the stretched word is "evolution" and "co-evolution"; "life" stays the biosphere's, as in the Wong et al. row of §7. Two cross-checks for other entries: he attributes the working definition to Joyce ("he suggested", p. 27), which Joyce later denied (entry 26), and he quotes Maynard Smith as "any population of entities which has the properties of multiplication, heredity and variation" (p. 25), a different wording from entry 38 [C, S51].
+- **Placement.** By position he belongs with §4 (declining a sharp definition while keeping a working one); listed here to keep the numbering.
+
 ---
 
 ## 6. How many definitions, and how the field sorts them
@@ -470,6 +481,7 @@ Plain reading of the table: the stretches are not uniform. Haeckel and Walker me
 - Engels: German text, *Eiweißkörper*. Schrödinger: check against print.
 - Machery, Szostak, Mariscal and Doolittle, Bitbol and Luisi, Cleland 2012: full texts.
 - Lazcano's or others' histories for who first says "definition of life" in the modern sense: not researched.
+- Hazen: the Smithsonian "Life begets rock, rocks beget life" interview wording; the source of the "48 different authorities" appendix he cites (Genesis, p. 25).
 
 ---
 
@@ -547,6 +559,10 @@ Plain reading of the table: the stretches are not uniform. Haeckel and Walker me
 - **S48** Brack, "Reflections on Keywords: Definition, Life and Origin", *Life* 15 (2025), 1376.
 - **S49** Walker and Davies, "The Algorithmic Origins of Life". https://arxiv.org/pdf/1207.4803
 - **S50** Wong et al., *PNAS* 2023, abstract, via OpenAlex. DOI 10.1073/pnas.2310223120
+- **S51** Hazen, *Genesis: The Scientific Quest for Life's Origin* (Joseph Henry Press, 2005), ch. 2, "What Is Life?", pp. 25-31, National Academies Press open reader. https://nap.nationalacademies.org/read/10753/chapter/4
+- **S52** Hazen, "Chemical Evolution: An Introduction", ACS Symposium Series 1025 (2009), abstract via OpenAlex. DOI 10.1021/bk-2009-1025.ch001
+- **S53** Hazen, "Documenting the Co-Evolution of Earth and Life: A Mineral Evolution Approach", EGU General Assembly 2024, abstract via OpenAlex. DOI 10.5194/egusphere-egu24-4723
+- **S54** Hazen et al., "Mineral evolution", *American Mineralogist* 93 (2008), abstract via OpenAlex. DOI 10.2138/am.2008.2955
 
 ## Blocked sources (to fetch)
 
@@ -567,6 +583,8 @@ Paywalled or bot-blocked at the publisher:
 - Bitbol and Luisi 2004: https://doi.org/10.1098/rsif.2004.0012 (PMC1618936, browser check)
 - Mossio, Longo and Stewart 2009: https://halshs.archives-ouvertes.fr/halshs-00791132 (HAL block here)
 - Britannica "life": https://www.britannica.com/science/life (the current entry may carry Sagan's text)
+- Smithsonian, "Life and rocks may have co-evolved on Earth" (Hazen interview): https://www.smithsonianmag.com/science-nature/life-and-rocks-may-have-co-evolved-on-earth-180957807/ (403 here)
+- Hazen's Carnegie site (biosketches, papers): https://hazen.carnegiescience.edu/ (connection timed out here)
 - Sagan 1970, Bedau and Cleland (eds), *The Nature of Life* (CUP 2010): the reader carries Sagan 1970, Koshland, Cleland and Chyba, Ruiz-Mirazo et al. and Bedau 1998 [C, S36; Koshland reprint via OpenAlex], so one book covers five of these. https://doi.org/10.1017/CBO9780511730191
 
 Books to check from print or a library loan:

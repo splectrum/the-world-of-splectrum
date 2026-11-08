@@ -89,6 +89,12 @@ To work out how a neutral meta subject (keyword doorway) for **life** should be 
 
 Who earns a person page is a collaborative decision, not settled by this list.
 
+### 6.9a Order of work and origin of life (2026-11-07)
+
+- **[A]** Life meta subject started with a simple landing (the word across its homes) and *Definitions of life* as its first page, set in the sense of "origin of life" as one specific take on the word.
+- **[A]** Next: general research on life across the homes of the word.
+- **[A]** After that, origin of life in the broad sense, as its own subsection of the meta subject and dealt with independently: it includes religious and non-Western accounts, not only the scientific research.
+
 ### 6.10 Next steps and open questions
 
 - Research the word and the definitions-of-life literature (rule 5, and whether the field's stretches are reported as literal or metaphorical).
