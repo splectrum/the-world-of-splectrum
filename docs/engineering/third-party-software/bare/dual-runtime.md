@@ -238,7 +238,7 @@ Node.js behaviour can break despite a clean mapping.
 
 When these bite, reimplementing for Bare beats
 remapping. See
-[bare-for-pear](/engineering/infrastructure/bare-for-pear/)
+[bare-for-pear](/engineering/our-software/bare-for-pear/)
 for first-hand examples of where the standard mechanism
 breaks and what was done instead.
 

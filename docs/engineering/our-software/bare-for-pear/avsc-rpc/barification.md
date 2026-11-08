@@ -1,11 +1,11 @@
 ---
 layout: default
-lastmod: 2026-05-03
+lastmod: 2026-11-08
 title: "avsc-rpc Barification"
 description: "Extracting the avsc v5 RPC layer into a standalone module and replacing Node.js dependencies with Bare equivalents, including the v5/v6 bridge."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc-rpc](/engineering/infrastructure/bare-for-pear/avsc-rpc/) > Barification
+[Home](/) > [Engineering](/engineering/) > [Our Software](/engineering/our-software/) > [bare-for-pear](/engineering/our-software/bare-for-pear/) > [avsc-rpc](/engineering/our-software/bare-for-pear/avsc-rpc/) > Barification
 
 # avsc-rpc Barification
 
@@ -49,9 +49,10 @@ let utils = require('../avsc/lib/utils')
 let avscPlatform = require('../avsc/lib/platform')
 ```
 
-This works because both libraries sit under `lib/`
-in the spl codebase. The relative path resolves at
-the filesystem level — no package manager involved.
+The relative path was written for the earlier
+codebase, where both libraries sat side by side under
+`lib/`. avsc is now declared as a dependency, from
+bare-for-pear/avsc.
 
 ## Stream Adaptation
 
@@ -90,7 +91,8 @@ channel-level error handling still operates.
 ## The v5/v6 Bridge
 
 avsc-rpc was written against avsc v5. The fork pairs
-it with avsc v6 (the barified fork). The compatibility
+it with the v6 line of avsc (the barified fork, from
+upstream's unreleased master). The compatibility
 module (`compat.js`) bridges the differences.
 
 ### Hash Results
@@ -141,7 +143,7 @@ Called once at module load.
 
 ## Module Dependencies
 
-### From avsc (peer, constitutive)
+### From avsc (constitutive)
 
 - `types` — Avro type system, schema resolution
 - `utils` — buffer operations, Tap, helpers
@@ -159,7 +161,7 @@ Called once at module load.
 ## Module Structure
 
 ```
-services.js   — 2470 lines. Service, Client, Server,
+services.js   — about 2,470 lines. Service, Client, Server,
                 channels (stateful/stateless, client/server),
                 message framing, handshake, multiplexing,
                 middleware chain, protocol negotiation.
@@ -176,9 +178,7 @@ not factored out because the upstream kept them
 together and the coupling is deliberate — channels
 depend intimately on the handshake and framing logic.
 
-See Code Implementation
-for the full dependency management and subtree
-workflow. See the
-[API Reference](https://github.com/bare-for-pear/avsc-rpc/blob/main/doc/api.md)
+See the
+[API Reference](https://github.com/bare-for-pear/avsc-rpc/blob/main/docs/api.md)
 for the complete method and option documentation.
 

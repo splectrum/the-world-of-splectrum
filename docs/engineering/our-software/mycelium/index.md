@@ -1,11 +1,11 @@
 ---
 layout: default
-lastmod: 2026-06-06
+lastmod: 2026-11-08
 title: "mycelium — The Data Fabric Base Layer"
 description: "The Mycelium data fabric as a module — git object operations, XPath navigation, and URI CRUD with a Kafka record dispatch boundary."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [SPL Software](/engineering/spl/software/) > mycelium
+[Home](/) > [Engineering](/engineering/) > [Our Software](/engineering/our-software/) > mycelium
 
 # mycelium — The Data Fabric Base Layer
 
@@ -13,7 +13,9 @@ The Mycelium data fabric as a module. Blends git object operations, XPath
 navigation, and URI CRUD into one API. All data is key/value with opaque
 bytes (Round 1).
 
-**Source:** [pear-full-square/mycelium](https://github.com/pear-full-square/mycelium)
+**Source:** [pear-full-square/mycelium](https://github.com/pear-full-square/mycelium) (archived)
+
+The first Mycelium module (June 2026), from before the HAICC platform. Mycelium as built is the `mycelium-` family of modules in [pear-full-square](https://github.com/pear-full-square), and the module is archived.
 
 ---
 
@@ -99,9 +101,10 @@ concurrent operations, remove end-to-end.
 
 ## Dependencies
 
-Currently uses upstream isomorphic-git. Will move to
-[bare-for-pear/p2p-git](https://github.com/bare-for-pear/p2p-git)
-(stripped plumbing) when integrated.
+Uses upstream isomorphic-git. The plan was to move to
+[p2p-git](/engineering/our-software/p2p-git/) (stripped
+plumbing); in the platform, Mycelium's git module uses
+it as one of its engines.
 
 ## Intention
 

@@ -1,17 +1,20 @@
 ---
 layout: default
-lastmod: 2026-05-03
+lastmod: 2026-11-08
 title: "RPC Server — Lifecycle Module"
 description: "Server lifecycle management for the Bare runtime: TCP listener management, PID tracking, file-based command IPC, and request logging."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > RPC Server
+[Home](/) > [Engineering](/engineering/) > [Our Software](/engineering/our-software/) > [bare-for-pear](/engineering/our-software/bare-for-pear/) > RPC Server
 
 # RPC Server — Lifecycle Module
 
 Server lifecycle management for the [Bare](/engineering/third-party-software/bare/) runtime. TCP listener management, PID tracking, file-based command IPC, and request logging.
 
-Source: [bare-for-pear/rpc-server](https://github.com/bare-for-pear/rpc-server)
+**Source:** [bare-for-pear/rpc-server](https://github.com/bare-for-pear/rpc-server)
+**Extracted from:** the avsc-rpc server of our earlier codebase (April 2026)
+
+Resting: not used by the HAICC platform.
 
 ---
 
@@ -49,7 +52,7 @@ The PID check is instant. The TCP fallback (connect and disconnect) takes networ
 
 **Singleton per process.** One server instance, module-level state. There's no use case for multiple TCP servers in the same Bare process. The simplicity of `rpcServer.start()` / `rpcServer.stop()` follows from this.
 
-**Protocol-agnostic.** The `onConnection` callback is the only protocol surface. The module creates and manages TCP connections. What runs on them is the caller's concern. Today it could be avsc-rpc channels. Tomorrow it could be anything.
+**Protocol-agnostic.** The `onConnection` callback is the only protocol surface. The module creates and manages TCP connections. What runs on them is the caller's concern. It was written for avsc-rpc channels; it could carry anything.
 
 **Render parameter on logging.** The log function takes an optional render function that transforms the message before writing to disk. This keeps display logic (human-readable formatting, schema awareness) in the caller. The infrastructure module writes whatever JSON it's given.
 

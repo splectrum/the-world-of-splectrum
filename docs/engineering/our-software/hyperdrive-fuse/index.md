@@ -1,11 +1,11 @@
 ---
 layout: default
-lastmod: 2026-06-06
+lastmod: 2026-11-08
 title: "hyperdrive-fuse — FUSE Mount for Hyperdrive"
 description: "Read-only FUSE mount for Hyperdrive v11 — mount a P2P drive as a local filesystem. The swarm as a drive, pure visibility."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [SPL Software](/engineering/spl/software/) > hyperdrive-fuse
+[Home](/) > [Engineering](/engineering/) > [Our Software](/engineering/our-software/) > hyperdrive-fuse
 
 # hyperdrive-fuse — FUSE Mount for Hyperdrive
 
@@ -14,6 +14,8 @@ filesystem. The drive is a window into the swarm — pure visibility. Writes
 go through the fabric, not through the mount.
 
 **Source:** [pear-full-square/hyperdrive-fuse](https://github.com/pear-full-square/hyperdrive-fuse)
+
+From the earlier design (June 2026), before the HAICC platform: resting, not part of the platform as built.
 
 ---
 

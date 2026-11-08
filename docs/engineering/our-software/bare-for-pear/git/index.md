@@ -1,17 +1,20 @@
 ---
 layout: default
-lastmod: 2026-05-03
+lastmod: 2026-11-08
 title: "git — Git CLI Wrapper"
 description: "A git CLI wrapper for the Bare runtime: structured output, subtree lifecycle management, a two-reality model, and hosted repo operations."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > Git
+[Home](/) > [Engineering](/engineering/) > [Our Software](/engineering/our-software/) > [bare-for-pear](/engineering/our-software/bare-for-pear/) > Git
 
 # git — Git CLI Wrapper
 
-A git CLI wrapper for the [Bare](/engineering/third-party-software/bare/) runtime. Provides programmatic access to git with structured output, subtree lifecycle management, and configurable hosted repo operations.
+A git CLI wrapper for the [Bare](/engineering/third-party-software/bare/) runtime, written for Bare in April 2026 (not a clone). Provides programmatic access to git with structured output, subtree lifecycle management, and configurable hosted repo operations.
 
 **Source:** [github.com/bare-for-pear/git](https://github.com/bare-for-pear/git)
+**Wraps:** the official [git](https://git-scm.com/) command line
+
+Resting: not used by the HAICC platform, whose Mycelium does git's work in its own git module.
 
 ---
 

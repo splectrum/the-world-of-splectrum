@@ -15,7 +15,7 @@ description: "SPLectrum engineering — the SPLectrum philosophy and human-AI co
 
 **[Third Party Software](/engineering/third-party-software/)** — external software maintained by third parties: runtimes, platforms and modules, as they come from upstream.
 
-**[SPL Software](/engineering/spl/software/)** — software we write from the ground up. Modules, components, libraries. Also [bare-for-pear](/engineering/infrastructure/bare-for-pear/): outside packages we have cloned and adapted for Bare.
+**[Our Software](/engineering/our-software/)** — the GitHub organisations our software lives in and what each is for: the engines, the projects and packages, SPLectral's components, the planning and the site, and outside code adapted for Bare.
 
 **[SPL Platform](/engineering/spl/platform/)** — the core architecture. P2P substrate, Mycelium, and the committed languages that constitute the fabric.
 

@@ -5,3 +5,15 @@
 /engineering/infrastructure/p2p/* /engineering/third-party-software/p2p/:splat 301
 /engineering/infrastructure/pear/* /engineering/third-party-software/pear/:splat 301
 /engineering/infrastructure/ecosystem/* /engineering/third-party-software/ 301
+/engineering/infrastructure/bare-for-pear/p2p-git/ /engineering/our-software/p2p-git/ 301
+/engineering/infrastructure/bare-for-pear/* /engineering/our-software/bare-for-pear/:splat 301
+/engineering/spl/software/* /engineering/our-software/:splat 301
+/engineering/our-software/bare-for-pear/avsc/types/ /engineering/our-software/bare-for-pear/avsc/ 301
+/engineering/our-software/bare-for-pear/avsc/serialization/ /engineering/our-software/bare-for-pear/avsc/ 301
+/engineering/our-software/bare-for-pear/avsc/containers/ /engineering/our-software/bare-for-pear/avsc/ 301
+/engineering/our-software/bare-for-pear/avsc/schemas/ /engineering/our-software/bare-for-pear/avsc/ 301
+/engineering/our-software/bare-for-pear/avsc-rpc/services/ /engineering/our-software/bare-for-pear/avsc-rpc/ 301
+/engineering/our-software/bare-for-pear/avsc-rpc/client-server/ /engineering/our-software/bare-for-pear/avsc-rpc/ 301
+/engineering/our-software/bare-for-pear/avsc-rpc/transports/ /engineering/our-software/bare-for-pear/avsc-rpc/ 301
+/engineering/our-software/bare-for-pear/avsc-rpc/middleware/ /engineering/our-software/bare-for-pear/avsc-rpc/ 301
+/engineering/our-software/bare-for-pear/avsc-rpc/wire-protocol/ /engineering/our-software/bare-for-pear/avsc-rpc/ 301

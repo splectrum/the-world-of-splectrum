@@ -52,7 +52,7 @@ On the phase 2 rework request (`plan/engineering/phase-2-rework-request.md`).
   - **HAICC Platform**: P2P is part of it, its structure; Splectral is within it, the user interaction platform (in the browser); components and solutions are now part of it.
   - **Mycelium Repository**: a multi-paradigm repository built on the five languages (URI, XPath, Git, AVRO, Kafka), which sit in this subsection. The languages are optimised for a P2P sublayer; Mycelium itself has no notion of that layer.
   - **SPLectrum DSL Engine**: SPLectrum is expressed with Mycelium data structures, as are all applications.
-  - **Our Software**, in place of SPL Software: an overview of the GitHub organisations and what they are for.
+  - **Our Software**, in place of SPL Software: an overview of the GitHub organisations and what they are for. At `/engineering/our-software/` (the old `/engineering/spl/software/` and `/engineering/infrastructure/bare-for-pear/` redirected): one section per organisation (purpose, link, broad strokes); bare-for-pear's pages under it, with each module's upstream; p2p-git under it as ours; hyperdrive-fuse and the archived mycelium module marked as from the earlier design.
   - **Third Party Software**: stays, updated; title and URI changed (`/engineering/third-party-software/`, the old `/engineering/infrastructure/` redirected); missing third-party software added.
   - **[A]** bare-for-pear is third-party software we have cloned and adapted; pear-full-square is software we write from the ground up. Both go in Our Software; for bare-for-pear, Our Software deals with the upstream each module was cloned from.
   - The Components and Solutions links go.

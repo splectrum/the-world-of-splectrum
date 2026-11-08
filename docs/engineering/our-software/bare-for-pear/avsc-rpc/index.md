@@ -1,11 +1,11 @@
 ---
 layout: default
-lastmod: 2026-05-03
+lastmod: 2026-11-08
 title: "avsc-rpc — Avro RPC Protocol"
 description: "avsc-rpc is the Avro RPC/IPC layer extracted from avsc v5 and maintained as a standalone library for the Bare runtime."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > avsc-rpc
+[Home](/) > [Engineering](/engineering/) > [Our Software](/engineering/our-software/) > [bare-for-pear](/engineering/our-software/bare-for-pear/) > avsc-rpc
 
 # avsc-rpc — Avro RPC Protocol
 
@@ -26,6 +26,10 @@ negotiation.
 The RPC layer was removed from avsc in v6
 ([PR #428](https://github.com/mtth/avsc/pull/428)).
 This module preserves and maintains it independently.
+v6 is not released, so the avsc on npm (5.7.9) is still
+the v5 line.
+
+Not used by the HAICC platform now.
 
 **Source:** [github.com/bare-for-pear/avsc-rpc](https://github.com/bare-for-pear/avsc-rpc)
 **Extracted from:** commit `dd82783` of mtth/avsc
@@ -68,32 +72,15 @@ Additional adaptations:
   `_transform(buf, cb)` — no encoding argument.
 - **v5/v6 compatibility bridge** (`compat.js`) —
   avsc-rpc was written against avsc v5. The fork pairs
-  it with avsc v6. The bridge handles hash result
+  it with the v6 line of avsc. The bridge handles hash result
   types (Uint8Array to Buffer), restored utility
   functions, and `process.nextTick` polyfill via
   `queueMicrotask`.
-- **Peer dependency on avsc** — types and utils are
-  imported directly from the avsc sibling. Both
-  libraries live together under `lib/`.
+- **avsc as a dependency** — types and utils are
+  imported directly from the avsc sibling; avsc is
+  declared as a dependency, from bare-for-pear/avsc.
 
-## Reference Pages
+## Reference
 
-- [Service Definition](/engineering/infrastructure/bare-for-pear/avsc-rpc/services/) — protocols,
-  messages, Service.forProtocol, type resolution
-- [Client and Server](/engineering/infrastructure/bare-for-pear/avsc-rpc/client-server/) — creating
-  clients and servers, handler registration, options
-- [Transports](/engineering/infrastructure/bare-for-pear/avsc-rpc/transports/) — in-memory, TCP,
-  HTTP, channel lifecycle, stateful vs stateless
-- [Middleware](/engineering/infrastructure/bare-for-pear/avsc-rpc/middleware/) — request/response
-  chain, use patterns
-- [Wire Protocol](/engineering/infrastructure/bare-for-pear/avsc-rpc/wire-protocol/) — handshake,
-  framing, Netty compatibility, protocol negotiation
-- [Barification](/engineering/infrastructure/bare-for-pear/avsc-rpc/barification/) — streamx
-  adaptation, v5/v6 bridge, platform dependencies
-
-## Library Reference
-
-The library's own reference site:
-[bare-for-pear.github.io/avsc-rpc](https://bare-for-pear.github.io/avsc-rpc/)
-— complete API documentation including full method
-signatures, all options, and wire format details.
+- [Barification](/engineering/our-software/bare-for-pear/avsc-rpc/barification/): the streamx adaptation, the v5/v6 bridge, platform dependencies.
+- The module's [README](https://github.com/bare-for-pear/avsc-rpc#readme) and the repository's [docs](https://github.com/bare-for-pear/avsc-rpc/tree/main/docs) folder: services, clients and servers, transports, middleware and the wire protocol, with the complete [API reference](https://github.com/bare-for-pear/avsc-rpc/blob/main/docs/api.md).

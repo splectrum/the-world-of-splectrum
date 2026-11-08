@@ -1,11 +1,11 @@
 ---
 layout: default
-lastmod: 2026-05-03
+lastmod: 2026-11-08
 title: "avsc Barification"
 description: "What changed to run avsc on Bare: replacing Node.js modules with Bare equivalents, a TextEncoder/TextDecoder polyfill, and buffer handling."
 ---
 
-[Home](/) > [Engineering](/engineering/) > [bare-for-pear](/engineering/infrastructure/bare-for-pear/) > [avsc](/engineering/infrastructure/bare-for-pear/avsc/) > Barification
+[Home](/) > [Engineering](/engineering/) > [Our Software](/engineering/our-software/) > [bare-for-pear](/engineering/our-software/bare-for-pear/) > [avsc](/engineering/our-software/bare-for-pear/avsc/) > Barification
 
 # avsc Barification
 
@@ -38,6 +38,10 @@ let crypto = require('crypto')
 // fork
 let crypto = require('bare-crypto')
 ```
+
+The hash call changes with it: upstream's
+`hash.end(str); hash.read()` becomes
+`hash.update(str); hash.digest()`.
 
 Provides `getHash(str, algorithm)` — used for schema
 fingerprints (MD5) and protocol handshake hashes.
@@ -121,45 +125,20 @@ ensures avsc works whether Buffer is present or not.
 
 ## Package.json
 
-Upstream avsc v6 had a conditional imports field:
-
-```json
-{
-  "imports": {
-    "fs": { "bare": "bare-fs", "default": "fs" },
-    "crypto": { "bare": "bare-crypto", "default": "crypto" }
-  }
-}
-```
-
-The fork strips this to:
-
-```json
-{
-  "name": "avsc",
-  "main": "lib/index.js"
-}
-```
-
-No conditional resolution. Direct requires to bare-*
-modules throughout. One runtime, one code path.
+The fork's package.json has no conditional imports
+field: direct requires to bare-* modules throughout.
+One runtime, one code path. It declares the Bare
+modules as ordinary dependencies, so the fork installs
+as a package.
 
 ## Platform Dependencies
 
-Required at runtime, installed by `bin/setup`:
+Declared in package.json:
 
 | Module | Version | Purpose |
 |--------|---------|---------|
-| bare-crypto | 4.7.0 | Schema fingerprints, protocol hashes |
-| bare-fs | 4.7.0 | Container file I/O, IDL imports |
-| bare-path | 3.0.0 | IDL import path resolution |
-| bare-stream | 2.13.0 | Container encoding/decoding streams |
-
-These are platform dependencies — not committed to the
-repository, populated by the setup script into `lib/`.
-The `node_modules → lib/` symlink makes them
-resolvable by name.
-
-See Code Implementation
-for the full dependency management model.
+| bare-crypto | ^1.13.4 | Schema fingerprints, protocol hashes |
+| bare-fs | ^4.7.0 | Container file I/O, IDL imports |
+| bare-path | ^3.0.0 | IDL import path resolution |
+| bare-stream | ^2.13.0 | Container encoding/decoding streams |
 
