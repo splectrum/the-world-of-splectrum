@@ -31,7 +31,7 @@ Certain inorganic mineral subunits — ewingite, ilmajokite, and others — have
 
 ## The response
 
-Walker, Sharma, Cronin et al. (2024), same journal, 20240367: "Experimentally measured assembly indices are required to determine the threshold for life."
+Walker, Mathis, Marshall, Cronin (2024), same journal, 20240367: "Experimentally measured assembly indices are required to determine the threshold for life."
 
 Two main points. First, the Hazen calculations are theoretical — derived from crystal structures of charged units not isolable in solution. The assembly theory authors' assembly indices are experimentally measured for organic, covalently bonded molecules. The distinction between calculated and measured assembly indices is methodologically significant.
 

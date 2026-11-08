@@ -31,7 +31,7 @@ The framing claim: assembly theory makes broad unification claims that are unsup
 
 ## The defence
 
-[Cronin](/positioning/persons/c/cronin/), [Walker](/positioning/persons/w/walker/), and the Glasgow / ASU teams responded formally in "Assembly theory and its relationship with computational complexity" (*npj Complexity*, 2025). Three main lines:
+Christopher Kempes and Michael Lachmann of the Santa Fe Institute led the formal response, with Iannaccone, Fricke, Chowdhury, [Walker](/positioning/persons/w/walker/) and [Cronin](/positioning/persons/c/cronin/), in "Assembly theory and its relationship with computational complexity" (*npj Complexity*, 2025). Three main lines:
 
 **LZ compression fails at the interesting cases.** The equivalence claim is technically correct for the restricted regime but does not hold where Kolmogorov complexity is most informative. LZ compression is computable and bounded; Kolmogorov complexity is not. Claiming that assembly theory is "just" LZ compression misses what the theory is doing with the measure.
 

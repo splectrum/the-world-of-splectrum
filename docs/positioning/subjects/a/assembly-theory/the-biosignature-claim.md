@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-26
+lastmod: 2026-11-08
 title: "Assembly Theory — The Biosignature Claim"
 description: "The empirical claim that high assembly index indicates selection-like processes, together with the measurement apparatus and the experimental record."
 ---
@@ -15,7 +15,7 @@ Below a certain assembly index threshold, objects can plausibly arise through ab
 
 ## The threshold
 
-The experimentally determined threshold is approximately 15 steps, with a sharp transition between 13 and 15 in the molecular systems tested. Below 13, molecules appear in both biotic and abiotic samples. Above 15, they appear only in samples where selection-like processes have operated. The sharpness of the transition is part of what the theory presents as evidence — it is not a gradual fade but a cut.
+The threshold comes from Marshall et al. (2021): "it appears that only living samples produced MA measurement above ~15", with false negatives admitted. A model estimate puts the chance formation of a molecule with an index between 15 and 20 at "one molecule in 10^23". The claim runs one way: "not all molecules produced by living processes have high MA… but all high MA molecules are produced by living (or technological) processes." The parenthesis puts technology on the life side of the measure from the first measurement paper on.
 
 The threshold is empirically grounded for the specific molecular systems tested: organic, covalently bonded molecules measured via mass spectrometry. Whether it transfers to other molecular families, other chemical regimes (ionic, mineral), and non-molecular objects is being established rather than settled. The universality of the threshold is part of what is contested in the [mineral exchange](/positioning/subjects/a/assembly-theory/the-mineral-exchange/).
 

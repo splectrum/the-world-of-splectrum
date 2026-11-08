@@ -9,7 +9,7 @@ description: "How the Cronin-Walker collaboration started, the sequence of found
 
 # Development
 
-Assembly theory is the joint work of [Lee Cronin](/positioning/persons/c/cronin/) and [Sara Imari Walker](/positioning/persons/w/walker/), developed from 2017 onward with contributions from collaborators at Glasgow, Arizona State, and the Santa Fe Institute. This page holds the history, the people, and the reference list.
+Assembly theory is the joint work of [Lee Cronin](/positioning/persons/c/cronin/) and [Sara Imari Walker](/positioning/persons/w/walker/), with roots in the Cronin group's 2017 pathway complexity paper and contributions from collaborators at Glasgow, Arizona State, and the Santa Fe Institute. This page holds the history, the people, and the reference list.
 
 ---
 
@@ -17,7 +17,7 @@ Assembly theory is the joint work of [Lee Cronin](/positioning/persons/c/cronin/
 
 Lee Cronin's work on chemical complexity and self-assembling chemical systems at the University of Glasgow in the 2000s and early 2010s set the ground — the question of how complex molecules arise from simpler ones, and whether the complexity of a molecule can be quantified through its construction history. Sara Imari Walker's astrobiology and origin-of-life work at Arizona State University set the question from the other end — what distinguishes biological from abiotic complexity, and whether the distinction can be made measurable.
 
-They met at a NASA astrobiology workshop in 2012 and began collaborating. Joint development of assembly theory proper started from 2017 with the pathway complexity paper.
+They met at a NASA astrobiology workshop in 2012. The concept began in Cronin's group as pathway complexity (Marshall, Murray and Cronin, 2017); Walker is a co-author from the 2021 mass-spectrometry paper on.
 
 ---
 

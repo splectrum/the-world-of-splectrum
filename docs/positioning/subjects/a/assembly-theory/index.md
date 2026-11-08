@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "Assembly Theory"
-description: "Assembly theory quantifies an object's complexity through its construction history — the minimum number of joining operations required to build it — and extends this into a metaphysical claim about time as a material property of objects. Developed by Lee Cronin and Sara Imari Walker from 2017 onward."
+description: "Assembly theory quantifies an object's complexity through its construction history — the minimum number of joining operations required to build it — and extends this into a metaphysical claim about time as a material property of objects. Developed by Lee Cronin's group and Sara Imari Walker, from roots in the group's 2017 pathway complexity paper."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Assembly Theory
