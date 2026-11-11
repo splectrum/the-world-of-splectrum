@@ -1,26 +1,46 @@
 ---
 layout: default
-lastmod: 2026-05-03
-title: "Engineering Commitments"
-description: "The engineering commitments taken before the architecture is reached: data first, no hidden state, functionality as metadata, decentralisation as constitutive."
+lastmod: 2026-11-09
+title: "Engineering Principles"
+description: "The principles the HAICC platform is built on, with AI autonomy as the aim: simplicity, single concern, self-containment, a fractal process structure, a state-driven system."
 ---
 
-[Home](/) > [Engineering](/engineering/) > Engineering Commitments
+[Home](/) > [Engineering](/engineering/) > Engineering Principles
 
-# Engineering Commitments
+# Engineering Principles
 
-Commitments taken before the architecture is reached — they explain why it has the shape it does. Components wrapped in from outside (substrate, infrastructure) retain their own design integrity.
+The aim is full AI autonomy: from a need to running software.
 
 ---
 
-**Decentralisation is constitutive.** Solutions are built within a private context. Decentralisation is not an afterthought — no central database, no single source of truth, no central controller.
+## Design
 
-**Logical over physical.** Architecture describes how a system must look, not how it must be physically built. The separation is strategic: physical implementation is the natural place for AI to take maximal autonomy, advancing the human-AI collaboration.
+**Keep it simple.** Design and refactor for simplicity.
 
-**Data first.** For everything in the system, data state is authoritative. Processes act on data state and derive from it — they are not independent of it. Hence the *data X* vocabulary family — data state, data entity, data owner, data world.
+**Single concern.** One concern to a part, where possible and appropriate.
 
-**No hidden state.** Whatever exists in the system is visible in some owner's data world view. Nothing lurks behind interfaces. Known by its imprint on the fabric, not by looking inside.
+**Logical over physical.** The design says how a system must look, not how it is physically built. Physical implementation is where AI takes the most autonomy.
 
-**Functionality as metadata.** Functionality is colocated as metadata on the data. Protocols, schemas, and operational logic live in the data state alongside the data they act on — not behind separate APIs or in external configuration.
+## Structure
 
-**Human-AI collaboration.** Human and AI as collaborative peers, no central controller. Activity is organised accordingly.
+**Self-containment.** Remove dependency constraints, in the image of cells: every unit carries its own copy of what it needs.
+
+**Fractal process structure.** The typical lifecycle, from boot to teardown, recurs at different levels.
+
+**Decentralised.** No central database, no single source of truth.
+
+## Running
+
+**State driven, not process driven.** Processes act on the data state and derive from it.
+
+**No hidden state.** Everything is in plain sight, and every change is said.
+
+**Validation at the boundary.** Input is validated where it enters, with trust internally.
+
+**Don't anticipate.** Code doesn't anticipate what might go wrong; failures are resolved through exception handling.
+
+## Working
+
+**Consistent rules.** Short and checkable, so the whole stays one thing: the [consistency rules](https://github.com/splectrum/splectrum-dev-env-3-mycelium/blob/main/docs/rules.md).
+
+**Human-AI collaboration.** Design decisions are agreed with the human and recorded with their reasons.

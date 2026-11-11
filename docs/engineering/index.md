@@ -11,7 +11,7 @@ description: "SPLectrum engineering — the SPLectrum philosophy and human-AI co
 
 ---
 
-**[Engineering Commitments](/engineering/engineering-commitments/)** — commitments taken before the architecture is reached. They explain why it has the shape it does.
+**[Engineering Principles](/engineering/engineering-principles/)** — the principles the platform is built on, with AI autonomy as the aim.
 
 **[Third Party Software](/engineering/third-party-software/)** — external software maintained by third parties: runtimes, platforms and modules, as they come from upstream.
 
