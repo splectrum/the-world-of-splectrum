@@ -76,7 +76,7 @@ step "Production build into publish/"
 rm -rf publish
 log="$(mktemp)"
 start=$(date +%s)
-if ! docker run --rm -e JEKYLL_ENV=production \
+if ! docker run --rm -e JEKYLL_ENV=production -e TZ=UTC \
       -v "$ROOT":/srv/jekyll -w /srv/jekyll \
       "$IMAGE" jekyll build --source docs --destination publish >"$log" 2>&1; then
   cat "$log"
