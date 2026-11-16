@@ -40,3 +40,5 @@ Lives in `plan/`, one folder per topic; discussion captures not yet placed go to
 - [ ] **Time** — `plan/time/`: the time doorway and the reality-side time piece.
 
 - [ ] **Evolution follow-on** — `plan/evolution-follow-on/`: the core formulation, the Being and becoming doorway, the wider-landscape piece, the agency/telescopic thread, emergence against a background of knowns.
+
+- [ ] **The subject and its language in the world** — `submissions/the-subject-and-language-in-the-world.md` (captured 2026-11-15, from *Tractatus* 5.6) and its research note `plan/language/subject-and-language-in-the-world-research.md` (two rounds done, 2026-11-15/16). Planned outcome: a close-affinity piece in two halves (the subject in the world; the language in the world) and a post. Open: the hinge phrase (Ogden's 1922 rendering, later corrected), person pages for Neurath, Humboldt and Davidson (collaborative call), the piece's title, and the sources for local pickup listed in the note.

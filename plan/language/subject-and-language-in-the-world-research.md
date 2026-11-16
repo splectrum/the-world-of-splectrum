@@ -1,6 +1,6 @@
 # The subject and its language in the world: research note
 
-Purpose: the research round for `submissions/the-subject-and-language-in-the-world.md`. It checks the *Tractatus* remarks at source, the private language argument's scope and the field cast, and it lists what the person pages already back. This is a working note, not a site page. Nothing here is a decision.
+Purpose: the research round for the submission on the subject and its language in the world. It checks the *Tractatus* remarks at source, the private language argument's scope and the field cast, and it lists what the person pages already back. This is a working note, not a site page. Nothing here is a decision.
 
 Marking: **[C]** means checked against a source I opened, named by its key in the Sources list. **[U]** means unverified: memory, a search-engine summary, or a secondary paraphrase I could not open.
 
@@ -136,7 +136,7 @@ The language in the world:
 | §§199, 202, 217, 241–242 | — |
 | — | Schopenhauer's influence (one clause); the 5.62 translation point (one clause) |
 
-The page's sentence "understandable to only a single individual" is loose: it does not say whether "only" means in fact or in principle, and the mainstream reading says in principle [C, S9]. Tightening it is the backing page's gap to close (`process/backing-flows-down.md`).
+The page's sentence "understandable to only a single individual" is loose: it does not say whether "only" means in fact or in principle, and the mainstream reading says in principle [C, S9]. Tightening it is the backing page's gap to close.
 
 **The cast pages, briefly:**
 

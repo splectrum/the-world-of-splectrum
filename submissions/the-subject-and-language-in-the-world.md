@@ -34,7 +34,7 @@ destinations: positioning
 - **[C]** The book excludes both things the author names:
   - The subject is placed at the limit (5.632) and shrinks to a point (5.64).
   - The book's own language goes too. In 6.54 its propositions are nonsense, a ladder to be thrown away, and logic shows itself but cannot be said. Here the language that talks about the world stands outside the world it talks about, and the book says so openly.
-  - This fills the slot "the *Tractatus*, to check" in `plan/evolution-follow-on/evolution-follow-on.md` (the language assumed outside the system).
+  - This makes the *Tractatus* a clear case of a habit the author has named before: philosophy assuming that the language it describes the world in stands outside the system it describes. The other cases are the metalanguage placed one level up (Tarski's object-language/metalanguage hierarchy, Carnap's external questions). Neurath, Quine and the later Wittgenstein work from inside.
 
 ## The second strand: private, shared, fed back
 
@@ -67,7 +67,7 @@ The subject in the world:
 - **Merleau-Ponty** (page): the body-subject is "of the world".
 - **von Uexküll** (page): the *Umwelt*, a personal world that is still part of nature.
 - **von Foerster** and **Maturana** (pages): second-order cybernetics, the observer inside the observed system. Maturana: "everything said is said by an observer".
-- **Rovelli** (page): the observer as one physical system among others. "We are … limited parts of nature, and we are so even as understanders" (checked at source in `plan/language/language-meta-subject.md` §2.5).
+- **Rovelli** (page): the observer as one physical system among others. "We are undoubtably limited parts of nature, and we are so even as understanders of this same nature" (checked at source: the closing section of "Meaning = Information + Evolution", arXiv:1611.02420, where Rovelli raises a "small red flag" over how far the structure physics finds is put there by ourselves).
 - **Neurath** (no page): the boat rebuilt at sea.
 - **Quine** (page): no first philosophy.
 
