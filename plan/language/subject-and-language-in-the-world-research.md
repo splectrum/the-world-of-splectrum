@@ -164,6 +164,16 @@ The page's sentence "understandable to only a single individual" is loose: it do
    - **Davidson:** a strong case. Radical interpretation, anomalous monism, "On the Very Idea of a Conceptual Scheme" and triangulation. He is named on five site pages.
    - The alternative to new pages is that the piece names them with external links, as the site already does. That works as long as the piece says nothing about them that a site page would need to back.
 
+## Recommendations on the open decisions (parked, 2026-11-16)
+
+Not for now. Recorded so they are ready when the piece is taken up.
+
+1. **The hinge.** Recommended: keep "the language which only I understand" as the author's phrase, credited to Ogden's 1922 rendering, with one clause noting that Wittgenstein corrected it to "the only language that I understand". The hinge then joins the two halves as a reading the translation opened, which the author takes further: private in fact and shareable (left open by §243 on the in-principle reading), hooked onto the shared language, fed in. The piece uses this only as resonance and does not stage the scholarly dispute. The story of the mistranslation (Hintikka, Anscombe, Lewy) is a candidate for the post, as language brewing in action.
+2. **Person pages.** Recommended:
+   - **Humboldt (`h/humboldt-w`):** yes. *Energeia* is central to the language strand, and he is already named on six site pages.
+   - **Neurath:** yes. The boat carries the "language rebuilt from inside" half, and Quine's boat–ladder sentence ties it to 6.54.
+   - **Davidson:** defer. The piece can name triangulation with an external link, because only that one point rests on him. Raise him again when the language doorway is worked on.
+
 ## Discard list
 
 - "with 'my' emphasised" for 5.6. The spacing covers the whole phrase "Die Grenzen meiner Sprache", and the emphasised "my" belongs to 5.62.
