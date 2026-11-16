@@ -58,3 +58,9 @@ destinations: seed, reality
 - **[C]** "none has a special place: not science, and not philosophy either" is the [A] point about pegging down, but it is said in passing. It could be the turn of the post.
 - **[C]** "each with equal standing in potential" is close to [A], and the room figure could be taken up here: what kind of centre brings them together without standing above them.
 - **[C]** The naming itself, "a modern natural philosophy", currently arrives without ceremony. If the sequence ends on "it can be named again", that moment could be made more of.
+
+## Next review (after the 2026-11-16 rework)
+
+- **[A]** The storyline now hangs together; the post needs cutting back (896 words).
+- **[C]** Trim candidates: the stone/bacterium/village paragraph; "A centre that was a language would have to stop, and the knowing with it" (overlaps the city paragraph).
+- **[C]** Wittgenstein, *Philosophical Investigations* §18 (Anscombe): "suburbs of our language", "Our language can be seen as an ancient city" and "a maze of little streets and squares" checked at source; the rest of the quoted sentence ("of old and new houses … uniform houses") from memory, to check word for word or shorten to the checked part.
