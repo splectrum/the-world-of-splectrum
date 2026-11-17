@@ -2,11 +2,11 @@
 layout: post
 title: "Thermodynamics and the Geodesic Principle"
 date: 2026-11-24
-lastmod: 2026-11-16
+lastmod: 2026-11-17
 labels: [conversations, science]
 description: "What does change cost? A system's own entropy change is fixed by its two end states; the entropy created on the way is not. The cheapest road between two states is the shortest path in a curved space, travelled at a steady pace. It is also the most constrained, which leaves the question of what cost we are willing to live with."
-status: draft
-words: 678
+status: ready
+words: 668
 ---
 
 <img src="https://images.unsplash.com/photo-1717308086506-4cbc0f4624ed?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Thermodynamics and the Geodesic Principle" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
@@ -27,7 +27,7 @@ One case makes the cost concrete. [Maxwell's demon](/blog/2026/11/maxwells-demon
 
 These results are bounds, not predictions: what any process must pay at minimum, not what a given process does.
 
-What the principle tells us is that there is a most efficient way to make a change, and that it does not decide where the change ends. The end state is the same whichever road is taken; only the bill differs. And the cheapest road is the most demanding one. It needs full control over the system and time to spare, so the more efficiency is wanted, the tighter the constraints. The question it leaves is not how to reach the minimum but what cost we are willing to live with to reach the outcome, and how soon.
+What the principle tells us is that there is a most efficient way to make a change, and that the end state is the same whichever way is taken; only the bill differs. The cheapest way is the most demanding one. It requires full control over the system and time to spare: the more efficiency is wanted, the tighter the constraints. The question it leaves is not how to reach the minimum but what cost one is willing to live with to reach the outcome, and how soon.
 
 <small>This post is part of the [conversations series](/blog/label/conversations/). See also the reference entries on <a href="/positioning/persons/i/ito/">Ito</a>, <a href="/positioning/persons/l/landauer/">Landauer</a>, and the thermodynamics pages on <a href="/positioning/subjects/t/thermodynamics/away-from-equilibrium/">away from equilibrium</a> and <a href="/positioning/subjects/t/thermodynamics/information-and-computation/">information and computation</a>.</small>
 

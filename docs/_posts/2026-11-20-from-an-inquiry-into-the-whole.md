@@ -5,7 +5,7 @@ date: 2026-11-20
 lastmod: 2026-11-07
 labels: [conversations, philosophy]
 description: "Natural philosophy began as one inquiry into the whole and became the sciences: the name went, the project was forgotten, and it still goes on."
-status: draft
+status: ready
 words: 684
 ---
 <img src="https://images.unsplash.com/photo-1776062356815-d5e8312792a8?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" alt="From an Inquiry into the Whole" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
