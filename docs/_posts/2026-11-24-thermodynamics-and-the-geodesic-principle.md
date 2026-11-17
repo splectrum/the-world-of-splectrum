@@ -4,7 +4,7 @@ title: "Thermodynamics and the Geodesic Principle"
 date: 2026-11-24
 lastmod: 2026-11-17
 labels: [conversations, science]
-description: "What does change cost? A system's own entropy change is fixed by its two end states; the entropy created on the way is not. The cheapest road between two states is the shortest path in a curved space, travelled at a steady pace. It is also the most constrained, which leaves the question of what cost we are willing to live with."
+description: "What does change cost? A system's own entropy change is fixed by its two end states; the entropy created on the way is not. The cheapest road between two states is the shortest path in a curved space, travelled at a steady pace. It is also the most constrained, which leaves the question of what cost one is willing to live with."
 status: ready
 words: 668
 ---
