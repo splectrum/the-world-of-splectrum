@@ -4,7 +4,7 @@ title: "Human Ways of Sharing"
 date: 2026-09-04
 lastmod: 2026-09-04
 labels: [seed, philosophy]
-description: "The developmental picture of the subject who comes into language — active, building, engaged — and the several mechanisms the field has named for how a child gets hold of what everyone around it is already holding."
+description: "How a child comes into language, active and building, and the mechanisms the field has named for getting hold of what everyone around it already holds."
 status: ready
 words: 759
 ---

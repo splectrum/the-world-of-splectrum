@@ -4,7 +4,7 @@ title: "Cognition is Core"
 date: 2026-09-08
 lastmod: 2026-09-22
 labels: [positioning, philosophy]
-description: "Cognition is not a secondary process — nothing is received first and made sense of after. The claim has a family: Kant, the phenomenologists, the pragmatists, Wittgenstein and Ryle, Bergson and Whitehead, Yogācāra and Abhinavagupta. SPLectrum stands inside it by construction."
+description: "Nothing is received first and made sense of after: cognition is core, a claim with a family from Kant to Yogācāra, and SPLectrum stands inside it."
 status: ready
 words: 619
 ---

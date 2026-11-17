@@ -4,7 +4,7 @@ title: "Everything Has Its Language"
 date: 2026-11-28
 lastmod: 2026-11-16
 labels: [seed, philosophy]
-description: "Does anything still hold the sciences together? Not philosophy from above: its seat is empty. What holds them is the experience of reality underneath and the many languages it gives rise to, tied together like the quarters of one city: the field of a modern natural philosophy, rising from the ashes as a common project again."
+description: "No philosophy from above holds the sciences together: every field speaks its own language, and those languages tie together in a modern natural philosophy."
 status: draft
 words: 896
 ---

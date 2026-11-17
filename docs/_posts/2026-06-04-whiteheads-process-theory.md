@@ -4,7 +4,7 @@ title: "Whitehead's Process Theory"
 date: 2026-06-04
 lastmod: 2026-06-04
 labels: [seed, philosophy]
-description: "Whitehead saw the bifurcation of nature before anyone else and built a system to dissolve it. The dissolution works on the page. It does not unify the language games subjects actually use."
+description: "Whitehead saw the bifurcation of nature and built a system to dissolve it; the dissolution works on the page but does not unify the language games we use."
 status: ready
 words: 559
 ---

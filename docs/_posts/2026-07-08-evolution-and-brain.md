@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Evolution and the Brain"
+description: "Half a billion years of brain evolution, from simple nerve nets through reptilian and mammalian layers, and what a worm with three hundred neurons can do."
 date: 2026-07-08
 lastmod: 2026-08-08
 labels: [preamble,science]

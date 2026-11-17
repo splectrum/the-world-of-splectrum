@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Wrapper"
+description: "Naming wraps a long conversation into a graspable unit without replacing it, and that wrapping is what the 1-categorical layer of the SPLectrum seed does."
 date: 2030-01-02
 lastmod: 2026-07-24
 labels: [formalisation, mathematics, philosophy]

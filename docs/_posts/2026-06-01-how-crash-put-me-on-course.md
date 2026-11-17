@@ -4,7 +4,7 @@ title: "How a Crash Put Me on Course"
 date: 2026-06-01
 lastmod: 2026-07-01
 labels: [preamble]
-description: "A blackout at motorway speed seven years ago forced an inventory of what matters — thinking, learning, making sense. The crash put me on the course that became SPLectrum."
+description: "A blackout at motorway speed forced an inventory of what matters (thinking, learning, making sense) and put me on the course that became SPLectrum."
 status: ready
 words: 484
 ---

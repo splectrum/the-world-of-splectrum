@@ -4,7 +4,7 @@ title: "Emergence — One Word, Many Meanings"
 date: 2026-10-12
 lastmod: 2026-10-06
 labels: [conversations, philosophy]
-description: "The word 'emergence' does daily work in physics, biology, sociology, AI and philosophy — with a different meaning in each. The facts of its history and its many homes, and what they say about words and their meaning contexts."
+description: "The word 'emergence' works in physics, biology, sociology, AI and philosophy with a different meaning in each: its history, and what it says about words."
 status: ready
 words: 704
 ---

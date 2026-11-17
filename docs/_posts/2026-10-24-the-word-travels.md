@@ -4,7 +4,7 @@ title: "The Word Travels"
 date: 2026-10-24
 lastmod: 2026-10-06
 labels: [conversations, science]
-description: "Clausius built the word entropy to travel — Greek, so every language could take it unchanged — and it was about change from its first day: the transformation content of a body became the transformation content of a message, undergone in the one, chosen in the other."
+description: "Clausius built the word entropy to travel, and it was about change from its first day: the transformation content of a body became that of a message."
 status: ready
 words: 587
 ---

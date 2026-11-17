@@ -4,7 +4,7 @@ title: "Where Basal Cognition and SPLectrum Meet"
 date: 2026-10-04
 lastmod: 2026-09-22
 labels: [language, science]
-description: "The research field on cognition without brains and SPLectrum arrive at the same open ground from different directions — and the field's cases turn out to be small studies in meaning: languages of experience and interaction, in beings with no neurons at all."
+description: "Basal cognition and SPLectrum reach the same open ground from different directions, and the field's cases turn out to be small studies in meaning."
 status: ready
 words: 630
 ---

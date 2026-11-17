@@ -4,7 +4,7 @@ title: "The Politics of Coexistence"
 date: 2026-08-01
 lastmod: 2026-07-27
 labels: [reality, philosophy]
-description: "SPLectrum's politics — the still picture of ethics set in motion: a balance among language games that establishes itself through common understanding, not agreement, as the games are played."
+description: "SPLectrum's politics sets ethics in motion: a balance among language games that establishes itself through common understanding, not agreement."
 status: ready
 words: 608
 ---

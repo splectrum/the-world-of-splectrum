@@ -8,7 +8,7 @@ Every page gets reviewed when it is done — a new page, or a rework of an exist
 2. **Front matter first.** Update it to match the finished text: `description` (says what the page now holds; 155 characters at most — see `tone-of-voice/standards.md` § Meta descriptions), `lastmod` (only if the update is substantial — see `posting-guide.md` § Sitemap lastmod), and `title` if the page's name changed. Check the breadcrumb and any link labels elsewhere that name the page.
 3. **Then review.** A cold review by the reviewer agent against the tone-of-voice guidance for the page's register, with the page's deliberate choices stated so they are not mistaken for errors. The review reads the front matter too.
 4. **Then decide and apply.** Jules decides on the findings; the agreed changes are applied — and if they change what the page holds, the front matter is checked again. Simple fixes that touch neither meaning nor a wording choice (a missing comma, a stray capital, a comma splice) are not put to Jules: they are applied and listed as done. Anything that changes the wording or the meaning goes to him, one point at a time, printed in full (Jules, 2026-11-11, on the Maxwell's Demon review).
-5. **Then commit.**
+5. **Then commit.** Before every commit, check the front matter again against the text as it now stands, including Jules's own last edits: `description` (its wording, not only its content: a change in the body such as "we" to "one" carries over), `words`, `lastmod`. Front matter is Claude's responsibility. Bring it up to date before the commit without asking and say what changed; never commit with a mismatch flagged as an open question (Jules, 2026-11-17, on the Thermodynamics post).
 
 ## Why
 

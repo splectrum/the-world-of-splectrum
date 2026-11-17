@@ -4,7 +4,7 @@ title: "Between Subjects"
 date: 2026-05-16
 lastmod: 2026-05-12
 labels: [seed, philosophy]
-description: "Experience must be personal before it can be shared, and it never arrives in the other unmediated. The gap between subjects is real — and ownness is buried under everything we share."
+description: "Experience must be personal before it can be shared and never reaches another unmediated: the gap between subjects is real, and ownness lies beneath it."
 status: ready
 words: 474
 ---

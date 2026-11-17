@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Embracing Anti-Foundationalism"
+description: "Anti-foundationalism, written before SPLectrum: foundations matter, a single foundation does not, and SPLectrum's one axiomatic base is about structure."
 date: 2026-07-24
 lastmod: 2026-08-24
 labels: [preamble, philosophy]

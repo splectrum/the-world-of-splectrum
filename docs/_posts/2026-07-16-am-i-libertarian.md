@@ -4,7 +4,7 @@ title: "Am I a Libertarian?"
 date: 2026-07-16
 lastmod: 2026-07-16
 labels: [preamble,philosophy]
-description: "Personal freedom, self-organising communities, and decentralisation — where the libertarian label fits, where it doesn't, and why the question mark in the title is the point."
+description: "Personal freedom, self-organising communities and decentralisation: where the libertarian label fits, where it doesn't, and why the question mark matters."
 status: final review
 words: 593
 ---

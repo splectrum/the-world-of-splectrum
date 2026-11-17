@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Friction with 1-Categorical Thinking"
+description: "Asked 'is X equal to Y?', one side wants yes or no while the other tracks structure a dimension up: the friction of 1-categorical thinking."
 date: 2030-01-05
 lastmod: 2026-07-24
 labels: [formalisation, philosophy, mathematics]

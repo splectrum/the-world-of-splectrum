@@ -4,7 +4,7 @@ title: "Building from the Seed"
 date: 2026-06-12
 lastmod: 2026-09-06
 labels: [reality, philosophy]
-description: "The seed speaks a meta-language of structure. Building from the seed means speaking a content language — with three values that come with the grain: belonging, privacy, creativity."
+description: "Building from the seed means speaking a content language, with three values that come with the grain of its structure: belonging, privacy and creativity."
 status: ready
 words: 605
 ---

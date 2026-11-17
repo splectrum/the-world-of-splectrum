@@ -4,7 +4,7 @@ title: "The Man Who Refused a Finished World"
 date: 2026-07-28
 lastmod: 2026-09-22
 labels: [positioning, philosophy]
-description: "William James — the first self-avowed pluralist. A stalled young man who willed himself back to life, and built from it a philosophy of a universe still in the making, never fully given, 'ever not quite'."
+description: "William James, the first self-avowed pluralist, willed himself back to life and built a philosophy of a universe still in the making, 'ever not quite'."
 status: ready
 words: 600
 ---

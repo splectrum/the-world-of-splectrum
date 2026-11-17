@@ -4,7 +4,7 @@ title: "The Generative Value"
 date: 2026-08-16
 lastmod: 2026-07-27
 labels: [creativity, philosophy]
-description: "The creativity series opens with the generative core value: the dynamic of change traced back to the subject — a musician's difference made in private, travelling out to countless many."
+description: "The creativity series opens with the generative core value: change traced to the subject, a difference made in private that travels out to many."
 status: ready
 words: 615
 ---

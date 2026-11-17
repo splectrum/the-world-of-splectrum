@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A View from the Perimeter"
+description: "The structural principles of reality run continuously through the non-living, living, conscious and symbolic: the curve from quantum to human progress."
 date: 2030-01-25
 lastmod: 2026-07-20
 labels: [creativity, science]

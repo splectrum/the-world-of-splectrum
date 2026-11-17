@@ -4,7 +4,7 @@ title: "The Man Who Sustained a Thought"
 date: 2026-08-04
 lastmod: 2026-09-22
 labels: [positioning, philosophy]
-description: "Charles Renouvier — the philosopher who defined freedom as the sustaining of a thought, rescued William James with it, and then vanished; everything he built dissolved except the one line he held in play."
+description: "Charles Renouvier defined freedom as the sustaining of a thought, rescued William James with it, and vanished; only the one line he held in play survived."
 status: draft
 words: 606
 ---

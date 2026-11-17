@@ -4,7 +4,7 @@ title: "Privacy, Naturally!"
 date: 2026-05-24
 lastmod: 2026-05-28
 labels: [seed, philosophy]
-description: "Privacy isn't a right that needs granting — it's a structural fact. Every subject experiences reality through its own medium. The real question is why sharing became pathological."
+description: "Privacy is a structural fact, not a right to be granted: every subject experiences reality through its own medium, so why did sharing become pathological?"
 status: ready
 words: 793
 ---

@@ -4,7 +4,7 @@ title: "The Empty Chair"
 date: 2030-02-10
 lastmod: 2026-10-07
 labels: [positioning, philosophy]
-description: "A definition of meaning built to need no observer needs a standard of doing well, and the paper files that as a subjective choice. The word is carrying two things: we do not know the standard in advance, and the quantity is indexed to a coupling. Kept apart, neither is a defect."
+description: "A definition of meaning built to need no observer still needs a standard of doing well; the word carries two things, and kept apart, neither is a defect."
 status: draft
 words: 841
 ---

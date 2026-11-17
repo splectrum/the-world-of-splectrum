@@ -4,7 +4,7 @@ title: "Pluralism and the Interrelational"
 date: 2026-08-08
 lastmod: 2026-07-24
 labels: [conversations, philosophy]
-description: "Approaching interrelational pluralism from the pluralism side: a family of tracks that rightly never joined up in content, joined in the medium of expression — pluralist voices within envelopes of common understanding, a better position on pluralism's borders, disputes, and the realism question."
+description: "Interrelational pluralism from the pluralism side: tracks that never joined in content, joined in the medium of expression, within common understanding."
 status: ready
 words: 675
 ---

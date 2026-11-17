@@ -4,7 +4,7 @@ title: "Two-Pronged Anti-Representationalism"
 date: 2026-05-28
 lastmod: 2026-05-20
 labels: [seed, philosophy]
-description: "Whitehead and Rorty reject representationalism from the same relational core but along different axes — one ontological, one epistemological. What would it take to unite them?"
+description: "Whitehead and Rorty reject representationalism from the same relational core along different axes, ontological and epistemological: can they be united?"
 status: ready
 words: 576
 ---

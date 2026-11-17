@@ -4,7 +4,7 @@ title: "The Box, the Basement, and the Factory Setting"
 date: 2026-09-12
 lastmod: 2026-09-22
 labels: [seed, philosophy]
-description: "Three schools draw the inside of the subject three ways — empty, split, and pre-filled — and each spends its best effort defending the drawing. Beside them, the acquisition mechanisms were drawn from watching, with no position to defend."
+description: "Three schools draw the inside of the subject as empty, split or pre-filled; the acquisition mechanisms were drawn from watching instead."
 status: ready
 words: 757
 ---

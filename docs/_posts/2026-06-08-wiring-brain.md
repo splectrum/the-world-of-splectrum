@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Wiring the Brain"
+description: "Brains have half a billion years of evolution behind them, and brain evolution may now be decoupling from physical generation through culture and machines."
 date: 2026-06-08
 lastmod: 2026-07-08
 labels: [preamble]

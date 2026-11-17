@@ -4,7 +4,7 @@ title: "The World of SPLectrum as Public Conscious Persona"
 date: 2026-05-04
 lastmod: 2026-05-07
 labels: [engineering]
-description: "SPLectrum's public conscious persona — human-AI collaboration shaping raw thoughts into the voice for blog and website."
+description: "The World of SPLectrum as a public conscious persona: human-AI collaboration shaping raw thoughts into one voice for the blog and the website."
 status: ready
 words: 714
 ---

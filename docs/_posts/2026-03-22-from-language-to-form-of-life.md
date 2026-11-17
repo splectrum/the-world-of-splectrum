@@ -4,7 +4,7 @@ title: "From Language to Form of Life"
 date: 2026-03-22
 lastmod: 2026-05-06
 labels: [positioning, philosophy]
-description: "Wittgenstein's turn from logical structure to language games and forms of life — how meaning moved from representation to use, from observer to participant."
+description: "Wittgenstein's turn from logical structure to language games and forms of life, as meaning moved from representation to use, from observer to participant."
 status: ready
 words: 660
 ---

@@ -4,7 +4,7 @@ title: "The Crooked Timber"
 date: 2026-08-20
 lastmod: 2026-09-22
 labels: [conversations, philosophy]
-description: "Isaiah Berlin — the boy who watched the Revolution and never forgot it. Value pluralism: genuine goods conflict, no formula resolves them, and that is not relativism."
+description: "Isaiah Berlin's value pluralism: genuine goods conflict and no formula resolves them, which is not relativism, from a boy who watched the Revolution."
 status: ready
 words: 690
 ---

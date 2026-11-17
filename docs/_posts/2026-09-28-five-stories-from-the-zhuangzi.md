@@ -4,7 +4,7 @@ title: "Five Stories from the Zhuangzi"
 date: 2026-09-28
 lastmod: 2026-08-22
 labels: [conversations, philosophy]
-description: "Five stories from the Zhuangzi, told plainly and left unexplained — the wheelwright and the duke, the cook and the ox, the turtle in the mud, the fish trap, and the grave of Huizi — with a personal note on the subject values they express."
+description: "Five stories from the Zhuangzi, among them the cook and the ox and the fish trap, told plainly and left unexplained, with a note on the values in them."
 status: ready
 words: 677
 ---

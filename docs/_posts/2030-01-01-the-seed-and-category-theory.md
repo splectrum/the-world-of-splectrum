@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Seed and Category Theory"
+description: "The SPLectrum seed has the same grammar at every level, and one mathematical tool fits it formally: higher-dimensional category theory."
 date: 2030-01-01
 lastmod: 2026-05-12
 labels: [formalisation, mathematics, philosophy]

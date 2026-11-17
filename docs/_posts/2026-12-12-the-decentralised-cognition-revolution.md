@@ -4,7 +4,7 @@ title: "The Decentralised Cognition Revolution"
 date: 2026-12-12
 lastmod: 2026-09-25
 labels: [conversations, engineering]
-description: "Our attention goes to the centralised: one brain, one mind, and now its scaled-up image. One way of seeing the cognition revolution is as a turn of attention — from how powerful to how related — with the associative shock of AI as the thing that might wake us to what is already going on around us."
+description: "Our attention goes to the centralised, one brain, one mind; the cognition revolution may be a turn from how powerful to how related, woken by AI's shock."
 status: draft
 words: 799
 ---

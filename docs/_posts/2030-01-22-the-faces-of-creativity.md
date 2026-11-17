@@ -4,7 +4,7 @@ title: "The Faces of Creativity"
 date: 2030-01-22
 lastmod: 2026-07-14
 labels: [creativity, philosophy]
-description: "Discovered, invented, evolved — the three drawers we file newness into. They leak, because they are not three mechanisms: they are three seats on one motion, and the value behind them is creativity."
+description: "Discovered, invented, evolved: the drawers we file newness into leak, because they are three seats on one motion, and the value behind them is creativity."
 status: draft
 words: 1090
 ---

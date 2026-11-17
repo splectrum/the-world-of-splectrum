@@ -4,7 +4,7 @@ title: "Cognition and Disclosure"
 date: 2026-09-01
 lastmod: 2026-09-22
 labels: [seed, philosophy]
-description: "Experience never arrives empty — Bergson sees it full of memories from outside; Heidegger finds us always already in the world, from inside. So the process of cognition is always already running: the process behind P2, through which reality discloses itself."
+description: "Experience never arrives empty, for Bergson or for Heidegger: the process of cognition is always already running, and through it reality discloses itself."
 status: ready
 words: 556
 ---

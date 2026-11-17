@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Diversified Discovery"
+description: "If creation conforms to discovery, how discovery is organised matters: one explorer walks one corridor, and diverse explorers open each other's horizons."
 date: 2030-01-24
 lastmod: 2026-07-20
 labels: [creativity, philosophy]

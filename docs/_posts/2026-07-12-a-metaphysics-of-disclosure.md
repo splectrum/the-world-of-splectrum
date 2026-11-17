@@ -4,7 +4,7 @@ title: "A Metaphysics of Disclosure"
 date: 2026-07-12
 lastmod: 2026-07-11
 labels: [reality,philosophy]
-description: "SPLectrum's metaphysics is descriptive, not prescriptive: it describes how we relate to reality. Subjectivity gives us the agency, the dynamic of meaning and language the means — whatever a person believes."
+description: "SPLectrum's metaphysics describes how we relate to reality rather than prescribing it: subjectivity gives the agency, meaning and language the means."
 status: ready
 words: 620
 ---

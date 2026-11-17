@@ -4,7 +4,7 @@ title: "The Craft of Cognition — A Journey into Aesthetics"
 date: 2026-09-16
 lastmod: 2026-08-19
 labels: [positioning, philosophy]
-description: "Cognition's definition holds a quiet second angle: not just that the process runs, but how it is run. Following the how leads out of epistemology's heart into aesthetics — and to the position that with the help of belonging we are creative in private."
+description: "Not only that cognition runs but how it is run: the how leads from epistemology into aesthetics, and to creativity in private with the help of belonging."
 status: ready
 words: 613
 ---

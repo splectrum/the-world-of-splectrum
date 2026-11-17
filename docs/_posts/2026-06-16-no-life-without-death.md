@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "No Life Without Death"
+description: "We become alive without noticing and see death coming: an individual life is short, but life is one process, a flame passed on for four billion years."
 date: 2026-06-16
 lastmod: 2026-07-16
 labels: [preamble]

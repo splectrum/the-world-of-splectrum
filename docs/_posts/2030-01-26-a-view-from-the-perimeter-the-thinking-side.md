@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A View from the Perimeter — The Thinking Side"
+description: "The same threshold curve from the thinking side: oral tradition, writing, print and electronic exchange, each threshold compressing the pace of thinking."
 date: 2030-01-26
 lastmod: 2026-07-20
 labels: [creativity, philosophy]

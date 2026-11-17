@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Meaning Patterns Travel"
+description: "The two-body problem turns up in atoms, negotiation, partnership, software and predator and prey: one meaning pattern travels across domains."
 date: 2030-01-04
 lastmod: 2026-07-24
 labels: [formalisation, mathematics, language]

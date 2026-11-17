@@ -4,7 +4,7 @@ title: "Noticing the Grid"
 date: 2026-05-22
 lastmod: 2026-05-18
 labels: [engineering]
-description: "I sketched out the homepage sections and saw a structure I hadn't put there on purpose — a 3×3 grid that emerged through the work rather than being designed."
+description: "Sketching the homepage sections, I saw a structure I hadn't put there on purpose: a 3×3 grid that emerged through the work rather than being designed."
 status: ready
 words: 487
 ---

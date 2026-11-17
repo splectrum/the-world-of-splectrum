@@ -4,7 +4,7 @@ title: "The Field That Waited a Century"
 date: 2026-09-24
 lastmod: 2026-09-06
 labels: [conversations, science]
-description: "The story of basal cognition's beginning: a century of orphaned results — Jennings's trumpet cell, Gelber's erased experiments, an Ig Nobel slime mould — until Pamela Lyon inverted the question and gave the evidence a home."
+description: "Basal cognition's beginning: a century of orphaned results, from Jennings's trumpet cell to slime mould, until Pamela Lyon inverted the question."
 status: ready
 words: 639
 ---

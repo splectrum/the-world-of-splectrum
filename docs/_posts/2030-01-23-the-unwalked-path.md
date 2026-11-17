@@ -4,7 +4,7 @@ title: "The Unwalked Path"
 date: 2030-01-23
 lastmod: 2026-07-21
 labels: [creativity, philosophy]
-description: "What we call creating is the walking of a relational path the medium held in potential but no one had walked — potential made real in the walking, not a thing found already finished nor conjured from nothing."
+description: "Creating is walking a relational path the medium held in potential but no one had walked: neither found already finished nor conjured from nothing."
 status: draft
 words: 726
 ---

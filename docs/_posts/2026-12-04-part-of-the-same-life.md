@@ -4,7 +4,7 @@ title: "Part of the Same Life"
 date: 2026-12-04
 lastmod: 2026-11-08
 labels: [conversations, science]
-description: "Sara Imari Walker's case that technology is not replacing life but is life: one lineage with us, part of the body, super on the record we made and not alive on its own."
+description: "Sara Imari Walker's case that technology is not replacing life but is life: one lineage with us, part of the body, and not alive on its own."
 status: draft
 words: 613
 ---

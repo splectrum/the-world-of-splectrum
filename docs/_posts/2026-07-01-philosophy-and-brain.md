@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Philosophy and the Brain"
+description: "Neuroscience, behavioural biology and AI give philosophy something solid to push against: what understanding the brain reveals about being human."
 date: 2026-07-01
 lastmod: 2026-08-01
 labels: [preamble,philosophy]

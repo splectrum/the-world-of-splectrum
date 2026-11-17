@@ -4,7 +4,7 @@ title: "What a Scheme Answers To"
 date: 2030-02-09
 lastmod: 2026-09-27
 labels: [positioning, philosophy]
-description: "Putnam held two things at once for thirty years: nothing stands above our conceptual schemes, and truth cannot be mere agreement. He gave up every answer to the question between them and kept conceptual relativity. Read one way, the piece he kept is the ground for an answer he did not take: what converges is the language, not the verdicts."
+description: "Putnam held that nothing stands above our conceptual schemes and truth is not mere agreement; read one way, what converges is language, not verdicts."
 status: draft
 words: 862
 ---

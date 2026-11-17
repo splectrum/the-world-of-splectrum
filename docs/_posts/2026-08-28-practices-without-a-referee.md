@@ -4,7 +4,7 @@ title: "Practices Without a Referee"
 date: 2026-08-28
 lastmod: 2026-09-22
 labels: [conversations, philosophy]
-description: "Isabelle Stengers — from Prigogine's laboratory, where time's arrow became real, to cosmopolitics: an ecology of practices with no transcendent arbiter, reciprocal capture, the idiot, and thinking with Whitehead."
+description: "Isabelle Stengers, from Prigogine's laboratory to cosmopolitics: an ecology of practices with no transcendent arbiter, reciprocal capture and the idiot."
 status: ready
 words: 705
 ---

@@ -4,7 +4,7 @@ title: "The Dawn of Cognition"
 date: 2026-08-24
 lastmod: 2026-08-16
 labels: [conversations, philosophy]
-description: "What does it take to come to meaning in language? The trail runs from the seed principles through brain process models and AI until a word drops out: cognition — twofold in its relation to meaning, and widened into SPLectrum's definition: the process of acquiring knowledge and understanding through experience."
+description: "From the seed principles through brain process models and AI to a word: cognition, the process of acquiring knowledge and understanding through experience."
 status: ready
 words: 646
 ---

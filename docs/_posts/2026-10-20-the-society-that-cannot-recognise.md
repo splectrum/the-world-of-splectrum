@@ -4,7 +4,7 @@ title: "The Society That Cannot Recognise"
 date: 2026-10-20
 lastmod: 2026-10-06
 labels: [conversations, science]
-description: "Argentine ants from opposite ends of a continent, which have never met and never will, treat each other as members of the same colony — and the argument about whether that makes them one society turns out to be an argument about a word."
+description: "Argentine ants from opposite ends of a continent treat each other as one colony, and the argument over whether they are one society is about a word."
 status: ready
 words: 673
 ---

@@ -4,7 +4,7 @@ title: "The Demon, SPLectrum and Cognition"
 date: 2026-12-08
 lastmod: 2026-11-08
 labels: [language, science]
-description: "Maxwell's demon turns knowing into work and pays to forget. A bacterium does something like it to stay steady in a noisy world. Read with SPLectrum, the demon starts to look like a small case of cognition."
+description: "Maxwell's demon turns knowing into work and pays to forget; a bacterium does much the same, and read with SPLectrum the demon is a small case of cognition."
 status: draft
 words: 614
 ---

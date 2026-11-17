@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Promises Made, Promises Broken"
+description: "A post from before SPLectrum: a blog started three years earlier that promised more than it delivered, as the thinking piled up faster than the writing."
 date: 2026-06-24
 lastmod: 2026-07-24
 labels: [preamble]

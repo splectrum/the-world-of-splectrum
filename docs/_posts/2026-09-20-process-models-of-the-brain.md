@@ -4,7 +4,7 @@ title: "Process Models of the Brain"
 date: 2026-09-20
 lastmod: 2026-09-04
 labels: [conversations, engineering]
-description: "Three process models of the brain, presented purely for the insight each brings: evolution, competition, error correction — our keywords; the field's own are selection, workspace competition, prediction-error minimisation."
+description: "Three process models of the brain for the insight each brings: evolution, competition and error correction, or selection, workspace and prediction error."
 status: ready
 words: 695
 ---

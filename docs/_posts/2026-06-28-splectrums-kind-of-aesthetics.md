@@ -4,7 +4,7 @@ title: "SPLectrum's Kind of Aesthetics"
 date: 2026-06-28
 lastmod: 2026-06-27
 labels: [reality]
-description: "Aesthetics is not the philosophy-of-art appendix — it is the dynamics of meaning, the third field beside epistemology and ontology. Why expression of meaning, from the sensory upward, belongs under one umbrella rather than scattered across philosophy."
+description: "Aesthetics as the dynamics of meaning, not philosophy's appendix on art: the third field beside epistemology and ontology, from the sensory upward."
 status: ready
 words: 584
 ---

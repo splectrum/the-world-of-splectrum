@@ -4,7 +4,7 @@ title: "SPLectrum and Emergence"
 date: 2026-10-16
 lastmod: 2026-10-06
 labels: [reality, philosophy]
-description: "SPLectrum's own position on emergence: novelty as a new meaning context manifesting on top of an existing one — a strong-emergence claim holds in the current language and does not travel, the unknown file as the one that fits, and the pluralist clause that lets other languages define more."
+description: "SPLectrum's position on emergence: novelty as a new meaning context manifesting on top of an existing one, with a pluralist clause for other languages."
 status: ready
 words: 609
 ---
