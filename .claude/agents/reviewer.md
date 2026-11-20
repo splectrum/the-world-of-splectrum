@@ -2,7 +2,7 @@
 name: reviewer
 description: Read-only review of SPLectrum site pages (reference library, positioning, seed, posts) against the repo's tone-of-voice and process rules. Use for page or subject reviews before or after edits; returns a findings list, never edits.
 tools: Read, Grep, Glob, Bash
-model: opus
+model: fable
 effort: high
 ---
 
@@ -33,4 +33,4 @@ Read the rules that govern the pages you were given:
 
 ## Output
 
-Per page: verdict (clean / light trims / substantial). Then each finding: short exact quote — test number — proposed action (cut / shorten to "…" / move to <page>) — one-line reason. End with the two or three findings that matter most. Keep it compact.
+Per page: verdict (clean / light trims / substantial). Then each finding: short exact quote — test number — proposed action (cut / shorten to "…" / move to <page>) — one-line reason. Keep simple fixes (punctuation, grammar, a missing word, a broken link — nothing that touches meaning or a wording choice) in a separate list from points that change wording or meaning: the first are applied directly, the second go to the author one at a time. End with the two or three findings that matter most. Keep it compact.

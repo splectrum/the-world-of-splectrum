@@ -1,8 +1,8 @@
 ---
 layout: default
-lastmod: 2026-06-11
+lastmod: 2026-11-20
 title: "Emmanuel Levinas (1906–1995)"
-description: "Levinas reversed the Western tradition: ethics before ontology. The face of the Other commands before any question of being is asked."
+description: "Levinas reversed the Western tradition by putting ethics before ontology: the face of the Other commands before any question of being is asked."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Levinas
@@ -23,7 +23,9 @@ Levinas reversed the priority of the entire Western philosophical tradition. Whe
 
 **Asymmetric responsibility.** The ethical relation is fundamentally asymmetric. I am infinitely obligated to the person I encounter; I cannot cancel that obligation by appealing to theirs toward me. Responsibility is not chosen — it is imposed by the mere presence of the Other. To demand reciprocity would reduce the ethical relation to economic exchange. "I am ordered towards responsibility for the other, and this is a unique responsibility for which no other could be substituted in my place."
 
-**Interiority.** Before the face appears, there must be a self capable of receiving it. Levinas's account of interiority — dwelling, nourishment, enjoyment — is among his most original contributions. "We live from 'good soup', air, light, spectacles, work, ideas, sleep... These are not objects of representations. We live from them." The relationship to the world is first of all enjoyment (*jouissance*), not knowledge or anxiety. The home is the site where enjoyment is gathered: hospitality requires a host, the host requires a home. Interiority is not a deficiency to be overcome — it is the condition for ethics.
+**Interiority.** Before the face appears, there must be a self capable of receiving it. Levinas's account of interiority — dwelling, nourishment, enjoyment — is among his most original contributions. "We live from 'good soup', air, light, spectacles, work, ideas, sleep... These are not objects of representations. We live from them." The relationship to the world is first of all enjoyment (*jouissance*), not knowledge or anxiety. The home is the site where enjoyment is gathered: hospitality requires a host, the host requires a home. Interiority is not a deficiency to be overcome — it is the condition for ethics. It is also what makes plurality possible: "The inner life is the unique way for the real to exist as a plurality."
+
+**Language and the common world.** In *Totality and Infinity* the relation to the Other is language: "the relation between the same and the other… is language". "He and I do not form a number": no common concept holds the two. Yet language, "far from presupposing universality and generality, first makes them possible. Language presupposes interlocutors, a plurality", and "The generality of the word institutes a common world."
 
 **The Saying and the Said.** In *Otherwise than Being* (1974), Levinas distinguishes le Dire (Saying) from le Dit (Said). The Said is language as system — propositions, content, themes. The Saying is the act of addressing the Other: the exposure, the vulnerability, the sincerity of the one who speaks before and beneath what is spoken. Every act of saying something to someone presupposes the exposure to that someone — a willingness to be addressed, to be called to account. The Said can be retracted. The Saying cannot, because it is not a content but a stance.
 
@@ -59,7 +61,7 @@ The political critique: can infinite, non-reciprocal responsibility generate a p
 
 Levinas established that the ethical encounter precedes and exceeds ontology, and that the quality of address — the Saying — is prior to propositional content. But his framework is centred on passive responsibility: the subject as called, accused, held hostage. The passivity is structural — initiative, action, making do not receive the same philosophical attention as response. His account of interiority provides dwelling and labour, but these are positioned as what the ethical relation disrupts rather than as independently significant.
 
-The face-to-face is always between two. Plurality and community enter only through the third party, as complications that force the question of justice — never as an independent structure. Levinas acknowledges the necessity of institutions and politics but provides no political theory, only the demand that they answer to the ethical. And art remains under suspicion: "Reality and Its Shadow" treats it as irresponsible, caught in the image, evading the face's demand.
+The face-to-face is always between two. The common world is instituted by language, but community as a question of justice enters only through the third party, as a complication — never as an independent structure. Levinas acknowledges the necessity of institutions and politics but provides no political theory, only the demand that they answer to the ethical. And art remains under suspicion: "Reality and Its Shadow" treats it as irresponsible, caught in the image, evading the face's demand.
 
 ---
 
@@ -74,4 +76,4 @@ The face-to-face is always between two. Plurality and community enter only throu
 
 ---
 
-See also: [Husserl](/positioning/persons/h/husserl/) · [Heidegger](/positioning/persons/h/heidegger/) · [Derrida](https://plato.stanford.edu/entries/derrida/) · [Buber](https://plato.stanford.edu/entries/buber-dialogue/) · [Phenomenology](/positioning/subjects/p/phenomenology/)
+See also: [Husserl](/positioning/persons/h/husserl/) · [Heidegger](/positioning/persons/h/heidegger/) · [Derrida](/positioning/persons/d/derrida/) · [Buber](/positioning/persons/b/buber/) · [Phenomenology](/positioning/subjects/p/phenomenology/)

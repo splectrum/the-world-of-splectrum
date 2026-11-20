@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-19
+lastmod: 2026-11-20
 title: "Jean-Paul Sartre (1905–1980)"
 description: "Sartre took phenomenology into existentialism — radical freedom, consciousness as pure intentionality, existence before essence."
 ---
@@ -25,7 +25,7 @@ Sartre took [phenomenology](/positioning/subjects/p/phenomenology/) in the direc
 
 **Bad faith (*mauvaise foi*).** The attempt to deny one's own freedom by pretending to be a fixed thing — a waiter who is nothing but a waiter, a coward who claims they cannot help it. Bad faith is self-deception about the structure of one's own consciousness: treating the for-itself as if it were an in-itself.
 
-**The look (*le regard*).** The other's gaze transforms me from a free subject into an object. "Hell is other people" (*Huis Clos*). The encounter with the other is fundamentally conflictual: each consciousness tries to transcend the other, to make the other into an object while remaining a subject. This is where Sartre and Merleau-Ponty diverge most sharply — for Merleau-Ponty, the encounter with the other is bodily resonance, not conflict.
+**The look (*le regard*).** The other's gaze transforms me from a free subject into an object. The other is met, not constructed — "We encounter the Other; we do not constitute him" — and gives me an outside I cannot give myself: "the Other is the indispensable mediator between myself and me". "Conflict is the original meaning of being-for-others", each consciousness trying to make the other into an object while remaining a subject, and the experience of a "we" is "a purely subjective impression which engages only me" (tr. Barnes). The play *Huis Clos* (1944) puts it in a line: "Hell is other people". This is where Sartre and Merleau-Ponty diverge most sharply — for Merleau-Ponty, the encounter with the other runs through the body and through dialogue, not conflict.
 
 **Commitment (*engagement*).** Philosophy is not contemplation — it is action. In *Search for a Method* (in English also *The Problem of Method*): "Every philosophy is practical, even the one which at first sight appears to be the most contemplative [. . . Every philosophy is] a social and political weapon" (as the *Internet Encyclopedia of Philosophy* quotes it). The intellectual must be engaged in the political struggles of their time. Sartre lived this more completely than any philosopher of his generation, at the cost of positions that have not aged well (his defence of Soviet communism in the early 1950s, his later Maoist sympathies).
 
@@ -41,6 +41,7 @@ Sartre and Merleau-Ponty started from the same place — [Husserl](/positioning/
 
 - [*Nausea*](https://en.wikipedia.org/wiki/Nausea_(novel)) (1938) — the novel; contingency, the absurdity of existence
 - [*Being and Nothingness*](https://en.wikipedia.org/wiki/Being_and_Nothingness) (1943) — the philosophical treatise; consciousness, freedom, bad faith, the look
+- [*No Exit* (*Huis Clos*)](https://en.wikipedia.org/wiki/No_Exit) (1944) — the play; three people in a room, "Hell is other people"
 - [*Existentialism Is a Humanism*](https://en.wikipedia.org/wiki/Existentialism_Is_a_Humanism) (1946) — the public lecture; existence precedes essence, commitment
 - [*Critique of Dialectical Reason*](https://en.wikipedia.org/wiki/Critique_of_Dialectical_Reason) (1960) — the turn to Marxism; history, groups, seriality
 - [*The Words*](https://en.wikipedia.org/wiki/The_Words) (1964) — autobiography of childhood; the making of a writer

@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-19
+lastmod: 2026-11-20
 title: "Martin Heidegger (1889–1976)"
 description: "Heidegger displaced the subject-object split — we are always already in a world, disclosed through involvement, not observation."
 ---
@@ -22,6 +22,8 @@ Heidegger broke the spectator model of knowledge. Being-in-the-world — always 
 **Being-in-the-world (*In-der-Welt-sein*).** The world is not a container that Dasein is placed into. It is the structure of meaningful relations that Dasein inhabits. Tools, others, projects, moods — these are not additions to a bare existence but constitutive of what it means to be.
 
 **Readiness-to-hand and presence-at-hand (*Zuhandenheit / Vorhandenheit*).** Things are first encountered as equipment — ready-to-hand, used without being noticed. Only when something breaks or goes missing does it become present-at-hand — an object of detached observation. The theoretical attitude is derived from the practical, not the other way around.
+
+**Being-with (*Mitsein*).** Dasein's being is being-with: "the world is always the one that I share with Others. The world of Dasein is a with-world [*Mitwelt*]". Others are not added to a subject that was first alone: "an isolated 'I' without Others is just as far from being proximally given" as a bare subject without a world (*Being and Time*, §§25–26, tr. Macquarrie & Robinson). In everyday being-with, Dasein is mostly absorbed in the "they" (*das Man*): one does what one does, as anyone does. Authentic selfhood is not an escape from the "they" but a modification of it.
 
 **Disclosure (*Erschlossenheit*).** The world is not discovered by a subject — it is disclosed through Dasein's involvement. Understanding, mood, and discourse together open up the world as a field of meaning. Truth, for Heidegger, is not correspondence but unconcealment (*aletheia*).
 

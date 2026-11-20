@@ -1,8 +1,8 @@
 ---
 layout: default
-lastmod: 2026-06-13
+lastmod: 2026-11-20
 title: "Søren Kierkegaard (1813–1855)"
-description: "Danish philosopher — the three stages of existence, the leap of faith, indirect communication, the individual, anxiety and despair, the father of existentialism."
+description: "Kierkegaard set the individual against the system: three stages of existence, the leap of faith, subjectivity as truth and indirect communication."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Kierkegaard
@@ -38,6 +38,8 @@ He published prolifically in the 1840s — the pseudonymous works (*Either/Or*, 
 Kierkegaard's use of pseudonyms is not a disguise but a method. Each pseudonymous author — the aesthete A, Judge Wilhelm, Johannes de Silentio, Johannes Climacus, Anti-Climacus — inhabits a stage from within and presents it with full seriousness. No authorial voice adjudicates between them. The reader is not told which stage to choose; the reader is placed in the position of having to decide.
 
 This is "indirect communication" — the technique appropriate to existential questions that cannot be transmitted directly. A mathematical proof can be communicated directly: the conclusion follows from the premises and the reader's situation is irrelevant. But the question "how should I live?" cannot be answered by argument — it requires the reader's own decision, and any direct answer would substitute the author's decision for the reader's. Indirect communication communicates the question without usurping the answer.
+
+In *Concluding Unscientific Postscript* (1846) the thesis behind it is put in the pseudonym's mouth. Johannes Climacus calls it his thesis: *Subjektiviteten er Sandheden*, subjectivity is truth. It concerns the truth that is essential to an existing person — an objective uncertainty held fast in passionate inwardness — and does not deny objective truth elsewhere. The thinker who appropriates such truth becomes more and more isolated, which is why its communication has to be indirect: its secret, Climacus says, lies in setting the other free. Agreement in the same words, he warns, can be the highest misunderstanding.
 
 ---
 

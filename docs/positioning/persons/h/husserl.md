@@ -1,8 +1,8 @@
 ---
 layout: default
-lastmod: 2026-10-27
+lastmod: 2026-11-20
 title: "Edmund Husserl (1859–1938)"
-description: "Husserl founded phenomenology — the systematic study of experience from the inside. Intentionality, time-consciousness, and the lifeworld."
+description: "Husserl founded phenomenology, the systematic study of experience from the inside: intentionality, time-consciousness and the lifeworld."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Husserl
@@ -29,7 +29,7 @@ Husserl founded [phenomenology](/positioning/subjects/p/phenomenology/) — the 
 
 **The lifeworld (*Lebenswelt*).** The pre-scientific, pre-theoretical world of lived experience — the ground on which all theoretical constructions are built. The sciences abstract from the lifeworld but depend on it. Introduced in *The Crisis of European Sciences*, where objectivism, in the *Internet Encyclopedia of Philosophy*'s account, helps to cause "a 'crisis of European humanity'". The crisis is not in the sciences' results but in "what science in general had meant and can mean for human existence": "Merely fact-minded sciences make merely fact-minded people" (§2, tr. Carr). Parts I–II appeared in 1936, the whole in 1954. In §9 [Galileo](/positioning/persons/g/galileo/)'s achievement is a "mathematizing reinterpretation of nature", after which people came to "take for true being what is actually a method" (tr. Carr, as the *Stanford Encyclopedia of Philosophy* quotes it).
 
-**Intersubjectivity.** Other subjects are not inferred — they are experienced. In the *Fifth Cartesian Meditation*, Husserl develops the account: I experience the other's body as like mine and transfer the sense of subjectivity through analogical apperception (*Einfühlung*). The other is constituted as an alter ego — a subject like me, but irreducibly not me. Merleau-Ponty and Levinas each took this in different directions, but the move is Husserl's: intersubjectivity is given in experience, not constructed by reasoning.
+**Intersubjectivity.** The *Fifth Cartesian Meditation* opens with the objection against Husserl's own method: reduced to the transcendental ego, "do I not become solus ipse"? His answer is that other subjects are not inferred but experienced, through empathy (*Einfühlung*): my body is paired with a body over there, and the other's life is appresented, never presented. The other is given as other in the "verifiable accessibility of what is not originally accessible". The account ends not in a pair but in a community: the ego can experience a world "only by being in communion with others like himself: a member of a community of monads", and "there can exist only one Objective world". His own conclusion: "The illusion of a solipsism is dissolved" (tr. Cairns). [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) and [Levinas](/positioning/persons/l/levinas/) each took this in different directions, but the move is Husserl's: intersubjectivity is given in experience, not constructed by reasoning.
 
 **Philosophy as rigorous science.** The *Logos* essay of 1911 opens: "From its earliest beginnings philosophy has claimed to be rigorous science", the science that "renders possible from an ethico-religious point of view a life regulated by pure rational norms". It closes: "Philosophy, however, is essentially a science of true beginnings, or origins", and "The impulse to research must proceed not from philosophies but from things and from the problems connected with them" (tr. Lauer).
 

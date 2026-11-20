@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-19
+lastmod: 2026-11-20
 title: "Maurice Merleau-Ponty (1908–1961)"
 description: "Merleau-Ponty placed the body at the centre of experience — perception is the body's lived engagement with the world, not a mental act."
 ---
@@ -9,7 +9,7 @@ description: "Merleau-Ponty placed the body at the centre of experience — perc
 
 # Maurice Merleau-Ponty (1908–1961)
 
-Merleau-Ponty brought the body back into philosophy. The lived body as medium of having a world; the habitual body as accumulated skill and experience; intercorporeality as bodily resonance between subjects; and, in the late work, the chiasm — subject and object as folds in the same tissue rather than two things that meet. He worked from the body outward where [Husserl](/positioning/persons/h/husserl/) had worked from consciousness inward, and the result is a phenomenology in which dualism dissolves rather than gets argued against.
+Merleau-Ponty brought the body back into philosophy. The lived body as medium of having a world; the habitual body as accumulated skill and experience; the other met through the body and through dialogue, later named intercorporeality; and, in the late work, the chiasm — subject and object as folds in the same tissue rather than two things that meet. He worked from the body outward where [Husserl](/positioning/persons/h/husserl/) had worked from consciousness inward, and the result is a phenomenology in which dualism dissolves rather than gets argued against.
 
 [Maurice Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/) (1908–1961). Phenomenologist who placed the body at the centre of experience. A central figure in post-war French intellectual life — he co-founded *Les Temps Modernes* with Sartre in 1945 and held the chair of philosophy at the Collège de France from 1952, the youngest person ever appointed. He and Sartre started from the same phenomenological tradition and diverged fundamentally: Sartre toward radical freedom and consciousness, Merleau-Ponty toward embodiment and ambiguity. They broke over politics in the early 1950s. He died suddenly at 53, leaving his late work unfinished. Where Husserl worked from consciousness inward, Merleau-Ponty worked from the body outward — perception is not a mental act applied to sensory data but the body's lived engagement with the world.
 
@@ -27,7 +27,7 @@ Merleau-Ponty brought the body back into philosophy. The lived body as medium of
 
 **The chiasm.** In *The Visible and the Invisible* — unfinished at his death, surviving as working notes rather than a completed manuscript — Merleau-Ponty moves beyond the body-world relation toward a new ontology. The touching hand can be touched, the seeing eye can be seen. Subject and object are not separate domains but folds in the same tissue — what he calls *flesh* (*la chair*). The seer is part of the visible. The chiasm/flesh ontology is suggestive rather than fully worked out.
 
-**Intercorporeality.** Other subjects are encountered not through inference but through bodily resonance — gesture, expression, posture. Understanding another is not a mental operation but a bodily one. The space between subjects is lived, not bridged.
+**The other and the common world.** *Phenomenology of Perception* grants solipsism its truth — "There is here a solipsism rooted in living experience and quite insurmountable" — and then refuses the dilemma: "Solitude and communication cannot be the two horns of a dilemma, but two 'moments' of one phenomenon". The way to the other runs first through the body: my body discovers in the other's body "a miraculous prolongation of my own intentions". And it runs through language: "In the experience of dialogue, there is constituted between the other person and myself a common ground… we co-exist through a common world." Even the solipsist depends on it: "I can evolve a solipsist philosophy but, in doing so, I assume the existence of a community of men endowed with speech, and I address myself to it" (tr. Smith). Against [Sartre](/positioning/persons/s/sartre/)'s look he answers that "the other's gaze transforms me into an object, and mine him, only if both of us withdraw into the core of our thinking nature", and that the objectification is felt as unbearable "only because it takes the place of possible communication". The term *intercorporeality* comes later, in *Signs* (1960): "he and I are like organs of one single intercorporeality". Understanding another is not a mental operation but a bodily and a spoken one; the space between subjects is lived, not bridged.
 
 ---
 
@@ -39,7 +39,7 @@ Merleau-Ponty died at 53, mid-sentence. *The Visible and the Invisible* survives
 
 ## Where Merleau-Ponty stops
 
-The body grounds everything in Merleau-Ponty — but his account stays with the individual body. Intercorporeality opens the door to the space between subjects, yet the social and the linguistic remain underdeveloped. How bodies form communities, how shared language emerges from bodily encounter, how the intercorporeal extends into a full account of shared reality — these are questions he left on the table.
+The body grounds everything in Merleau-Ponty, and his way to others runs through the body and through dialogue. What he left on the table is the scale beyond the encounter: how bodies form communities, how the common ground of a dialogue extends into institutions, and how the intercorporeal grows into a full account of shared reality.
 
 ---
 
