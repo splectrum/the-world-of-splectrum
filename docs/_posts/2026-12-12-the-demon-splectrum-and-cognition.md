@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Demon, SPLectrum and Cognition"
-date: 2026-12-08
+date: 2026-12-12
 lastmod: 2026-11-08
 labels: [language, science]
 description: "Maxwell's demon turns knowing into work and pays to forget; a bacterium does much the same, and read with SPLectrum the demon is a small case of cognition."

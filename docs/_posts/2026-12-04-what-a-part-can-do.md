@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What a Part Can Do"
-date: 2026-12-01
+date: 2026-12-04
 lastmod: 2026-11-08
 labels: [conversations, science]
 description: "For a part of a network, Ito and Sagawa showed, the second law's bound is set by the information it exchanges with the rest: it depends on where it sits."

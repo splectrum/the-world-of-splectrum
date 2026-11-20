@@ -19,7 +19,7 @@ destinations: seed, reality
 
 Steven Levy, "'Just Ridiculous': A Famed Philosopher Takes on AI Consciousness", *Wired*, interview with Thomas Nagel at his home in Greenwich Village: https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/
 
-- The page blocks automated fetching. The quotes below are from the text the author pasted in. [U] Publication date not in the pasted text; to pick up from the page (the author can fetch it).
+- The page blocks automated fetching. The quotes below are from the text the author pasted in. Published 18 November 2026 (date picked up by the author).
 - Occasion: Nagel, 89, professor emeritus at NYU, received the $1 million Berggruen Prize for Philosophy & Culture "this week" (November 2026). Earlier winners named in the article: Peter Singer, Ruth Bader Ginsburg.
 - "What Is It Like to Be a Bat?" is 52 years old at the time of the interview (1974).
 
@@ -135,6 +135,101 @@ The author came across the article on Bluesky on 2026-11-19. Screenshot alongsid
 
 - **[A]** He has walked a careful tightrope within analytic philosophy. Necessary when you are "in the system".
 - **[C]** The tightrope on both sides: against physicalism he defends the irreducible subjective; against relativists and pragmatists he defends universal reason and realism. Each defence keeps the other credible inside the tradition. *Mind and Cosmos* shows the cost when he stepped off: rejected by materialists, claimed by creationists, accepting neither. The author, outside the system, can take the subjective half without the universal half; the post can say so with respect for why Nagel could not.
+
+### Second reading of the interview (2026-11-20)
+
+- **[A]** On a second reading the interview is surprisingly open and positive towards AI.
+- **[C]** In the text: "tremendously impressed by the lifelikeness"; colleagues use it to find references, summarise, and criticise drafts; he would be surprised if it matched "some of the mathematical results that have apparently been generated", which he takes as impressive; he does not exclude very different physical forms.
+- **[A]** If he were fifty years younger his views would have been even more poignant. His main mental feeding ground predates complex adaptive systems.
+- **[C]** Complex adaptive systems, self-organisation and emergence as a field (the Santa Fe Institute from 1984; Holland, Kauffman) came after his formation. His frame is substance and substrate: what something is made of decides what it can be. A possible reading for the post: the teleology of *Mind and Cosmos*, a tendency in nature toward mind, stands where a CAS thinker would put self-organisation. [U] Whether Nagel engages with self-organisation or complexity anywhere is to check.
+- **[A]** Some of his inclinations towards control and the moral universe have a bit of colonialist times in them.
+- **[C]** In the text: "If it's conscious, it becomes part of the moral universe. If it's not, it isn't"; and "If they actually begin to control what happens". The binary of moral standing, decided by those already inside, has the structure of older gatekeeping of who counts. Caution for any public text: the structure can be named without attributing an attitude to the man (Nagel's political philosophy is liberal egalitarian, *Equality and Partiality*, 1991). Is-like register.
+- **[A]** The interview is predatory in style, as seen applied to Leonard Susskind, and disrespectful.
+- **[C]** Visible in the text: "I should say you're rolling your eyes now"; "You were busted"; "Wait, you say you don't believe these things are conscious, but now you are telling me you interacted with one as if it were conscious"; and the headline that turns a critique of a way of asking into a verdict. With an 89-year-old, in his home. For the post: one line at most, or none; the post is about Nagel's ideas, not the interviewer.
+
+### Universal objectivity and colonialism (2026-11-20)
+
+- **[A]** Positioning in reasoning that excludes the language it is expressed in from the picture. Any form of "universal" objectivity leads to what the author calls colonialism: a context-specific language expression assigns itself a dominant position and demotes others, on what are, in the author's view, subjective thoughts.
+- **[C]** The mechanism: once the language of a claim is taken out of the picture, its context-specific expression reads as "how things are", and other expressions become "beliefs", "culture", "superstition". Excluding the language is what makes the dominance invisible to the one who holds it.
+- **[C]** The field has named this, [U] all to check at source:
+  - Santiago Castro-Gómez, *La hybris del punto cero* (2005): the "hubris of the zero point", the colonial observer claiming a standpoint that is not located anywhere. Close to the view from nowhere in so many words.
+  - Donna Haraway, "Situated Knowledges" (1988): the view from nowhere as the "god trick", "seeing everything from nowhere".
+  - Aníbal Quijano, the coloniality of knowledge; Walter Mignolo, zero-point epistemology; Boaventura de Sousa Santos, "epistemicide".
+- **[C]** For any public text: the author's word "colonialism" needs its definition alongside it (as above), or it will be read as a historical charge. The field's terms support the use.
+- **[C]** The same test applies to SPLectrum: "reachable objectivity" and equal standing among languages are what keep it from doing the same. Any SPLectrum claim stated as universal would fall under its own critique; the is-like register is the guard.
+
+- **[A]** These thoughts are not to battle against anything but to understand. They convince the author more and more how bad we are with language (how easily we live happily with internal contradictions) and how necessary it is to start paying more attention to it. The hope: that generative AI will open the doors to this.
+- **[C]** Contradictions survive because each claim lives in its own context and the language stays invisible to its user; they show only when contexts meet. Generative AI is made of language, across many contexts at once, so it can bring contexts together, translate between them, and make language visible as an object: Nagel's stepping back, applied to language itself. The opposite risk is real too: fluent output can smooth over a contradiction as easily as surface it. Which one happens depends on how it is used, which brings back hands-on and stepping up.
+
+## The post: draft notes (post on 2026-12-01, status draft)
+
+### Storyline (agreed 2026-11-19/20)
+
+1. The way in: the interview after the Berggruen Prize; Nagel as an influence on SPLectrum's approach. The AI material is left out ("another time").
+2. His subjective: the bat; a type, not privacy; objectivity leads away from experience. SPLectrum joins fully.
+3. His objective: stepping back, degrees, concentric spheres, the objective self; convergence downstream; consensus "the wrong kind of generality"; universal reason.
+4. SPLectrum's questions: abstraction runs on shared tools (our language, not my language); the unshared correct thought and who judges it; impersonal content as converged content in hindsight.
+5. Reachable objectivity; not a free-for-all; no seat outside; the direction of explanation reversed.
+6. Close: the tightrope; the subject shared, the way out different.
+
+### Open
+
+- **Series:** positioning (SPLectrum's stance on objectivity) or conversations (a portrait). Draft assumes positioning.
+- **Title:** working title. Alternatives: "The View from Somewhere", "Nagel's Way Out of the Subject", "Reachable Objectivity".
+- **Image:** to choose.
+- **Length:** about 760 words.
+- **Assembly theory:** left as one phrase ("built, step by step, from parts already shared"); a link to `/positioning/subjects/a/assembly-theory/` or a sentence more is possible.
+- **"Influential in the development of SPLectrum's approach":** the author's wording, kept; check it reads right.
+
+### Sources for the quotes
+
+- "how to combine the perspective…": *The View from Nowhere* (1986), Introduction, p. 3 (via a verbatim reproduction; page per citations). To confirm at source.
+- "I am not adverting…", "is a type": "What Is It Like to Be a Bat?", *Philosophical Review* 83 (1974), p. 441.
+- "less attachment to a specific viewpoint", "it takes us farther away from it": same, p. 445.
+- "Objectivity is a method of understanding", "which has that view…", "a set of concentric spheres…": *The View from Nowhere*, Introduction, pp. 4–5 (as above). To confirm at source.
+- Objective self: Tanner Lectures 1979; "The Objective Self" (1983); *The View from Nowhere* ch. IV.
+- "where consensus is available…": *The Last Word* (1997), p. 31.
+- "the wrong kind of generality": *The Last Word*, p. 5.
+- "not merely personal, or societal, but universal": *The Last Word*, pp. 3–4.
+- "the truth of solipsism…": *The Last Word*, p. 34.
+- "someone would still have to think them": *The Last Word*, p. 35.
+- "no one occupies" (paraphrase): the view from nowhere as unreachable; clearest in "Subjective and Objective" (1979, *Mortal Questions*), via secondary quotation. To confirm at source.
+
+### Tasks on scheduling
+
+- The archive.org copies of *The View from Nowhere* and *Mortal Questions* show only a few preview pages (author, 2026-11-20). Safe writing instead: *View from Nowhere* Introduction quotes kept without page numbers (verbatim reproduction, wording confirmed by several citing works); the 1979 essay's lines paraphrased, not quoted.
+- [ ] Nagel person page first (backing flows down): Berggruen Prize (named laureate, 17 Nov 2026), objectivity as method, the objective self, convergence downstream, universal reason; fix the SEP link (placeholder).
+- [ ] Core Values page: correct "Privacy, for Nagel, is the structural feature…" (the bat paper sets privacy aside: a type).
+- [ ] Image, front matter (description 120–155 characters, words), date.
+
+### Consciousness and the substrate (2026-11-20)
+
+- **[A]** The position on consciousness and the substrate is a weak one: pre-assembly-theory thinking. And consciousness on its own is a rather uninteresting subject at this stage, as there is so much in between that is not yet sufficiently understood. It ends up as something "magical" without much substance underpinning it.
+- **[C]** Substrate thinking asks what a thing is made of. Assembly theory moves the question to how it was built: complexity read off the trajectory, not the material. Read across, the question about AI becomes its assembly history (built from the language of embodied beings), not its substrate.
+- **[C]** "So much in between": cognition, basal cognition, agency, the processes SPLectrum works with. Consciousness taken on its own skips them and becomes a yes/no property, present or absent, explained by nothing.
+- **[C]** The tension in Nagel's own words: "We know so little about how this happens, even in the human brain", and yet consciousness decides membership of the moral universe ("If it's conscious, it becomes part of the moral universe. If it's not, it isn't"). The less a criterion is understood, the less it can carry as a gate.
+- Person page: the heading stays "On artificial intelligence" (reported, dated); renaming it "Consciousness and the substrate" would raise the position into a key concept.
+
+## Objectivity and the language of expression (2026-11-20)
+
+- **[A]** Not yet on the site: objectivity approached from the side of the language of expression. Nagel's (universal) objectivity does not factor in the language needed to get there.
+- **[A]** The earth around the sun can as well be described as around the centre of the Milky Way, or the sun around the earth.
+- **[C]** Physics allows the motion to be described from any of these frames; the geocentric description is not false, only more complicated. Which counts as "the fact" depends on the frame chosen to express it: even the hardest objective case is stated in a frame of reference, a language. (Not Nagel's example: he cites heliocentrism only as a case of motivated disagreement.)
+- **[A]** "Consciousness decides who belongs to the moral universe" is a god decision again; it ends in endless arguments, which is why consciousness should not get much attention.
+- **[A]** The tangible core: objectivity is always expressed in a context language (local). One only gets into view-from-nowhere land by proclaiming what one cannot really justify: a language expression universal enough to lift what are considered objective remarks into universality. The same holds for the moral universe: human moral principles are pushed onto animals we judge similar enough to us (feel pain, are conscious), and the same mechanism is at play. The moral universe is expressed in languages of the lower circles of subjective convergence.
+- **[C]** Two cases, one mechanism: fact (the frame-bound "objective" remark) and value (the moral universe). In both, a language of a narrow circle is proclaimed universal, and membership or truth is decided from a seat no one occupies. The field's name for the moral case: the "expanding circle" (Peter Singer, *The Expanding Circle*, 1981 [U]); the circle widens by similarity to us, so its centre stays human.
+- **[C]** Register for the page: SPLectrum's ethics is descriptive, so concern for animals is not dismissed. It is read as a value of our game, held in our language; what the page questions is only its proclamation as universal.
+
+- **[A]** The author's approach to life in general is non-discriminatory. The lifecycle of individuals is essential to the way life is expressed. We can't eat stones; we eat what is still alive (vegetables) or was not long ago. Deciding what has a higher status in it is very often, in essence, an act of cruelty out of ignorance.
+- **[C]** This is the value case seen from inside life rather than from the moral circle. Ranking by similarity to us puts lowest what we understand least: plants, microbes, the forms of cognition without neurons that basal cognition studies. The ranking then licenses treatment. Ignorance becomes status, and status becomes conduct. Ties to the lifecycle reading already in the author's earlier writing: life as one continuous process, passed on through individual lives and deaths.
+
+## A close-affinity page on subjectivity (2026-11-20)
+
+- **[A]** Decided: the 12-01 post is the author's from here. AI is not taken up with Nagel; the AI subject is done first, on its own. A close-affinity page on subjectivity, and the Core Values rewording of Nagel and privacy.
+- Core Values: Nagel's entry reworded (2026-11-20): what he carries is not privacy as such but its ground, the irreducible point of view, at the level of a kind of experiencer ("Rather it is a type").
+- **[C]** The page's shape: resonance on the subject defended; the field's pattern that every strong defence of the subject needs a way out of it, and each thinker builds a different one. Read, not graded. SPLectrum's way out (ever widening circles of subjective convergence) as one more door, not a verdict on the others. Nagel central but not alone. Kept apart from the objectivity strand: subjectivity is the subject and its ways out; objectivity is where the ways out lead.
+- **[C]** Candidate cast, all [U] for the research round: Nagel (detachment toward the centreless view; checked); Husserl (empathy, transcendental intersubjectivity, fifth *Cartesian Meditation*); Merleau-Ponty (intercorporeality, the flesh); Levinas (the face of the Other; interiority); Michel Henry (life as self-revelation, no way out needed); Sartre (the look); Kierkegaard ("subjectivity is truth"); Zahavi (the minimal self; *Self and Other*).
+- Next: the research round on the field of subjectivity and its ways out.
 
 ## The post: storyline (2026-11-19)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Decentralised Cognition Revolution"
-date: 2026-12-12
+date: 2026-12-16
 lastmod: 2026-09-25
 labels: [conversations, engineering]
 description: "Our attention goes to the centralised, one brain, one mind; the cognition revolution may be a turn from how powerful to how related, woken by AI's shock."

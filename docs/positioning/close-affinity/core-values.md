@@ -57,7 +57,7 @@ Bakhtin holds the three as features of how language works — of the utterance, 
 
 ## Privacy — what I experience is internal to me
 
-**[Thomas Nagel](/positioning/persons/n/nagel/)** — "What is it like to be a bat?" The subjective character of experience is irreducible: no amount of objective description captures what it is like to be a particular subject. Privacy, for Nagel, is the structural feature that blocks complete objectivity — the subjective point of view that the view from nowhere cannot absorb.
+**[Thomas Nagel](/positioning/persons/n/nagel/)** — "What is it like to be a bat?" The subjective point of view is irreducible: no objective description absorbs it, and the more objective an account becomes, the further it moves from the experience. For Nagel the barrier lies between kinds of experiencer rather than between one person and another — "Rather it is a type" — so what he carries is not privacy as such but its ground: a point of view that cannot be had from outside.
 
 **Emmanuel Levinas** — interiority is positive, not a gap. The subject enjoys (*jouissance*) its own inner life before any encounter with the Other. Separation is a condition for ethics, not its obstacle — only a genuinely interior being can be addressed. Levinas places interiority and belonging in a sequence: separation first, encounter second.
 
@@ -85,7 +85,7 @@ Bakhtin holds the three as features of how language works — of the utterance, 
 
 ## How the triad surfaces
 
-The three values arrive separately across the tradition. Belonging is carried by the dialogical and communitarian thinkers (Buber, Levinas, Heidegger, MacIntyre, Sandel); privacy by the phenomenologists and philosophers of subjectivity (Nagel, Merleau-Ponty, Levinas's interiority); creativity by the process philosophers and the theorists of social imagination (Whitehead, Bergson, Castoriadis, Arendt, James, Deleuze). Each strand carries its value with depth and precision.
+The three values arrive separately across the tradition. Belonging is carried by the dialogical and communitarian thinkers (Buber, Levinas, Heidegger, MacIntyre, Sandel); privacy by the phenomenologists and philosophers of subjectivity (Merleau-Ponty, Levinas's interiority, and Nagel for the irreducible point of view it rests on); creativity by the process philosophers and the theorists of social imagination (Whitehead, Bergson, Castoriadis, Arendt, James, Deleuze). Each strand carries its value with depth and precision.
 
 Four thinkers hold something like all three at once, each through a different material: Taylor through a genealogy of the modern self, Whitehead through a cosmology, Nishida through the self-aware act, Bakhtin through the working of language. That the triad surfaces whole in materials this far apart — history, cosmos, act, utterance — is the resonance: the three tend to arrive together wherever thought takes up the subject among others.
 
