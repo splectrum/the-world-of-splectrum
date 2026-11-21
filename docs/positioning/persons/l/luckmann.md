@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-07-19
 title: "Thomas Luckmann (1927–2016)"
-description: "Slovene-Austrian sociologist, co-author of The Social Construction of Reality, who completed Alfred Schutz's Structures of the Life-World and developed a phenomenological sociology of language, communication, and religion."
+description: "Thomas Luckmann, co-author of The Social Construction of Reality, completer of Schutz's Structures of the Life-World, sociologist of language and religion."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Luckmann

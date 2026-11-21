@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-12
 title: "Mineral Evolution: The Word"
-description: "Evolution applied to the minerals of a planet — Hazen's 2008 comment on the word, its precedent in Bowen, the general sense of change over time, and the 2023 law of increasing functional information that re-describes it as selection."
+description: "Mineral evolution and the word: Hazen's 2008 comment, its precedent in Bowen, the objections, and the 2023 law of increasing functional information."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Evolution](/positioning/subjects/e/evolution/) > Mineral evolution: the word

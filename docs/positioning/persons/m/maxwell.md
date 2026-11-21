@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-27
 title: "James Clerk Maxwell (1831–1879)"
-description: "Scottish physicist — the unification of electricity, magnetism, and light, the Maxwell equations, the kinetic theory of gases, Maxwell's demon, and the completion of classical physics."
+description: "Scottish physicist: the unification of electricity, magnetism and light in Maxwell's equations, the kinetic theory of gases, and Maxwell's demon."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Maxwell

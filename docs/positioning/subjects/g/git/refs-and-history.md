@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "Refs and history"
-description: "How Git turns objects into usable history — branches, HEAD, and tags as pointers, the commit graph, branching and merging, rewriting history, and the reflog as a safety buffer."
+description: "How Git turns objects into history: branches, HEAD and tags as refs, the commit graph, branching and merging, rewriting history, and the reflog."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Git](/positioning/subjects/g/git/) > Refs and history

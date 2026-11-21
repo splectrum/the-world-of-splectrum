@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-26
 title: "Ontology — the concepts of the language"
-description: "SPLectrum's ontology pillar — the entities of reality are the concepts of the language medium, each a being by its difference from the others; the vocabulary held at rest, chosen, contingent, and specific to a language."
+description: "SPLectrum's ontology pillar: the entities of reality are the concepts of the language, each a being by its difference, chosen, contingent and specific."
 ---
 
 [Home](/) > [Reality](/reality/) > Ontology

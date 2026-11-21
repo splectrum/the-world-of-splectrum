@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-09
 title: "Jessica Wilson (c. 1965–)"
-description: "American-Canadian metaphysician — metaphysical emergence made rigorous: weak emergence as a proper subset of the base's powers, strong as a power the base lacks; the layered picture optional; Hume's Dictum under assessment."
+description: "Jessica Wilson's metaphysics of emergence: weak emergence as a proper subset of the base's powers, strong emergence as a power the base lacks."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Wilson, Jessica

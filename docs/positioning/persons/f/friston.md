@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-08-20
 title: "Karl Friston (b. 1959)"
-description: "British neuroscientist — the free energy principle, active inference, predictive coding as process theory; earlier the statistical infrastructure of brain imaging: SPM, VBM, DCM."
+description: "British neuroscientist of the free energy principle, active inference and predictive coding, and earlier of brain-imaging statistics: SPM, VBM and DCM."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Friston
@@ -37,7 +37,7 @@ The free energy principle emerged in the mid-2000s — "A theory of cortical res
 
 The dark room problem is the objection the programme has carried from the start, because it comes from inside the programme's own logic: if a system exists by minimising surprise, why does it not seek out the least surprising environment available — a dark, quiet corner — and stay there forever? The standard reply is that an organism's generative model encodes expectations of the states its kind occupies — a fish expects water — so the dark room is itself surprising relative to the model. Critics reply that this saves the principle by putting the interesting content somewhere else: what an organism prefers, what its states are about, what its predictions mean.
 
-That is where the principle stops. It specifies a dynamic — minimise the bound on surprise — but not the preferred states that make one organism's viable envelope different from another's, not the content of the generative model, and not the semantics of prediction: what makes an internal state a prediction *of* something rather than merely a state that co-varies with it. These questions sit outside the formalism and are handed to whatever theory supplies the model.
+On the critics' reading, that is where the principle stops. It specifies a dynamic — minimise the bound on surprise — but not the preferred states that make one organism's viable envelope different from another's, not the content of the generative model, and not the semantics of prediction: what makes an internal state a prediction *of* something rather than merely a state that co-varies with it. These questions sit outside the formalism and are handed to whatever theory supplies the model.
 
 ---
 

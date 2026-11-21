@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-12
 title: "Developmental Psychology — the Three Streams"
-description: "Three rival answers to how the acquiring works — behaviourism's shaping from outside, nativism's innate endowment unfolding, and the constructive-social stream — with language acquisition as the arena where they met."
+description: "Developmental psychology's three streams on how children acquire: behaviourist shaping, nativist endowment and the constructive-social, met in language."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Developmental psychology

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-08-24
 title: "Eleanor J. Gibson (1910–2002)"
-description: "American psychologist — perceptual learning as differentiation: coming to detect structure always present in the stimulation but not yet picked up; the visual cliff; the ecological account of acquisition."
+description: "Eleanor Gibson's perceptual learning as differentiation: learning to detect structure already present in stimulation, and the visual cliff experiment."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Gibson, Eleanor J.

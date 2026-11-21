@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The deflationary branch"
-description: "The line that treats metaphysics not as hard but as confused — questions to be dissolved rather than answered. Hume's fork, logical positivism's elimination, pragmatism's test of consequences, and the deflationary turn in metametaphysics."
+description: "Deflationary metaphysics, questions dissolved not answered: Hume's fork, logical positivism, pragmatism's test of consequences, metametaphysics."
 lastmod: 2026-06-25
 ---
 

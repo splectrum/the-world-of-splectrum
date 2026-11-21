@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-11
 title: "Mark W. Moffett (1958–)"
-description: "American tropical biologist — anonymous societies and identity markers, the structural comparison between ant colonies and human societies, canopy ecology, and definitions treated as neutral marks rather than explanations."
+description: "American tropical biologist: anonymous societies held together by identity markers, and the structural comparison between ant colonies and human societies."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Moffett
@@ -55,7 +55,7 @@ On the human-social-evolution question he is a contemporary of [Tomasello](/posi
 
 ## Where Moffett stops
 
-The framework is a description of how societies are constituted and bounded, and he declines, deliberately, to make it an explanation. The definition marks a society; it does not say why societies arise or what they are for — a restraint he states as method rather than as a gap awaiting filling. The scale story names a threshold above which markers need leadership and specialisation to supplement them, without a theory of where that threshold sits or why. And the ant–human comparison is offered as a structural parallel, with the question of how much weight structure alone can bear left, by his own framing, to the argument it has provoked.
+The framework is a description of how societies are constituted and bounded, and he declines, deliberately, to make it an explanation. The definition marks a society; it does not say why societies arise or what they are for — a restraint he states as method rather than as a gap awaiting filling. And the ant–human comparison is offered as a structural parallel, with the question of how much weight structure alone can bear left, by his own framing, to the argument it has provoked.
 
 ---
 

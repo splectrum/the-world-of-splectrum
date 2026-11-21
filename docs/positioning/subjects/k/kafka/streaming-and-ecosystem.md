@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "Streaming and ecosystem"
-description: "The platform around Kafka's log — Kafka Streams, Kafka Connect, Confluent and the Schema Registry, and the event-driven, event-sourcing, and stream–table patterns Kafka anchors."
+description: "The Apache Kafka ecosystem: Kafka Streams, Kafka Connect, Confluent's Schema Registry, and the event-sourcing and stream-table patterns it anchors."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Apache Kafka](/positioning/subjects/k/kafka/) > Streaming and ecosystem

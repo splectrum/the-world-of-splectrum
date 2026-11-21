@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-27
 title: "Adam Smith (1723–1790)"
-description: "Scottish philosopher and political economist — The Wealth of Nations, The Theory of Moral Sentiments, the invisible hand, the impartial spectator, the division of labour."
+description: "Adam Smith, Scottish philosopher and economist: The Theory of Moral Sentiments, the impartial spectator, The Wealth of Nations and the invisible hand."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Smith (Adam)

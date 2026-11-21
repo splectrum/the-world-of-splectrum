@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-20
 title: "What Entropy Is"
-description: "Several quantities share the name — Clausius's thermodynamic entropy, Boltzmann's count of microstates, Gibbs's ensemble quantity, Shannon's information measure — and four readings divide over what any of them measures: objective, epistemic, relative to a coupling, relative to available means."
+description: "What entropy is: Clausius, Boltzmann, Gibbs and Shannon entropy, and four readings of what it measures, objective, epistemic, relative, resource-relative."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Thermodynamics](/positioning/subjects/t/thermodynamics/) > What entropy is

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "Apache Avro"
-description: "Apache Avro is a data serialization system that defines schemas in JSON, encodes data in a compact binary form, and carries the schema with the data so reading and writing need no generated code."
+description: "Apache Avro, a data serialization system: schemas defined in JSON, compact binary encoding, and the schema carried with the data, with no generated code."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Apache Avro

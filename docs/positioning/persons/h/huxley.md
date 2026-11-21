@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Thomas Henry Huxley (1825–1895)"
-description: "Victorian biologist, public defender of Darwinian evolution, coiner of 'agnostic' — comparative anatomist, education reformer, and author of Evolution and Ethics."
+description: "Victorian comparative anatomist, public defender of Darwinian evolution, coiner of 'agnostic', education reformer and author of Evolution and Ethics."
 lastmod: 2026-05-28
 ---
 

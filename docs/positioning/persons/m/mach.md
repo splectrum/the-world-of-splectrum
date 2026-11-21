@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-27
 title: "Ernst Mach (1838–1916)"
-description: "Austrian physicist, philosopher — Mach's principle, the critique of atomism, positivism, the economy of thought, Mach bands, the energeticist opposition to Boltzmann."
+description: "Austrian physicist and philosopher: Mach's principle, the critique of atomism and Newtonian mechanics, the economy of thought, and Mach bands."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Mach
@@ -65,7 +65,7 @@ Mach's influence on Einstein was real but limited. Einstein credited Mach's crit
 
 The economy-of-thought view of scientific theories — that theories are tools for organising experience, not descriptions of a reality behind experience — influenced not only the Vienna Circle but also the instrumentalist tradition in the philosophy of science. Whether scientific theories are descriptions of reality (realism) or instruments for prediction (instrumentalism) is a question that Mach sharpened but did not settle, and it remains alive in the philosophy of science.
 
-Mach's positivism also drew a major attack from outside the Western philosophical tradition. [Lenin](https://en.wikipedia.org/wiki/Vladimir_Lenin)'s *Materialism and Empirio-Criticism* (1909) attacked Mach's philosophy as bourgeois idealism incompatible with dialectical materialism — arguing that Mach's denial of an objective reality independent of sensation was politically as well as philosophically dangerous. The book made Mach a contested figure in Soviet philosophy for decades, and it established the orthodoxy that Marxist-Leninist epistemology was realist in a way that Machian positivism was not. The episode is a reminder that Mach's philosophy had political as well as scientific stakes — his insistence that science deals only in sensations, not in an objective material world, was read as a threat by materialisms that required objectivity as a philosophical foundation.
+Mach's positivism also drew a major attack from Marxism. [Lenin](https://en.wikipedia.org/wiki/Vladimir_Lenin)'s *Materialism and Empirio-Criticism* (1909) attacked Mach's philosophy as bourgeois idealism incompatible with dialectical materialism — arguing that Mach's denial of an objective reality independent of sensation was politically as well as philosophically dangerous. The book made Mach a contested figure in Soviet philosophy for decades, and it established the orthodoxy that Marxist-Leninist epistemology was realist in a way that Machian positivism was not. The episode is a reminder that Mach's philosophy had political as well as scientific stakes — his insistence that science deals only in sensations, not in an objective material world, was read as a threat by materialisms that required objectivity as a philosophical foundation.
 
 ---
 

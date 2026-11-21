@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-30
 title: "Lewis Henry Morgan (1818–1881)"
-description: "American anthropologist and lawyer — the League of the Iroquois, the comparative study of kinship systems, classificatory and descriptive kinship, and Ancient Society's ethnical periods from savagery to civilisation, the scheme Engels took up."
+description: "American anthropologist: the League of the Iroquois, the comparative study of kinship systems, and Ancient Society's stages from savagery to civilisation."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Morgan (L. H.)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Ilya Prigogine (1917–2003)"
-description: "Belgian physical chemist — dissipative structures, non-equilibrium thermodynamics, order far from equilibrium, the minimum entropy production principle, and the argument that time's arrow is constitutive of nature rather than a statistical artefact."
+description: "Belgian physical chemist and Nobel laureate: dissipative structures, non-equilibrium thermodynamics, order out of chaos, and the arrow of time."
 lastmod: 2026-09-14
 ---
 
@@ -57,7 +57,7 @@ The sustained critique is Jean Bricmont's "Science of Chaos or Chaos in Science?
 
 ## Where Prigogine stops
 
-Prigogine's programme shows how order arises from non-equilibrium dynamics — how the throughflow of energy can produce and sustain organised structures. What it does not give is an account of adaptation. Dissipative structures are organised but they do not learn, adjust their rules, or explore their environments. A Bénard cell is ordered but not adaptive; a convection pattern does not evolve. The step from self-organisation to adaptation — from dissipative structures to adaptive agents — is the step that CAS takes and that Prigogine's framework does not. [Kauffman](/positioning/persons/k/kauffman/)'s "order for free" programme inherits the self-organisation insight and develops it in the direction of adaptive systems.
+Prigogine's programme shows how order arises from non-equilibrium dynamics — how the throughflow of energy can produce and sustain organised structures. Its further claim, that irreversibility is fundamental, is the one Jean Bricmont contested. [Kauffman](/positioning/persons/k/kauffman/)'s "order for free" programme inherits the self-organisation insight and develops it in the direction of adaptive systems.
 
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-12
 title: "Daniel Dennett (1942–2024)"
-description: "American philosopher — the intentional stance, Darwin's Dangerous Idea, consciousness explained, universal Darwinism, memes, and the deflationary programme in philosophy of mind."
+description: "American philosopher of mind: the intentional stance, Consciousness Explained, Darwin's Dangerous Idea, memes, free will, and a deflationary naturalism."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Dennett

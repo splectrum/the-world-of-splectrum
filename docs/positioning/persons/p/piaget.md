@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-07-03
 title: "Jean Piaget (1896–1980)"
-description: "Piaget studied children as a way to answer a philosophical question — how knowledge grows. His genetic epistemology traced the origins of logic and the categories through development, the child as a laboratory for the theory of knowledge."
+description: "Jean Piaget's genetic epistemology: how knowledge grows, with the child's development of logic and the categories as a laboratory for epistemology."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Piaget

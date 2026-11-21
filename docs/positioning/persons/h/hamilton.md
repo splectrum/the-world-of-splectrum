@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-26
 title: "W. D. Hamilton (1936–2000)"
-description: "British evolutionary biologist — inclusive fitness, Hamilton's rule, the genetical evolution of social behaviour, sex and parasites, and the gene's-eye view of evolution."
+description: "British evolutionary biologist: inclusive fitness, Hamilton's rule, the genetical evolution of social behaviour, sex and parasites, and sex ratios."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Hamilton

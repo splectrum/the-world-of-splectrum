@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-11-08
 title: "Autobee"
-description: "Autobee is a multiwriter Hyperbee — several writers' logs merged by a deterministic apply into one shared Hyperbee view. Experimental; sits alongside Autobase."
+description: "Autobee, the experimental multiwriter Hyperbee: several writers' logs merged by a deterministic apply into one shared Hyperbee view, beside Autobase."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [Third Party Software](/engineering/third-party-software/) > [P2P building blocks](/engineering/third-party-software/p2p/) > Autobee

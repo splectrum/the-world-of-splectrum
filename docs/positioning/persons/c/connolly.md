@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-15
 title: "William E. Connolly (1938–)"
-description: "Connolly separated pluralism from pluralisation — existing diversity from the ongoing emergence of new diversity. Deep pluralism grounded in process ontology."
+description: "William E. Connolly separated pluralism from pluralisation, existing diversity from new diversity emerging: deep pluralism grounded in process ontology."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Connolly

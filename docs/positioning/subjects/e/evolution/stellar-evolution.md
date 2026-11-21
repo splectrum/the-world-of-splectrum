@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-05
 title: "Stellar Evolution"
-description: "The life course of a star read off many stars at once — Herschel's garden of nebulae, Lockyer's meteoritic hypothesis and inorganic evolution, Russell's giant-to-dwarf sequence, Eddington and Bethe's nuclear-burning track, and Baade's stellar populations and galactic chemical evolution."
+description: "Stellar evolution, a star's life course read off many stars: Herschel, Lockyer's inorganic evolution, Russell's sequence, nuclear burning, Baade."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Evolution](/positioning/subjects/e/evolution/) > Stellar evolution

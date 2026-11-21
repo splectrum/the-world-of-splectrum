@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-08-20
 title: "Yogācāra"
-description: "The Buddhist school of the meditators' analysis of experience — representation-only, the eight consciousnesses with the storehouse, seeds and perfuming, the three natures, and the non-duality of grasper and grasped."
+description: "Yogācāra, the Buddhist school of representation-only: eight consciousnesses with the storehouse, the three natures, the non-duality of grasper and grasped."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Yogācāra

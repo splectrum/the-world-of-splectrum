@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-29
 title: "Lewis Mumford (1895–1990)"
-description: "American historian of technology and cities — Technics and Civilization and the clock as key-machine, the eotechnic, paleotechnic and neotechnic phases, The City in History, authoritarian and democratic technics, the megamachine, and man as a mind-making animal."
+description: "American historian of technology and cities: Technics and Civilization, the clock as key machine, The City in History, and the megamachine."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Mumford

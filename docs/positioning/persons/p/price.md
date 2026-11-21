@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "George Price (1922–1975)"
-description: "American-British theoretical biologist — the Price equation, the mathematics of selection, evolutionary game theory (with Maynard Smith), the covariance formulation of natural selection."
+description: "American-British theoretical biologist: the Price equation and the covariance form of natural selection, and evolutionary game theory with Maynard Smith."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Price

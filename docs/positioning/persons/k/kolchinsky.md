@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-15
 title: "Artemy Kolchinsky"
-description: "Theoretical physicist — semantic information defined through viability and counterfactual intervention, and stochastic thermodynamics: the entropic costs of computation, replication and information processing."
+description: "Theoretical physicist: semantic information defined through viability and intervention, and the stochastic thermodynamics of computation and replication."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Kolchinsky
@@ -49,7 +49,7 @@ With Wolpert he has worked on the thermodynamic costs of computation and of info
 
 The semantic-information framework measures *whether* a correlation matters to a system's persistence, and declines to say what it is about in any richer sense. The authors are explicit that meaning here is not representation, reference or aboutness as philosophy of mind uses those terms, and the formalism has no resources for them: a state's semantic content is a conditional distribution over environments, not a content the system entertains.
 
-The framework also does not close the gap it identifies. The three relativities — system/environment division, timescale, initial distribution — are acknowledged as the analyst's choices, with the expectation that future work might reduce their arbitrariness; that work is not done, and the framework as it stands defines its quantities relative to a partition somebody selects. What it does not consider is the alternative to reducing the relativity, which is to treat it as structural rather than as a defect: the paper's own acknowledged source, Rovelli, had argued in a different domain that a quantity can be objective and relative at once, but that reading is not taken up.
+The framework also does not close the gap it identifies. The three relativities — system/environment division, timescale, initial distribution — are acknowledged as the analyst's choices, with the expectation that future work might reduce their arbitrariness; that work is not done, and the framework as it stands defines its quantities relative to a partition somebody selects.
 
 ---
 

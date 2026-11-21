@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The genealogical branch"
-description: "Metaphysics read against itself — neither built nor refuted but diagnosed as an artifact with a history and a set of buried commitments. Nietzsche's suspicion of the true world and Derrida's metaphysics of presence."
+description: "Metaphysics read against itself, diagnosed rather than built or refuted: Nietzsche's suspicion of the true world and Derrida's metaphysics of presence."
 lastmod: 2026-06-25
 ---
 

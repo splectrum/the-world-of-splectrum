@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-26
 title: "Assembly Theory — The Algorithmic Information Theory Debate"
-description: "The substantive debate over whether assembly theory makes a genuinely novel mathematical contribution or restates concepts from algorithmic information theory. Led by Zenil and collaborators on the critique side; defended by Cronin, Walker, and their teams."
+description: "The debate over whether assembly theory is new mathematics or restates algorithmic information theory: Zenil's critique and the Cronin and Walker defence."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Assembly Theory](/positioning/subjects/a/assembly-theory/) > The Algorithmic Information Theory Debate

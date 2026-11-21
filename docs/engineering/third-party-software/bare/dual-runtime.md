@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-11-08
 title: "Dual-Runtime Config"
-description: "How the same code runs on both Bare and Node.js: the three porting routes (bare-node-runtime, the bare-node alias wrappers, direct swaps), the imports field for libraries, and where remapping is not enough."
+description: "How the same code runs on both Bare and Node.js: three porting routes, the package.json imports field, and the cases where remapping is not enough."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [Third Party Software](/engineering/third-party-software/) > [Bare Runtime](/engineering/third-party-software/bare/) > Dual-Runtime Config

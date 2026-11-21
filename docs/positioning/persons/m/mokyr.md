@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-29
 title: "Joel Mokyr (1946–)"
-description: "Dutch-born American-Israeli economic historian — The Lever of Riches, macroinventions and microinventions, useful knowledge and the Industrial Enlightenment, A Culture of Growth, an evolutionary account of technology that refuses to copy biology, and the 2025 Nobel prize."
+description: "Economic historian of technology: The Lever of Riches, useful knowledge and the Industrial Enlightenment, A Culture of Growth, and the 2025 Nobel prize."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Mokyr

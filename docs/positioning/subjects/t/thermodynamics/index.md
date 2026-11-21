@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-13
 title: "Thermodynamics"
-description: "The physics of what processes can and cannot do — laws established without knowing what matter is made of, which survived the discovery, and which now reach from steam engines to black holes and bits. The field, its framings, and where it argues with itself."
+description: "Thermodynamics, the physics of what processes can and cannot do: laws reaching from steam engines to black holes and bits, its framings and its disputes."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Thermodynamics

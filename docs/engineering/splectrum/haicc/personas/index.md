@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-03
 title: "Personas"
-description: "A persona is a structured set of behaviours covering an area of work, expressed as data transformations over its repository — listed here as each comes into operation."
+description: "A HAICC persona is a structured set of behaviours for one area of work, run as data transformations over its repository, listed as each comes into use."
 sitemap: false
 ---
 

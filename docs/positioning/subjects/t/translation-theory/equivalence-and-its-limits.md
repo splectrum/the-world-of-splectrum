@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-26
 title: "Equivalence and Its Limits"
-description: "Equivalence as twentieth-century linguistics and philosophy tried to fix it: Jakobson's three kinds and equivalence in difference, Quine's indeterminacy of translation, Nida's formal and dynamic equivalence, and the working taxonomies of Vinay and Darbelnet and of Catford."
+description: "Equivalence in translation theory: Jakobson's three kinds, Quine's indeterminacy of translation, Nida's formal and dynamic equivalence, and Catford."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Translation theory](/positioning/subjects/t/translation-theory/) > Equivalence and its limits

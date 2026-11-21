@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "W. Brian Arthur (1945–)"
-description: "Irish-American economist — increasing returns, path dependence, complexity economics, and the Santa Fe Institute programme that challenged equilibrium assumptions."
+description: "Irish-American economist of increasing returns, path dependence and complexity economics, the Santa Fe programme against equilibrium assumptions."
 lastmod: 2026-09-29
 ---
 

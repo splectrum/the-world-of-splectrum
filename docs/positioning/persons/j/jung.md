@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-28
 title: "Carl Gustav Jung (1875–1961)"
-description: "Jung founded analytical psychology — the collective unconscious and its archetypes, individuation toward the Self, psychological types, and a psychology open to myth, religion, and the imagination."
+description: "Carl Jung's analytical psychology: the collective unconscious and its archetypes, individuation, psychological types, and openness to myth and religion."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Jung

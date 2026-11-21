@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Heinz von Foerster (1911–2002)"
-description: "Austrian-American physicist and philosopher — second-order cybernetics, the observer in the system, self-organisation, eigenvalues of cognitive operations, and the ethical imperative to act so as to increase choices."
+description: "Heinz von Foerster's second-order cybernetics: the observer in the system, self-organisation, eigenvalues, non-trivial machines, the ethical imperative."
 lastmod: 2026-07-03
 ---
 

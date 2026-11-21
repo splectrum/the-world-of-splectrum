@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-24
 title: "Biosemiotics"
-description: "The study of sign processes in living systems — meaning and interpretation as features of life itself. Built on Peirce's sign and Uexküll's Umwelt, organised by Sebeok and the Copenhagen–Tartu school."
+description: "Biosemiotics, the study of sign processes in living systems, built on Peirce and Uexküll's Umwelt and organised by Sebeok and the Copenhagen–Tartu school."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Biosemiotics

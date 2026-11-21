@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-27
 title: "Ethics — the values a language game holds"
-description: "SPLectrum's ethics pillar — values read off an actor's language game as the relational face of belonging, and the same reading at the scale of the shared community game, where those values are mandatory for members because membership is constituted by holding them."
+description: "SPLectrum's ethics pillar: values read off an actor's language game as the relational face of belonging, mandatory for members of a shared community game."
 ---
 
 [Home](/) > [Reality](/reality/) > Ethics — the values a language game holds

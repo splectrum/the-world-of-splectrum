@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "Michael Faraday (1791–1867)"
-description: "British experimental physicist, chemist — electromagnetic induction, the field concept, the laws of electrolysis, diamagnetism, the Faraday effect, the foundations of field theory."
+description: "British experimental physicist and chemist: electromagnetic induction, the field concept, the laws of electrolysis, and the foundations of field theory."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Faraday

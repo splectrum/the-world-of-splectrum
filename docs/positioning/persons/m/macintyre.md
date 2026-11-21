@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-19
 title: "Alasdair MacIntyre (1929–)"
-description: "Scottish-American philosopher — tradition-constituted rationality, the failure of the Enlightenment moral project, After Virtue, and the argument that rationality is always internal to a tradition."
+description: "Scottish-American philosopher: After Virtue, the failure of the Enlightenment moral project, and rationality as always internal to a tradition."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > MacIntyre
@@ -51,9 +51,9 @@ MacIntyre's constructive move: return to a version of the Aristotelian tradition
 
 MacIntyre's thesis — that rationality is tradition-constituted — applies to his own position. He argues from within the Thomistic tradition and defends it as the tradition best able to learn from its rivals (because Aquinas demonstrated the capacity to incorporate Aristotelian and Augustinian resources). Critics have pressed on whether this is a philosophical conclusion or a partisan judgment dressed in philosophical clothing. If the criterion for tradition-superiority is the ability to survive epistemological crises by incorporating rival insights, and the Thomistic tradition is held up as the paradigm of this ability, the argument risks circularity: the tradition that best exemplifies the criterion is the one that formulated the criterion.
 
-The mechanism for learning across traditions — inhabiting a second tradition "as a second first language" — is structurally demanding. It requires individuals who can achieve genuine bilingual competence across incommensurable traditions. Whether this is possible for more than exceptional individuals, and whether the results of such individuals' judgments can be transmitted to communities that have not undergone the same formation, is unclear. The mechanism describes what learning across traditions would look like; it does not explain how to institutionalise it. [Stephen Mulhall](https://en.wikipedia.org/wiki/Stephen_Mulhall) and [Adam Swift](https://en.wikipedia.org/wiki/Adam_Swift_(political_philosopher)) have argued that recognising liberalism as a tradition does not undermine it — that liberalism can acknowledge its own historicity and continue to function, which is exactly what a tradition is supposed to do.
+The mechanism for learning across traditions — inhabiting a second tradition "as a second first language" — is structurally demanding. It requires individuals who can achieve genuine bilingual competence across incommensurable traditions. [Stephen Mulhall](https://en.wikipedia.org/wiki/Stephen_Mulhall) and [Adam Swift](https://en.wikipedia.org/wiki/Adam_Swift_(political_philosopher)) have argued that recognising liberalism as a tradition does not undermine it — that liberalism can acknowledge its own historicity and continue to function, which is exactly what a tradition is supposed to do.
 
-MacIntyre's relationship to politics is deliberately underdeveloped. He has described himself as holding "what I regard as Marxist conclusions but in the very different terms of Thomistic theory," and has argued that contemporary politics offers no adequate institutional expression of the tradition-based moral reasoning he defends. The underdevelopment is principled — he resists the premature identification of his position with any existing political programme — but it leaves the question of what Thomistic-Aristotelian politics would look like in practice almost entirely unaddressed.
+On politics, he has described himself as holding "what I regard as Marxist conclusions but in the very different terms of Thomistic theory," and has argued that contemporary politics offers no adequate institutional expression of the tradition-based moral reasoning he defends.
 
 ---
 

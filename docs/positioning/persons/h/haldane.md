@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-26
 title: "J. B. S. Haldane (1892–1964)"
-description: "British-Indian geneticist and polymath — co-founder of population genetics, the cost of natural selection, enzyme kinetics, the origin of life, Marxism, and a public voice for science."
+description: "British-Indian geneticist and polymath: co-founder of population genetics, the cost of natural selection, the origin of life, and a Marxist science writer."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Haldane
@@ -61,7 +61,7 @@ His popular science writing — *Daedalus* (1924), *Possible Worlds* (1927), the
 
 ## Where Haldane stops
 
-Haldane's programme is mathematical and case-specific. He worked through the genetics of selection scenario by scenario, producing exact results for particular conditions. What he did not build was an overarching theoretical framework — that was Fisher's project (the fundamental theorem, the architecture of selection) and Wright's (the adaptive landscape, the shifting balance). Haldane's contributions are load-bearing components within the framework the other two built. His breadth — biochemistry, the origin of life, respiratory physiology, popular writing, politics — meant that population genetics was one programme among several, not the single edifice it was for Fisher or Wright.
+Haldane's programme is mathematical and case-specific. He worked through the genetics of selection scenario by scenario, producing exact results for particular conditions. His breadth — biochemistry, the origin of life, respiratory physiology, popular writing, politics — meant that population genetics was one programme among several, not the single edifice it was for Fisher or Wright.
 
 ---
 

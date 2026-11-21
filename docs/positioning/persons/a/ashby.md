@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "W. Ross Ashby (1903–1972)"
-description: "British psychiatrist and cyberneticist — the homeostat, requisite variety, the good regulator theorem, and the formalisation of adaptive behaviour as a property of systems rather than organisms."
+description: "British psychiatrist and cyberneticist: the homeostat, requisite variety, the good regulator theorem, and adaptive behaviour as a property of systems."
 lastmod: 2026-05-25
 ---
 

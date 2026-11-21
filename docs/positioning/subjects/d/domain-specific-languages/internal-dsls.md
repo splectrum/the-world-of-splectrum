@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-13
 title: "Internal DSLs"
-description: "Internal (embedded) domain-specific languages — DSLs that live inside a host language, exploiting its syntax to read as domain-specific code while inheriting its ecosystem."
+description: "Internal or embedded domain-specific languages, which live inside a host language's syntax: techniques, trade-offs, examples and the best host languages."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [DSL](/positioning/subjects/d/domain-specific-languages/) > Internal DSLs

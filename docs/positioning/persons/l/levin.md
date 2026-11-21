@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-08-22
 title: "Michael Levin (b. 1969)"
-description: "American developmental biologist — the bioelectric code, pattern memory in planaria, xenobots and anthrobots; the TAME framework and cognition as a continuous, engineering-operational scale of agency."
+description: "American developmental biologist: the bioelectric code, pattern memory in planaria, xenobots, and the TAME framework of cognition as a scale of agency."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Levin

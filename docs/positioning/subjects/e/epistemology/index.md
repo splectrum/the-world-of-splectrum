@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Epistemology — the naturalistic turn"
-description: "Not a survey of the theory of knowledge but the one move the metaphysics map has no slot for: epistemology renegotiating its border with empirical inquiry — the analysis of knowledge and its collapse, the naturalizing handover, the externalist turn, and the social turn — with the perennial enterprise-stances delegated upstream."
+description: "The naturalistic turn in epistemology: the analysis of knowledge and its collapse after Gettier, naturalised epistemology, the externalist and social turn."
 lastmod: 2026-06-26
 ---
 

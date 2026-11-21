@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-08-20
 title: "Process Models of the Brain"
-description: "Three process models of the brain read for the insight each brings to cognition: selection building structure over time, workspace competition settling the moment, a generative model correcting a future against what arrives."
+description: "Three process models of the brain and what each brings to cognition: Edelman's neural Darwinism, Baars's global workspace, and Friston's predictive model."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Cognition](/positioning/subjects/c/cognition/) > Neuroscience > Process models

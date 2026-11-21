@@ -29,7 +29,7 @@ Frege sought a logically perfect language: one that would mirror the structure o
 
 ## Where Frege stops
 
-Frege's project was to make language logically perfect — to purify it of everything that makes natural language messy, contextual, and alive. His context principle contains a relational insight — meaning in context, not in isolation — but he did not follow it where [Wittgenstein](/positioning/persons/w/wittgenstein/) later took it: into language games, forms of life, and the plurality of vocabularies. Frege sought one perfect language; the tradition that followed moved toward plurality, lived practice, and the relational. The distance between his programme and where the philosophy of language ended up is as large as it gets.
+Frege's project was a logically perfect language, free of the ambiguity and context-dependence of natural speech. [Wittgenstein](/positioning/persons/w/wittgenstein/)'s *Investigations* abandoned that ideal for language games and forms of life.
 
 ---
 

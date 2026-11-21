@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-05
 title: "Science and Knowledge"
-description: "Evolution applied to knowledge and to science itself — Popper's natural selection of hypotheses, Campbell's blind variation and selective retention, Toulmin's populations of concepts, Kuhn's closing analogy, Hull's selection process in science, and the two programmes of evolutionary epistemology."
+description: "Evolutionary epistemology: Popper's selection of hypotheses, Campbell's blind variation and selective retention, Toulmin, Kuhn, and Hull on science."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Evolution](/positioning/subjects/e/evolution/) > Science and knowledge

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-04
 title: "From Arrow to Historicity"
-description: "How the literature connects the thermodynamic arrow of time to historicity — Reichenbach's branch systems, the asymmetry of traces, and how systems retain structure and become historical."
+description: "How the thermodynamic arrow of time connects to historicity: Reichenbach's branch systems, the asymmetry of traces, and how systems retain their structure."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Seed](/positioning/seed/) > From Arrow to Historicity

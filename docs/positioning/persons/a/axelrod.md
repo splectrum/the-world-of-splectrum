@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Robert Axelrod (1943–)"
-description: "American political scientist — the evolution of cooperation, iterated prisoner's dilemma tournaments, tit-for-tat, and the demonstration that cooperation can emerge among self-interested agents without central enforcement."
+description: "American political scientist of the evolution of cooperation: prisoner's dilemma tournaments, tit-for-tat, cooperation without central enforcement."
 lastmod: 2026-05-28
 ---
 

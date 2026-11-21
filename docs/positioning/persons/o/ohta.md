@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "Tomoko Ohta (1933–)"
-description: "Japanese population geneticist — the nearly neutral theory of molecular evolution, slightly deleterious mutations, the interaction of drift and weak selection."
+description: "Japanese population geneticist and author of the nearly neutral theory of molecular evolution: slightly deleterious mutations, drift and weak selection."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Ohta
@@ -39,9 +39,7 @@ The framework was developed across a series of papers: "Slightly deleterious mut
 
 ## Where Ohta stops
 
-The nearly neutral theory extended the neutral framework but retained its fundamental orientation: molecular evolution is primarily a stochastic process, with the great majority of substitutions being neutral or nearly neutral. The theory does not address adaptive molecular evolution — the fraction of substitutions driven by positive selection. Genomic studies since the 2000s have revealed that positive selection at the molecular level is more common than either the strict neutral theory or the nearly neutral theory predicted, particularly in species with large effective population sizes and in regulatory regions of the genome. The nearly neutral theory provides the null model against which adaptive evolution is measured, but the fraction of the genome subject to adaptive evolution — and the relative contributions of drift and positive selection to molecular divergence — is an empirical question the theory frames rather than answers.
-
-The interaction between effective population size and the efficacy of selection that Ohta identified has been confirmed across many taxa, but the relationship is not always clean. Effective population size is difficult to estimate, varies across the genome (due to linked selection — hitchhiking and background selection), and may not be stable over evolutionary time. The nearly neutral theory's quantitative predictions depend on N_e being known and roughly constant; in practice, both conditions are approximate.
+The nearly neutral theory extended the neutral framework but retained its fundamental orientation: molecular evolution is primarily a stochastic process, with the great majority of substitutions being neutral or nearly neutral. Genomic studies since the 2000s have revealed that positive selection at the molecular level is more common than either the strict neutral theory or the nearly neutral theory predicted, particularly in species with large effective population sizes and in regulatory regions of the genome. The nearly neutral theory provides the null model against which adaptive evolution is measured, but the fraction of the genome subject to adaptive evolution — and the relative contributions of drift and positive selection to molecular divergence — is an empirical question the theory frames rather than answers.
 
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "Distribution and durability"
-description: "How Kafka stays available and durable — brokers and partition replication, producers and consumer groups, retention and compaction, and the move from ZooKeeper to KRaft."
+description: "How Apache Kafka stays available and durable: brokers and partition replication, producers and consumer groups, retention, and ZooKeeper to KRaft."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Apache Kafka](/positioning/subjects/k/kafka/) > Distribution and durability

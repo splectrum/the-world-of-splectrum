@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-08-20
 title: "Abhinavagupta (c. 950 – c. 1016)"
-description: "Kashmiri Shaiva philosopher and aesthetician — the rasa theory of aesthetic experience, sadharanikarana, the Tantraloka, and the non-dual metaphysics of recognition."
+description: "Kashmiri Shaiva philosopher and aesthetician: the rasa theory of aesthetic experience, sadharanikarana, the Tantraloka, and non-dual recognition."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Abhinavagupta
@@ -43,9 +43,7 @@ Here his two enterprises meet. The generalised, egoless relish of rasa resembles
 
 ## Where Abhinavagupta stops
 
-In Abhinavagupta's system the aesthetic is never quite autonomous. Its dignity is measured by its nearness to liberation: rasa is precious because it is the twin of the bliss of the Self, a foretaste of what recognition completes. The worth of art is settled by reference to a goal outside art, and the question of whether aesthetic experience has a standing of its own — to be weighed on terms that are not the soteriology's — is not one his framework raises, because within that framework it does not arise.
-
-His axis runs inward. Generalisation lifts the spectator out of private circumstance, but toward a solitary repose: the *sahridaya* relishing, in the depersonalised quiet of *camatkara*, something close to the savour of pure consciousness. The theory is an account of reception and contemplative relish — of what happens in the cultivated receiver — rather than of the making of works or of the life of art among many in a shared world. The movement it traces is from the individual connoisseur further inward, toward the Self that art briefly mirrors, not outward into the plural and public existence that meaning also has.
+In Abhinavagupta's system the aesthetic is never quite autonomous. Its dignity is measured by its nearness to liberation: rasa is precious because it is the twin of the bliss of the Self, a foretaste of what recognition completes. The worth of art is settled by reference to a goal outside art.
 
 ---
 

@@ -51,7 +51,7 @@ The project of his final years: a naturalistic ethics grounded in mutual aid, wi
 
 ## Where Kropotkin stops
 
-*Mutual Aid* established that cooperation is a factor in evolution — but the mechanism remained descriptive. How mutual aid arises, how it is maintained against defection, under what conditions it breaks down — these are questions the book raises by implication but does not answer with the precision that later work (reciprocal altruism, evolutionary game theory) would attempt. His anarchist communism described the form of a free society but left the transition underspecified — how existing states and economies dissolve into voluntary federation without a period of coercion was the standing challenge from Marxists, and Kropotkin's responses stayed at the level of principle rather than mechanism. And the vocabulary of "savages" and "barbarians," inherited from his century, sits uneasily against the egalitarian commitments of his own programme.
+Kropotkin's anarchist communism described the form of a free society but left the transition underspecified — how existing states and economies dissolve into voluntary federation without a period of coercion was the standing challenge from Marxists, and Kropotkin's responses stayed at the level of principle rather than mechanism. And the vocabulary of "savages" and "barbarians," inherited from his century, sits uneasily against the egalitarian commitments of his own programme.
 
 ---
 

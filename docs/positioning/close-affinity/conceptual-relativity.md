@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-08
 title: "Conceptual Relativity"
-description: "The scheme-as-reference-frame dynamic read across Carnap, Quine, Goodman, Kuhn and Putnam — the count with no absolute answer, and the same move arriving in physics as relational quantum mechanics."
+description: "Conceptual relativity as the scheme acting like a reference frame, across Carnap, Quine, Goodman, Kuhn and Putnam, and in relational quantum mechanics."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Close affinity](/positioning/close-affinity/) > Conceptual relativity

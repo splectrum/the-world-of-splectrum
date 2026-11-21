@@ -37,7 +37,7 @@ Whitehead built the most thorough relational ontology in Western philosophy. Not
 
 ## Where Whitehead stops
 
-Whitehead's system is speculative and totalising — it aims to describe everything, from an electron to God, within one categoreal scheme. He stays with the individual occasion as the unit of analysis; the social constitution of shared reality through language is not his question. His God, however unconventional, is structural to a metaphysical project that requires a principle of order — not a contingent residue.
+Whitehead's system is speculative and totalising — it aims to describe everything, from an electron to God, within one categoreal scheme. His God, however unconventional, is structural to a metaphysical project that requires a principle of order — not a contingent residue.
 
 ---
 

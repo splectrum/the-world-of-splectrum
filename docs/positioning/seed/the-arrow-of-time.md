@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-14
 title: "The Arrow of Time"
-description: "Where time's direction comes from when the fundamental equations are time-symmetric — Boltzmann and Gibbs, statistical mechanics, and irreversibility emerging through entropy."
+description: "Where the arrow of time comes from when the fundamental equations are time-symmetric: Boltzmann, statistical mechanics, entropy, the low-entropy beginning."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Seed](/positioning/seed/) > The Arrow of Time

@@ -51,7 +51,7 @@ Heraclitus is best encountered through his own words ([fragments](https://en.wik
 
 ## Where Heraclitus stops
 
-The fragments point at the pattern but do not develop a systematic account of how the *logos* operates — how opposites generate each other, what mechanism or structure underlies the unity of the flux. The relation between the *logos* and the minds that miss or grasp it is gestured at but not theorised: most people fail to understand the *logos*, the wise attend to it, but what distinguishes one from the other is left as assertion, not argument. The deliberate obscurity of the prose — aphorism, wordplay, compression — is itself a philosophical stance, but the method's relation to the content it delivers is not worked through. Heraclitus shows; he does not explain.
+The deliberate obscurity of the prose — aphorism, wordplay, compression — earned him the name "the Obscure" in antiquity, and it is itself a philosophical stance: Heraclitus shows; he does not explain.
 
 ---
 

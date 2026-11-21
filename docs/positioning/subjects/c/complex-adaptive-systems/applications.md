@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-25
 title: "CAS — Applications and outward influence"
-description: "Where complex adaptive systems research has been applied — economics, biology, artificial life, ecology, network science, organisational theory, climate and epidemiology."
+description: "Where complex adaptive systems research has been applied: economics, biology, artificial life, ecology, networks, organisations, climate and epidemiology."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) > Applications and outward influence

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "Tim Berners-Lee (1955–)"
-description: "English computer scientist — inventor of the World Wide Web, author of HTTP, HTML, and the URL addressing scheme, and founder of the World Wide Web Consortium (W3C)."
+description: "English computer scientist Tim Berners-Lee, inventor of the World Wide Web, author of HTTP, HTML and the URL, founder of the W3C, voice of an open web."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Berners-Lee

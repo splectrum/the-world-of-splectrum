@@ -21,7 +21,7 @@ He was mobilised in 1939, captured in 1940, and spent five years as a prisoner o
 
 ## The long route
 
-Ricoeur's method is defined against two alternatives. Against [Descartes](/positioning/persons/d/descartes/) and the Cartesian tradition: the self is not reached by direct introspection — the cogito is not the starting point but a task, something to be won through interpretation. Against the structuralist dissolution of the subject ([Lévi-Strauss](https://plato.stanford.edu/entries/levi-strauss/), early [Foucault](https://plato.stanford.edu/entries/foucault/)): the self is not an illusion produced by impersonal structures — it acts, speaks, narrates, and is responsible.
+Ricoeur's method is defined against two alternatives. Against [Descartes](/positioning/persons/d/descartes/) and the Cartesian tradition: the self is not reached by direct introspection — the cogito is not the starting point but a task, something to be won through interpretation. Against the structuralist dissolution of the subject ([Lévi-Strauss](/positioning/persons/l/levi-strauss/), early [Foucault](https://plato.stanford.edu/entries/foucault/)): the self is not an illusion produced by impersonal structures — it acts, speaks, narrates, and is responsible.
 
 The "long route" is the passage through signs, symbols, texts, metaphors, and narratives by which the self comes to understand itself. There is no short route — no direct self-knowledge that bypasses mediation through language. This makes hermeneutics (the theory of interpretation) the fundamental philosophical method: understanding the self requires interpreting the expressions through which the self appears.
 

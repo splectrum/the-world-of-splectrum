@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-12
 title: "Ontology"
-description: "SPLectrum's ontology — the entities of reality are the concepts of the language medium, held at rest — read across the field: the framework-relativity line, relations as what constitute an entity, and value-by-difference as the root of the relational."
+description: "SPLectrum's ontology, entities as the concepts of the language medium, read across the field: framework relativity, relations, value by difference."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Close affinity](/positioning/close-affinity/) > Ontology

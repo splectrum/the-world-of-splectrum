@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-11
 title: "The Sortings of Emergence"
-description: "The field's own instruments for sorting its notions — weak against strong, epistemic against ontological, synchronic against diachronic, Humphreys' four modifiers, and the question of what emerges — each with its origin and its published difficulties."
+description: "How the emergence field sorts its notions: weak and strong, epistemic and ontological, synchronic and diachronic, Humphreys' modifiers, and what emerges."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Emergence](/positioning/subjects/e/emergence/) > The sortings

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The dimensions of pluralism"
-description: "Who says 'many, none privileged', and from which angle — metaphysical, epistemological, linguistic, value and political pluralism, thinker by thinker, with the adjacent relational moves."
+description: "The five dimensions of pluralism, metaphysical, epistemological, linguistic, value and political, thinker by thinker, with the adjacent relational moves."
 lastmod: 2026-07-14
 ---
 

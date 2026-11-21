@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-26
 title: "Roland Barthes (1915–1980)"
-description: "The critic who turned semiology on everyday culture — myth as second-order signification, connotation, the death of the author — and who kept moving from system toward pleasure."
+description: "Roland Barthes, the critic who turned semiology on everyday culture: myth as second-order signification, connotation, the death of the author."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Barthes

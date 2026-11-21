@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-17
 title: "Mutualism in social and economic thought"
-description: "Mutualism in social and economic thought — from Proudhon through the European conflicts, the American individualist tradition, the cooperative movement's Owenite roots, contested 20th-century receptions, adjacent traditions, and contemporary commons-based developments."
+description: "Mutualism in social and economic thought, from Proudhon and the American individualists to the cooperative movement and today's commons-based developments."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Mutualism](/positioning/subjects/m/mutualism/) > Social and Economic Thought

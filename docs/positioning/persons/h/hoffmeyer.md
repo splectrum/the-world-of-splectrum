@@ -29,7 +29,7 @@ Hoffmeyer turned biosemiotics from a programme into a developed theory of life. 
 
 ## Where Hoffmeyer stops
 
-Hoffmeyer's reach is the source of both his influence and the dispute around him. Running semiosis down to the cell is the tradition's boldest move, and critics charge that it over-extends the sign — that calling molecular signalling "interpretation" reads meaning into chemistry where cause and effect would do. The charge is unsettled. His own answer kept the frontier exactly at life: semiosis is coextensive with the living, so below life — in non-living chemistry and physics — he made no claim, and whether sign-relations have any pre-biotic floor he left outside his programme.
+Hoffmeyer's reach is the source of both his influence and the dispute around him. Running semiosis down to the cell is the tradition's boldest move, and critics charge that it over-extends the sign — that calling molecular signalling "interpretation" reads meaning into chemistry where cause and effect would do. The charge is unsettled. His own answer kept the frontier exactly at life: semiosis is coextensive with the living, so below life — in non-living chemistry and physics — he made no claim.
 
 ---
 

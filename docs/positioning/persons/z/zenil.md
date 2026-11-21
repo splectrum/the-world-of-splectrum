@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-26
 title: "Hector Zenil (1979–)"
-description: "Mexican-born computer scientist and complexity researcher — algorithmic information theory, computational approaches to causality, and the critique of assembly theory as subsumed by Kolmogorov complexity."
+description: "Hector Zenil, complexity researcher: algorithmic information theory, causality, and the critique that assembly theory reduces to Kolmogorov complexity."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Zenil
@@ -53,7 +53,7 @@ The defenders have replied in *npj Complexity* (2025). The exchange is ongoing.
 
 ## Where Zenil stops
 
-Zenil's programme is computational and formal. The algorithmic information theory framework provides measures of complexity, tools for causal inference, and methods for classifying objects by their generative depth. What it does not address is the physical grounding that assembly theory claims — the connection between a formal complexity measure and the actual material process of construction. The defenders' reply that assembly theory is mechanistically grounded in physical joining operations, not in abstract symbol manipulation, is a substantive distinction that Zenil's critique does not engage on its own terms. Whether the physical grounding matters — whether a materially grounded measure does different scientific work from a formally equivalent but physically ungrounded one — is the open question at the centre of the debate.
+Zenil's programme is computational and formal. The algorithmic information theory framework provides measures of complexity, tools for causal inference, and methods for classifying objects by their generative depth. Assembly theory's defenders reply that their measure is mechanistically grounded in physical joining operations, not in abstract symbol manipulation, and that Zenil's critique does not engage that distinction on its own terms. Whether the physical grounding matters — whether a materially grounded measure does different scientific work from a formally equivalent but physically ungrounded one — is the open question at the centre of the debate.
 
 ---
 

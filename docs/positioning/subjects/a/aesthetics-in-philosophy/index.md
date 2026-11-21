@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The standing of aesthetics in philosophy"
-description: "How aesthetics came to rank last among philosophy's branches — and the counter-current that kept arguing it should rank first. The subordination arc from Plato to the analytic tradition, and the thinkers who resisted it."
+description: "How aesthetics came to rank last among philosophy's branches, from Plato to the analytic tradition, and the counter-current that would rank it first."
 lastmod: 2026-06-13
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-12
 title: "Nativism"
-description: "The position that the mind brings more to the world than experience could have given it — the rationalist lineage, and its sharpest modern form: that acquiring a language requires an innate, language-specific endowment. Poverty of the stimulus, the emergence cases, universal grammar and the retreat to Merge, the disputes over concepts and evolution, and the typological, usage-based and empiricist challenges."
+description: "Nativism, the view that the mind brings more than experience gives: the rationalist lineage, poverty of the stimulus, universal grammar and its critics."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Nativism

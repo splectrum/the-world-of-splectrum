@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-26
 title: "Roger Penrose (1931–)"
-description: "British mathematician and physicist — Penrose diagrams, the singularity theorems (with Hawking), the low-entropy beginning, twistor theory, the emperor's new mind, and the argument that consciousness is non-computational."
+description: "British mathematician and physicist: Penrose diagrams, the singularity theorems with Hawking, twistor theory, and consciousness as non-computational."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Penrose

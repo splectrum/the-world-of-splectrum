@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Authority, legitimacy, and justice"
-description: "The contract tradition and the obligation to obey; the post-Rawls explosion of justice theory — Rawls against Nozick, capabilities, luck egalitarianism; and the dispute over whether legitimacy answers to justice or only to procedure."
+description: "Authority, legitimacy and justice: the social contract and political obligation, Rawls against Nozick, capabilities, and whether legitimacy needs justice."
 lastmod: 2026-06-27
 ---
 

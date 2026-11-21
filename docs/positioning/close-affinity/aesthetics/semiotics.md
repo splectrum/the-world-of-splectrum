@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-23
 title: "Semiotics"
-description: "The aesthetics branch on semiotics — meaning-making in signs: Peirce's triadic sign and unlimited semiosis, and the biosemiotic line (Sebeok, Uexküll, Hoffmeyer) running below the human, from the cell upward."
+description: "The aesthetics branch on semiotics, meaning made in signs: Peirce's triadic sign and unlimited semiosis, and biosemiotics running below the human."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Close affinity](/positioning/close-affinity/) > [Aesthetics](/positioning/close-affinity/aesthetics/) > Semiotics

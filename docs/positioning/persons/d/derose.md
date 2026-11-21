@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-26
 title: "Steven DeRose"
-description: "American computer scientist with a computational-linguistics background — a foundational figure in descriptive markup, the designer of the first SGML browser, and a co-editor of XPath and XPointer."
+description: "Steven DeRose, American computer scientist and a founder of descriptive markup: designer of the first SGML browser, co-editor of XPath and XPointer."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > DeRose

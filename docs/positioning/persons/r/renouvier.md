@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-07-27
 title: "Charles Renouvier (1815–1903)"
-description: "French philosopher — néo-criticisme, relation as the master category, freedom as the sustaining of a thought, the law of number, Uchronie, late personalism; the philosopher whose definition of free will pulled William James out of his 1870 crisis."
+description: "French philosopher of neo-criticism: relation as the master category, freedom and certitude, Uchronie, late personalism, and William James."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Renouvier

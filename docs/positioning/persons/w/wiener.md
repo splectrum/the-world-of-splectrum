@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Norbert Wiener (1894–1964)"
-description: "American mathematician — cybernetics, feedback, the science of communication and control in animal and machine. The founding figure of a tradition that shaped systems thinking, AI, and complex adaptive systems."
+description: "Norbert Wiener, founder of cybernetics: feedback and the science of communication and control in animal and machine, the Macy conferences, and his legacy."
 lastmod: 2026-05-26
 ---
 

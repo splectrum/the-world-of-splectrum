@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-12
 title: "Gerald Edelman (1929–2014)"
-description: "American biologist — Neural Darwinism, the theory of neuronal group selection, reentrant signalling, the immunological Nobel, the biological basis of consciousness."
+description: "American biologist and Nobel laureate in immunology: Neural Darwinism, neuronal group selection, reentry, and the biological basis of consciousness."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Edelman

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-13
 title: "The Laws and the Reduction"
-description: "The four laws of thermodynamics, the statistical mechanics that was built to underwrite them, and the dispute over whether the underwriting succeeds — including what entropy is, which has several answers."
+description: "The four laws of thermodynamics, the statistical mechanics built to underwrite them, irreversibility and the H-theorem, and whether the reduction succeeds."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Thermodynamics](/positioning/subjects/t/thermodynamics/) > The laws and the reduction

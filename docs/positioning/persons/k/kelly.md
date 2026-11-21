@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-27
 title: "George Kelly (1905–1967)"
-description: "Kelly built psychology around the person as anticipator — reading the world through a personal system of bipolar constructs, each a way two things are alike and different from a third."
+description: "George Kelly's personal construct psychology: the person as anticipator, reading the world through a personal system of bipolar constructs."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Kelly
@@ -49,7 +49,7 @@ Kelly built a psychology around a single image: the person as an anticipator, re
 
 ## Where Kelly stops
 
-Kelly's theory is strongest on the single person's system and on how one person reads another's. It is thinner on what happens *between* systems over time. Sociality describes one person construing how another construes — but how two construct systems might combine, conflict, or settle into a shared one is not something the theory develops; it stays with the individual system and its construing of others, not with the formation of a common construing. And the system is largely articulate and predictive by design: how much of construing is pre-reflective, bodily, or affective — and how emotion sits within a framework built around anticipation — is a question his later work gestured toward but did not resolve.
+Kelly's system is largely articulate and predictive by design, and the standard critique presses there: that the theory is over-rationalist, light on emotion, the body, and the unconscious.
 
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-16
 title: "Seed"
-description: "The innermost resonance ring — the trajectories leading to the seed's structural territory, the principles read across the fields that study them, and work reaching the same ground."
+description: "The innermost resonance ring: trajectories leading to the seed's structural territory, its principles read across fields, and work on the same ground."
 ---
 
 [Home](/) > [Positioning](/positioning/) > Seed

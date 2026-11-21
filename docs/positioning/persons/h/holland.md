@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "John Holland (1929–2015)"
-description: "American computer scientist and complex systems researcher — genetic algorithms, adaptive agents, internal models, emergence. Founder of the adaptive-agent paradigm in complex adaptive systems."
+description: "American computer scientist who invented genetic algorithms and founded the adaptive-agent study of complex adaptive systems: internal models, emergence."
 lastmod: 2026-05-25
 ---
 
@@ -49,7 +49,7 @@ The book also introduced constrained generating procedures (CGPs) as a formal fr
 
 ## Where Holland stops
 
-Holland's programme gives CAS its micro-level — the adaptive agent with internal models, interacting locally, producing emergent macro-patterns. What it does not give is a theory of the macro-level in its own right. The emergent patterns are observed, described, and classified, but the framework does not produce laws or principles at the macro-level — it shows how macro-patterns arise and leaves the characterisation of those patterns to domain-specific work. This is by design rather than by omission: Holland treated the irreducibility of the macro to the micro as a feature of CAS, not as a problem to be solved by finding the right reduction.
+Holland's programme gives CAS its micro-level — the adaptive agent with internal models, interacting locally, producing emergent macro-patterns. Holland treated the irreducibility of the macro to the micro as a feature of CAS, not as a problem to be solved by finding the right reduction.
 
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-26
 title: "Motoo Kimura (1924–1994)"
-description: "Japanese population geneticist — the neutral theory of molecular evolution, diffusion equations in genetics, the molecular clock, and the argument that most evolutionary change at the molecular level is not adaptive."
+description: "Japanese population geneticist: the neutral theory of molecular evolution, diffusion equations in genetics, the molecular clock, and the neutralist debate."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Kimura

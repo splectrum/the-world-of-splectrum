@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-12
 title: "Behaviourism"
-description: "The movement that made psychology the objective science of observable behaviour — from Watson's manifesto through Skinner's radical behaviourism to the applied analysis of behaviour, and its displacement by the cognitive revolution."
+description: "Behaviourism, psychology as the objective science of observable behaviour: Watson's founding, Skinner's radical behaviourism, and the cognitive revolution."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Behaviourism

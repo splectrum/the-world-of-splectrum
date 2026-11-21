@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Political philosophy"
-description: "How political philosophy is structured — the recurring questions of authority, justice, liberty and the collective; the traditions that answer them differently; and the standing disputes (liberal–communitarian, the justice debates, legitimacy, value-pluralism) the field actually lives in."
+description: "Political philosophy mapped: authority, justice, liberty and the collective, the traditions that answer these questions, and the field's standing disputes."
 lastmod: 2026-06-27
 ---
 

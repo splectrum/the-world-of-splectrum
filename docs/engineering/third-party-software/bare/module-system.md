@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-11-08
 title: "Bare Module System"
-description: "Module resolution and loading in Bare via bare-module: supported types, package.json fields, conditional exports, the CJS/ESM API, custom protocols and the loader."
+description: "Module resolution and loading in Bare through bare-module: module types, package.json fields, conditional exports, the CJS and ESM API, the loader."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [Third Party Software](/engineering/third-party-software/) > [Bare Runtime](/engineering/third-party-software/bare/) > Module System

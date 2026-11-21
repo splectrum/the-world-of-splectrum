@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-08-20
 title: "Bernard Baars (b. 1946)"
-description: "Dutch-American cognitive scientist — Global Workspace Theory: many unconscious processes competing, the winner broadcast brain-wide; contrastive analysis; the theatre metaphor."
+description: "Dutch-American cognitive scientist of Global Workspace Theory: unconscious processes compete and the winner is broadcast across the brain."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Baars

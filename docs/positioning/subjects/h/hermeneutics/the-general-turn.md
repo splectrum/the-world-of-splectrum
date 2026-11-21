@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Hermeneutics: the general turn and the human sciences"
-description: "How interpretation became a general art and then a foundation for the human sciences — from the regional arts of biblical, classical, and legal exegesis through Schleiermacher's general hermeneutics to Dilthey's method of Verstehen."
+description: "How hermeneutics became a general art and a basis for the human sciences, from biblical and legal exegesis through Schleiermacher to Dilthey's Verstehen."
 lastmod: 2026-06-22
 ---
 

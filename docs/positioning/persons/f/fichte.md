@@ -31,7 +31,7 @@ Fichte made differentiation the origin of being. The I posits itself by positing
 
 ## Where Fichte stops
 
-Fichte made being dynamic — an act, not a substance. But the act is the I's act, and the I is absolute. The not-I exists only as posited by the I; the world is ultimately the I's self-limitation. This is idealism in its purest form: everything is grounded in subjectivity. Whether the differentiation can be made co-constitutive — being and the other arising together, neither prior — rather than grounded in the I's act, is a question Fichte does not ask. [Hegel](/positioning/persons/h/hegel/) historicised what Fichte left static; whether the result can also be pluralised — many languages, not one spirit — is where the line leads after Hegel.
+Fichte made being dynamic — an act, not a substance. But the act is the I's act, and the I is absolute. The not-I exists only as posited by the I; the world is ultimately the I's self-limitation. This is idealism in its purest form: everything is grounded in subjectivity. Schelling answered that nature has its own productivity, not merely the not-I; [Hegel](/positioning/persons/h/hegel/) historicised what Fichte left static.
 
 ---
 

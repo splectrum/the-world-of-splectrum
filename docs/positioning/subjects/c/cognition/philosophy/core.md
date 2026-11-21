@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-08-20
 title: "Cognition in Core Philosophy"
-description: "The approaches to cognition in core philosophy that reflect its definition as a process running within experience: the Western movement from the turn through the phenomenological, pragmatist, anti-intellectualist and process angles, and the Eastern traditions' independent arrivals."
+description: "Cognition as a process within experience in core philosophy: the Western movement from Kant's turn through phenomenology and pragmatism, and the East."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Cognition](/positioning/subjects/c/cognition/) > Philosophy > Core

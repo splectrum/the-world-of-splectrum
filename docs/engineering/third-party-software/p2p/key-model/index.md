@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-11-08
 title: "The key model"
-description: "Distinct keys with distinct powers — network identity keypair (connect and listen), core key (names and verifies a log), discovery key (find peers), encryption key (content confidentiality)."
+description: "The Holepunch key model: keypair, core key, discovery key and encryption key, each with its own powers, so peers can find a core they cannot read."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [Third Party Software](/engineering/third-party-software/) > [P2P building blocks](/engineering/third-party-software/p2p/) > The key model

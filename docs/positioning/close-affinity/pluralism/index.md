@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-13
 title: "Pluralism"
-description: "The pluralism family engaged from the interrelational position — the count set in motion, the two borders held in the position's own terms, and the family's disputes answered from inside, with the position in the same chair."
+description: "Pluralism engaged from SPLectrum's interrelational position: the count set in motion, the family's two borders, and its disputes answered from inside."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Close affinity](/positioning/close-affinity/) > Pluralism

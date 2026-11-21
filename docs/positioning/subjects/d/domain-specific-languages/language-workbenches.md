@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-13
 title: "Language Workbenches"
-description: "Language workbenches — integrated environments for defining domain-specific languages, from JetBrains MPS and Eclipse Xtext to Spoofax and Rascal. The third path beyond internal and external DSLs."
+description: "Language workbenches for defining domain-specific languages, from JetBrains MPS and Xtext to Spoofax and Rascal: a third path beyond internal and external."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [DSL](/positioning/subjects/d/domain-specific-languages/) > Language Workbenches

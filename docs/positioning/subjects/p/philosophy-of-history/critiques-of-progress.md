@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-26
 title: "Critiques of Progress"
-description: "The attacks on the assumption that history goes somewhere — Benjamin's theses, Löwith's secularised eschatology, Popper's Poverty of Historicism with its target set apart from Meinecke's historism, and Foucault's archaeology and genealogy as counter-history."
+description: "Critiques of progress in history: Benjamin's theses, Löwith's secularised eschatology, Popper's Poverty of Historicism and Foucault's counter-history."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Philosophy of history](/positioning/subjects/p/philosophy-of-history/) > Critiques of progress

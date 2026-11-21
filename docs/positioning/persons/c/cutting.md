@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "Doug Cutting (1961–)"
-description: "American software engineer — creator of the open-source projects Lucene, Nutch, Hadoop, and Avro, foundational tools for text search and large-scale data processing."
+description: "American software engineer who created the open-source projects Lucene, Nutch, Hadoop and Avro, the infrastructure of text search and big-data processing."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Cutting

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-26
 title: "The Words or the Sense"
-description: "Translation theory's oldest argument, word-for-word against sense-for-sense, and its independent recurrences: Cicero and Jerome, the sutra translators Kumārajīva and Xuanzang, Ḥunayn ibn Isḥāq in Baghdad, Dryden, Tytler and Yan Fu."
+description: "Word-for-word against sense-for-sense, translation's oldest argument: Cicero and Jerome, Kumārajīva and Xuanzang, Ḥunayn ibn Isḥāq, Dryden and Yan Fu."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Translation theory](/positioning/subjects/t/translation-theory/) > The words or the sense

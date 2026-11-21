@@ -59,7 +59,7 @@ The singularity theorems prove that general relativity, under generic conditions
 
 The information paradox is Hawking's most consequential open question. His 2004 concession — that information is preserved — resolved the question of principle but not of mechanism. How information that fell into a black hole is encoded in the outgoing radiation is not understood. The recent "island" calculations reproduce the expected behaviour of information (the Page curve) within certain models, but they rely on specific assumptions about quantum gravity and do not constitute a general resolution. The paradox remains the sharpest point of contact between quantum mechanics and gravity, and it was Hawking who sharpened it.
 
-The no-boundary proposal offers a specific answer to the initial-condition problem, but whether it selects the right initial condition is contested. Penrose argues that the no-boundary state does not have the low gravitational entropy the early universe actually had — that the proposal smooths away the singularity without explaining why gravity started in so special a configuration. The anthropic argument for the alignment of the three arrows — that misaligned arrows are incompatible with observers — explains why we observe alignment but not why the universe is arranged so as to produce it. It constrains what we can see; it does not explain what is there.
+The no-boundary proposal offers a specific answer to the initial-condition problem, but whether it selects the right initial condition is contested. Penrose argues that the no-boundary state does not have the low gravitational entropy the early universe actually had — that the proposal smooths away the singularity without explaining why gravity started in so special a configuration.
 
 ---
 

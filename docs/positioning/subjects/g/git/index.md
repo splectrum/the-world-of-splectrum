@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "Git"
-description: "Git is a distributed version-control system that records project history as content-addressed snapshots, keeps a complete copy of history in every clone, and guarantees integrity by hashing."
+description: "Git, the distributed version-control system that stores history as content-addressed snapshots, keeps it in every clone, and checks integrity by hash."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Git

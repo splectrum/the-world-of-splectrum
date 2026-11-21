@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "Identity and significance"
-description: "The locator-versus-name distinction within the URI family, the URL/URN split, persistence and link rot, and why uniform identification mattered for the Web, REST, and linked data."
+description: "URLs versus URNs: the locator-versus-name distinction in the URI family, persistence and link rot, and why uniform identification mattered for the Web."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [URI](/positioning/subjects/u/uri/) > Identity and significance

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-26
 title: "V. C. Wynne-Edwards (1906–1997)"
-description: "British zoologist — group selection as the explanation for animal social behaviour, Animal Dispersion, population self-regulation, and the debate that reshaped how evolutionary biologists think about the units of selection."
+description: "V. C. Wynne-Edwards, zoologist: group selection as the explanation of animal social behaviour, Animal Dispersion, and the units-of-selection debate."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Wynne-Edwards

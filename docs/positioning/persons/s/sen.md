@@ -49,8 +49,6 @@ Sen's earlier work in [social choice theory](https://plato.stanford.edu/entries/
 
 Sen's capability approach is deliberately incomplete — he provides the evaluative framework (assess by capabilities) but resists specifying a fixed list of capabilities. [Martha Nussbaum](/positioning/persons/n/nussbaum/) has pushed for a definite list of central human capabilities (life, bodily health, practical reason, affiliation, etc.), arguing that without a list the approach lacks political content. Sen has resisted, arguing that the list should emerge from democratic deliberation, not from philosophical specification — any fixed list risks imposing one conception of the good. The debate is between Sen's procedural openness and Nussbaum's substantive commitment, and both positions have costs: openness risks emptiness; commitment risks paternalism.
 
-The capability approach assesses what people can do and be, but it does not develop an account of how capabilities form and change, or how collective capability (the capability of communities, not just individuals) relates to individual capability. The framework measures states — it identifies what to evaluate — and leaves the formation and change of capabilities to other disciplines.
-
 ---
 
 ## Key works

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-05
 title: "Chemical Evolution"
-description: "Chemical evolution as the period of rising molecular complexity before life — Oparin and Haldane, Miller and Urey, Calvin's four evolutions and his autocatalytic selection, and Eigen's derivation of Darwinian selection among replicating molecules, where the unfolding sense hands over to descent."
+description: "Chemical evolution before life: the Oparin-Haldane soup, Miller-Urey, Calvin's four evolutions, and Eigen's selection among self-replicating molecules."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Evolution](/positioning/subjects/e/evolution/) > Chemical evolution

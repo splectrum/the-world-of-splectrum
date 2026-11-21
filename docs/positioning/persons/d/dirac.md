@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-27
 title: "Paul Dirac (1902–1984)"
-description: "British theoretical physicist — the Dirac equation, antimatter, Fermi-Dirac statistics, the magnetic monopole, quantum field theory, the mathematical foundations of quantum mechanics."
+description: "British theoretical physicist: the Dirac equation, the prediction of antimatter, Fermi-Dirac statistics, and the mathematics of quantum mechanics."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Dirac

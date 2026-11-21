@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-28
 title: "Lev Vygotsky (1896–1934)"
-description: "Vygotsky built a cultural-historical psychology in which the higher mind is formed from the outside in — every mental function appearing first between people and only then within the person, mediated by signs and language above all."
+description: "Lev Vygotsky's cultural-historical psychology: higher mental functions appear first between people, then within the person, mediated by signs and language."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Vygotsky

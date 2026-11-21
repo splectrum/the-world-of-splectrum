@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-12
 title: "Close affinity"
-description: "Thinkers and frameworks in close structural affinity with SPLectrum — different starting points and vocabularies arriving at kindred territory. Not lineage: resonance."
+description: "Thinkers and frameworks in close structural affinity with SPLectrum: other starting points and vocabularies reaching kindred territory, by resonance."
 ---
 
 [Home](/) > [Positioning](/positioning/) > Close affinity

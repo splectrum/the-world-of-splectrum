@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-26
 title: "Target and Purpose"
-description: "The descriptive turn in translation studies: Holmes's map of the discipline, Even-Zohar's polysystems, Toury's norms and the shift from source text to target culture; skopos theory and its standing criticism."
+description: "Translation studies' descriptive turn: Holmes's map, Even-Zohar's polysystems, Toury's norms and the target culture, and skopos theory and its critics."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Translation theory](/positioning/subjects/t/translation-theory/) > Target and purpose

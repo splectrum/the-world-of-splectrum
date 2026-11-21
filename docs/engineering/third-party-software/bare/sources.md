@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-11-08
 title: "Documentation Sources"
-description: "External references for the Bare runtime ecosystem: primary repos, the Bare documentation on docs.pears.com, key dependencies, module repositories, and how to check for npm updates."
+description: "External references for the Bare runtime: the primary repositories, Bare's documentation on docs.pears.com, key dependencies, and npm update checks."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [Third Party Software](/engineering/third-party-software/) > [Bare Runtime](/engineering/third-party-software/bare/) > Sources

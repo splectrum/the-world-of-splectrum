@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-14
 title: "Information and Computation"
-description: "Maxwell's demon, Szilard's engine, and Landauer's principle that erasing a bit has a thermodynamic cost — the experimental confirmations, the philosophical dispute over whether the principle does the work claimed for it, and the thermodynamics of computation as a field of its own."
+description: "Maxwell's demon, Szilard's engine and Landauer's principle that erasing a bit has a cost: experiments, the dispute, and the thermodynamics of computation."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Thermodynamics](/positioning/subjects/t/thermodynamics/) > Information and computation

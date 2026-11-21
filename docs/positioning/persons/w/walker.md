@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-11-08
 title: "Sara Imari Walker"
-description: "American theoretical physicist and astrobiologist — the physics of life, the split between life and alive, technology as part of life, assembly theory with Lee Cronin, and time as a material property of objects."
+description: "Sara Imari Walker on the physics of life: assembly theory with Lee Cronin, the split between life and alive, and time as a material property of objects."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Walker

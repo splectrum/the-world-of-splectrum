@@ -59,7 +59,7 @@ Hume is the most important philosopher to write in English — empiricist episte
 
 ## Where Hume stops
 
-Hume stayed within sense-impression empiricism: the mind receives impressions and forms habits from their conjunction. How minds might actively structure experience — [Kant](/positioning/persons/k/kant/)'s later question — sits outside his programme. His account of convention is roughly coordination-and-utility based; how shared meaning is constituted in language — later Wittgensteinian terrain — is not his question. His picture stays at the individual scale aggregated through repeated interaction; the social constitution of knowledge as a primary phenomenon is not part of his frame. His scepticism is mitigated by naturalism, but he does not pursue the consequences of his scepticism into a positive [metaphysics](/positioning/subjects/m/metaphysics/).
+Hume stayed within sense-impression empiricism: the mind receives impressions and forms habits from their conjunction. [Kant](/positioning/persons/k/kant/), woken by Hume's scepticism about causation, answered that the mind imposes conditions on experience.
 
 ---
 

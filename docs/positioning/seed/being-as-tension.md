@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-12
 title: "Being as Tension"
-description: "Being and its complement held apart by a tension — nine independent traditions, from Heraclitus and Fichte onwards, arriving at creation as an act of differentiation."
+description: "Being and its complement held apart by a tension: nine independent traditions, from Heraclitus and Fichte on, reading creation as differentiation."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Seed](/positioning/seed/) > Being as Tension

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-12
 title: "Semantic Information"
-description: "The attempt to define meaning physically — Kolchinsky and Wolpert's viability-based measure, the subject-slot the formalism turns out to require, and the relational reading of subject-relative quantities standing beside it in Rovelli's work."
+description: "Defining meaning physically: Kolchinsky and Wolpert's viability-based semantic information, the subject-slot it requires, and Rovelli's relational reading."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Seed](/positioning/seed/) > Semantic information

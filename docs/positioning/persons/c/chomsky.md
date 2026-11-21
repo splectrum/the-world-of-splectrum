@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-07-17
 title: "Noam Chomsky (1928–)"
-description: "Chomsky founded generative linguistics and helped lead the cognitive revolution — reconceiving language as a biological property of the mind, with universal grammar, the poverty-of-the-stimulus argument, and a parallel, deliberately separate career as a political dissident."
+description: "Noam Chomsky, founder of generative linguistics: language as a biological property of mind, universal grammar, the poverty of the stimulus, politics."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Chomsky

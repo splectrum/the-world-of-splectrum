@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-27
 title: "Josiah Willard Gibbs (1839–1903)"
-description: "American physicist and mathematician — statistical mechanics, chemical thermodynamics, Gibbs free energy, phase diagrams, vector analysis, and the mathematical foundations of physical chemistry."
+description: "American physicist and mathematician: statistical mechanics, chemical thermodynamics, Gibbs free energy, phase diagrams, and physical chemistry."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Gibbs
@@ -51,7 +51,7 @@ The ensemble framework proved more durable than Boltzmann's approach for several
 
 ## Where Gibbs stops
 
-Gibbs's statistical mechanics is a theory of equilibrium — it describes systems that have reached thermal equilibrium and whose macroscopic properties are stable. It does not describe the approach to equilibrium: how a system that starts out of equilibrium reaches the equilibrium state. The kinetic theory (how fast processes occur, what pathways they follow) is a separate and harder problem. Boltzmann's H-theorem and transport equation address the approach to equilibrium for gases; Gibbs's ensemble framework does not. The limitation matters because the most interesting thermodynamic phenomena — phase transitions, chemical reactions, biological processes — are often about the dynamics of change, not the statics of equilibrium. Non-equilibrium statistical mechanics, developed by [Onsager](https://en.wikipedia.org/wiki/Lars_Onsager), [Prigogine](/positioning/persons/p/prigogine/), and others in the twentieth century, addresses this gap, but it remains less complete than the equilibrium theory Gibbs provided.
+Gibbs's statistical mechanics is a theory of equilibrium — it describes systems that have reached thermal equilibrium and whose macroscopic properties are stable. It does not describe the approach to equilibrium: how a system that starts out of equilibrium reaches the equilibrium state. The kinetic theory (how fast processes occur, what pathways they follow) is a separate and harder problem. Boltzmann's H-theorem and transport equation address the approach to equilibrium for gases; Gibbs's ensemble framework does not. Non-equilibrium statistical mechanics, developed by [Onsager](https://en.wikipedia.org/wiki/Lars_Onsager), [Prigogine](/positioning/persons/p/prigogine/), and others in the twentieth century, addresses this gap, but it remains less complete than the equilibrium theory Gibbs provided.
 
 The abstractness that makes Gibbs's framework powerful also makes it physically opaque. Boltzmann's approach, with its explicit molecular models and mechanical pictures, gives physical insight into why systems behave as they do. Gibbs's ensembles give correct results but do not always explain what is happening at the molecular level. The two approaches are complementary rather than competing — Boltzmann for physical insight, Gibbs for mathematical generality — but the complementarity was not apparent during the energeticists' opposition to atomism, when Gibbs's abstract framework was sometimes invoked as evidence that the atomic hypothesis was unnecessary (a conclusion Gibbs himself did not draw).
 

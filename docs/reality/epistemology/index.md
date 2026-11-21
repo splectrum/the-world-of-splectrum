@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-27
 title: "Epistemology — learning and knowing"
-description: "SPLectrum's epistemology pillar — reality is language content, private experience working common tools into a relational set; knowledge is the shared tools, built by the same convergence through which we come to agree on the meaning of a word."
+description: "SPLectrum's epistemology pillar: reality as language content, and knowledge as shared tools built by the convergence by which a word's meaning is agreed."
 ---
 
 [Home](/) > [Reality](/reality/) > Epistemology — learning and knowing

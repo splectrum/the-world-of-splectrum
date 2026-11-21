@@ -37,8 +37,6 @@ The argument connects to the transmission biases: conformist bias is adaptive be
 
 The ecological argument for culture is compelling at the species level (humans need culture because we occupy variable environments) but does not fully specify the cultural dynamics at the population level. Why do particular cultural norms arise in particular populations? Why do some norms persist and others disappear? The dual-inheritance framework provides the formal tools to model these dynamics, but the empirical data to parameterise the models — the actual strengths of conformist bias, prestige bias, and between-group cultural variation in specific populations — are often unavailable. The framework is strong on mechanism and weak on measurement.
 
-Richerson's emphasis on ecological context distinguishes his approach from more purely theoretical treatments of cultural evolution, but it also limits the framework's applicability to domains where the ecological grounding is clear. Cultural practices in domains remote from ecological adaptation — art, religion, political ideology, intellectual traditions — are harder to fit into the adaptive-ecology framing. Whether the dual-inheritance framework extends naturally to these domains or requires substantial modification is an open question that Richerson has acknowledged but not fully addressed.
-
 ---
 
 ## Key works

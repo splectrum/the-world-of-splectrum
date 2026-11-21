@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-26
 title: "Lynn Margulis (1938–2011)"
-description: "American biologist — endosymbiosis, the symbiotic origin of eukaryotic cells, serial endosymbiosis theory, Gaia hypothesis (with Lovelock), and a career-long challenge to the competition-centred view of evolution."
+description: "American biologist of endosymbiosis: the symbiotic origin of eukaryotic cells, symbiosis as an evolutionary mechanism, and the Gaia hypothesis."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Margulis
@@ -59,7 +59,7 @@ The Gaia hypothesis provoked sharp criticism from evolutionary biologists, parti
 
 ## Where Margulis stops
 
-Margulis' programme demonstrates that symbiosis produced some of the most consequential innovations in the history of life — the eukaryotic cell above all. What the programme does not develop is a general theoretical framework for when and how symbiosis produces evolutionary novelty. The endosymbiotic events she documented are specific historical cases, each requiring its own empirical reconstruction. A theory that predicts which symbiotic associations will produce stable mergers, under what conditions, and at what rate — comparable to population genetics' predictive framework for selection and drift — does not exist in Margulis' work or, as yet, in the field she opened. The cases are established; the general theory remains to be built.
+Margulis' programme demonstrates that symbiosis produced some of the most consequential innovations in the history of life — the eukaryotic cell above all. Most evolutionary biologists accept the cases while treating symbiosis as an important phenomenon within the neo-Darwinian framework rather than a challenge to it.
 
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-26
 title: "Sewall Wright (1889–1988)"
-description: "American geneticist — adaptive landscapes, genetic drift, the shifting balance theory, path coefficients, and the Wright-Fisher tension that structured twentieth-century population genetics."
+description: "Sewall Wright, American geneticist: adaptive landscapes, genetic drift, the shifting balance theory, path coefficients, and the Wright-Fisher tension."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Wright

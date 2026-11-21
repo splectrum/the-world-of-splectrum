@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-26
 title: "Niles Eldredge (1943–)"
-description: "American paleontologist — punctuated equilibrium (with Gould), hierarchy theory, the genealogical-ecological duality, the turnover pulse hypothesis, and a career-long argument that macroevolution is not reducible to microevolution."
+description: "American paleontologist: punctuated equilibrium with Gould, hierarchy theory, the turnover pulse, and macroevolution as not reducible to microevolution."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Eldredge
@@ -57,7 +57,7 @@ The hypothesis connects punctuated equilibrium to environmental history: it expl
 
 ## Where Eldredge stops
 
-Eldredge's programme is hierarchical and paleontological. It identifies the levels — genealogical and ecological — and argues that macroevolutionary patterns emerge from their interaction rather than from the upward extrapolation of microevolutionary processes. What the programme provides is an architecture — a map of the levels and their relationships. What it does not provide is a unified formal dynamics of how the levels interact: a set of equations or models that predicts, from the architecture, which macroevolutionary patterns will obtain under which conditions. The hierarchy is descriptive and conceptually productive; the dynamics across levels remain more a research programme than a completed theory.
+Eldredge's programme is hierarchical and paleontological. It identifies the levels — genealogical and ecological — and argues that macroevolutionary patterns emerge from their interaction rather than from the upward extrapolation of microevolutionary processes. Gene-centric critics press that the hierarchy is a descriptive convenience rather than a causal architecture, its levels reducible in principle to gene-level dynamics.
 
 ---
 

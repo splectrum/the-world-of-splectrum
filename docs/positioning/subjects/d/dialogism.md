@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-22
 title: "Dialogism"
-description: "Bakhtin and the Bakhtin Circle — the dialogic word, the utterance, heteroglossia, polyphony, the chronotope and carnival, the disputed authorship of the Circle's texts, and the vast literary-theory afterlife."
+description: "Bakhtin's dialogism and the Bakhtin Circle: the dialogic word, heteroglossia, polyphony, chronotope and carnival, the authorship question, its afterlife."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Dialogism

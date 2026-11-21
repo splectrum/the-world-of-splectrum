@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-07-19
 title: "Peter L. Berger (1929–2017)"
-description: "Austrian-born American sociologist, co-author with Thomas Luckmann of The Social Construction of Reality, and a leading sociologist of religion and modernity who later revised his own secularisation thesis."
+description: "Peter L. Berger, sociologist, co-author with Luckmann of The Social Construction of Reality, who later revised his own secularisation thesis."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Berger

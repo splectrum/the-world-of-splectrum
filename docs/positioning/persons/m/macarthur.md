@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-26
 title: "Robert MacArthur (1930–1972)"
-description: "Canadian-American ecologist — island biogeography (with Wilson), species packing, r/K selection, the warbler niche, and the mathematisation of community ecology."
+description: "Canadian-American ecologist: island biogeography with Wilson, the warbler niche, species packing, r/K selection, and mathematical community ecology."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > MacArthur
@@ -71,7 +71,7 @@ Stephen Hubbell's *The Unified Neutral Theory of Biodiversity and Biogeography* 
 
 ## Where MacArthur stops
 
-MacArthur's programme is mathematical and equilibrial. It models ecological communities as systems tending toward equilibrium states — species numbers on islands, niche partitioning in saturated habitats, the balance between immigration and extinction. The framework treats the environment as given and the species pool as fixed. What it does not address is the historical and evolutionary dimension: how species come into existence, how their traits evolve, how disturbance and succession reshape communities over time, and how organisms themselves modify the environments they inhabit. The adaptive agent — one that learns, changes its strategies, and reshapes the landscape it moves through — is absent from the equilibrium picture. The gap between MacArthur's ecology and the CAS tradition that emerged a generation later lies precisely here.
+MacArthur's programme is mathematical and equilibrial. It models ecological communities as systems tending toward equilibrium states — species numbers on islands, niche partitioning in saturated habitats, the balance between immigration and extinction. The framework treats the environment as given and the species pool as fixed. Its critics pressed the equilibrium and competition assumptions: Simberloff and Strong with null models, Hubbell with neutral theory.
 
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-28
 title: "Sigmund Freud (1856–1939)"
-description: "Freud founded psychoanalysis — a theory of the dynamic unconscious, a clinical method, and an interpretive vision of mind that reshaped twentieth-century thought."
+description: "Sigmund Freud, founder of psychoanalysis: the dynamic unconscious, a clinical method, and an interpretive vision of mind that reshaped modern thought."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Freud

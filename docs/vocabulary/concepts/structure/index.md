@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-12
 title: "The structure of vocabulary"
-description: "Vocabulary as the set of concepts within a bounded context — concepts as bounded units, the relations between them, and how the decomposition maps onto category theory."
+description: "The structure of vocabulary: concepts as bounded units within a context, the relations between them, and how that decomposition maps onto category theory."
 ---
 
 [Home](/) > [Vocabulary](/vocabulary/) > [Concepts](/vocabulary/concepts/) > Structure

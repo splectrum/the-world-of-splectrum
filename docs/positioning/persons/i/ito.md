@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-25
 title: "Sosuke Ito"
-description: "Japanese physicist — information thermodynamics on causal networks, thermodynamic uncertainty relations, and the geometric reformulation linking stochastic thermodynamics to information geometry and optimal transport."
+description: "Japanese physicist: information thermodynamics on causal networks, thermodynamic uncertainty relations, and a geometric stochastic thermodynamics."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Ito
@@ -41,7 +41,7 @@ The programme he is currently best known for within the field. Stochastic thermo
 
 ## Where Ito stops
 
-The results are constraints and structural relations: given a network of interacting systems, what the second law becomes; given a required precision, what must be dissipated; given a transformation, what it costs at minimum. What the framework does not supply is why particular biological or engineered systems adopt the architectures they do. The causal-network formulation will tell you the thermodynamic consequences of a signalling structure once the structure is specified; it does not say why evolution arrived at that structure rather than another, and the papers are careful not to claim otherwise.
+The results are constraints and structural relations: given a network of interacting systems, what the second law becomes; given a required precision, what must be dissipated; given a transformation, what it costs at minimum.
 
 ---
 

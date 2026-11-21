@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-03
 title: "Mycelium Fabric"
-description: "The static architecture of the mycelium data fabric: identifier points, property bags, and contexts — process-colocated data structures held in git-constituted subject realities."
+description: "The static architecture of the mycelium data fabric: identifier points, property bags and contexts, held in git-constituted subject realities."
 sitemap: false
 ---
 

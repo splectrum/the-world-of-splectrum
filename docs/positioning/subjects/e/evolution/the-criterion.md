@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-05
 title: "The Criterion"
-description: "Biology's own instrument for deciding what evolves in the Darwinian sense — Lewontin's three conditions, universal and generalised Darwinism, and Godfrey-Smith's space of paradigm and marginal Darwinian populations — and what that instrument does not measure."
+description: "Biology's criterion for what evolves in the Darwinian sense: Lewontin's three conditions, universal and generalised Darwinism, Godfrey-Smith's populations."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Evolution](/positioning/subjects/e/evolution/) > The criterion

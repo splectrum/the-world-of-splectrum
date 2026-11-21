@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-07
 title: "Language Substrate"
-description: "The five tightly integrated languages of the SPL platform: Git for repo management, Kafka for streaming, AVRO for structure, URI for identity, XPath for navigation."
+description: "The five languages of the SPL platform substrate: Git for repositories, Kafka for streaming, AVRO for structure, URI for identity, XPath for navigation."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [SPL Platform](/engineering/spl/platform/) > Language Substrate

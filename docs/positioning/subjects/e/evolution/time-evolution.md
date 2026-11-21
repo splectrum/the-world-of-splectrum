@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-05
 title: "Time Evolution in Physics"
-description: "Evolution as physics uses the word — any change of a system's state given by a rule: Hamiltonian flow, the Schrödinger equation and the evolution operator, von Neumann's two processes, the irreversible evolution of open systems, and physics' own dispute over whether its evolution is reversible at root."
+description: "Time evolution in physics: Hamiltonian flow, the Schrödinger equation and evolution operator, irreversible open systems, and reversibility at root."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Evolution](/positioning/subjects/e/evolution/) > Time evolution in physics

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-08-24
 title: "James J. Gibson (1904–1979)"
-description: "American psychologist — direct perception: information picked up from the ambient optic array, not constructed from impoverished input; ecological optics; affordances as relational properties; perception-action coupling."
+description: "James J. Gibson's ecological psychology: direct perception from the ambient optic array, ecological optics, affordances, and perception-action coupling."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Gibson, James J.

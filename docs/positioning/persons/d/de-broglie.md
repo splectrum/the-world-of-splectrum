@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "Louis de Broglie (1892–1987)"
-description: "French physicist — wave-particle duality, the de Broglie hypothesis, matter waves, the pilot-wave theory, and the bridge between light quanta and quantum mechanics."
+description: "French physicist of wave-particle duality: the de Broglie hypothesis of matter waves, the pilot-wave theory, and the step from light quanta to matter."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > De Broglie
@@ -47,11 +47,7 @@ The proposal was criticised at Solvay, particularly by [Pauli](https://en.wikipe
 
 ## Where De Broglie stops
 
-The de Broglie hypothesis is one of those rare contributions that is both simple and foundational — a single equation (λ = h/p) that restructured physics. But the hypothesis itself does not explain why particles have wave properties; it postulates the association and derives consequences. The explanation came from quantum field theory, which treats particles as excitations of quantum fields — the wave-particle duality is a consequence of the field's quantum nature, not an independent postulate. De Broglie's hypothesis was the starting point, not the destination; the deeper framework was built by [Dirac](/positioning/persons/d/dirac/), [Feynman](https://en.wikipedia.org/wiki/Richard_Feynman), and the quantum-field-theory programme.
-
 De Broglie's post-thesis career illustrates a pattern that his biographers have noted: the thesis was a single, decisive insight, and the decades that followed did not produce a second one of comparable importance. The pilot-wave theory, abandoned in 1927 and revived by Bohm in 1952, might have been de Broglie's second major contribution — but the abandonment under pressure at Solvay, and the quarter-century gap before Bohm's reinvention, meant that the credit and the development went to Bohm rather than to de Broglie. Whether the abandonment was premature (Bohm later showed Pauli's objection could be answered) or reasonable given the state of the theory in 1927 is debated in the history of quantum mechanics.
-
-The aristocratic isolation — the financial independence, the distance from the institutional pressures of academic physics — may have enabled the thesis (de Broglie was free to pursue an unconventional idea without career risk) and limited the subsequent career (he was not embedded in the collaborative networks that drive sustained research programmes). The observation is speculative, but the contrast between the thesis's brilliance and the later career's relative quiet has invited it.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Darwinism"
-description: "Darwinism as a subject area — Darwin's theory of evolution by natural selection, its integration with genetics, its extensions and disputes, and the traditions that bear its name."
+description: "Darwinism as a subject: Darwin's theory of evolution by natural selection, its integration with genetics, its extensions and disputes, and its traditions."
 lastmod: 2026-05-28
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-22
 title: "Rasa"
-description: "The Indian theory of aesthetic experience — from Bharata's Natya Shastra and the rasa-sutra through the commentators' debate over how rasa arises to Abhinavagupta's account of aesthetic relish, and the living tradition that carries it."
+description: "Rasa, the Indian theory of aesthetic experience: Bharata's Natya Shastra, the debate over how rasa arises, and Abhinavagupta's account of aesthetic relish."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Rasa

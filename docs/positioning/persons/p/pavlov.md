@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-28
 title: "Ivan Pavlov (1849–1936)"
-description: "Pavlov was a Russian physiologist — Nobel laureate for the physiology of digestion — whose objective study of the conditioned reflex became a foundation of twentieth-century behavioural science, though he remained a physiologist of the brain to the end."
+description: "Ivan Pavlov, Russian physiologist and Nobel laureate for digestion, whose study of the conditioned reflex became a foundation of behavioural science."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Pavlov

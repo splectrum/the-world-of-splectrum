@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-10
 title: "Emergence — Relation with Mechanism"
-description: "The types of emergence cross-tabulated by checkable properties of their definitions: the relation to mechanism, the vocabulary or formalism each is stated in, how each is given, and which terms each takes as primitive."
+description: "The types of emergence sorted by their definitions: whether each states a mechanism, its formalism, how it is given, and which terms it takes as primitive."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Emergence](/positioning/subjects/e/emergence/) > Relation with mechanism

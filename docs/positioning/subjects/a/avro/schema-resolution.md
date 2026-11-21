@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "Schema resolution"
-description: "Avro's distinctive feature — reconciling a writer's schema with a reader's schema by name, with defaults, aliases, and type promotion, and the schema evolution this makes possible."
+description: "Avro schema resolution: reconciling writer and reader schemas by name, with defaults, aliases and type promotion, and the schema evolution it enables."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Apache Avro](/positioning/subjects/a/avro/) > Schema resolution

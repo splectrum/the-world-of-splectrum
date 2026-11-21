@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-05
 title: "Lamarck and the Inheritance of Acquired Characters"
-description: "The inheritance of acquired characters from Lamarck's theory to Weismann's barrier — Darwin's use and disuse and pangenesis, the neo-Lamarckians, the Baldwin effect, Kammerer and Lysenko, epigenetics — and the word 'Lamarckian' in the cultural, economic and technological uses of evolution."
+description: "Lamarck and the inheritance of acquired characters: Weismann's barrier, the neo-Lamarckians, Lysenko, epigenetics, and the word Lamarckian beyond biology."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Evolution](/positioning/subjects/e/evolution/) > Lamarck

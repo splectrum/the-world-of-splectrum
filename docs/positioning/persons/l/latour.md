@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "Bruno Latour (1947–2022)"
-description: "French philosopher and sociologist of science — actor-network theory, the Parliament of Things, cosmopolitics, modes of existence, the composition of the common world."
+description: "French philosopher and sociologist of science: actor-network theory, We Have Never Been Modern, the Parliament of Things, and the common world."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Latour

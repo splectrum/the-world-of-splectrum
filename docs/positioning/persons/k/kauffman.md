@@ -59,7 +59,7 @@ Kauffman's central framing — that self-organisation does much of the work conv
 
 ## Where Kauffman stops
 
-Kauffman's programme describes the conditions under which order arises spontaneously — Boolean networks at criticality, autocatalytic sets reaching closure, fitness landscapes with tunable ruggedness. The models are structural: they show that order can emerge without selection, that collectively autocatalytic sets can reproduce without a self-replicator, that landscape topology governs the difficulty of adaptation. What the models do not address is the lived side — how the order that arises is experienced, how the adjacent possible is navigated from within. His programme operates at the level of dynamics and structure; lived experience sits outside it.
+Kauffman's programme describes the conditions under which order arises spontaneously — Boolean networks at criticality, autocatalytic sets reaching closure, fitness landscapes with tunable ruggedness. The models are structural: they show that order can emerge without selection, that collectively autocatalytic sets can reproduce without a self-replicator, that landscape topology governs the difficulty of adaptation.
 
 ---
 

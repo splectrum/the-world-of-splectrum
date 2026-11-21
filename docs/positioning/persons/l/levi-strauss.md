@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-13
 title: "Claude Lévi-Strauss (1908–2009)"
-description: "French anthropologist — structural anthropology, the raw and the cooked, binary oppositions, kinship structures, the science of the concrete, mythologiques."
+description: "Claude Lévi-Strauss's structural anthropology: binary oppositions, kinship structures, the raw and the cooked, myth, and the science of the concrete."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Lévi-Strauss

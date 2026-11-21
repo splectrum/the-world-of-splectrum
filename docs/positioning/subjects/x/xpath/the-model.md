@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "The navigation model"
-description: "XPath's core — location paths built from steps, each a choice of axis, node test, and predicate; the compact and full axis syntaxes; and the move from node-sets to typed sequences."
+description: "XPath's navigation model: location paths built from steps of axis, node test and predicate, the compact and full syntaxes, and the move to typed sequences."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [XPath](/positioning/subjects/x/xpath/) > The navigation model

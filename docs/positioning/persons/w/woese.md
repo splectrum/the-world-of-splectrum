@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-27
 title: "Carl Woese (1928–2012)"
-description: "American microbiologist — the three domains of life, ribosomal RNA phylogenetics, the discovery of the Archaea, the reshaping of deep evolutionary classification."
+description: "Carl Woese, microbiologist: ribosomal RNA phylogenetics, the discovery of the Archaea, the three domains of life, and the genetic code and the progenote."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Woese

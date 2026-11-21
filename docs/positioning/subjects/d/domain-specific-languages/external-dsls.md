@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-13
 title: "External DSLs"
-description: "External domain-specific languages — DSLs with their own grammar and parser, standing independently of any host language. SQL, regular expressions, CSS, Make, and the implementation pipeline behind them."
+description: "External domain-specific languages, with their own grammar and parser: the implementation pipeline, parsing approaches, trade-offs and examples like SQL."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [DSL](/positioning/subjects/d/domain-specific-languages/) > External DSLs

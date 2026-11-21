@@ -31,7 +31,7 @@ Goodman built a rigorous case for the claim that there is no version-free world.
 
 ## Where Goodman stops
 
-Goodman's pluralism is constructive — he doesn't just tear down one world, he shows how many are built. But his worlds are static versions, not living languages. A version is a finished product: internally coherent, assessable for rightness. Goodman has no account of how versions are constituted socially, how they evolve, or how the act of making is itself relational. His symbol systems are structural but not lived — the body, the subject's experience, the constitution of shared reality from the grassroots are not his questions. His pluralism is rigorous and structural; what it lacks is motion.
+Goodman's pluralism is constructive: he does not just tear down one world, he shows how many are built, and versions answer to rightness of fit. Its critics press from two sides. Realists answer that one world with many descriptions is merely perspectivism, and that a pluralism claiming more owes an account of what the many versions are versions *of*; others reply that plural standards with no standard between them is relativism postponed by one step. The [disputes](/positioning/subjects/p/pluralism/the-disputes/) of pluralism carry both.
 
 ---
 

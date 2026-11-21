@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Power, critique, and the radical traditions"
-description: "The traditions that read politics from beneath avowed authority — Marxism and critical theory, feminist political philosophy, anarchism and agonism — and the contest over what counts as political at all."
+description: "Radical traditions in political philosophy: Marxism, critical theory, feminist political philosophy, anarchism and agonism, and what counts as political."
 lastmod: 2026-06-27
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-08-22
 title: "Pamela Lyon"
-description: "Australian philosopher of biology — the biogenic approach to cognition, the cognitive cell, and the framing of basal cognition as a field: start from what life does, not from what humans report."
+description: "Australian philosopher of biology: the biogenic approach to cognition and basal cognition as a field, starting from what life does, not human reports."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Lyon

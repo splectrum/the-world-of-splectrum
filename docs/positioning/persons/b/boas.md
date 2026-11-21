@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-30
 title: "Franz Boas (1858–1942)"
-description: "German-American anthropologist — the critique of the comparative method and the stage theories of social evolution, historical particularism, the four fields, the immigrant head-form study, the case against scientific racism, and the Columbia school."
+description: "German-American anthropologist Franz Boas: against stage theories of social evolution, historical particularism, the case against scientific racism."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Boas

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-07-03
 title: "Ezequiel Di Paolo (b. 1970)"
-description: "Di Paolo develops the enactive approach to mind and life — adding adaptivity to autopoiesis, and, with Hanne De Jaegher, the theory of participatory sense-making, in which social meaning is generated in the interaction itself rather than in either head."
+description: "Ezequiel Di Paolo's enactive approach to mind and life: adaptivity added to autopoiesis, and participatory sense-making, developed with Hanne De Jaegher."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Di Paolo

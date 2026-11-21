@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-26
 title: "The Foreign and the Home"
-description: "The question of the foreign in translation theory: Schleiermacher's two roads, Berman's Romantic tradition and Benjamin's pure language; Venuti's domestication and foreignisation and its critics; the cultural and postcolonial turn of Bassnett, Lefevere and Spivak."
+description: "Foreignisation and domestication in translation: Schleiermacher's two roads, Berman and Benjamin, Venuti and his critics, and the postcolonial turn."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Translation theory](/positioning/subjects/t/translation-theory/) > The foreign and the home

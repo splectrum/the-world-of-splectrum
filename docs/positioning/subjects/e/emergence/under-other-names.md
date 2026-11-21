@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-11
 title: "Emergence Under Other Names"
-description: "The territory the emergence literature claims, carried in vocabularies where the word is not load-bearing — renormalisation and universality, self-organisation, autopoiesis, assembly history, sui generis and spontaneous order — and where each vocabulary lives on this site."
+description: "Emergence under other names: renormalisation, self-organisation, autopoiesis, assembly history, sui generis and spontaneous order, where the word is idle."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Emergence](/positioning/subjects/e/emergence/) > Under other names

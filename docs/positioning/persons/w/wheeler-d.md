@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-27
 title: "David Wheeler (1927–2004)"
-description: "British computer scientist — the first assembler, the invention of the subroutine, the Wheeler jump, the EDSAC, foundational contributions to practical programming."
+description: "David Wheeler, British computer scientist: the first assembler, the invention of the subroutine, the Wheeler jump, and programming on the EDSAC."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Wheeler (David)

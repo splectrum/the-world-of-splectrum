@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-26
 title: "Ludwig Boltzmann (1844–1906)"
-description: "Austrian physicist — statistical mechanics, the statistical interpretation of entropy, the H-theorem, the Boltzmann equation, and the argument that the arrow of time is a consequence of probability."
+description: "Austrian physicist Ludwig Boltzmann: statistical mechanics, entropy as probability, the H-theorem, and the arrow of time as a consequence of probability."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Boltzmann

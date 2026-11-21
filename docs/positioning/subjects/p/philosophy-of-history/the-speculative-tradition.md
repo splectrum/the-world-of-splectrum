@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-26
 title: "The Speculative Tradition"
-description: "Whether history has a shape — the linear providential model of Augustine, Ibn Khaldun's cycle of dynasties, Vico and Herder, Kant's universal history, Hegel, Marx, Comte, the morphologies of Spengler and Toynbee, and the line's revival in Fukuyama."
+description: "The speculative philosophy of history, on whether history has a shape: Augustine, Ibn Khaldun, Vico, Kant, Hegel, Marx, Spengler and Toynbee, and Fukuyama."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Philosophy of history](/positioning/subjects/p/philosophy-of-history/) > The speculative tradition

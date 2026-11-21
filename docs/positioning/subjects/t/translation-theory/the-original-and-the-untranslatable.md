@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-26
 title: "The Original and the Untranslatable"
-description: "Deconstruction, hermeneutics and the limit of translation: Derrida's Des Tours de Babel and de Man on the original's dependence; Ricoeur's linguistic hospitality and Steiner's hermeneutic motion; Cassin's Dictionary of Untranslatables."
+description: "Deconstruction, hermeneutics and the untranslatable: Derrida's Des Tours de Babel, de Man, Ricoeur's linguistic hospitality, Steiner, and Barbara Cassin."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Translation theory](/positioning/subjects/t/translation-theory/) > The original and the untranslatable

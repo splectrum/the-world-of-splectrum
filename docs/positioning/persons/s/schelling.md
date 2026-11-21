@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Thomas Schelling (1921–2016)"
-description: "American economist and game theorist — focal points, the segregation model, micromotives and macrobehavior, and the demonstration that individual intentions do not predict aggregate outcomes."
+description: "American economist and game theorist: focal points, the segregation model, Micromotives and Macrobehavior, and nuclear strategy and arms control."
 lastmod: 2026-05-25
 ---
 

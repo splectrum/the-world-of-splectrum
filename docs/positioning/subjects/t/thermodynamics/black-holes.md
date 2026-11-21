@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-25
 title: "Black Holes"
-description: "The laws of black hole mechanics, Bekenstein entropy and Hawking radiation — and the unresolved question of whether a black hole literally has entropy or the correspondence is a formal analogy."
+description: "Black hole thermodynamics: Bekenstein entropy, Hawking radiation, the information paradox, and whether a black hole has entropy literally or by analogy."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Thermodynamics](/positioning/subjects/t/thermodynamics/) > Black holes

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-27
 title: "Politics — the dynamic of coexistence"
-description: "SPLectrum's politics pillar — the dynamic of living-together among diverse actors who each hold their own values, read off the actor/game configuration at every scale, from the single subject's colliding memberships to communities in contact; bounded as a field of concern, not surveyed."
+description: "SPLectrum's politics pillar: coexistence among actors who each hold their own values, from one subject's colliding memberships to communities in contact."
 ---
 
 [Home](/) > [Reality](/reality/) > Politics — the dynamic of coexistence

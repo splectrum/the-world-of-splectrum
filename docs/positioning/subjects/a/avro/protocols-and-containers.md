@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "Protocols and containers"
-description: "Beyond serialization — Avro object container files, the RPC protocol layer with its schema-exchanging handshake, and the logical types layered over the base type system."
+description: "Avro beyond serialization: object container files, the RPC protocol and its schema-exchanging handshake, and logical types over the base type system."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Apache Avro](/positioning/subjects/a/avro/) > Protocols and containers

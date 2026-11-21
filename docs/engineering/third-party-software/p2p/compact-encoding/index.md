@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-11-08
 title: "compact-encoding"
-description: "compact-encoding is the binary encoding scheme the Holepunch stack writes its wire formats in — preencode, encode, decode over a shared state; with hypercore-crypto, the stack's crypto helpers."
+description: "compact-encoding, the binary encoding of the Holepunch stack's wire formats: preencode, encode and decode over shared state, with hypercore-crypto."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [Third Party Software](/engineering/third-party-software/) > [P2P building blocks](/engineering/third-party-software/p2p/) > compact-encoding

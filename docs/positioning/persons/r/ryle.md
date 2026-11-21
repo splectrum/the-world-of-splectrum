@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-07-03
 title: "Gilbert Ryle (1900–1976)"
-description: "Ryle reshaped the philosophy of mind in The Concept of Mind — diagnosing Cartesian dualism as a category mistake, analysing mental concepts as dispositions, and distinguishing knowing-how from knowing-that. A central figure of Oxford ordinary-language philosophy."
+description: "Gilbert Ryle's The Concept of Mind: Cartesian dualism as a category mistake, mental concepts as dispositions, and knowing-how versus knowing-that."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Ryle

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-22
 title: "Valentin Voloshinov (1895–1936)"
-description: "Russian linguist and Marxist theorist of the Bakhtin Circle — the sign as social and ideological, the multiaccentual word, and Marxism and the Philosophy of Language."
+description: "Valentin Voloshinov of the Bakhtin Circle: the sign as social and ideological, the multiaccentual word, Marxism and the Philosophy of Language."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Voloshinov

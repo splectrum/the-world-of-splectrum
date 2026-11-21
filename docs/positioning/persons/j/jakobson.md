@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-26
 title: "Roman Jakobson (1896–1982)"
-description: "The structural linguist who drew the map of communication itself — the six functions, the poetic function, metaphor and metonymy — and who almost alone bridged the Saussurean and Peircean lineages."
+description: "Roman Jakobson, structural linguist of the six functions of communication, the poetic function, and metaphor and metonymy, bridging Saussure and Peirce."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Jakobson
@@ -29,7 +29,7 @@ Jakobson was among the most wide-ranging linguists of the century — a founder 
 
 ## Where Jakobson stops
 
-Jakobson's gift was for structure — for finding the small set of contrasts and axes underlying an apparently endless variety of speech, verse, and sign. His model of the functions is among the most durable tools in the study of language precisely because it is a grid: clean, general, and applicable anywhere. That is also its boundary. The scheme tells you which function dominates an utterance but not what the utterance *means* in its moment, and the poetic function, defined as the message turning on its own form, names where literary effect lives without quite saying why a given form moves a given reader. Jakobson built the bridge to Peirce but did not cross all the way over: he borrowed the triadic sign as a useful classification rather than taking on the process-metaphysics — the endless onward life of the interpretant — that made it more than a typology. He mapped the system of meaning with unmatched economy, and left the living event of meaning to others.
+Jakobson's gift was for structure — for finding the small set of contrasts and axes underlying an apparently endless variety of speech, verse, and sign. His model of the functions is among the most durable tools in the study of language precisely because it is a grid: clean, general, and applicable anywhere. That is also its boundary. The scheme tells you which function dominates an utterance but not what the utterance *means* in its moment, and the poetic function, defined as the message turning on its own form, names where literary effect lives without quite saying why a given form moves a given reader.
 
 ---
 

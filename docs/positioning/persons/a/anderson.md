@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-27
 title: "Philip Anderson (1923–2020)"
-description: "American physicist — 'More is Different', emergence, Anderson localisation, symmetry breaking, the Santa Fe Institute, and the argument that new laws arise at each level of complexity."
+description: "American physicist of 'More Is Different': emergence, new laws at each level of complexity, Anderson localisation, symmetry breaking, Santa Fe."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Anderson

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-12
 title: "Relational quantum mechanics"
-description: "Properties through interaction, no absolute state — Rovelli's interpretation where the quantum state of a system is always relative to another physical system."
+description: "Relational quantum mechanics, Rovelli's interpretation in which the quantum state of a system is always relative to another physical system, not absolute."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Relational quantum mechanics

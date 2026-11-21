@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-10
 title: "The Overviews of Emergence"
-description: "How the field maps itself: the encyclopaedia entries, the anthology, the handbook chapter, the monograph surveys, and the register-specific treatments — a census of the emergence overviews that exist."
+description: "How the emergence literature maps itself: encyclopaedia entries, the anthology, the handbook chapter, monograph surveys and register-specific treatments."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Emergence](/positioning/subjects/e/emergence/) > The overviews

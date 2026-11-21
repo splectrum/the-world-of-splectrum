@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-26
 title: "Philosophy of History"
-description: "Whether history has a shape, and how it can be known — a hub for the speculative tradition, the critical tradition, the critiques of progress, historical time, and deep time and cultural evolution, with the two senses of historicism kept apart."
+description: "Philosophy of history: whether history has a shape and how it can be known, across the speculative and critical traditions and the critiques of progress."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Philosophy of history

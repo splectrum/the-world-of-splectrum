@@ -29,7 +29,7 @@ Varela took the insight he built with Maturana — that [cognition](/positioning
 
 ## Where Varela stops
 
-Varela's enactivism places the organism and its world in mutual constitution — they arise together through embodied action. The limit is that this co-arising stays between one organism and its environment. The social dimension — how multiple autonomous subjects bring forth a *shared* world — is acknowledged but not developed with the same precision. *The Embodied Mind* gestures toward ethical and social implications; Thompson's later *Mind in Life* (2007) extends the framework toward intersubjectivity. But how multiple autonomous subjects enact a shared world — how individual sense-making becomes collective reality through language — is not a move his framework takes.
+Varela's enactivism places the organism and its world in mutual constitution — they arise together through embodied action. Its critics press the scaling-up problem: whether an account built on embodied, sensorimotor coupling can reach abstract thought and language without reintroducing the representations it set out to do without.
 
 ---
 

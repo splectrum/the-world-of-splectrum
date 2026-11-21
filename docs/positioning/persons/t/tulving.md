@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-08-24
 title: "Endel Tulving (1927–2023)"
-description: "Estonian-Canadian psychologist — the episodic/semantic distinction: experiences remembered versus knowledge freed of its occasion; encoding specificity; autonoetic consciousness and mental time travel."
+description: "Endel Tulving's distinction between episodic and semantic memory, encoding specificity, and autonoetic consciousness as the ground of mental time travel."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Tulving

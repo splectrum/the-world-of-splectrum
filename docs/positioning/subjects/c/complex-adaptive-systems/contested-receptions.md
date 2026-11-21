@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-25
 title: "CAS — Contested receptions"
-description: "Definitional disputes, internal emphasis differences, the metaphor critique, management appropriation, and the predictability debate within complex adaptive systems research."
+description: "Contested receptions of complex adaptive systems: definitional disputes, Holland versus Kauffman, the metaphor critique, management use, predictability."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) > Contested receptions

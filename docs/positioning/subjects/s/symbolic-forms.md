@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-22
 title: "Symbolic forms"
-description: "Cassirer's philosophy of symbolic forms and the tradition that carries it — mind constituting its worlds through language, myth, art, religion, and science, the Davos debate, and the afterlife in Langer's symbolism of feeling and Goodman's worldmaking."
+description: "Cassirer's philosophy of symbolic forms: mind making its worlds through language, myth, art and science, the Davos debate, and heirs in Langer and Goodman."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Symbolic forms

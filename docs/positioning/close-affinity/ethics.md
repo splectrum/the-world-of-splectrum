@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-12
 title: "Ethics"
-description: "SPLectrum's ethics — values read off a language game, mandatory for members at the scale of the common, with the shared base between games as the reference for any reading — and where that dynamic surfaces across the metaethical field: the form of life that holds its values, norms instituted in a practice, and game-relativity with a shared base."
+description: "SPLectrum's ethics reads values off the language game an actor plays, a dynamic found across metaethics: forms of life, instituted norms, a shared base."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Close affinity](/positioning/close-affinity/) > Ethics

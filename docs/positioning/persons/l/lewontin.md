@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-30
 title: "Richard Lewontin (1929–2021)"
-description: "American evolutionary biologist and geneticist — the three-conditions formalisation of natural selection, the Spandrels critique, anti-reductionism, the organism-environment dialectic, and the politics of biology."
+description: "American evolutionary geneticist: the three conditions of natural selection, the Spandrels critique, the organism-environment dialectic, and politics."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Lewontin

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-26
 title: "Assembly Theory — The Mineral Exchange"
-description: "The exchange between Robert Hazen and collaborators and Walker, Cronin, and team over whether inorganic mineral systems can produce assembly indices above the biosignature threshold. Situated within Hazen's broader evolutionary mineralogy programme."
+description: "The exchange between Robert Hazen's group and the assembly theory team over whether minerals can pass the assembly index threshold set for biosignatures."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Assembly Theory](/positioning/subjects/a/assembly-theory/) > The Mineral Exchange

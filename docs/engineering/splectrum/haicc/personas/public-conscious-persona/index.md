@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-07
 title: "Public Conscious Persona"
-description: "The HAICC persona that owns the public voice of the World of SPLectrum, running one intake-to-publish pipeline across the site's main, blog, and topnav areas."
+description: "The HAICC persona that owns the public voice of the World of SPLectrum: one intake-to-publish pipeline across the site's main, blog and topnav areas."
 sitemap: false
 ---
 

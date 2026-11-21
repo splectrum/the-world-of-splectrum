@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-07-03
 title: "Bernard Williams (1929–2003)"
-description: "British philosopher — the critique of moral theory, internal reasons, moral luck, Ethics and the Limits of Philosophy, the rejection of the Aristotelian ergon."
+description: "Bernard Williams, British philosopher: the critique of utilitarianism and moral theory, internal reasons, moral luck, Ethics and the Limits of Philosophy."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Williams (Bernard)

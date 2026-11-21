@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-12
 title: "Philosophy of organism"
-description: "Whitehead's speculative metaphysics — actual entities, prehension, creativity, God — built to heal the bifurcation of nature that modern science inherited from Galileo and Descartes."
+description: "Whitehead's philosophy of organism, a speculative metaphysics of actual entities, prehension and creativity built to heal the bifurcation of nature."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Philosophy of organism

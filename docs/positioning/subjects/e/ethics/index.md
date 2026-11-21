@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Ethics"
-description: "How moral philosophy is structured — the normative theories that say what to do, and beneath them the metaethical question of what a moral claim even is: realism, error theory, expressivism, constructivism, relativism, and the form-of-life line that rejects the frame."
+description: "How ethics is structured: the normative theories of what to do, and the metaethics of what a moral claim is, from realism and error theory to expressivism."
 lastmod: 2026-07-03
 ---
 

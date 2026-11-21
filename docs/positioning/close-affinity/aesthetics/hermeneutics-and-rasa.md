@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-23
 title: "Hermeneutics and rasa"
-description: "The aesthetics branch on interpretation and reception — the dynamic of meaning visible as understanding, disclosure, and relish: hermeneutics (Heidegger, Gadamer) and the rasa tradition (Abhinavagupta)."
+description: "The aesthetics branch on interpretation and reception, meaning as understanding, disclosure and relish: hermeneutics and Abhinavagupta's rasa."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Close affinity](/positioning/close-affinity/) > [Aesthetics](/positioning/close-affinity/aesthetics/) > Hermeneutics and rasa

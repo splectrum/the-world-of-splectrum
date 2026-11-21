@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The critical branch"
-description: "Kant's turn from describing reality to examining the conditions under which it can be known — metaphysics as the inventory of what the knower brings — and German idealism's attempt to overcome the limit it set."
+description: "Kant's critical metaphysics, from describing reality to the conditions of knowing it, and German idealism's attempt to overcome the limit he set."
 lastmod: 2026-06-25
 ---
 

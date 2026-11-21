@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-26
 title: "George C. Williams (1926–2010)"
-description: "American evolutionary biologist — the gene-level critique of group selection, adaptation as a special concept, the evolution of senescence, the evolution of sex, and Darwinian medicine."
+description: "George C. Williams, evolutionary biologist: the gene-level critique of group selection, adaptation, senescence, the evolution of sex, Darwinian medicine."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Williams

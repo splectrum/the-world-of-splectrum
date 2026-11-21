@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "The log and the record"
-description: "Kafka's core — the commit log, topics divided into partitions, the anatomy of a record, pull-based reading with offsets and replay, and the log as a unifying abstraction."
+description: "Kafka's commit log: topics and partitions, the anatomy of a record, pull-based reading with offsets and replay, and the log as a unifying abstraction."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Apache Kafka](/positioning/subjects/k/kafka/) > The log and the record

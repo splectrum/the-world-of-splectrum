@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-30
 title: "Manfred Eigen (1927–2019)"
-description: "German biophysical chemist — the relaxation methods for very fast reactions (Nobel Prize 1967), the theory of selection among self-replicating molecules, the error threshold, the quasispecies, the hypercycle with Peter Schuster, and evolutionary biotechnology."
+description: "German biophysical chemist and Nobel laureate: selection among self-replicating molecules, the error threshold, the quasispecies, and the hypercycle."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Eigen

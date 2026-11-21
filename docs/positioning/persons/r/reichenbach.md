@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-26
 title: "Hans Reichenbach (1891–1953)"
-description: "German-American philosopher of science — the direction of time, branch systems, the common cause principle, probability and induction, and the logical empiricist programme applied to physics."
+description: "German-American philosopher of science: the direction of time, branch systems, the common cause principle, probability, and logical empiricism."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Reichenbach

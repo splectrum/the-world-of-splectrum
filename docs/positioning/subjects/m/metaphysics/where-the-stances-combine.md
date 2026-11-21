@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Where the stances combine"
-description: "The five stances are analytically pure; few major positions are. Process philosophy, radical empiricism, the constructive reach in phenomenology, enactivism, and the Kyoto School — positions that hold combined stances together, and why that is a position in its own right."
+description: "Metaphysical positions that combine stances: process philosophy, radical empiricism, phenomenology's constructive reach, enactivism and the Kyoto School."
 lastmod: 2026-06-26
 ---
 

@@ -51,9 +51,9 @@ This gives Buber a distinctive political and educational philosophy. Education i
 
 ## Where Buber stops
 
-The I-Thou relation is dyadic — it names what happens between two. Buber's concept of community is built from dyadic encounters, but the passage from the pair to the group, and from the group to the institution, is where the framework thins. How I-Thou scales to a community of millions, to political structures and institutions, to collective life beyond the pair, is a question Buber names (community, dialogue, education) but does not systematically develop. [Levinas](/positioning/persons/l/levinas/) took the encounter further into ethics — making the face of the Other the source of infinite obligation — while criticising Buber's Thou as too symmetrical, too reciprocal, not sufficiently attentive to the asymmetry of ethical demand.
+The I-Thou relation is dyadic — it names what happens between two. [Levinas](/positioning/persons/l/levinas/) took the encounter further into ethics — making the face of the Other the source of infinite obligation — while criticising Buber's Thou as too symmetrical, too reciprocal, not sufficiently attentive to the asymmetry of ethical demand.
 
-The impermanence of the Thou — every Thou becomes an It — is a structural feature Buber accepts. But it means the philosophy of meeting is also a philosophy of loss: the highest mode of existence is the one that cannot be sustained. Whether this impermanence is a profound insight about the nature of relation or a limitation of the dyadic model (perhaps sustained forms of meeting are possible through shared practices, institutions, or languages that Buber's framework underweights) is an open question.
+The impermanence of the Thou — every Thou becomes an It — is a structural feature Buber accepts. But it means the philosophy of meeting is also a philosophy of loss: the highest mode of existence is the one that cannot be sustained. Whether this impermanence is a profound insight about the nature of relation or a limitation of the dyadic model is an open question.
 
 ---
 

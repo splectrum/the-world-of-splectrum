@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-25
 title: "CAS — Formation and roots"
-description: "The Santa Fe Institute formation, founding figures, and the intellectual roots of complex adaptive systems in cybernetics, systems theory, chaos, evolutionary biology, and artificial life."
+description: "How complex adaptive systems formed at the Santa Fe Institute: founding figures and roots in cybernetics, systems theory, chaos and evolutionary biology."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) > Formation and roots

@@ -33,7 +33,7 @@ Bergson insisted that reality is continuous, creative, and irreducible to static
 
 ## Where Bergson stops
 
-Bergson mistrusted language. The intellect spatialises; language is the intellect's tool; therefore language distorts duration. "The word turns against the sensation which gave rise to it." Whether language distorts duration or is itself a form of duration — a living medium rather than a static tool — is not a question Bergson asks. His intuition is powerful but private: there is no account of how intuitions are shared, how a community constitutes knowledge through language, or how different forms of expression relate to each other. [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) would later show that the body bridges the gap Bergson left between intuition and expression. Duration and creative evolution remain structurally powerful; the distrust of language limits what can be built on them.
+Bergson mistrusted language. The intellect spatialises; language is the intellect's tool; therefore language distorts duration. "The word turns against the sensation which gave rise to it."
 
 ---
 

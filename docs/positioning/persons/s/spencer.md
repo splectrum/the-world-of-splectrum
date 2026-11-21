@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Herbert Spencer (1820–1903)"
-description: "English polymath who built a synthetic philosophy around evolution as a universal principle — enormous fame in his lifetime, near-total eclipse after his death."
+description: "Herbert Spencer's synthetic philosophy, built on evolution as a universal principle: survival of the fittest, Social Darwinism, and his fame and eclipse."
 lastmod: 2026-09-28
 ---
 
@@ -53,7 +53,7 @@ The eclipse began in his own last decade. He had refused to revise the *Syntheti
 
 ## Where Spencer stops
 
-Spencer treated evolution as inherently progressive and directional — heterogeneity as improvement, dissolution as a separate counter-process. Questions about non-directional evolution, the relativity of "fitness" to context (which Darwin in fact held), and the dependence of progress-talk on a chosen value frame sat outside his programme. The synthetic system assumed that one principle could cover all domains; whether each domain admits unification under a single law was not a question the system put to itself.
+Spencer treated evolution as inherently progressive and directional — heterogeneity as improvement, dissolution as a separate counter-process. [Darwin](/positioning/persons/d/darwin/) himself denied any innate tendency to progressive development, and much of the later argument over [progress and direction](/positioning/subjects/e/evolution/progress-and-direction/) is an attempt to separate Darwin's theory from Spencer's direction again.
 
 ---
 

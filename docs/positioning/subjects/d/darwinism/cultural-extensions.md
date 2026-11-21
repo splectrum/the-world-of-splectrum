@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Cultural Extensions"
-description: "The extension of evolutionary thinking beyond biology — memes and cultural replicators, cultural evolution as a research programme, evolutionary psychology, evolutionary economics, and the question of universal Darwinism."
+description: "Darwinian thinking beyond biology: memes, cultural evolution, evolutionary psychology and economics, universal Darwinism, and where the analogies break."
 lastmod: 2026-05-26
 ---
 

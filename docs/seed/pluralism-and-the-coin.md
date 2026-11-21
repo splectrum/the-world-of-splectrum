@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-13
 title: "The Seed, Pluralism and the Coin"
-description: "The seed as a metalanguage of common principles: one approach on the how, equal standing on the what — two faces of one coin — and the perimeter as the place this can be said from without a view from above."
+description: "The seed as a metalanguage of common principles: one approach on the how, equal standing on the what, two faces of one coin, said from the perimeter."
 ---
 
 [Home](/) > [The SPLectrum Seed](/seed/) > Pluralism and the coin

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-08-24
 title: "Ecological Psychology"
-description: "The perceptual psychology that takes the animal–environment relation as its unit of analysis: direct perception, ecological optics, affordances, learning as differentiation — the Gibsons' tradition, its schools, receptions, and open disputes."
+description: "Ecological psychology, the Gibsons' tradition: direct perception, ecological optics, affordances, its schools and its dispute with computationalism."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Ecological psychology

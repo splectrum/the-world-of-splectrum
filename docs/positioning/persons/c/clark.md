@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "James Clark (1964–)"
-description: "British software engineer — technical lead of the W3C group that produced XML, editor of the XSLT 1.0 and XPath 1.0 specifications, and author of expat, RELAX NG, and groff."
+description: "British software engineer James Clark: tech lead of the W3C group behind XML, editor of XSLT 1.0 and XPath 1.0, author of expat, RELAX NG and groff."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Clark

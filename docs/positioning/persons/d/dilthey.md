@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-22
 title: "Wilhelm Dilthey (1833–1911)"
-description: "German philosopher of the human sciences — Verstehen versus Erklären, lived experience and expression, the critique of historical reason, the bridge from Schleiermacher to Heidegger and Gadamer."
+description: "German philosopher of the human sciences: Verstehen versus Erklären, lived experience and expression, and the critique of historical reason."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Dilthey

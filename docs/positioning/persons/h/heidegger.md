@@ -51,7 +51,7 @@ Heidegger's involvement with Nazism cannot be separated from his philosophy, how
 
 ## Where Heidegger stops
 
-Heidegger's later work grows increasingly solitary — Being withdraws, poetry replaces argument, and the thinker waits. The participatory structure of being-in-the-world gives way to a quietism where only a few poets and thinkers can hear Being speak. [Rorty](/positioning/persons/r/rorty/) and [Wittgenstein](/positioning/persons/w/wittgenstein/) pick up the early insight — always already involved, always already in language — and carry it toward the relational and the plural. Whether the participatory structure can be recovered without the quietism is a question his later work does not ask.
+Heidegger's later work grows increasingly solitary — Being withdraws, poetry replaces argument, and the thinker waits. The participatory structure of being-in-the-world gives way to a quietism where only a few poets and thinkers can hear Being speak. [Rorty](/positioning/persons/r/rorty/), drawing on him alongside Wittgenstein and Dewey, picks up the early insight — always already involved, always already in language.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Murray Gell-Mann (1929–2019)"
-description: "American physicist — quarks, the Eightfold Way, effective complexity, and the founding of the Santa Fe Institute as a cross-disciplinary home for complex adaptive systems research."
+description: "American physicist of quarks and the Eightfold Way, of effective complexity, and co-founder of the Santa Fe Institute for complex adaptive systems."
 lastmod: 2026-05-25
 ---
 

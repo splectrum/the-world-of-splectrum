@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "Alexander Grothendieck (1928–2014)"
-description: "German-French mathematician — the refounding of algebraic geometry, schemes, topos theory, étale cohomology, the Grothendieck school, Récoltes et Semailles."
+description: "German-French mathematician who refounded algebraic geometry: schemes, topos theory, étale cohomology, his school, and the memoir Récoltes et Semailles."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Grothendieck

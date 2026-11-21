@@ -55,8 +55,6 @@ Identification always implies its counterpart — division. To identify with one
 
 Burke's framework is powerful as a mode of analysis — the pentad, identification, symbolic action as constitutive — but it is deliberately anti-systematic. He resisted building his insights into a closed theory, preferring suggestive frameworks, neologisms, and what he called "perspective by incongruity" (juxtaposing incompatible frames to reveal what each conceals). The result is a body of work that is extraordinarily generative for readers who work with it but difficult to summarise, teach, or apply methodically. The absence of a systematic theory is both the strength (it resists premature closure) and the limitation (it leaves later users to do the systematising Burke declined to do).
 
-The relationship between symbolic action and non-symbolic reality is the philosophical boundary. Burke's claim that reality is always reality-as-symbolised does not deny a non-symbolic world — he distinguishes between "motion" (physical processes) and "action" (symbolic, motivated conduct). But the framework's analytical tools work on the action side; the motion side is named but not theorised. How symbolic systems interact with material constraints — ecology, biology, physics — is the territory Burke's dramatism enters only at its edges.
-
 ---
 
 ## Key works

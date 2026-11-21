@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "John Tooby (1952–2023)"
-description: "American evolutionary psychologist — the adapted mind, the environment of evolutionary adaptedness, the critique of the Standard Social Science Model, the theoretical foundations of evolutionary psychology."
+description: "John Tooby, founder of evolutionary psychology: the adapted mind, the environment of evolutionary adaptedness, the Standard Social Science Model critique."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Tooby

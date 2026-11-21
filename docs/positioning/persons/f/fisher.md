@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-26
 title: "R. A. Fisher (1890–1962)"
-description: "British statistician and geneticist — the founder of population genetics, the fundamental theorem of natural selection, runaway sexual selection, analysis of variance, and eugenics."
+description: "British statistician and geneticist: founder of population genetics, the fundamental theorem of natural selection, analysis of variance, and his eugenics."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Fisher
@@ -63,7 +63,7 @@ The post-war reckoning with eugenics has reached Fisher's legacy directly. In 20
 
 ## Where Fisher stops
 
-Fisher's programme is mathematical and populational. It works at the level of gene frequencies in large populations, with natural selection as the dominant force. What it does not address is the organism — the developmental, physiological, and ecological reality that lies between genotype and fitness. Fisher's models treat the phenotype as a mathematical function of the genotype; the biology of how genes produce organisms is abstracted away. The tension between Fisher's gene-frequency mathematics and the organism-centred biology of [Mayr](/positioning/persons/m/mayr/) and the naturalists was a constitutive tension within the Modern Synthesis itself.
+Fisher's programme is mathematical and populational. It works at the level of gene frequencies in large populations, with natural selection as the dominant force. [Mayr](/positioning/persons/m/mayr/) and the naturalists pressed their own perspective against it — populations, geographic variation, species formation — and the tension between Fisher's gene-frequency mathematics and their organism-centred biology was a constitutive tension within the Modern Synthesis itself.
 
 ---
 

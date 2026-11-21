@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Metaphysics"
-description: "How metaphysics has been approached — not as one developing story but as a few recurring stances toward the enterprise itself: construction, critique, disclosure, deflation, and genealogy — the positions that combine them, and the Western map set beside another inheritance."
+description: "Metaphysics as recurring stances toward the enterprise: construction, critique, disclosure, deflation and genealogy, and the Western map beside another."
 lastmod: 2026-06-25
 ---
 

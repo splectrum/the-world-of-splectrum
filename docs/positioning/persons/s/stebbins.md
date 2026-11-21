@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-27
 title: "G. Ledyard Stebbins (1906–2000)"
-description: "American botanist and geneticist — Variation and Evolution in Plants, the integration of botany into the Modern Synthesis, polyploidy, hybridisation, plant speciation."
+description: "G. Ledyard Stebbins, botanist of the Modern Synthesis: Variation and Evolution in Plants, polyploidy, hybridisation and the evolution of plant species."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Stebbins
@@ -48,8 +48,6 @@ The 1950 book — the last of the great Synthesis monographs — did for botany 
 ## Where Stebbins stops
 
 Stebbins extended the Synthesis to plants and documented complications — polyploidy, hybridisation, apomixis — that the animal-focused Synthesis had not needed to address. He treated these as additional mechanisms within the framework, not as challenges to it. Later work has found that the complications are deeper than Stebbins recognised. Molecular phylogenetics revealed that hybridisation and horizontal gene transfer are far more pervasive than mid-century botany had documented — not only in plants but in bacteria, archaea, and even animals. The tree model of evolution that the Synthesis assumed (and that Stebbins's own work implicitly relied on) is inadequate for large swathes of life's diversity, where the history of genes and the history of species do not coincide. [W. Ford Doolittle](/positioning/persons/d/doolittle/) and others have argued that the "tree of life" is more accurately a network, at least for prokaryotes and for plant lineages where hybridisation is frequent.
-
-Stebbins's treatment of polyploidy was pioneering but primarily descriptive and classificatory. The genomic revolution revealed that polyploidy is more common than he knew (including in animals, where it had been thought rare), and that its consequences — gene subfunctionalisation, neofunctionalisation, genome restructuring — are more dynamic than Stebbins's framework could address. He established that polyploidy matters; what it does at the genomic level was left to molecular biology.
 
 The species concept was the deepest tension. Stebbins adopted the biological species concept but documented case after case where it breaks down in plants — hybridisation blurs boundaries, polyploidy creates instant isolation, apomixis decouples reproduction from sex. Whether the biological species concept can be patched to accommodate these complications or whether plants require a fundamentally different species concept is a question Stebbins raised by implication and did not resolve.
 

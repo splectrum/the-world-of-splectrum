@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-14
 title: "Entropy"
-description: "One word across thermodynamics, information theory, dynamical systems, ecology and economics — a family related by shared mathematics, with two genuine outsiders, and a live argument about whether the recurrence is unity or coincidence."
+description: "Entropy as one word across thermodynamics, information theory, dynamical systems, ecology and economics: a family by shared mathematics, and its outsiders."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Entropy

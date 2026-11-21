@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-26
 title: "Umberto Eco (1932–2016)"
-description: "The semiotician who gave the field one of its fullest systematisations and then its most influential brake — a theory of codes, the open work, and the limits of interpretation."
+description: "Umberto Eco, the semiotician who systematised the field and then set its limits: a theory of codes, the open work, and the limits of interpretation."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Eco

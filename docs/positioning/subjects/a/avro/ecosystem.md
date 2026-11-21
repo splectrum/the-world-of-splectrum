@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "Implementations and use"
-description: "Avro across languages — the Java reference implementation and the official and third-party SDKs — the Confluent Schema Registry as a major user, and where Avro is used in practice."
+description: "Apache Avro across languages: the Java reference implementation, the official and third-party SDKs, the Confluent Schema Registry, and where Avro is used."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Apache Avro](/positioning/subjects/a/avro/) > Implementations and use

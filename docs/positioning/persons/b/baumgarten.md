@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-13
 title: "Alexander Gottlieb Baumgarten (1714–1762)"
-description: "German philosopher — coined 'aesthetics' as a philosophical discipline, defined it as the science of sensory cognition, and seated it beneath logic in the same gesture."
+description: "German philosopher who coined 'aesthetics' as a discipline, the science of sensory cognition, and ranked it beneath logic in the same gesture."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Baumgarten

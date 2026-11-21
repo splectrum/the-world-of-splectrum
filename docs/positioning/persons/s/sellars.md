@@ -29,7 +29,7 @@ Sellars closed the door on any starting point outside language. His critique of 
 
 ## Where Sellars stops
 
-Sellars's space of reasons is built around human discursive practice — beings who give and ask for reasons. Like [Brandom](/positioning/persons/b/brandom/) after him, the framework is anthropocentric. Relational activity beyond the discursive — biological signalling, material interaction — sits outside what the normative vocabulary of justification and entitlement was designed to cover. His critique of the given may hold more broadly (no content is pre-relational), but the apparatus he built to cash it out is specific to beings who give and ask for reasons.
+Sellars's space of reasons is built around human discursive practice — beings who give and ask for reasons. His critique of the given may hold more broadly, but the apparatus he built to cash it out is specific to such beings.
 
 ---
 

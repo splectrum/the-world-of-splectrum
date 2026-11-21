@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-29
 title: "Karl Popper (1902–1994)"
-description: "Popper replaced verification with falsification — science advances by eliminating errors, not accumulating truths. The open society as political falsificationism."
+description: "Karl Popper's critical rationalism: falsification instead of verification, science advancing by eliminating errors, and the open society."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Popper

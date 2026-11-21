@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-15
 title: "David Wolpert"
-description: "American physicist and computer scientist — the No Free Lunch theorems, stacked generalization, the stochastic thermodynamics of computation, and physical limits on inference."
+description: "David Wolpert, physicist and computer scientist: the No Free Lunch theorems, the stochastic thermodynamics of computation, physical limits on inference."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Wolpert
@@ -54,8 +54,6 @@ With [Kolchinsky](/positioning/persons/k/kolchinsky/) he co-authored the 2018 de
 ## Where Wolpert stops
 
 The No Free Lunch theorems establish that an algorithm's success depends on a match between its assumptions and the problems it meets, and are silent on the question that follows: which assumptions are the right ones for the world we are actually in. That is not an oversight but the shape of the result — a theorem proved by averaging over all possible worlds cannot tell you about this one. What the theorems do is make the question unavoidable; what they do not do is answer it, and the working machine-learning practice of choosing architectures by what happens to work on benchmarks is the field proceeding without an answer.
-
-The thermodynamics of computation likewise gives costs given an implementation. Which implementations are available to a physical system, and why biological computation takes the forms it does rather than others, sit outside what the formalism supplies.
 
 ---
 

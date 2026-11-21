@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-12
 title: "Metaphysics"
-description: "SPLectrum's metaphysics — disclosure from the subject's seat, built as becoming, the mirror set aside — read across the metaphysics subject's five branches: what resonates from each, and how the dynamic straddles them."
+description: "SPLectrum's metaphysics of disclosure from the subject's seat, built as becoming, read across the five branches of metaphysics for what resonates in each."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Close affinity](/positioning/close-affinity/) > Metaphysics

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "Michael Ghiselin (1939–)"
-description: "American biologist, philosopher of biology — the species-as-individuals thesis, The Economy of Nature and the Evolution of Sex, the individuality of organisms, radical solution to the species problem."
+description: "American biologist and philosopher of biology: the species-as-individuals thesis and The Economy of Nature and the Evolution of Sex."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Ghiselin
@@ -49,13 +49,9 @@ Ghiselin's argument draws on the diversity of sexual systems in nature (hermaphr
 
 ## Where Ghiselin stops
 
-The species-as-individuals thesis is widely accepted as a philosophical clarification but its biological consequences are debated. If species are individuals, then the mechanism of individuation — what holds a species together as a cohesive entity — becomes the central question. For sexual species, gene flow and interbreeding provide cohesion. For asexual species, the question is harder: what makes a clonal lineage a species rather than an arbitrary collection of similar organisms? The thesis clarifies the ontology but defers the mechanism, and the problem of asexual species individuation remains open.
-
-The thesis also raises questions about higher taxa. If species are individuals, are genera, families, and orders also individuals? Ghiselin and Hull both answered yes — monophyletic higher taxa are individuals defined by common descent. But the higher taxa are less cohesive than species (no gene flow holds a genus together), and whether the individual concept extends cleanly to these levels is contested. [Kevin de Queiroz](https://en.wikipedia.org/wiki/Kevin_de_Queiroz) and others have developed species concepts that build on the individuality thesis while addressing its unresolved cases.
+The species-as-individuals thesis raises questions about higher taxa. If species are individuals, are genera, families, and orders also individuals? Ghiselin and Hull both answered yes — monophyletic higher taxa are individuals defined by common descent. But the higher taxa are less cohesive than species (no gene flow holds a genus together), and whether the individual concept extends cleanly to these levels is contested. [Kevin de Queiroz](https://en.wikipedia.org/wiki/Kevin_de_Queiroz) and others have developed species concepts that build on the individuality thesis while addressing its unresolved cases.
 
 The individuality thesis is usually motivated by freeing biology from a pre-Darwinian essentialist tradition — the assumption that species have fixed essences. But historians of science — [Mary Winsor](https://en.wikipedia.org/wiki/Mary_Winsor), [John Wilkins](https://en.wikipedia.org/wiki/John_S._Wilkins), and others — have argued that the "essentialism story" is substantially a twentieth-century construction by Mayr, Hull, and [Popper](/positioning/persons/p/popper/), not an accurate account of what pre-Darwinian taxonomists actually believed. If the essentialist tradition the thesis opposes is partly a myth, the contrast that motivates the individuality claim weakens — though the thesis's logical content (species have the structure of individuals, not kinds) stands independently of whether its historical framing is accurate.
-
-The relationship between the individuality thesis and the species concepts used by practising systematists (biological species concept, phylogenetic species concept, ecological species concept) is not fully resolved. The thesis is a claim about what kind of entity a species is; the species concepts are criteria for recognising and delimiting species in practice. Whether the ontological claim constrains the operational criteria — or whether the two are independent — is a question the thesis poses but does not settle.
 
 ---
 

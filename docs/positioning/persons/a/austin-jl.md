@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-07-03
 title: "J. L. Austin (1911–1960)"
-description: "Austin founded speech act theory and led Oxford ordinary-language philosophy — showing that saying is often doing, and that close attention to ordinary words dissolves philosophical tangles."
+description: "J. L. Austin, founder of speech act theory and of Oxford ordinary-language philosophy, who showed that saying is often doing: performatives, illocution."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Austin

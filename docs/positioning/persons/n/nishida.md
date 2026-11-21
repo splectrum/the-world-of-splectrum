@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-19
 title: "Nishida Kitarō (1870–1945)"
-description: "Founder of the Kyoto School — pure experience prior to the subject-object split, the logic of place, absolute nothingness, action-intuition; Zen practice meeting Western philosophy."
+description: "Nishida Kitarō, founder of the Kyoto School: pure experience before the subject-object split, the logic of place, and absolute nothingness."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Nishida

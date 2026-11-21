@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-13
 title: "History of Domain-Specific Languages"
-description: "The lineage of domain-specific languages — from 1950s proto-DSLs and the Unix small-languages tradition through the internal DSL renaissance, the workbench era, and the academic strand."
+description: "The history of domain-specific languages, from 1950s proto-DSLs and Unix small languages to the internal DSL renaissance and today's language workbenches."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [DSL](/positioning/subjects/d/domain-specific-languages/) > History

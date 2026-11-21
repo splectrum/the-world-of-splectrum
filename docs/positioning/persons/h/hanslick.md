@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-24
 title: "Eduard Hanslick (1825–1904)"
-description: "The most powerful music critic of his age and the founder of musical formalism — music's meaning lies in its tonally moving forms, not in the feelings it depicts or arouses."
+description: "Eduard Hanslick, music critic and founder of musical formalism: music's meaning lies in tonally moving forms, not the feelings it depicts or arouses."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Hanslick

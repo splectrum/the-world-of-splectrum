@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The constructive branch"
-description: "Metaphysics taken at face value — the stance that reality has a fundamental structure and the task is to describe it. Aristotle and the rationalists, the analytic revival after positivism, and the substance-against-process dispute over the basic category."
+description: "Constructive metaphysics, describing the fundamental structure of reality: Aristotle and the rationalists, the analytic revival, substance and process."
 lastmod: 2026-06-25
 ---
 

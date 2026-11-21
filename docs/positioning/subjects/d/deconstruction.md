@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-07-03
 title: "Deconstruction"
-description: "Derrida's movement and its afterlife — the critique of the metaphysics of presence, différance and the trace, the speech/writing hierarchy, the great disputes (Searle, Cambridge, the de Man affair), and the later turn to justice and hospitality."
+description: "Derrida's deconstruction: the critique of the metaphysics of presence, différance and the trace, the Searle and de Man disputes, the later ethical turn."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Deconstruction

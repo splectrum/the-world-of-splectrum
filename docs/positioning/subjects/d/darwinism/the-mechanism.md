@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Mechanism"
-description: "How Darwinian selection works — the formal structure of natural selection, sexual selection as a second mechanism, and common misunderstandings of how the process operates."
+description: "How natural selection works: the formal structure of Darwinian selection, sexual selection as a second mechanism, and common misunderstandings of it."
 lastmod: 2026-05-16
 ---
 

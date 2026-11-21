@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Hermeneutics"
-description: "The theory of interpretation and understanding — the hermeneutic circle, the question of method versus truth, and the tradition's central division between hermeneutics as method and hermeneutics as a mode of being."
+description: "Hermeneutics, the theory of interpretation and understanding: the hermeneutic circle, method versus truth, and hermeneutics as method or mode of being."
 lastmod: 2026-06-22
 ---
 

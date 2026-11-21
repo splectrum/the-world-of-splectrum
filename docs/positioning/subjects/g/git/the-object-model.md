@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "The object model"
-description: "Git as a content-addressable store — the four object types (blob, tree, commit, tag), the staging index, and immutability and integrity from naming objects by the hash of their content."
+description: "Git's object model as a content-addressable store: blobs, trees, commits and tags, the staging index, and integrity from hashing, from SHA-1 to SHA-256."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Git](/positioning/subjects/g/git/) > The object model

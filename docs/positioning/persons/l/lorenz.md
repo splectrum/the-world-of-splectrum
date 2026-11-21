@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Edward Lorenz (1917–2008)"
-description: "American mathematician and meteorologist — deterministic chaos, sensitive dependence on initial conditions, the Lorenz attractor. The discovery that simple deterministic systems can produce behaviour indistinguishable from randomness."
+description: "American mathematician and meteorologist who discovered deterministic chaos: sensitive dependence on initial conditions and the Lorenz attractor."
 lastmod: 2026-05-25
 ---
 
@@ -45,7 +45,7 @@ The 1963 paper was published in a meteorology journal and went largely unnoticed
 
 ## Where Lorenz stops
 
-Lorenz's discovery is about deterministic systems — systems whose rules are fixed and whose behaviour, though unpredictable, is fully determined by initial conditions. The agents in the system do not learn, adjust, or change their rules. Chaos shows that simple rules can produce complex behaviour; it does not show how complex behaviour can produce new rules. The step from chaos to adaptation — from sensitivity to learning — is the step that CAS takes and that Lorenz's framework does not.
+Lorenz's discovery is about deterministic systems — systems whose rules are fixed and whose behaviour, though unpredictable, is fully determined by initial conditions.
 
 ---
 

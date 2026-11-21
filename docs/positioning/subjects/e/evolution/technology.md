@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-05
 title: "Technology"
-description: "Evolution applied to technology — at the scale of artefacts, Basalla's descent of artefacts, the Ziman volume, Mokyr's limit and Arthur's combinatorial evolution; at the scale of civilisation, Mumford's technics and megamachine, Ellul's autonomous technique, Gille's technical systems, Kelly's technium and Haff's technosphere."
+description: "Technological evolution, from artefacts in Basalla, Mokyr and Arthur to technology as a whole in Mumford's megamachine, Ellul, Kelly's technium and Haff."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Evolution](/positioning/subjects/e/evolution/) > Technology

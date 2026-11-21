@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "Martin Kleppmann"
-description: "Computer scientist at the University of Cambridge — author of Designing Data-Intensive Applications and a founder of the local-first software movement, working on CRDTs and collaboration software."
+description: "Cambridge computer scientist, author of Designing Data-Intensive Applications and a founder of local-first software, working on CRDTs and Automerge."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Kleppmann

@@ -49,8 +49,6 @@ The structuralist position connects to broader philosophical debates. In the phi
 
 The foundational question — can category theory serve as the foundation of mathematics, replacing set theory? — was one Mac Lane engaged with but did not resolve. He was sympathetic to the categorical alternative but cautious about claiming it had succeeded. [Lawvere](/positioning/persons/l/lawvere/)'s categorical foundations and the topos-theoretic programme provide a genuine alternative to set-theoretic foundations for much of mathematics, but the set-theoretic tradition remains dominant in practice, and the foundational debate is not settled. Mac Lane's own position was pragmatic: category theory is the right language for much of mathematics, and the foundational question, while interesting, is less important than the mathematical work the language enables.
 
-Mac Lane's structuralism — the claim that mathematics studies patterns of relationship — is widely shared but philosophically contested. The question of what makes mathematical structures real (if they are not collections of objects with intrinsic properties) is the central problem for mathematical structuralism. Mac Lane's answer — that the practice of mathematics constitutes the structures — is appealing but raises questions about mathematical realism that he did not fully address. Whether structures exist independently of mathematical practice, or whether they are constituted by it, is a question Mac Lane's philosophical work identifies but does not settle.
-
 ---
 
 ## Key works

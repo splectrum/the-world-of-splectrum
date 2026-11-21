@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-27
 title: "Friedrich Hayek (1899–1992)"
-description: "Austrian-British economist and political philosopher — the knowledge problem, spontaneous order, the critique of central planning, the extended order of civilisation."
+description: "Austrian-British economist and political philosopher: the knowledge problem, the price mechanism, spontaneous order, and the critique of central planning."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Hayek
@@ -55,7 +55,7 @@ The rules that generate spontaneous order are abstract and general — they spec
 
 ## Where Hayek stops
 
-The knowledge problem is Hayek's strongest argument, and it works best where the price mechanism works best — in the allocation of rival, excludable goods through voluntary exchange. Critics have pressed on the boundaries. Market failures — externalities (pollution costs borne by third parties), public goods (national defence, basic research), asymmetric information (the seller knows the car is a lemon) — are cases where the price mechanism fails to aggregate knowledge effectively, and where some form of collective action or institutional design is needed. Hayek acknowledged these cases but did not develop a systematic account of where the knowledge problem binds and where it does not. The question of the market/non-market boundary is left largely to case-by-case judgment.
+The knowledge problem is Hayek's strongest argument, and it works best where the price mechanism works best — in the allocation of rival, excludable goods through voluntary exchange. Critics have pressed on the boundaries. Market failures — externalities (pollution costs borne by third parties), public goods (national defence, basic research), asymmetric information (the seller knows the car is a lemon) — are cases where the price mechanism fails to aggregate knowledge effectively, and where some form of collective action or institutional design is needed.
 
 The normative status of spontaneous order is contested. Hayek moves between a descriptive claim (complex orders do emerge spontaneously and cannot be redesigned from first principles) and a normative claim (therefore we should not interfere with them). The gap between "this order emerged" and "this order is good" has been pressed by critics across the political spectrum. [Amartya Sen](https://en.wikipedia.org/wiki/Amartya_Sen) argued that spontaneous orders can embody systematic injustice — that evolved institutions can stabilise arrangements that are efficient in a narrow sense while denying capabilities to large parts of the population. The fact that an order evolved does not settle whether it is worth preserving.
 

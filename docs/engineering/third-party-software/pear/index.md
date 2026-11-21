@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-11-08
 title: "Pear"
-description: "Pear is Holepunch's P2P runtime and deployment platform. Since Pear v3 (July 2026) the runtime is the embeddable pear-runtime library (Pear OTA) and the pear CLI does deployment and installation."
+description: "Pear, Holepunch's P2P runtime and deployment platform: since Pear v3 the runtime is the embeddable pear-runtime library and the CLI deploys."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [Third Party Software](/engineering/third-party-software/) > Pear

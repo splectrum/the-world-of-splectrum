@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-28
 title: "Psychoanalysis"
-description: "The tradition founded by Freud — a theory of the unconscious, a clinical method, and a family of schools that split and developed across a century, with an afterlife in the humanities larger than its standing in clinical science."
+description: "Psychoanalysis, the tradition founded by Freud: a theory of the unconscious, a clinical method, the schools that split from it, and its standing today."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Psychoanalysis

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "F. William Lawvere (1937–2023)"
-description: "American mathematician — categorical foundations of mathematics, the elementary theory of the category of sets, elementary topos theory, categorical logic, the conceptual mathematics programme."
+description: "American mathematician of categorical foundations: the elementary theory of the category of sets, elementary topos theory, and conceptual mathematics."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Lawvere

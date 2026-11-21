@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-29
 title: "Richard R. Nelson (1930–2025)"
-description: "American economist — the economics of basic research, An Evolutionary Theory of Economic Change with Sidney Winter, routines, search and selection, national innovation systems, physical and social technologies, and a broad rather than narrow universal Darwinism."
+description: "American economist: An Evolutionary Theory of Economic Change with Sidney Winter, routines, search and selection, and national innovation systems."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Nelson

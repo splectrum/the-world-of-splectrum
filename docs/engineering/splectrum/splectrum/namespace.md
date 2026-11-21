@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-03
 title: "Namespace"
-description: "The SPLectrum naming system: identifier grammar, how one identifier carries multiple dimensions, the namespace backbone, identifier mapping, and versioning."
+description: "How the SPLectrum framework names things: the identifier grammar, dimensions realised by reader schemas, the backbone, identifier mapping, versioning."
 sitemap: false
 ---
 

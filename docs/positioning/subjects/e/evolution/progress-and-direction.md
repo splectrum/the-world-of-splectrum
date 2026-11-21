@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-05
 title: "Progress and Direction"
-description: "Whether evolution goes anywhere — Spencer's law of progress, Darwin's own text on both sides, the twentieth-century argument from Julian Huxley to Gould and Ruse and the Richards–Lewontin exchange, Nisbet on the growth metaphor, and recurrence as the pole the arrow is defined against."
+description: "Whether evolution has a direction: Spencer's law of progress, Darwin on both sides, the debate from Julian Huxley to Gould and Ruse, and recurrence."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Evolution](/positioning/subjects/e/evolution/) > Progress and direction

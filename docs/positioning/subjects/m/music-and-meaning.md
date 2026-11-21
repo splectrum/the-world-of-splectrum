@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-24
 title: "Music and meaning"
-description: "Music as the hardest case for any theory of meaning — the long argument over what, if anything, music means: Hanslick's formalism, the expression and emotion theories, Langer's symbol, Schopenhauer's metaphysics, and the absolute-versus-programme debate."
+description: "What, if anything, music means: Hanslick's formalism, the expression and emotion theories, Langer's symbol, Schopenhauer, and absolute versus programme."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Music and meaning

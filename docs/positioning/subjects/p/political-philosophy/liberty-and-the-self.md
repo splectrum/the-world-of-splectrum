@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Liberty and the self"
-description: "The three concepts of freedom — negative non-interference, positive self-mastery, republican non-domination — and the liberal–communitarian debate over whether the self politics is built for is prior to its attachments or constituted by them."
+description: "Negative, positive and republican liberty, and the liberal–communitarian debate over whether the self is prior to its attachments or constituted by them."
 lastmod: 2026-06-27
 ---
 

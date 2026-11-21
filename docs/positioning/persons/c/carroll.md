@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-27
 title: "Sean Carroll (1966–)"
-description: "American theoretical physicist — the arrow of time, the cosmological implications of the Past Hypothesis, the many-worlds interpretation, the philosophy of physics."
+description: "American physicist Sean Carroll: the arrow of time, the Past Hypothesis as a cosmological problem, the many-worlds interpretation, philosophy of physics."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Carroll

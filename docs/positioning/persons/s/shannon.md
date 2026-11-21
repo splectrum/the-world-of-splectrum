@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "Claude Shannon (1916–2001)"
-description: "American mathematician and engineer — information theory, the bit, channel capacity, the mathematical theory of communication, and the demonstration that information and entropy share the same form."
+description: "Claude Shannon, founder of information theory: the bit, channel capacity, the mathematical theory of communication, and its shared form with entropy."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Shannon

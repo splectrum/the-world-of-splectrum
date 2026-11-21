@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Per Bak (1948–2002)"
-description: "Danish physicist — self-organized criticality, power-law dynamics, the sand-pile model. The idea that many natural systems are driven toward critical states where cascades of any size can occur."
+description: "Danish physicist of self-organized criticality and the sand-pile model: systems driven to critical states where cascades of any size occur."
 lastmod: 2026-05-25
 ---
 

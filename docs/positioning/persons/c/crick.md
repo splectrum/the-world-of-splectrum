@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "Francis Crick (1916–2004)"
-description: "British molecular biologist, neuroscientist — the structure of DNA (with Watson), the central dogma, the genetic code, the frozen-accident hypothesis, the neural correlates of consciousness."
+description: "British molecular biologist Francis Crick: the DNA double helix with Watson, the central dogma, the genetic code, neural correlates of consciousness."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Crick

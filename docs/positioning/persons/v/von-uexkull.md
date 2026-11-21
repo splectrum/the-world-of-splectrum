@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-24
 title: "Jakob von Uexküll (1864–1944)"
-description: "Uexküll's Umwelt: each organism inhabits its own subjective world, built only from what carries meaning for it. The biologist whose work seeded biosemiotics."
+description: "Jakob von Uexküll's Umwelt, the subjective world each organism builds from what carries meaning for it, his political writings, and biosemiotics."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > von Uexküll

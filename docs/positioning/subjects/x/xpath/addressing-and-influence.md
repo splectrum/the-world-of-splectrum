@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "Addressing and influence"
-description: "How XPath composes with URIs to address into a resource (XPointer), its growth into a query language with XQuery, and the spread of the path-expression idea to CSS selectors and JSONPath."
+description: "How XPath addresses into a resource through XPointer, grew into a query language with XQuery, and passed the path idea to CSS selectors and JSONPath."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [XPath](/positioning/subjects/x/xpath/) > Addressing and influence

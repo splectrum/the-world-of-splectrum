@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-12
 title: "F. H. Bradley (1846–1924)"
-description: "British philosopher — absolute idealism, Appearance and Reality, the critique of relations, the unreality of relational thought, British idealism's culmination."
+description: "British philosopher F. H. Bradley: absolute idealism, Appearance and Reality, the critique of relations, and the culmination of British idealism."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Bradley

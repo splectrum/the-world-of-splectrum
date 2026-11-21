@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-13
 title: "What is a language?"
-description: "SPLectrum's structural definition of language — a bounded set of concepts and the relations among them. The dynamic view of a substance whose static companion is vocabulary."
+description: "SPLectrum's structural definition of a language: a bounded set of concepts and the relations among them, the dynamic view of what vocabulary shows at rest."
 ---
 
 [Home](/) > [Language](/language/) > [Concepts](/language/concepts/) > What is a language?

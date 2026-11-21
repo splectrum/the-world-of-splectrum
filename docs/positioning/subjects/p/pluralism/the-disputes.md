@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Pluralism and its disputes"
-description: "The fights pluralism lives in, whichever dimension raises them: the boundary with relativism, the self-refutation charge, the anything-goes problem, and how many true accounts one world can bear."
+description: "The disputes pluralism lives in: the boundary with relativism, the self-refutation charge, anything goes, and how many true accounts one world can bear."
 lastmod: 2026-07-14
 ---
 

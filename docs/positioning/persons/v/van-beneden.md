@@ -45,7 +45,7 @@ Van Beneden's paleontological work centred on fossil cetaceans, undertaken with 
 
 ## Where van Beneden stops
 
-Van Beneden's categories are descriptive — a working zoologist's account of how animals live together, with terms named to make the gradient of relations describable. He does not pursue questions of evolutionary mechanism; [Darwin](/positioning/persons/d/darwin/)'s *Origin of Species* is sixteen years old by the time the book appears, but van Beneden is not in that conversation. The political and economic uses of *mutualism* — [Proudhon](/positioning/persons/p/proudhon/) from the 1840s, Kropotkin in 1902 — run parallel to his biological use and are not developments out of his work. His programme is observational taxonomy, not theory.
+Van Beneden's categories are descriptive — a working zoologist's account of how animals live together, with terms named to make the gradient of relations describable. The political and economic uses of *mutualism* — [Proudhon](/positioning/persons/p/proudhon/) from the 1840s, Kropotkin in 1902 — run parallel to his biological use and are not developments out of his work. His programme is observational taxonomy, not theory.
 
 ---
 

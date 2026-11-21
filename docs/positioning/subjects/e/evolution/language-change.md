@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-05
 title: "Language Change"
-description: "Evolution in historical linguistics — the comparative method and the family tree before Darwin, Schleicher's organisms and the exchange with Darwin, Whitney's institutions, the neogrammarians' sound laws and Schmidt's waves, Saussure's two axes, and the modern field's own answers to whether languages evolve in the Darwinian sense."
+description: "Language change in historical linguistics: the comparative method, Schleicher and Darwin, the neogrammarians, Saussure, and whether languages evolve."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Evolution](/positioning/subjects/e/evolution/) > Language change

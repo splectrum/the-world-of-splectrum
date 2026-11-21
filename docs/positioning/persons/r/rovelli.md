@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-19
 title: "Carlo Rovelli (1956–)"
-description: "Rovelli built relational quantum mechanics — properties exist only through interaction, no absolute state, no privileged observer — and has carried the relational move into entropy, time, meaning and, most recently, an antifoundationalism drawn from the Zhuangzi."
+description: "Carlo Rovelli's relational quantum mechanics: properties exist only in interaction, no absolute state, carried into time, entropy and meaning."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Rovelli

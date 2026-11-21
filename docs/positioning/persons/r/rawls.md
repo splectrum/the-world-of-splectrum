@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-19
 title: "John Rawls (1921–2002)"
-description: "American political philosopher — A Theory of Justice, the original position, the veil of ignorance, justice as fairness, political liberalism, the difference principle."
+description: "John Rawls's A Theory of Justice: justice as fairness, the original position and the veil of ignorance, the difference principle, and political liberalism."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Rawls

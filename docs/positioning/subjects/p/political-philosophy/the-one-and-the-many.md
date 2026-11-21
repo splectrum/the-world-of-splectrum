@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The one and the many"
-description: "How diverse communities coexist under shared political arrangements: toleration and its paradoxes, multiculturalism and recognition, modus vivendi against overlapping consensus, agonistic pluralism, the political payoff of value-pluralism, and the cosmopolitan and bounded claims that pull against each other."
+description: "How diverse communities coexist: toleration, multiculturalism and recognition, modus vivendi versus overlapping consensus, agonism and cosmopolitanism."
 lastmod: 2026-06-27
 ---
 

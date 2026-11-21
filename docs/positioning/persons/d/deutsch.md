@@ -47,11 +47,9 @@ The field Deutsch launched has since produced [Shor](https://en.wikipedia.org/wi
 
 ## Where Deutsch stops
 
-The many-worlds argument from quantum computation has been challenged. [Adrian Kent](https://en.wikipedia.org/wiki/Adrian_Kent), [Tim Maudlin](https://en.wikipedia.org/wiki/Tim_Maudlin), and others have argued that quantum computation does not require many-worlds — that the computational speedup can be explained within other interpretive frameworks (including Bohmian mechanics and information-theoretic approaches) without invoking parallel branches. Whether quantum computation constitutes evidence for many-worlds or is merely compatible with it is debated in the foundations community. Deutsch's claim is stronger than the physics strictly supports: the computation works regardless of which interpretation is correct.
+The many-worlds argument from quantum computation has been challenged. [Adrian Kent](https://en.wikipedia.org/wiki/Adrian_Kent), [Tim Maudlin](https://en.wikipedia.org/wiki/Tim_Maudlin), and others have argued that quantum computation does not require many-worlds — that the computational speedup can be explained within other interpretive frameworks (including Bohmian mechanics and information-theoretic approaches) without invoking parallel branches. Whether quantum computation constitutes evidence for many-worlds or is merely compatible with it is debated in the foundations community. On the critics' reading, Deutsch's claim is stronger than the physics strictly supports: the computation works regardless of which interpretation is correct.
 
 The probability problem — what "probability" means in many-worlds, where all outcomes occur with certainty — affects Deutsch's programme directly. Deutsch (with [David Wallace](https://en.wikipedia.org/wiki/David_Wallace_(philosopher))) has proposed a decision-theoretic derivation of the Born rule: a rational agent in a many-worlds universe should make decisions as if the Born probabilities are real. [David Albert](/positioning/persons/a/albert/) and others have challenged the derivation. The debate is ongoing.
-
-Constructor theory is ambitious but early-stage. The framework has produced results in quantum information theory (constructor-theoretic information, the interoperability principle) but has not yet demonstrated the breadth of application that would establish it as a genuine alternative to the standard formulation of physics. Whether it matures into a foundational framework or remains a niche programme depends on future development.
 
 ---
 

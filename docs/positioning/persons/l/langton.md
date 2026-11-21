@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Christopher Langton (1948–)"
-description: "American computer scientist — artificial life, the edge of chaos, and the SFI workshops that established the study of life-as-it-could-be as a research programme."
+description: "American computer scientist who founded artificial life: the edge of chaos, Langton's loops, and the study of life-as-it-could-be as a research programme."
 lastmod: 2026-05-25
 ---
 

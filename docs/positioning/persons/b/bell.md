@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "John Bell (1928–1990)"
-description: "Irish physicist — Bell's theorem, Bell inequalities, the foundations of quantum mechanics, the impossibility of local hidden variables, the measurement problem."
+description: "Irish physicist John Bell: Bell's theorem and Bell inequalities, no local hidden variables, the foundations of quantum mechanics, measurement."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Bell

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-06
 title: "Mycelium Protocol"
-description: "Protocol is the meaning layer for fabric operations: it gives generic operators like get and put their specific meaning through the context they operate within."
+description: "The mycelium protocol as the fabric's meaning layer: generic operators such as get and put take their meaning from the protocol context they run in."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [SPL Platform](/engineering/spl/platform/) > [SPLectrum](/engineering/spl/platform/splectrum/) > Protocol

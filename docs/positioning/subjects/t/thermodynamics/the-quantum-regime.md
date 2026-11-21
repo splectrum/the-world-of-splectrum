@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-14
 title: "The Quantum Regime"
-description: "What thermodynamics becomes when coherence and entanglement are thermodynamic resources: a family of second laws rather than one, erasure with negative cost, thermalisation in closed systems, and an unresolved question about what work even means."
+description: "Quantum thermodynamics, with coherence and entanglement as resources: a family of second laws, negative-cost erasure, thermalisation, and what work means."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Thermodynamics](/positioning/subjects/t/thermodynamics/) > The quantum regime

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-16
 title: "Emergence"
-description: "Groups the resources that address the emergence question directly — what the definitions say, how they differ, and where each is at home. The types catalogue is the bundle's spine."
+description: "Emergence as a subject: what the definitions of emergence say, how they differ and where each is at home, built around a catalogue of its named types."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Emergence

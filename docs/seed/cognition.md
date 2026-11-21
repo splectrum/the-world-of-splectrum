@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-08-12
 title: "The seed and Cognition"
-description: "Cognition — the process within P2: always already running, no separation between being in language, experiencing reality, and making sense of it. Primed by belonging; while it runs, reality is disclosed."
+description: "Cognition as the process within P2 of the SPLectrum seed: always running, no separation between being in language, experiencing reality and making sense."
 ---
 
 [Home](/) > [The SPLectrum Seed](/seed/) > The seed and Cognition

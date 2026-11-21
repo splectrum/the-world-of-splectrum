@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-29
 title: "Peter Godfrey-Smith (1965–)"
-description: "Australian philosopher of biology — Darwinian populations and the space of paradigm and marginal cases, the reproducer taxonomy against the replicator, the environmental complexity thesis, and the octopus as the other evolution of mind."
+description: "Australian philosopher of biology: Darwinian populations, reproducers rather than replicators, the environmental complexity thesis, and the octopus mind."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Godfrey-Smith
@@ -31,9 +31,7 @@ Godfrey-Smith turned the question "does this evolve by natural selection?" from 
 
 ## Where Godfrey-Smith stops
 
-The space of Darwinian populations is scoped to populations whose members reproduce, and its parameters measure the shape of that reproduction. What falls outside that scope, the framework does not address, and it does not say what to call a case that scores low on every axis.
-
-The gradient also leaves the borders as open as it found them. To say that culture is marginal is to place it, not to settle whether marginal cases are evolution in a weaker sense or something else that shares a family resemblance, and the dual-inheritance theorists he engages have taken the same placement as a reason to keep modelling. The framework tells you where a case lies; what to call it there is a further decision it does not force.
+The space of Darwinian populations leaves the borders as open as it found them. To say that culture is marginal is to place it, not to settle whether marginal cases are evolution in a weaker sense or something else that shares a family resemblance, and the dual-inheritance theorists he engages have taken the same placement as a reason to keep modelling. The framework tells you where a case lies; what to call it there is a further decision it does not force.
 
 ---
 

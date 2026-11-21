@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-26
 title: "Deep Time and Evolution"
-description: "History's starting line pushed back — deep and big history — and the contested line over cultural evolution, from Tylor, Morgan and Spencer through Boas's rejection and the neo-evolutionists to the population models of Boyd, Richerson and Henrich and their critics."
+description: "Deep time and big history, and the dispute over cultural evolution, from Tylor and Spencer through Boas to the population models of Boyd and Richerson."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Philosophy of history](/positioning/subjects/p/philosophy-of-history/) > Deep time and evolution

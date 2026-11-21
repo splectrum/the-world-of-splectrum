@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-05
 title: "Evolutionary Computation"
-description: "Evolution as a method of computing — Turing's child machine, the early simulations, evolutionary programming, evolution strategies, Holland's genetic algorithms and genetic programming: the word applied to a process designed to have every ingredient of the Darwinian recipe."
+description: "Evolutionary computation, from Turing's child machine to evolutionary programming, evolution strategies, Holland's genetic algorithms, genetic programming."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Evolution](/positioning/subjects/e/evolution/) > Evolutionary computation

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-11
 title: "Friedrich Schiller (1759–1805)"
-description: "Schiller argued that aesthetic education is the precondition for moral and political freedom — the play drive reconciling sense and form into genuine human wholeness."
+description: "Friedrich Schiller's aesthetic education as the precondition of moral and political freedom: the play drive reconciling sense and form."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Schiller

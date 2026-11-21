@@ -39,7 +39,7 @@ Proudhon's writing on women, gathered most pointedly in the posthumous *La Porno
 
 ## Where the programme stops
 
-Mutualism, as Proudhon developed it, kept close to the artisanal economy and did not extend its analysis into the industrial scale that came to dominate the second half of the century — a gap Marx attacked directly, and that later anarchist communism, in Kropotkin's hands, would attempt to fill. Federalism set out the principle of distributed sovereignty but left the mechanisms for resolving conflicts *between* federated bodies sketchy. And the formal equality between contractual partners on which the whole system rests was not extended in his work to the position of women within the household, nor to the unequal starting positions of those entering contract — tensions that run through nineteenth-century contractualism more broadly.
+Mutualism, as Proudhon developed it, kept close to the artisanal economy and did not extend its analysis into the industrial scale that came to dominate the second half of the century — a gap Marx attacked directly, and that later anarchist communism, in Kropotkin's hands, would attempt to fill. And the formal equality between contractual partners on which the whole system rests was not extended in his work to the position of women within the household, nor to the unequal starting positions of those entering contract — tensions that run through nineteenth-century contractualism more broadly.
 
 ## Legacy
 

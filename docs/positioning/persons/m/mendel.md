@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-26
 title: "Gregor Mendel (1822–1884)"
-description: "Augustinian friar and naturalist — the laws of inheritance, the pea plant experiments, discrete hereditary factors, dominance and recessiveness, and the thirty-four-year gap between publication and recognition."
+description: "Gregor Mendel, friar and naturalist: the laws of inheritance from the pea experiments, their neglect and rediscovery, and the too-good-data question."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Mendel

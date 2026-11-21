@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-05
 title: "Cultural Evolution"
-description: "Evolution applied to culture — dual inheritance and its transmission biases, memetics and why it did not establish itself, Sperber's cultural attraction, cultural group selection and its critics, and where the Darwinian criterion places culture."
+description: "Cultural evolution: dual inheritance and transmission biases, why memetics faltered, Sperber's cultural attraction, and cultural group selection's critics."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Evolution](/positioning/subjects/e/evolution/) > Cultural evolution

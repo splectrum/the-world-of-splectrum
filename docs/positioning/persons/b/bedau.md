@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-09
 title: "Mark Bedau (1953–)"
-description: "American philosopher — weak emergence: macro-behaviour derivable from the micro-dynamics but only by simulation; the philosophy of artificial life; protocells and living technology."
+description: "American philosopher of weak emergence, macro-behaviour derivable from micro-dynamics only by simulation, and of artificial life and protocells."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Bedau

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-23
 title: "Aesthetics"
-description: "The close-affinity aesthetics surface: SPLectrum holds the dynamics of meaning core, and from that centre points outward to where the same generative motion turns up across philosophy — the philosophy of art, hermeneutics and rasa, dialogism and pragmatism, semiotics, and the arts."
+description: "SPLectrum holds aesthetics, the dynamics of meaning, as a core pillar and traces that motion across philosophy, from the philosophy of art to the arts."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Close affinity](/positioning/close-affinity/) > Aesthetics

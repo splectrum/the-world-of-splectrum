@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "William Bateson (1861–1926)"
-description: "British biologist — coined 'genetics', Mendel's champion in England, the Mendelian-biometrician debate, discontinuous variation, Materials for the Study of Variation."
+description: "William Bateson, British biologist who coined 'genetics' and championed Mendel in England: the Mendelian-biometrician debate and discontinuous variation."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Bateson (William)

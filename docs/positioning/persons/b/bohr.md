@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "Niels Bohr (1885–1962)"
-description: "Danish physicist — the Bohr model of the atom, complementarity, the Copenhagen interpretation, the atomic-bomb project, and the philosophical implications of quantum mechanics."
+description: "Danish physicist Niels Bohr: the Bohr model of the atom, complementarity, the Copenhagen interpretation, and what quantum mechanics means for philosophy."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Bohr

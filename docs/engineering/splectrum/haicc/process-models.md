@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-03
 title: "Process Models — Decentralised Evolutionary"
-description: "HAICC's decentralised evolutionary process model: scan, diversify, evolve waves triggered by data state changes, with no orchestration — inspired by neuroscience."
+description: "The decentralised evolutionary process model in HAICC: scan, diversification and evolution woken by data state changes, never orchestrated."
 sitemap: false
 ---
 

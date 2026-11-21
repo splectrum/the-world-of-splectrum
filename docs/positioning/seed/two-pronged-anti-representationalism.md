@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-12
 title: "Two-Pronged Anti-Representationalism"
-description: "Two language games reject representationalism, each in their own way — Whitehead from the side of being, Rorty from the side of language. From SPLectrum's vantage, the two are two halves of what P0 names."
+description: "Two rejections of representationalism, Whitehead from the side of being and Rorty from the side of language, read by SPLectrum as two halves of P0."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Seed](/positioning/seed/) > Two-Pronged Anti-Representationalism

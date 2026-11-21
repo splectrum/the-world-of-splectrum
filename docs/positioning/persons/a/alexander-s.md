@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-30
 title: "Samuel Alexander (1859–1938)"
-description: "Australian-born British philosopher — Space, Time and Deity, space-time as the stuff of the world, emergent qualities in levels from matter through life and mind to deity, natural piety toward the emergent, and the principal of emergent evolution."
+description: "British philosopher of Space, Time and Deity: space-time as the stuff of the world, emergent levels from matter to mind and deity, emergent evolution."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Alexander (S.)

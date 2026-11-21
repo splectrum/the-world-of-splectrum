@@ -57,7 +57,7 @@ Collingwood made expression the foundation of conscious life. Art is not imitati
 
 The expression theory illuminates the phenomenology of artistic creation — why artists report not knowing what they are making until the work reveals it, why technique alone does not produce art, why the same form can be art or entertainment depending on the process that generated it. Corrupt consciousness gives an account of cultural pathology that connects [aesthetics](/positioning/subjects/a/aesthetics-in-philosophy/), ethics, and politics without reducing one to another.
 
-But Collingwood concedes the medium is practically necessary while maintaining it is theoretically dispensable. Whether that concession reveals something the theory cannot accommodate remains an open question. And the mechanism of expression remains individual consciousness raising its own feelings to clarity — the social dimension is added to the account rather than built into it.
+But Book I concedes the medium is practically necessary while maintaining it is theoretically dispensable, the reading Wollheim pressed. Whether Book III's insistence on the medium fully answers that concession remains an open question.
 
 ---
 

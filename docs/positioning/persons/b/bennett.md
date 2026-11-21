@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-27
 title: "Charles Bennett (1943–)"
-description: "American physicist — reversible computation, the resolution of Maxwell's demon, quantum teleportation, quantum key distribution, logical depth, the thermodynamics of information."
+description: "American physicist Charles Bennett: reversible computation, Maxwell's demon resolved, quantum teleportation and cryptography, logical depth."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Bennett

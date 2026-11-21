@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Common Descent"
-description: "The historical kinship thesis — all living things share common ancestry. The tree of life, the evidence base from comparative anatomy to molecular phylogenetics, and the contemporary refinements to the classical tree picture."
+description: "Common descent, the thesis that all living things share ancestry: the tree of life, the evidence from anatomy to molecular phylogenetics, and refinements."
 lastmod: 2026-05-26
 ---
 

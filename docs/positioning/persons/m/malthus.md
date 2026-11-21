@@ -55,7 +55,7 @@ Later nineteenth- and twentieth-century "Malthusian" and "neo-Malthusian" moveme
 
 ## Where Malthus stops
 
-Malthus described a binding constraint — population pressing against subsistence — and a set of checks that hold it in place. His framework is demographic and economic; how subsistence constraints shape social organisation, cultural form, or the structure of knowledge is not his question. The mechanism he identified was taken up by Darwin and Wallace as the engine of natural selection — an extension Malthus did not make and that operates in a different register from his own. And the determinism of the 1798 Essay, which he himself revised away from, has proved more durable in popular reception than the moral restraint he introduced to soften it.
+Malthus described a binding constraint — population pressing against subsistence — and a set of checks that hold it in place. The mechanism he identified was taken up by Darwin and Wallace as the engine of natural selection — an extension Malthus did not make and that operates in a different register from his own. And the determinism of the 1798 Essay, which he himself revised away from, has proved more durable in popular reception than the moral restraint he introduced to soften it.
 
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "Linus Torvalds (1969–)"
-description: "Finnish-American software engineer — creator of the Linux kernel and of Git, two foundational pieces of open-source infrastructure, and the long-time coordinator of Linux development."
+description: "Linus Torvalds, Finnish-American software engineer: creator of the Linux kernel and of Git, and long-time coordinator of Linux kernel development."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Torvalds

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-26
 title: "The Critical Tradition"
-description: "What kind of knowledge history is — Nietzsche on history for life, Dilthey's understanding and historicity, Heidegger and Gadamer, Collingwood's re-enactment, Hempel's covering laws against Dray, Danto, and narrativism from White and Mink to Ankersmit and Ricoeur."
+description: "The critical philosophy of history, on what kind of knowledge history is: Dilthey, Collingwood, Hempel against Dray, and narrativism from White to Ricoeur."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Philosophy of history](/positioning/subjects/p/philosophy-of-history/) > The critical tradition

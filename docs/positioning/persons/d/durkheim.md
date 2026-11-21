@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-09
 title: "Émile Durkheim (1858–1917)"
-description: "French sociologist — the discipline's founder: social facts sui generis, exterior and constraining; anomie; collective representations and effervescence; society as a reality irreducible to its members."
+description: "French sociologist and founder of the discipline: social facts as exterior and constraining, anomie, collective representations, society sui generis."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Durkheim
@@ -35,7 +35,7 @@ Born 15 April 1858 in Épinal, Lorraine, into a family of rabbis — a lineage h
 
 ## Where Durkheim stops
 
-The programme explains the social by the social, and its boundary is the join it declines to theorise: *how* individual association generates the sui generis level — the mechanism between interacting consciousnesses and the emergent fact — is asserted by analogy (the bronze, the compound) rather than supplied. Durkheim acknowledged the join's difficulty and worked it late (effervescence is his nearest approach to a mechanism); what he did not do is give the micro-to-macro account his own ontology presupposes, and the discipline he founded has been supplying candidates ever since. The constraint face of social facts also drew its permanent question — how the constrained ever change what constrains them — the structure-and-agency problem, named after him and left to his heirs.
+The programme explains the social by the social, and the constraint face of social facts drew its permanent question — how the constrained ever change what constrains them — the structure-and-agency problem, left to his heirs.
 
 ---
 

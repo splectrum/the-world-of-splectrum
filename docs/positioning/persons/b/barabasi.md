@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Albert-László Barabási (1967–)"
-description: "Hungarian-American physicist — scale-free networks, preferential attachment, network science as a discipline, and the discovery that many real-world networks share a common topology."
+description: "Hungarian-American physicist of scale-free networks and preferential attachment, who found that many real-world networks share a common topology of hubs."
 lastmod: 2026-05-25
 ---
 

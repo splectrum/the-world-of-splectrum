@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-07-19
 title: "The Social Construction of Reality"
-description: "The position that the everyday world is a human product held in place by shared practice — Berger and Luckmann's externalisation–objectivation–internalisation dialectic, its sociology-of-knowledge and phenomenological lineage, Searle's institutional facts, and the realism disputes it lives in."
+description: "The social construction of reality: Berger and Luckmann's dialectic of externalisation, objectivation and internalisation, Searle, and the realism debates."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > The Social Construction of Reality

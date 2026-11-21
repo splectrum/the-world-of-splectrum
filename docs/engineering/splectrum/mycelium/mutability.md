@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-03
 title: "Mycelium Mutability"
-description: "The interrogative mutability protocol reads the stability regime of fabric content — immutable, mutable, or dirty — declared and discovered through context metadata."
+description: "The mycelium mutability protocol reads whether fabric content is immutable, mutable or dirty, a regime declared and discovered through context metadata."
 sitemap: false
 ---
 

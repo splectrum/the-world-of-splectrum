@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-03
 title: "Wider landscape"
-description: "Positioning pieces at greater distance from SPLectrum but worth situating — adjacent frameworks, shared concerns and parallel explorations in the broader landscape."
+description: "Positioning pieces at a greater distance from SPLectrum but worth situating: adjacent frameworks, shared concerns and parallel explorations."
 ---
 
 [Home](/) > [Positioning](/positioning/) > Wider landscape

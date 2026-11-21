@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Beyond the Western frame"
-description: "Why the five-stance map is one inheritance's structure and not the structure of metaphysics as such. Classical Indian philosophy as another tree with its own internal disputes, and Nagarjuna's Madhyamaka as its sharpest counter-case."
+description: "Metaphysics beyond the Western frame: classical Indian philosophy as another tree with its own disputes, and Nagarjuna's Madhyamaka as counter-case."
 lastmod: 2026-06-25
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "Jay Kreps"
-description: "American software engineer — co-creator of Apache Kafka, author of the 'The Log' essay, and co-founder and CEO of Confluent, the company built around Kafka."
+description: "American software engineer: co-creator of Apache Kafka, author of the essay 'The Log', and co-founder and CEO of Confluent, the company built around Kafka."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Kreps

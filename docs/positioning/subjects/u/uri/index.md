@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "Uniform Resource Identifier (URI)"
-description: "A URI is a string that identifies a resource — page, file, mailbox, book, or concept — in one uniform syntax; the addressing layer beneath the Web, with URLs and URNs as its two faces."
+description: "The Uniform Resource Identifier (URI): one syntax for identifying any resource, the addressing layer beneath the Web, with URLs and URNs as its two faces."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Uniform Resource Identifier (URI)

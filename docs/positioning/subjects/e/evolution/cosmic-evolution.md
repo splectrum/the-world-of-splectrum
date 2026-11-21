@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-05
 title: "Cosmic Evolution"
-description: "Evolution as the history of the whole universe — Shapley's course, Jantsch's self-organising universe, Chaisson's cosmic evolution and its widened selection, big history's thresholds, and Smolin's cosmological natural selection, the full Darwinian mechanism carried into cosmology."
+description: "Cosmic evolution as the history of the universe: Shapley, Jantsch, Chaisson's widened selection, big history's thresholds, Smolin's cosmological selection."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Evolution](/positioning/subjects/e/evolution/) > Cosmic evolution

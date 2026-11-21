@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-09
 title: "Phase Transitions"
-description: "The physics of matter changing state — from the Ising model and Landau theory to the universality found at critical points, the renormalisation-group mechanism, the wider family of transitions, and the Batterman–Butterfield dispute."
+description: "Phase transitions: the Ising model, Landau theory, universality at critical points, the renormalisation group, and the Batterman–Butterfield dispute."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Phase transitions

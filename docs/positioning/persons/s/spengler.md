@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-30
 title: "Oswald Spengler (1880–1936)"
-description: "German philosopher of history — The Decline of the West, cultures as organisms with a fixed life course, Goethe's morphology applied to history, culture and civilisation, the prime symbol, contemporaneity and pseudomorphosis, and Man and Technics."
+description: "Oswald Spengler's The Decline of the West: cultures as organisms with a fixed life course, culture and civilisation, the prime symbol, Man and Technics."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Spengler

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-29
 title: "August Schleicher (1821–1868)"
-description: "German linguist — the first family tree of languages (1853), the reconstructed Indo-European parent language, languages as natural organisms with a life of growth and decay, and the open letter to Haeckel that offered linguistics to Darwin as evidence."
+description: "August Schleicher, German linguist: the first family tree of languages, the reconstructed Indo-European parent language, languages as natural organisms."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Schleicher

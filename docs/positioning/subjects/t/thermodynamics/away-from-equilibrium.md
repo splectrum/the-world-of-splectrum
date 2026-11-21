@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-14
 title: "Away from Equilibrium"
-description: "What thermodynamics becomes when systems are not left alone: the near-equilibrium regime and Onsager's relations, the several competing non-equilibrium frameworks, Prigogine's dissipative structures and the disputes around his programme, and the stochastic thermodynamics that now covers small systems."
+description: "Non-equilibrium thermodynamics: Onsager's relations near equilibrium, the rival frameworks, Prigogine's dissipative structures, stochastic thermodynamics."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Thermodynamics](/positioning/subjects/t/thermodynamics/) > Away from equilibrium

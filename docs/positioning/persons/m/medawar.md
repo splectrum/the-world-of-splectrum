@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-26
 title: "Peter Medawar (1915–1987)"
-description: "Brazilian-British biologist — acquired immunological tolerance, the mutation accumulation theory of ageing, transplantation immunology, and the philosophy of scientific method."
+description: "Brazilian-British biologist and Nobel laureate: acquired immunological tolerance, the mutation accumulation theory of ageing, and scientific method."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Medawar
@@ -53,7 +53,7 @@ His philosophical position was broadly [Popperian](/positioning/persons/p/popper
 
 ## Where Medawar stops
 
-Medawar's evolutionary theory of ageing establishes the principle — the declining force of selection with age — but does not develop the population-genetic or molecular detail. The principle explains why ageing can exist; it does not predict the rate of ageing, the specific mechanisms of senescent decline, or how ageing evolves differently across species with different life histories. Williams' antagonistic pleiotropy provided a sharper mechanism; subsequent work in biogerontology (Michael Rose, Linda Partridge, and others) has built the experimental and comparative programme that tests both theories against data. Medawar supplied the foundational insight; the research programme that followed built on it rather than within it.
+Medawar's evolutionary theory of ageing establishes the principle — the declining force of selection with age. Williams' antagonistic pleiotropy proposed a complementary mechanism; subsequent work in biogerontology (Michael Rose, Linda Partridge, and others) has built the experimental and comparative programme that tests both theories against data. Medawar supplied the foundational insight; the research programme that followed built on it rather than within it.
 
 ---
 

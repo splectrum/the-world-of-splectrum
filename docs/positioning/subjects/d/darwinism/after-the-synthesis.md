@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "After the Synthesis"
-description: "Where the Modern Synthesis has been extended, contested, or supplemented — neutral theory, kin selection, punctuated equilibrium, evo-devo, niche construction, and the Extended Evolutionary Synthesis debate."
+description: "How the Modern Synthesis was extended and contested: neutral theory, kin selection, punctuated equilibrium, evo-devo, niche construction, the EES debate."
 lastmod: 2026-05-26
 ---
 

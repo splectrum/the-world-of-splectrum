@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-05
 title: "Social Evolutionism and the Stage Schemes"
-description: "The history of human society as a sequence of stages — Comte's three stages, Spencer's militant and industrial societies, Tylor and Morgan's ladder keyed to subsistence, Boas's break, the neo-evolutionist return in White, Steward, Sahlins and Service, Service's band to state and Lenski's technological information, and Childe's chosen word, revolution."
+description: "Social evolutionism and its stage schemes: Comte, Spencer, Tylor and Morgan's ladder, Boas's break, the neo-evolutionist return, Childe's revolution."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Evolution](/positioning/subjects/e/evolution/) > Social evolutionism and the stage schemes

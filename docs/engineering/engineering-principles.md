@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-11-09
 title: "Engineering Principles"
-description: "The principles the HAICC platform is built on, with AI autonomy as the aim: simplicity, single concern, self-containment, a fractal process structure, a state-driven system."
+description: "The principles the HAICC platform is built on, aiming at AI autonomy: simplicity, single concern, self-containment, fractal processes, state-driven design."
 ---
 
 [Home](/) > [Engineering](/engineering/) > Engineering Principles

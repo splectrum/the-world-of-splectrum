@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-22
 title: "Susanne K. Langer (1895–1985)"
-description: "American philosopher of art and mind — discursive and presentational symbolism, art as the creation of forms symbolic of human feeling, and the late biology of mind."
+description: "American philosopher of art and mind: discursive and presentational symbolism, art as forms symbolic of human feeling, and the late biology of mind."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Langer

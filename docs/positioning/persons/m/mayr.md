@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-26
 title: "Ernst Mayr (1904–2005)"
-description: "German-American evolutionary biologist — the biological species concept, geographic speciation, the architect of the Modern Synthesis who insisted the organism is the unit of selection."
+description: "German-American evolutionary biologist of the Modern Synthesis: the biological species concept, geographic speciation, and population thinking."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Mayr
@@ -69,7 +69,7 @@ The position put him at odds with gene-centrism from the 1970s onward. Mayr argu
 
 ## Where Mayr stops
 
-Mayr's programme is organismal and populational. Species are populations; speciation is geographic; the organism is the unit of selection. What the programme does not address is the developmental and genetic architecture that constrains what variation is available for selection to act on. Mayr acknowledged developmental constraints but did not develop them theoretically. The evo-devo movement and the extended evolutionary synthesis have since built frameworks for the role of development in evolution — territory that Mayr's own framework noted but left to others.
+Mayr's programme is organismal and populational. Species are populations; speciation is geographic; the organism is the unit of selection. The evo-devo movement and the extended evolutionary synthesis have since pressed the role of development: the constraints it places on what variation is available for selection to act on.
 
 ---
 

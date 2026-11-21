@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-23
 title: "The arts"
-description: "The aesthetics branch that shows the dynamic of meaning rather than naming it — the arts, undisguised: Langer's music-as-symbol-of-feeling, and music as the sharpest case, shared tooling and unique expression with nothing represented."
+description: "The arts as the dynamic of meaning shown rather than named: Langer on music as a symbol of feeling, and music as shared tooling with unique expression."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Close affinity](/positioning/close-affinity/) > [Aesthetics](/positioning/close-affinity/aesthetics/) > The arts

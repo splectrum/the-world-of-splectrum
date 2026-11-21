@@ -59,8 +59,6 @@ The ethical consequence: I owe the other the gift of my outsideness — the pers
 
 ## Where Bakhtin stops
 
-Bakhtin's dialogism is a philosophy of the encounter between voices, and its strength is in describing what happens at that encounter — how meaning is produced in the exchange, how outsideness enriches understanding, how polyphony resists finalisation. The framework is less developed on the structures that sustain dialogue over time. Institutions, traditions, political orders are named (carnival as counter-tradition, the novel as a genre) but not theorised with the specificity the passage from pair to polity requires. [Habermas's](https://plato.stanford.edu/entries/habermas/) communicative action and [Arendt's](/positioning/persons/a/arendt/) account of the public realm each carry the dialogical insight into institutional and political territory that Bakhtin leaves at the level of the utterance.
-
 The "unfinalisability" of the self — the insistence that no person can be fully known, contained, or summed up — is Bakhtin's deepest ethical commitment. It resists every system that claims to capture what a person is. But it also resists systematic development: if no account of a person is ever final, the philosophy of the self is itself interminable. Whether this openness is a strength (the ethical commitment to the other's inexhaustibility) or a limitation (the framework that cannot deliver conclusions) depends on what one asks of philosophy. [Ricoeur's](/positioning/persons/r/ricoeur/) narrative identity offers a more structured account of how the self holds together through time; Bakhtin would likely see the structure as a premature closure of what should remain open.
 
 ---

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "Process philosophy"
-description: "Becoming over being, events over substances — the tradition from Heraclitus through Hegel, Bergson, and Whitehead to contemporary process-relational thought."
+description: "Process philosophy, becoming over being, events over substances: the tradition from Heraclitus through Bergson and Whitehead to process-relational thought."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Process philosophy

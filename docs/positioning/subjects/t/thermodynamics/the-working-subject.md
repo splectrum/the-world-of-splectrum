@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-14
 title: "The Working Subject"
-description: "Where thermodynamics is actually used: chemical thermodynamics and the free energies, engineering and the cycles it began with, and bioenergetics — the settled trunk of the field, largely untouched by the foundational disputes."
+description: "Thermodynamics in use: chemical thermodynamics and free energies, engineering cycles and bioenergetics, the settled trunk of the field beyond its disputes."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Thermodynamics](/positioning/subjects/t/thermodynamics/) > The working subject

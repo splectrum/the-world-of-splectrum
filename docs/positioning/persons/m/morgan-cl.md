@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-30
 title: "Conwy Lloyd Morgan (1852–1936)"
-description: "British comparative psychologist and philosopher — Morgan's canon, the experimental study of animal learning, organic selection, and Emergent Evolution, the reading of evolution as the successive appearance of genuinely new qualities."
+description: "British comparative psychologist: Morgan's canon, animal learning, organic selection, and Emergent Evolution as the appearance of genuinely new qualities."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Morgan (C. L.)

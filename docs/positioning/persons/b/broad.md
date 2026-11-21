@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-09
 title: "C. D. Broad (1887–1971)"
-description: "English philosopher — the systematiser of British Emergentism: emergent properties, trans-ordinal laws, and the mechanism/emergence/vitalism trilemma of The Mind and Its Place in Nature."
+description: "English philosopher C. D. Broad, systematiser of British emergentism: emergent properties, trans-ordinal laws, The Mind and Its Place in Nature."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Broad

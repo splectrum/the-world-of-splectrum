@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "John Archibald Wheeler (1911–2008)"
-description: "American physicist — 'it from bit', geometrodynamics, the delayed-choice experiment, the participatory universe, nuclear physics, general relativity, quantum gravity."
+description: "John Archibald Wheeler, American physicist: 'it from bit', geometrodynamics, the delayed-choice experiment, the participatory universe, quantum gravity."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Wheeler (John Archibald)

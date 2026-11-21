@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-13
 title: "Cognition"
-description: "Groups the resources that address cognition as per the site's definition — the process of acquiring knowledge and understanding through experience. The bundle grows as facets are taken up."
+description: "Resources on cognition as the process of acquiring knowledge and understanding through experience, gathered across biology, neuroscience and philosophy."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Cognition

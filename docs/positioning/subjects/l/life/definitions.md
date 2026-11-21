@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-11-07
 title: "Definitions of Life"
-description: "The definitions of life, the word as in 'origin of life', and what each goes by: substance, function, energy, form, evolution, information, surroundings and agency, with those who decline to define it and the questions that cut across them."
+description: "The definitions of life and what each turns on: substance, function, energy, form, evolution, information, surroundings or agency, and the refusals."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Life](/positioning/subjects/l/life/) > Definitions of life

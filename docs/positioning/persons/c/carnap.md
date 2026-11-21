@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-19
 title: "Rudolf Carnap (1891–1970)"
-description: "German-American philosopher — logical empiricism, the logical construction of the world, verificationism, the Aufbau, the linguistic turn, probability and induction."
+description: "German-American philosopher Rudolf Carnap: logical empiricism, the Aufbau's construction of the world, verificationism, the linguistic turn."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Carnap

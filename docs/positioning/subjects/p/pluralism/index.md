@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Pluralism"
-description: "The family of positions holding that the many are real and none is privileged — the five dimensions on which the claim recurs, the pluralism/pluralisation distinction, and the disputes the field lives in."
+description: "Pluralism, the positions holding that the many are real and none is privileged: its five dimensions, pluralism versus pluralisation, and its disputes."
 lastmod: 2026-07-14
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-22
 title: "Semiotics"
-description: "The theory of signs as a tradition in its own right — Peirce's triadic sign and Saussure's dyadic sign, the semiology of culture from Hjelmslev to Barthes, Eco, and Lotman, and the biosemiotic extension into the living world."
+description: "Semiotics, the theory of signs: Peirce's triadic sign and Saussure's dyadic sign, the semiotics of culture from Barthes and Eco to Lotman, biosemiotics."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Semiotics

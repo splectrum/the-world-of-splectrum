@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-11-08
 title: "pear-runtime"
-description: "pear-runtime (Pear OTA in the docs) embeds Pear's P2P runtime as a library: Bare workers, storage and P2P OTA updates, without the pear CLI. MVP and experimental."
+description: "pear-runtime, or Pear OTA, embeds Pear's P2P runtime as a library: Bare workers, storage and peer-to-peer OTA updates without the pear CLI."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [Third Party Software](/engineering/third-party-software/) > [Pear](/engineering/third-party-software/pear/) > pear-runtime

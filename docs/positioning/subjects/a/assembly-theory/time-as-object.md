@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-26
 title: "Assembly Theory — Time as Object"
-description: "The metaphysical extension of assembly theory: time as a material property of complex objects, with specific identity claims and explicit positioning against the existing major conceptions of time."
+description: "Assembly theory's metaphysical extension: time as a material property of complex objects, its identity and contingency claims, and rival views of time."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Assembly Theory](/positioning/subjects/a/assembly-theory/) > Time as Object

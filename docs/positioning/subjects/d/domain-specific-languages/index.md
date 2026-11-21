@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "Domain-Specific Languages (DSL)"
-description: "A domain-specific language is a programming or notation language designed for a particular problem area rather than for general-purpose use — SQL for databases, CSS for layout, regular expressions for pattern matching."
+description: "What a domain-specific language (DSL) is: a language built for one problem area rather than general use, such as SQL for databases or CSS for page layout."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Domain-Specific Languages (DSL)

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "Leda Cosmides (1957–)"
-description: "American cognitive psychologist — the adapted mind, cheater-detection experiments, social-contract theory, evolutionary psychology's experimental programme."
+description: "American cognitive psychologist Leda Cosmides: the adapted mind, cheater-detection experiments, social-contract theory, evolutionary psychology."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Cosmides

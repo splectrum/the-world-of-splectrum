@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "Werner Heisenberg (1901–1976)"
-description: "German physicist — matrix mechanics, the uncertainty principle, the Copenhagen interpretation, nuclear physics, and the question of what quantum mechanics says about reality."
+description: "German physicist: matrix mechanics, the uncertainty principle, the Copenhagen interpretation, and what quantum mechanics says about reality."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Heisenberg

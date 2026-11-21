@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "XPath (XML Path Language)"
-description: "XPath is a language for navigating and selecting within tree-structured documents — a location path of steps along axes that returns matching nodes — which grew into a full query language for trees."
+description: "XPath, the XML Path Language for navigating tree-structured documents: location paths of steps along axes that select nodes, grown into a query language."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > XPath (XML Path Language)

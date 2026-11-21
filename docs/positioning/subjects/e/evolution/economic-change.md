@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-05
 title: "Economic and Institutional Change"
-description: "Evolution in economics — Veblen's question, Marshall's Mecca, Schumpeter's development from within, Alchian's selection without maximisers, Hayek's cultural selection of rules, Nelson and Winter's routines, and the dispute between generalised Darwinism and the continuity hypothesis."
+description: "Evolutionary economics: Veblen, Schumpeter, Alchian, Hayek's selection of rules, Nelson and Winter's routines, and the dispute over generalised Darwinism."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Evolution](/positioning/subjects/e/evolution/) > Economic and institutional change

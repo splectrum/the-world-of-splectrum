@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Ludwig von Bertalanffy (1901–1972)"
-description: "Austrian-Canadian biologist and systems thinker — general system theory, open systems, organismic biology, and the cross-disciplinary ambition to find transferable principles across domains."
+description: "Austrian-Canadian biologist of general system theory: open systems, organismic biology, and the search for principles that transfer across domains."
 lastmod: 2026-05-25
 ---
 

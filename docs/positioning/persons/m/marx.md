@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Karl Marx (1818–1883)"
-description: "German philosopher and political economist — critique of political economy, the materialist conception of history, alienation, and the most consequential intellectual legacy of the nineteenth century."
+description: "Karl Marx, philosopher and political economist: the critique of political economy, the materialist conception of history, alienation, ideology, and class."
 lastmod: 2026-10-19
 ---
 

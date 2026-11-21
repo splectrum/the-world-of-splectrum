@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-18
 title: "Emergence"
-description: "Emergence as a new language game in a context above its base — the connection to that base either stated or not yet known, and the perimeter where a model stops coinciding with lived experience."
+description: "Emergence as a new language game above its base, the connection stated or not yet known, and the perimeter where a model stops matching lived experience."
 ---
 
 [Home](/) > [Reality](/reality/) > Emergence

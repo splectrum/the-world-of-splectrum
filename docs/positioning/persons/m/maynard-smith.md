@@ -59,7 +59,7 @@ He was an unusually clear writer. *The Theory of Evolution* (1958, with later ed
 
 ## Where Maynard Smith stops
 
-The ESS framework models evolution as a game between strategies — powerful for analysing conflict and cooperation, but operating within the assumption that the relevant strategies and payoffs are given. How new strategies arise, how the game itself changes, how the space of possible strategies expands over evolutionary time — these are not questions the ESS framework addresses. The major transitions framework describes what happened — entities that could replicate independently coming to replicate only as part of a larger whole — but the mechanisms driving each transition are specific to each case; the framework identifies the pattern without providing a single causal theory that unifies them. Whether the transitions share a common mechanism or are united only by the pattern of individuality-recomposition is a question the framework leaves open.
+The ESS framework models evolution as a game between strategies — powerful for analysing conflict and cooperation, but operating within the assumption that the relevant strategies and payoffs are given.
 
 ---
 

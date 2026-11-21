@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-25
 title: "CAS — Core concepts"
-description: "The core concepts of complex adaptive systems — agent, emergence, self-organization, adaptation, coevolution, heterogeneity, path dependence, fitness landscapes, the adjacent possible, criticality."
+description: "Core concepts of complex adaptive systems: agents, emergence, self-organisation, adaptation, coevolution, path dependence, fitness landscapes, criticality."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) > Core concepts

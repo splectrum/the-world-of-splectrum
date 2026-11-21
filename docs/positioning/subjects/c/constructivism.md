@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-07-19
 title: "Constructivism"
-description: "The epistemology that knowledge is built by the knower to fit experience, not to mirror an independent reality — from Piaget and von Glasersfeld's radical version to the trivial and social variants, and the solipsism charge that shadows them."
+description: "Constructivism, the epistemology that knowledge is built to fit experience, not to mirror reality, from Piaget and von Glasersfeld to its social variants."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Constructivism

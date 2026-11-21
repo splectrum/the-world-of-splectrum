@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-11
 title: "The Paradigm Cases of Emergence"
-description: "Each definition of emergence beside the case it was built on — chemistry, consciousness, magnets, simulations, markets, benchmark curves — checkable from the founding texts, with the clusters the pairing reveals."
+description: "Each definition of emergence beside the case it was built on, from chemistry and consciousness to magnets, markets and benchmark curves, and the clusters."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Emergence](/positioning/subjects/e/emergence/) > The paradigm cases

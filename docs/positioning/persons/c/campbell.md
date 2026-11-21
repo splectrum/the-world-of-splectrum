@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-29
 title: "Donald T. Campbell (1916–1996)"
-description: "American social psychologist and methodologist — blind variation and selective retention, evolutionary epistemology and the nested hierarchy of vicarious selectors, downward causation, quasi-experimental design, the multitrait-multimethod matrix, and Campbell's law."
+description: "American psychologist Donald T. Campbell: blind variation and selective retention, evolutionary epistemology, downward causation, quasi-experiments."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Campbell

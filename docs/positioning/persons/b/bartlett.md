@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-08-24
 title: "Frederic Bartlett (1886–1969)"
-description: "British psychologist — remembering as reconstruction: recall transforms toward the familiar, guided by schemas, the organised residue of past experience; Remembering (1932) and the War of the Ghosts."
+description: "British psychologist of remembering as reconstruction: recall shifts toward the familiar, guided by schemas; Remembering (1932), the War of the Ghosts."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Bartlett

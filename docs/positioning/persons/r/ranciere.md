@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-11
 title: "Jacques Rancière (b. 1940)"
-description: "Rancière argues that aesthetics and politics share the same ground — the distribution of the sensible determines who can speak before any political claim is made."
+description: "Jacques Rancière on aesthetics and politics: the distribution of the sensible decides who can speak before any political claim is made."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Rancière
@@ -53,7 +53,7 @@ Rancière connects [aesthetics](/positioning/subjects/a/aesthetics-in-philosophy
 
 The distribution of the sensible provides a way of understanding how social orders maintain themselves that does not reduce to ideology, repression, or hegemony. It operates at a deeper level: what is perceptible before the question of what is believed or enforced arises. And connecting aesthetics and politics structurally — both operating on the same terrain — is a genuine contribution.
 
-But if politics is a rare eruption that disrupts the police order, what happens the morning after? Rancière has no theory of organisation, no account of institution-building, no framework for collective decision-making beyond the moment of dissensus. Any organisation risks becoming a new police order; any programme assumes a gap between those who design it and those who receive it. His framework is structurally hostile to the question "what next?" — and the question of whether a philosophy that can only affirm the moment of rupture is adequate to the scale of the problems it identifies remains open.
+But if politics is a rare eruption that disrupts the police order, what happens the morning after? Hallward's strategy objection presses exactly this: there is no pathway from the democratic moment to institutional transformation. Any organisation risks becoming a new police order; any programme assumes a gap between those who design it and those who receive it.
 
 ---
 

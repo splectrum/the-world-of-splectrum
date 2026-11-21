@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-23
 title: "Dialogism, pragmatism, deconstruction, cybernetics"
-description: "The aesthetics branch on the dynamic of meaning doing core work under no aesthetic name — dialogism (Bakhtin), pragmatism (Dewey), deconstruction (Derrida), and cybernetics (Bateson)."
+description: "Where the dynamic of meaning does core work under no aesthetic name: Bakhtin's dialogism, Dewey's pragmatism, Derrida's deconstruction, Bateson."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Close affinity](/positioning/close-affinity/) > [Aesthetics](/positioning/close-affinity/aesthetics/) > Dialogism, pragmatism, deconstruction, cybernetics

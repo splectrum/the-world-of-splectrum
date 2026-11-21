@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-26
 title: "Stephen Jay Gould (1941–2002)"
-description: "American paleontologist and evolutionary biologist — punctuated equilibrium, the Spandrels critique, contingency, hierarchy theory, and the public voice of evolutionary biology."
+description: "American paleontologist and evolutionary biologist: punctuated equilibrium, the Spandrels critique, contingency, hierarchy theory, and popular science."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Gould
@@ -67,7 +67,7 @@ The essays made Gould the most visible evolutionary biologist of his generation.
 
 ## Where Gould stops
 
-Gould's programme is historical and pluralist. It insists that evolution cannot be reduced to a single mechanism (natural selection on organisms) operating at a single level, and that contingency, constraint, and hierarchy are as important as adaptation in shaping the history of life. What the programme does not provide is a unified formal framework integrating these elements. *The Structure of Evolutionary Theory* attempted the integration but the result was more a compendium than a synthesis — the threads are laid out but not woven into a theory with the formal coherence of, say, population genetics. The territory Gould mapped — hierarchy, contingency, constraint — remains more a set of challenges to the standard framework than a completed alternative to it.
+Gould's programme is historical and pluralist. It insists that evolution cannot be reduced to a single mechanism (natural selection on organisms) operating at a single level, and that contingency, constraint, and hierarchy are as important as adaptation in shaping the history of life. *The Structure of Evolutionary Theory* attempted to integrate them, and was received as ambitious and uneven: praised for its historical scholarship, criticised for its length and for arguments many in the field considered insufficiently supported.
 
 ---
 

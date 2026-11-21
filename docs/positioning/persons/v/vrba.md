@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "Elisabeth Vrba (1942–2015)"
-description: "South African-American paleontologist — the turnover pulse hypothesis, the effect hypothesis, exaptation (with Gould), habitat theory, African mammalian macroevolution."
+description: "Elisabeth Vrba, palaeontologist: the turnover pulse hypothesis, the effect hypothesis, exaptation with Gould, and African mammalian macroevolution."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Vrba

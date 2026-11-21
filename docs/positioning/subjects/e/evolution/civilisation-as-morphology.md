@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-05
 title: "Civilisation as Morphology"
-description: "The life course of civilisations read across many cases — Goethe's morphology as Spengler's method, the eight Cultures and their contemporaneous epochs, Toynbee's genesis, growth, breakdown and disintegration, Quigley's evolution of civilisations, Tainter's collapse by diminishing returns, Diamond's collapse as choice, and Nisbet's critique of the metaphor of growth."
+description: "The life course of civilisations: Spengler's morphology, Toynbee's growth and breakdown, Quigley, Tainter's and Diamond's collapse, and Nisbet's critique."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Evolution](/positioning/subjects/e/evolution/) > Civilisation as morphology

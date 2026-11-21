@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-24
 title: "Thomas A. Sebeok (1920–2001)"
-description: "Sebeok made the study of signs a science of life: he coined zoosemiotics, was the chief architect of biosemiotics, revived von Uexküll, and anchored the field in Peirce."
+description: "Thomas Sebeok made semiotics a science of life: he coined zoosemiotics, was the chief architect of biosemiotics, and anchored the field in Peirce."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Sebeok

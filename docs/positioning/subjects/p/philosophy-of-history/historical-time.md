@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-26
 title: "Historical Time"
-description: "How a society orders past, present and future — Koselleck's conceptual history and layers of time, Hartog's regimes of historicity, the postcolonial question of whose time is told, and the Annales school's long duration."
+description: "How a society orders past, present and future: Koselleck's layers of time, Hartog's regimes of historicity, postcolonial time and the Annales longue durée."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Philosophy of history](/positioning/subjects/p/philosophy-of-history/) > Historical time

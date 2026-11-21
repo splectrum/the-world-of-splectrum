@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-26
 title: "Translation Theory"
-description: "What translation is, what it preserves, and whose language it privileges — the field's three open conflicts, fidelity against freedom, equivalence, and what a translator owes, carried through six branches from Cicero and the sutra translators to language models."
+description: "Translation theory: what translation preserves and whose language it serves, from fidelity against freedom to equivalence and the translator's duty."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Translation theory

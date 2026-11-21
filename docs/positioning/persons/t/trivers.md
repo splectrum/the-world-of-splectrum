@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Robert Trivers (1943–2026)"
-description: "American evolutionary biologist — reciprocal altruism, parental investment, parent-offspring conflict, self-deception, and five papers that opened five fields."
+description: "Robert Trivers, evolutionary biologist: reciprocal altruism, parental investment, parent-offspring conflict, self-deception, and intragenomic conflict."
 lastmod: 2026-05-15
 ---
 
@@ -53,7 +53,7 @@ With Austin Burt: *Genes in Conflict: The Biology of Selfish Genetic Elements* (
 
 ## Where Trivers stops
 
-Trivers' contributions are individually powerful and share a single method: identify a conflict of interest that earlier accounts had overlooked, model its evolutionary logic, and derive testable predictions. The models operate at the level of the dyad or the gene — two players, one conflict. The ecology beyond the dyad — how networks of reciprocal and conflicting relationships produce emergent social structures — is not his territory. His self-deception theory, the most psychologically ambitious of the five contributions, explains why self-deception exists but not how the boundary between self-knowledge and self-concealment is drawn in practice — the phenomenological side of the question sits outside his programme.
+Trivers' contributions are individually powerful and share a single method: identify a conflict of interest that earlier accounts had overlooked, model its evolutionary logic, and derive testable predictions. The models operate at the level of the dyad or the gene — two players, one conflict.
 
 ---
 

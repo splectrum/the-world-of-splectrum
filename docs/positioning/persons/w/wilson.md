@@ -67,7 +67,7 @@ Wilson coined the term "biodiversity" (in its shortened form; the full "biologic
 
 ## Where Wilson stops
 
-Wilson's programme is biological and synthetic — it seeks to bring behaviour, ecology, and social organisation under the umbrella of evolutionary biology. The extension to human societies assumes that the same evolutionary logic that explains ant colonies and bird flocks applies, in principle, to human cultures. What the programme does not address is the degree to which human cultural transmission — language, institutions, symbolic systems — constitutes a domain with its own dynamics, not reducible to biological evolution even if it originated in it. The boundary between biological explanation and cultural explanation is where the sociobiology debate has always sat, and Wilson's programme stays on the biological side of it.
+Wilson's programme is biological and synthetic — it seeks to bring behaviour, ecology, and social organisation under the umbrella of evolutionary biology. The extension to human societies assumes that the same evolutionary logic that explains ant colonies and bird flocks applies, in principle, to human cultures. That extension is what [Lewontin](/positioning/persons/l/lewontin/), [Gould](/positioning/persons/g/gould/) and the Sociobiology Study Group pressed, and the boundary between biological and cultural explanation is where the sociobiology debate has always sat.
 
 ---
 

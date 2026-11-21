@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-05
 title: "The Word"
-description: "The history of the word evolution — the unrolling of a scroll, the preformed germ of Haller and Bonnet, Lyell's hostile use for Lamarck, Spencer's fusion of embryo and species, Darwin's twelve years without the noun, and the historians' dispute over whether the senses were linked or broken."
+description: "The history of the word evolution: the unrolled scroll, the preformed germ, Lyell on Lamarck, Spencer's fusion, Darwin's avoidance of the noun."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Evolution](/positioning/subjects/e/evolution/) > The word

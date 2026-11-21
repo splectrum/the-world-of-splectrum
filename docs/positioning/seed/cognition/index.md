@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-13
 title: "Cognition and Core Philosophy"
-description: "The SPLectrum seed holds cognition as the process that generates a subject's experiencing of reality, within the medium of language. Core philosophy has been arriving at the same closeness for two centuries; this piece reads the resonance points."
+description: "Cognition as the process that generates a subject's experiencing of reality within language, as the SPLectrum seed holds it, read across core philosophy."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Seed](/positioning/seed/) > Cognition

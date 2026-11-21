@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-07-03
 title: "Enactivism"
-description: "The philosophy of mind that cognition is the enactment of a world through embodied action, not the representation of a pre-given one — its founding in The Embodied Mind, and the three-way split between its autopoietic, sensorimotor, and radical strands."
+description: "Enactivism, the view that cognition enacts a world through embodied action: The Embodied Mind and the autopoietic, sensorimotor and radical strands."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Enactivism

@@ -2,7 +2,7 @@
 layout: home
 lastmod: 2026-10-14
 title: "The World of SPLectrum"
-description: "SPLectrum is a foundational philosophy grown from seed — the home of interrelational pluralism. A metaphysics from three core values: belonging, privacy, creativity."
+description: "SPLectrum, a foundational philosophy grown from seed and the home of interrelational pluralism: a metaphysics built on belonging, privacy and creativity."
 ---
 
 # The Home of Interrelational Pluralism

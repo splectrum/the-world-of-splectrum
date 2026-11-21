@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-26
 title: "Machine Translation"
-description: "Translation by machine from Weaver's 1949 memorandum through rule-based, statistical and neural systems to large language models — and what translation theory's questions become when no translator made the translation."
+description: "Machine translation from Weaver's 1949 memorandum through rule-based, statistical and neural systems to large language models, and what theory makes of it."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Translation theory](/positioning/subjects/t/translation-theory/) > Machine translation

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "Apache Kafka"
-description: "Apache Kafka is a distributed event-streaming platform built around a durable, append-only log of records that many producers write to and many consumers read independently and can replay."
+description: "Apache Kafka, the distributed event-streaming platform built on a durable append-only log that many producers write and many consumers read and replay."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Apache Kafka

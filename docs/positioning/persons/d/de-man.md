@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-12
 title: "Paul de Man (1919–1983)"
-description: "The most rigorous reader of the Yale school — literature as the place where language's figural character is least concealed — and, after his death, the centre of a scandal that marked deconstruction's reputation."
+description: "Paul de Man, the Yale school's most rigorous reader: literature as where language's figural character shows, and the scandal that marked deconstruction."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > de Man

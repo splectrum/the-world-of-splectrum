@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-30
 title: "Leslie White (1900–1975)"
-description: "American anthropologist — the revival of cultural evolution against the Boasians, the energy law of cultural evolution, the symbol as the basis of culture, culturology, and the neo-evolutionist debate with Steward, Sahlins and Service."
+description: "Leslie White revived cultural evolution against the Boasians: the energy law of cultural evolution, the symbol as the basis of culture, and culturology."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > White (L.)

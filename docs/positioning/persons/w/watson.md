@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-28
 title: "John B. Watson (1878–1958)"
-description: "Watson founded behaviourism as a movement — psychology as the objective science of observable behaviour, aimed at prediction and control — built on conditioning and a radical environmentalism, before a scandal ended his academic career at its height."
+description: "John B. Watson founded behaviourism: psychology as the objective science of observable behaviour, the Little Albert experiment, and his fall from academia."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Watson

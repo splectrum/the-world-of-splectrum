@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-13
 title: "Michael Sandel (1953–)"
-description: "American political philosopher — the critique of liberal neutrality, the encumbered self, civic republicanism, the moral limits of markets, justice as the common good."
+description: "American political philosopher: the critique of liberal neutrality, the encumbered self, civic republicanism, and the moral limits of markets."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Sandel

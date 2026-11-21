@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-07-03
 title: "Ernst von Glasersfeld (1917–2010)"
-description: "Von Glasersfeld's radical constructivism holds that knowledge is built by the knower to fit experience, not to match an independent reality — viability, not truth."
+description: "Ernst von Glasersfeld's radical constructivism: knowledge built by the knower to fit experience, not to match an independent reality; viability, not truth."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Von Glasersfeld

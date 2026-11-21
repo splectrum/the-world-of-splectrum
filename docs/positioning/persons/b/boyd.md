@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "Robert Boyd (1948–)"
-description: "American anthropologist — dual-inheritance theory (with Richerson), mathematical models of cultural evolution, transmission biases, cultural group selection."
+description: "American anthropologist Robert Boyd: dual-inheritance theory with Richerson, models of cultural evolution, transmission biases, group selection."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Boyd

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-08-22
 title: "Basal Cognition"
-description: "The research field studying cognition below the nervous system — the biogenic approach, the cognitive toolkit from sensing to anticipation, the canonical cases from bacteria to slime moulds and cell collectives, and the live dispute over whether it is cognition at all."
+description: "Basal cognition, the study of cognition below the nervous system: the biogenic approach, from bacteria to slime moulds, and whether it is cognition at all."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Basal cognition

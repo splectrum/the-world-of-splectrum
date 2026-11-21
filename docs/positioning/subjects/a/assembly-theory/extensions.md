@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-06
 title: "Assembly Theory — Extensions"
-description: "Proposed applications of assembly theory beyond molecular biology: language, technology, music, cultural evolution, cosmology, and the TAP collaboration with Kauffman and Smolin."
+description: "Proposed applications of assembly theory beyond molecular biology: language, technology, music, cultural evolution, cosmology, and the adjacent possible."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Assembly Theory](/positioning/subjects/a/assembly-theory/) > Extensions

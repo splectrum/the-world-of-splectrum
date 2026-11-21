@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-13
 title: "DSL Classification Axes"
-description: "The ways domain-specific languages can be classified — internal vs external, declarative vs imperative, notational vs executable, and more. Each axis captures a different design choice."
+description: "How domain-specific languages are classified: internal or external, declarative or imperative, notational or executable, Turing-complete or not, and more."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [DSL](/positioning/subjects/d/domain-specific-languages/) > Classification Axes

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-26
 title: "G. Evelyn Hutchinson (1903–1991)"
-description: "British-American limnologist and ecologist — the niche concept, 'why are there so many kinds of animals?', biogeochemistry, population ecology, and the formation of modern ecology as a theoretical discipline."
+description: "British-American ecologist and limnologist: the niche concept, 'why are there so many kinds of animals?', biogeochemistry, and theoretical ecology."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Hutchinson

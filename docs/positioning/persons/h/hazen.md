@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "Robert Hazen (1948–)"
-description: "American mineralogist and astrobiologist — mineral evolution, the evolutionary system of mineralogy, mineral ecology, and the mineral counterexample critique of assembly theory."
+description: "American mineralogist and astrobiologist: mineral evolution, the evolutionary system of mineralogy, mineral ecology, and his critique of assembly theory."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Hazen

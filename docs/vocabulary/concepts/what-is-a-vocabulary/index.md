@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-13
 title: "What is a vocabulary?"
-description: "SPLectrum's working definition of vocabulary — concepts that label the relational they represent. The static view of a substance whose dynamic companion is language."
+description: "SPLectrum's working definition of vocabulary: concepts that label the relational they represent, the static view whose dynamic companion is language."
 ---
 
 [Home](/) > [Vocabulary](/vocabulary/) > [Concepts](/vocabulary/concepts/) > What is a vocabulary?

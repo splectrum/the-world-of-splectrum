@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-08-20
 title: "Candrakīrti (c. 600–c. 650 CE)"
-description: "Indian Buddhist philosopher — the Prāsaṅgika Madhyamaka, the Prasannapadā commentary on Nāgārjuna, the Madhyamakāvatāra, the defence of reductio over independent argument."
+description: "Indian Buddhist philosopher Candrakīrti: Prāsaṅgika Madhyamaka, the Prasannapadā on Nāgārjuna, and the defence of reductio over independent argument."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Candrakīrti

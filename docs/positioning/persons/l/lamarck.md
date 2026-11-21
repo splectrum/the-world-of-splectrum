@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-12
 title: "Jean-Baptiste Lamarck (1744–1829)"
-description: "French naturalist — the first comprehensive theory of the transformation of species, the two forces of complexification and adaptation, the two laws of Philosophie zoologique, the invertebrates, and a reputation shaped by Cuvier's éloge."
+description: "French naturalist of the first full theory of the transformation of species: complexification, adaptation, Philosophie zoologique, and the caricature."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Lamarck

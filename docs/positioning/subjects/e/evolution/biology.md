@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-12
 title: "Evolution in Biology"
-description: "What biologists mean by evolution, as distinct from the theory that explains it — the population-genetic definition and the argument over it, Mayr, Futuyma, Endler and Van Valen, Mayr's evolution as such, and von Baer's embryology as the other root."
+description: "What biologists mean by evolution, as distinct from the theory explaining it: the population-genetic definition, the argument over it, Mayr and von Baer."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Evolution](/positioning/subjects/e/evolution/) > Evolution in biology

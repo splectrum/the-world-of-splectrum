@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-09
 title: "Jaegwon Kim (1934–2019)"
-description: "Korean-American philosopher — the causal exclusion argument, supervenience made rigorous, the critique of non-reductive physicalism, and functional reduction: the modern mind-body debate's hinge."
+description: "Korean-American philosopher of mind: the causal exclusion argument, supervenience, the critique of non-reductive physicalism, and functional reduction."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Kim

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-12
 title: "Aesthetics — the dynamics of meaning"
-description: "SPLectrum's aesthetics pillar — aesthetics as the dynamics of meaning, one of three fields with epistemology and ontology: the dynamic in which a subject works shared tools into expression, present wherever language is."
+description: "SPLectrum's aesthetics pillar: aesthetics as the dynamics of meaning, where a subject works shared tools into expression, beside epistemology and ontology."
 ---
 
 [Home](/) > [Reality](/reality/) > Aesthetics

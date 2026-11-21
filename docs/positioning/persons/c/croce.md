@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-11
 title: "Benedetto Croce (1866–1952)"
-description: "Croce identified aesthetics with general linguistics and placed it first in the hierarchy of Spirit — beauty as the precision of expression, not the pleasure of the beholder."
+description: "Croce identified aesthetics with general linguistics and put it first in his Philosophy of Spirit: beauty as the precision of expression."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Croce
@@ -55,7 +55,7 @@ The anti-fascism was philosophically grounded: "liberty is the form of the moral
 
 The identification of aesthetics with linguistics genuinely illuminates why a single well-made sentence can have the force of a poem, and why a poorly made poem can have no force at all. It gives aesthetics a philosophical dignity previously reserved for logic. And placing aesthetics first means every concept, every judgment, every moral act rests on a bed of formed images — art is a condition of knowledge, not a supplement to it.
 
-By making the work of art complete at the moment of internal formulation — before any canvas is touched, any word written down — Croce relocates making and reception to the practical domain. The sculptor's encounter with stone, the poet's negotiation with inherited language, the way material constraint shapes expression — these are "externalisation," not aesthetics. His theory reaches the expressive act; it does not reach the medium in which the act takes shape.
+By making the work of art complete at the moment of internal formulation — before any canvas is touched, any word written down — Croce relocates making and reception to the practical domain. The sculptor's encounter with stone, the poet's negotiation with inherited language, the way material constraint shapes expression — these are "externalisation," not aesthetics.
 
 ---
 

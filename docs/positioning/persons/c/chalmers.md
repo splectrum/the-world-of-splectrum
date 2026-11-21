@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-09
 title: "David Chalmers (1966–)"
-description: "Australian philosopher — the hard problem of consciousness named; zombies and the conceivability argument; naturalistic dualism; the extended mind (with Andy Clark); the field of consciousness studies built around his challenge."
+description: "Australian philosopher David Chalmers: the hard problem of consciousness, zombies and conceivability, naturalistic dualism, and the extended mind."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Chalmers

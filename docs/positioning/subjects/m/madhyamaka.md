@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-08-20
 title: "Madhyamaka"
-description: "The Middle Way school of Buddhist philosophy — emptiness as dependent origination, the two truths, the Prāsaṅgika/Svātantrika dispute over method, and a reception running from Śaṅkara's nihilism charge to the Tibetan curriculum."
+description: "Madhyamaka, the Middle Way school of Buddhist philosophy: emptiness as dependent origination, the two truths, the dispute over method, its reception."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Madhyamaka

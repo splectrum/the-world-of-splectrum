@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Melanie Mitchell (1969–)"
-description: "American computer scientist and complexity researcher — genetic algorithms, analogy-making, the contemporary synthesis of complex adaptive systems, and the clearest public voice for what complexity science has and has not achieved."
+description: "American computer scientist and complexity researcher: genetic algorithms, Copycat and analogy-making, Complexity: A Guided Tour, and a sober view of AI."
 lastmod: 2026-05-25
 ---
 

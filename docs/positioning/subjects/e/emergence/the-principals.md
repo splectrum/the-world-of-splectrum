@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-10
 title: "The Principals of the Emergence Debate"
-description: "The five figures whose work carries the emergence debate by name — what each contributes to the questions of what the definitions say, how they differ, and where each is at home."
+description: "The five principals of the emergence debate, Broad, Kim, Bedau, Jessica Wilson and Chalmers, and what each brings to defining and distinguishing emergence."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Emergence](/positioning/subjects/e/emergence/) > The principals

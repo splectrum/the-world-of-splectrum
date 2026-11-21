@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-13
 title: "Domain-specific languages"
-description: "SPLectrum's reading of domain-specific languages — how DSLs sit within the seed's framework, what the engineering record already demonstrates, and where the thinking is heading."
+description: "SPLectrum's reading of domain-specific languages: how DSLs sit in the seed's framework, what the engineering record shows, and where the thinking goes."
 ---
 
 [Home](/) > [Language](/language/) > [Types](/language/types/) > Domain-specific languages

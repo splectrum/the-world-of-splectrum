@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-11-08
 title: "bare-for-pear"
-description: "Outside code brought to the Bare runtime: avsc and avsc-rpc for Avro, isomorphic-git, rpc-server, and a wrapper of the git command line, each with the upstream it comes from."
+description: "Outside code barified for the Bare runtime: avsc and avsc-rpc for Avro, isomorphic-git, and a git command-line wrapper, each listed with its upstream."
 ---
 
 [Home](/) > [Engineering](/engineering/) > [Our Software](/engineering/our-software/) > bare-for-pear

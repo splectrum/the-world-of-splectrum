@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-12
 title: "Eric Chaisson (1946–)"
-description: "American astrophysicist — cosmic evolution as the study of change in radiation, matter and life across all time, energy rate density as a measure of complexity, selection widened to any object's preferential interaction with its environment, and the scientific backbone of big history."
+description: "American astrophysicist Eric Chaisson: cosmic evolution from radiation to society, energy rate density as a measure of complexity, and big history."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Chaisson

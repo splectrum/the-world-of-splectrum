@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Ubuntu"
-description: "The southern African philosophy of personhood through relation — 'a person is a person through other persons' — its formulations across the Bantu languages, its philosophical elaboration, its role in post-apartheid reconciliation, and the disputes within it."
+description: "Ubuntu, the southern African philosophy of personhood through relation, 'a person is a person through other persons', its elaboration and its disputes."
 lastmod: 2026-06-26
 ---
 

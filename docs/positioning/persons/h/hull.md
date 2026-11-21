@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "David Hull (1935–2010)"
-description: "American philosopher of biology — Science as a Process, the replicator-interactor framework, selection theory applied to science, the species-as-individuals thesis."
+description: "American philosopher of biology: Science as a Process, the replicator-interactor framework, selection theory applied to science, species as individuals."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Hull
@@ -48,8 +48,6 @@ The thesis has metaphysical consequences. Natural kinds support laws: "All gold 
 The selection-theory-of-science analogy has been pressed on its disanalogies. In biological evolution, replication is high-fidelity (DNA copying has error rates of roughly one per billion base pairs per replication); in science, the "replication" of an idea involves transformation — scientists modify, reinterpret, and extend ideas in transmission. [Dan Sperber](https://en.wikipedia.org/wiki/Dan_Sperber) argued that cultural transmission is not replication in the genetic sense, and the objection applies to scientific transmission as well. Whether the transformations are noise (imperfect replication) or the main event (creative modification is how science works) determines whether the selection analogy illuminates or obscures. Hull acknowledged the disanalogy but argued that the replicator-interactor framework is abstract enough to accommodate transformative replication.
 
 The credit-economy model captures the incentive structure of science but not the full range of epistemic forces. Not all scientific change is driven by competition for credit: some ideas persist because they are true (or closer to true than alternatives), and the credit economy is the mechanism through which truth-tracking happens, not an independent force. Hull's account risks making science sound more like a market than an inquiry — a concern that [Philip Kitcher](/positioning/persons/k/kitcher/) and others have raised. Whether the selection model is a complete account of scientific change or a partial account that captures the competitive dynamics while missing the epistemic ones is debated.
-
-The species-as-individuals thesis is widely accepted but has consequences Hull did not fully develop. If species are individuals, then the evolutionary process creates new individuals (speciation) and destroys existing ones (extinction) — but the mechanism of individuation (what holds a species together as a cohesive entity) is not fully specified. Gene flow, interbreeding, and common descent are the standard answers for sexual species; for asexual species, the question of what makes a species a cohesive individual remains open. The thesis clarifies the ontology but defers the mechanism.
 
 ---
 

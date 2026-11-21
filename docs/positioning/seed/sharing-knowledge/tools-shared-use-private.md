@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-12
 title: "Tools Shared, Use Private"
-description: "One fact — the tools of language are held in common, their use and understanding private — seen from both ends across developmental psychology: convergence and divergence as two directions of a single dynamic, meeting in the coupling of minds."
+description: "Language tools held in common, their use private: convergence and divergence in developmental psychology as two directions of one dynamic."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Seed](/positioning/seed/) > [Sharing Knowledge](/positioning/seed/sharing-knowledge/) > Tools Shared, Use Private

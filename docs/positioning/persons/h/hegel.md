@@ -39,7 +39,7 @@ Hegel put process at the centre. Where [Kant](/positioning/persons/k/kant/) drew
 
 ## Where Hegel stops
 
-Hegel's system is totalising — spirit arrives at absolute knowing, the dialectic completes itself, history has a direction. Whether complexity can grow without arriving — whether the process and the historicity can be kept while the closure is dropped — is the question his successors have wrestled with ever since. His dialectic ranks forms of life as stages in a single development; whether they might instead have equal standing, each with its own grammar, is not a question the system can ask. And his subject is spirit — universal, self-developing, working through individuals. Whether the subject might be particular, embodied, relational — closer to [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) than to Hegel — is what the phenomenological tradition explored after him. What carries over is the process, the historicity, the insistence that nothing is simply left behind. What does not is the system, the telos, and the absolute.
+Hegel's system is totalising — spirit arrives at absolute knowing, the dialectic completes itself, history has a direction. [Kierkegaard](/positioning/persons/k/kierkegaard/) set the individual against the system: the questions of how to live require a decision no system can stand in for. And whether Hegel belongs to [process philosophy](/positioning/subjects/p/process-philosophy/) at all is disputed, because his process aims at absolute knowing where the later tradition's stays open-ended.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Social Darwinism"
-description: "The reception and misuse history — how Darwin's biology was extended into social and political theory, the eugenics movements, and how the label 'Social Darwinism' was constructed and applied."
+description: "Social Darwinism: how Darwin's biology was carried into social theory, Spencer and eugenics, and how Hofstadter's label was constructed and applied."
 lastmod: 2026-05-16
 ---
 

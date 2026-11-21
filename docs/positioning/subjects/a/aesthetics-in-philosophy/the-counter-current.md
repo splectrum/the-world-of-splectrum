@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The counter-current — aesthetics as foundational"
-description: "The thinkers who argued aesthetics belongs not at the bottom of philosophy's table but at its foundation — from Schiller's aesthetic education through Schopenhauer, Nietzsche, Croce, Dewey, Heidegger, Gadamer, Merleau-Ponty, Murdoch and Rancière."
+description: "The thinkers who argued aesthetics belongs at the foundation of philosophy, from Schiller through Schopenhauer, Nietzsche, Dewey and Heidegger to Rancière."
 lastmod: 2026-06-13
 ---
 

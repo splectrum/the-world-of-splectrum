@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-27
 title: "Max Born (1882–1970)"
-description: "German-British physicist — the probability interpretation of quantum mechanics (the Born rule), matrix mechanics, lattice dynamics, the Born-Oppenheimer approximation."
+description: "German-British physicist Max Born: the Born rule and the probability interpretation of quantum mechanics, matrix mechanics, Born-Oppenheimer."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Born

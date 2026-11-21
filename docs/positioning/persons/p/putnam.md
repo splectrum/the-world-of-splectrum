@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-19
 title: "Hilary Putnam (1926–2016)"
-description: "American philosopher — internal realism, conceptual relativity, the collapse of the fact/value dichotomy, the brain in a vat, and the trajectory from scientific realism through pragmatism."
+description: "American philosopher: internal realism, conceptual relativity, the collapse of the fact/value dichotomy, the brain in a vat, and his turn to pragmatism."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Putnam

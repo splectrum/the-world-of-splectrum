@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-12
 title: "John Searle (1932–)"
-description: "Searle built speech act theory, argued the Chinese Room against strong AI, and gave an account of how social and institutional reality is constructed from collective intentionality."
+description: "John Searle's speech act theory, the Chinese Room argument against strong AI, and his account of social reality built from collective intentionality."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Searle

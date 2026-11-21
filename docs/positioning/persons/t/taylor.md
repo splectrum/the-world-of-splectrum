@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-13
 title: "Charles Taylor (1931–)"
-description: "Canadian philosopher — Sources of the Self, the ethics of authenticity, A Secular Age, the communitarian critique of liberalism, language as constitutive expression."
+description: "Charles Taylor, Canadian philosopher: Sources of the Self, language as constitutive expression, the communitarian critique of liberalism, A Secular Age."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Taylor
@@ -56,8 +56,6 @@ The key concept is the "buffered self" — the modern self that experiences itse
 ## Where Taylor stops
 
 Taylor's project is genealogical — it tells how the modern self came to be this way, not what the self *is*. The three axes (inwardness, dialogical self, authenticity) describe a historical achievement, not an ontological structure. Taylor argues the moral sources are real, but he traces their emergence rather than grounding them. The result is a rich account of *how we got here* that stops short of a metaphysics of selfhood.
-
-The communitarian critique names the constitution of the self through shared language and moral frameworks, but Taylor does not develop a systematic account of how those frameworks interact, conflict, or change. [MacIntyre's](/positioning/persons/m/macintyre/) tradition-based rationality takes one step further; Taylor's own work stays closer to genealogy and cultural hermeneutics.
 
 The philosophy of language — expression as constitutive, not instrumental — is perhaps Taylor's deepest commitment. It connects inwardness (what I have to express), dialogue (the shared language I express through), and authenticity (the demand to express what is genuinely mine). Taylor draws the scope at the human language animal and means to — his late book is literally *The Language Animal*. The constitutive power of language is a claim about what makes human selfhood possible, not a general principle extended beyond it.
 

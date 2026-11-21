@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "John von Neumann (1903–1957)"
-description: "Hungarian-American mathematician — game theory, the von Neumann architecture, quantum mechanics, self-reproducing automata. A founding figure across mathematics, computing, physics, and economics."
+description: "John von Neumann, Hungarian-American mathematician: game theory, the von Neumann architecture, quantum mechanics, and self-reproducing automata."
 lastmod: 2026-05-26
 ---
 

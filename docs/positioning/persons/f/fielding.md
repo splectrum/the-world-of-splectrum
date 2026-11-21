@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "Roy Fielding (1965–)"
-description: "American computer scientist — defined REST in his 2000 dissertation, principal author of the HTTP specification, co-author of the URI generic-syntax RFCs, and co-founder of the Apache HTTP Server."
+description: "American computer scientist who defined REST in his 2000 dissertation, principal author of the HTTP specification and co-founder of the Apache HTTP Server."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Fielding

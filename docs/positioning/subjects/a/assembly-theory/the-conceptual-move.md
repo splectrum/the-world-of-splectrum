@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-26
 title: "Assembly Theory — The Conceptual Move"
-description: "The move that defines assembly theory: relocating complexity from object-properties to object-trajectories. The formal apparatus — assembly index, pathway, copy number, assembly equation — implements the move."
+description: "Assembly theory's defining move, relocating complexity from object properties to trajectories, with the assembly index, pathway, copy number and equation."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Assembly Theory](/positioning/subjects/a/assembly-theory/) > The Conceptual Move

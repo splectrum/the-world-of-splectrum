@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "Steven Pinker (1954–)"
-description: "Canadian-American cognitive scientist — evolutionary psychology, language as instinct, the blank slate debate, the decline of violence, Enlightenment rationalism."
+description: "Canadian-American cognitive scientist: evolutionary psychology, the language instinct, The Blank Slate, the decline of violence, and the Enlightenment."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Pinker

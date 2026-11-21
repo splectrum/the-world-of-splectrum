@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-16
 title: "The seed and an attempt at semantic information"
-description: "A physics-side attempt to define meaning in physical terms, read from the seed: what the three choices its authors call subjective are, and why a partial model tested against a partial environment is what language always does."
+description: "A physics attempt to define semantic information, read from the seed: the three choices called subjective, and why partial models are what language does."
 ---
 
 [Home](/) > [The SPLectrum Seed](/seed/) > The seed and an attempt at semantic information

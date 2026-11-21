@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "Complex Adaptive Systems"
-description: "Complex adaptive systems as a research tradition — formation at Santa Fe Institute, core concepts, key persons, methodologies, applications, contested receptions, adjacent traditions."
+description: "Complex adaptive systems as a research tradition: formation at the Santa Fe Institute, core concepts, key persons, applications, and contested receptions."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Complex Adaptive Systems

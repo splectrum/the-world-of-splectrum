@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-26
 title: "Walter Benjamin (1892–1940)"
-description: "German-Jewish philosopher, critic and translator — aura and technological reproducibility, the task of the translator, Ideas as constellations, the Arcades Project, and the theses on the concept of history."
+description: "Walter Benjamin, German-Jewish critic and philosopher: aura and technological reproducibility, the task of the translator, the Arcades Project."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Benjamin

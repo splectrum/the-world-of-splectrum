@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-12
 title: "Politics"
-description: "SPLectrum's politics — the dynamic of coexistence among diverse actors who each hold their own values, read off the configuration at every scale and worked from what is held in common — and where that dynamic surfaces across political philosophy: the one-and-the-many as the standing concern, legitimacy built from the shared, coexistence without a resolved end, and the single actor as a political site."
+description: "SPLectrum's politics as the coexistence of actors who hold their own values, traced through political philosophy: the one and the many, legitimacy."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Close affinity](/positioning/close-affinity/) > Politics

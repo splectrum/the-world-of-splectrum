@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-07
 title: "Bas van Fraassen (1941–)"
-description: "Dutch-Canadian philosopher of science — constructive empiricism: science aims at empirical adequacy, not truth about the unobservable; acceptance without belief; empiricism as a stance; the modal reading of quantum mechanics."
+description: "Bas van Fraassen's constructive empiricism: science aims at empirical adequacy, not truth about the unobservable, with acceptance without belief."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > van Fraassen

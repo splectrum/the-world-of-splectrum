@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-26
 title: "Richard Dawkins (1941–)"
-description: "British evolutionary biologist — the gene-centric view of evolution, the selfish gene, memes, the extended phenotype, universal Darwinism, and the popularisation of evolutionary science."
+description: "British evolutionary biologist known for the gene-centric view of evolution: the selfish gene, the extended phenotype, memes and universal Darwinism."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Dawkins
@@ -71,7 +71,7 @@ For the broader contested reception of gene-centrism as a tradition — multi-le
 
 ## Where Dawkins stops
 
-Dawkins' framework is gene-centric and replicator-based. Selection requires a replicator; the gene is the replicator; the organism is the vehicle. Cultural evolution, if it exists, requires cultural replicators — memes. The framework does not easily accommodate processes that are cumulative and adaptive but not replicator-based: niche construction, developmental plasticity, ecosystem-level dynamics, the mergers and incorporations between lineages that [Margulis'](/positioning/persons/m/margulis/) endosymbiosis programme centres, or cultural change that is transformative rather than replicative. The boundary of the programme is the boundary of the replicator concept.
+Dawkins' framework is gene-centric and replicator-based. Selection requires a replicator; the gene is the replicator; the organism is the vehicle. Cultural evolution, if it exists, requires cultural replicators — memes. Proponents of the [Extended Evolutionary Synthesis](/positioning/subjects/d/darwinism/after-the-synthesis/) press that the framework does not easily accommodate processes that are cumulative and adaptive but not replicator-based, niche construction and developmental plasticity among them; [Margulis](/positioning/persons/m/margulis/) pressed the same for the mergers and incorporations between lineages that her endosymbiosis programme centres. The boundary of the programme is the boundary of the replicator concept.
 
 ---
 

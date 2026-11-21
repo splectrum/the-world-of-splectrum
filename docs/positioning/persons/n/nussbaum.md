@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-13
 title: "Martha Nussbaum (1947–)"
-description: "American philosopher — the capabilities approach, central human capabilities, emotions as judgments, the fragility of goodness, political liberalism and human development."
+description: "American philosopher: the capabilities approach and central human capabilities, emotions as judgments, the fragility of goodness, and human development."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Nussbaum
@@ -57,8 +57,6 @@ Her work with the United Nations Development Programme (the Human Development Re
 ## Where Nussbaum stops
 
 The fixed list is the source of both the approach's political force and its philosophical vulnerability. Nussbaum argues the list is universal — it applies across cultures, not just to Western liberal democracies — and that it can be endorsed from within different religious and philosophical traditions. Critics have challenged both claims: the list reflects specifically Western, liberal, and Aristotelian commitments (practical reason and affiliation as architectonic, individual capabilities as the unit of analysis), and the claim to cross-cultural endorsement may understate the depth of disagreement about what a worthy life requires. Sen's procedural alternative avoids this problem at the cost of political determinacy; Nussbaum accepts the cost of substantive commitment in exchange for a framework that can ground actual constitutional provisions.
-
-The relationship between individual capabilities and collective life is a second boundary. The list is oriented to the individual — what *each person* can do and be. Affiliation is on the list, but it is framed as an individual capability (being able to live with others, having the social bases of self-respect), not as a feature of the community as such. How communities constitute capabilities, how collective goods that are not reducible to individual capabilities figure in justice, and how the capability of a community relates to the capabilities of its members are questions the framework identifies but does not fully develop.
 
 ---
 

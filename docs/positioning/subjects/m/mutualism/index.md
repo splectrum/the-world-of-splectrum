@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-07-17
 title: "Mutualism"
-description: "Mutualism — relationships of mutual benefit across two parallel traditions: ecological (interspecific interactions where both parties benefit) and socio-political (voluntary, reciprocal association based on mutual aid and shared benefit)."
+description: "Mutualism in two traditions: ecological mutualism, where both species benefit, and socio-political mutualism, voluntary association built on mutual aid."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Mutualism

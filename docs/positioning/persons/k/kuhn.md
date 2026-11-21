@@ -33,7 +33,7 @@ Kuhn showed that scientific communities constitute their own reality — and tha
 
 ## Where Kuhn stops
 
-Kuhn showed that paradigm shifts transform the world scientists inhabit — but he stayed within science. The broader question — whether all communities, not just scientific ones, constitute their reality through shared language — is not one he asked. His paradigms are disciplinary: physics, chemistry, biology. Whether the same structural insight extends to any form of shared activity sits outside his programme. And Kuhn deliberately refused to say whether paradigm change is progress toward truth. Whether there is a structural account of what language itself makes possible — rather than a question about convergence on a single reality — is a question his framework leaves open.
+Kuhn deliberately refused to say whether paradigm change is progress toward truth, and [Popper](/positioning/persons/p/popper/) and Lakatos pressed the refusal as a charge of irrationality.
 
 ---
 

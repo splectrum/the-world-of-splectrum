@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "The distributed model"
-description: "Git's most consequential choice — every clone is a complete repository, exchange between repositories is peer-to-peer, and the central server is a convention rather than a requirement."
+description: "Git's distributed model: every clone a complete repository, peer-to-peer exchange between remotes, and the central server a convention, not a need."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Git](/positioning/subjects/g/git/) > The distributed model

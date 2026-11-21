@@ -55,7 +55,7 @@ In *Mind and Matter* (1958, from his Tarner lectures) Schrödinger names "the pr
 
 ## Where Schrödinger stops
 
-Schrödinger's question in *What is Life?* — how does an organism maintain its order? — is a physicist's question addressed to biology. The answer (negative entropy, open systems, free-energy processing) identifies the thermodynamic conditions that life requires but does not address how living systems achieve what they achieve: how genetic information is encoded, how it is read, how development produces form, how evolution generates novelty. The thermodynamic framing establishes a necessary condition for life — an entropy gradient — without addressing the biological mechanisms that exploit it. [Prigogine's](/positioning/persons/p/prigogine/) dissipative structures later formalised the far-from-equilibrium dynamics; molecular biology supplied the mechanistic detail. Schrödinger posed the question at the right level of generality; the answers came from other programmes.
+Schrödinger's question in *What is Life?* — how does an organism maintain its order? — is a physicist's question addressed to biology. The answer (negative entropy, open systems, free-energy processing) identifies the thermodynamic conditions that life requires. [Prigogine's](/positioning/persons/p/prigogine/) dissipative structures later formalised the far-from-equilibrium dynamics; molecular biology supplied the mechanistic detail. Schrödinger posed the question at the right level of generality; the answers came from other programmes.
 
 ---
 

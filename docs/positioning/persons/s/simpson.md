@@ -59,8 +59,6 @@ Simpson reconciled paleontology with the Synthesis by showing that the fossil re
 
 Quantum evolution — Simpson's most original idea — was also his weakest. He himself retreated from it in *The Major Features of Evolution*. The concept was vaguely defined: the population size, the strength of drift and selection, and the duration of the transition were all left unspecified. Eldredge and Gould's punctuated equilibrium supplied a more rigorous mechanism (ordinary speciation in small peripheral isolates, followed by stasis in the main population), but their debt to Simpson's intuition — that the important events happen in small populations at rates the fossil record cannot resolve — is acknowledged.
 
-Simpson's classification of evolutionary rates remains useful as descriptive vocabulary. What it does not provide is a causal account of why particular lineages evolve at particular rates. The tempo is described; the causes of tempo variation are left to the population geneticists.
-
 ---
 
 ## Key works

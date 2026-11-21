@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-29
 title: "The syntax"
-description: "The generic URI grammar of RFC 3986 — scheme, authority, path, query, and fragment — with percent-encoding, absolute and relative references, and the IRI extension to Unicode."
+description: "URI syntax under RFC 3986: scheme, authority, path, query and fragment, percent-encoding, absolute and relative references, and the IRI extension."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [URI](/positioning/subjects/u/uri/) > The syntax

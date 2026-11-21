@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "Philip Kitcher (1947–)"
-description: "British-American philosopher of science — the organisation of cognitive labour, the advancement of science, the critique of Hull's credit economy, mathematical naturalism, ethical life."
+description: "British-American philosopher of science: the organisation of cognitive labour, The Advancement of Science, the critique of Hull, and mathematics."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Kitcher
@@ -45,11 +45,9 @@ Kitcher's model sits within a broader field of social epistemology — [Alvin Go
 
 ## Where Kitcher stops
 
-The organisation-of-cognitive-labour model is a normative model — it describes how the community *should* distribute its resources for optimal epistemic results. Whether actual scientific communities approximate the model is an empirical question the model does not answer. The incentive structures of real science — funding pressures, tenure requirements, the prestige hierarchy of journals and institutions — may or may not channel individual ambition into collectively productive patterns. Kitcher's model shows that the right social structure could make science reliably truth-tracking; it does not show that the existing social structure is the right one.
-
 The critique of sociobiology was powerful on methodological grounds but did not settle the substantive question of whether evolutionary approaches to human behaviour are productive. The subsequent development of evolutionary psychology — with more rigorous testing standards, cross-cultural data, and experimental methods — has addressed some of Kitcher's objections while leaving others open. Whether the field has matured into a legitimate science or merely refined its just-so stories is debated.
 
-The naturalistic ethics programme (*The Ethical Project*, 2011) argues that ethical concepts emerged through a historical process of social problem-solving and that ethical progress is real but contingent. The account is descriptively plausible but normatively thin: if ethics is a product of social negotiation, what grounds the claim that some outcomes are genuinely better than others? Kitcher's answer — that ethical progress consists in expanding the capacity for sympathetic responsiveness — has been challenged as importing a substantive moral commitment (sympathy matters) into a framework that claims to be merely naturalistic.
+The naturalistic ethics programme (*The Ethical Project*, 2011) argues that ethical concepts emerged through a historical process of social problem-solving and that ethical progress is real but contingent. If ethics is a product of social negotiation, what grounds the claim that some outcomes are genuinely better than others? Kitcher's answer — that ethical progress consists in expanding the capacity for sympathetic responsiveness — has been challenged as importing a substantive moral commitment (sympathy matters) into a framework that claims to be merely naturalistic.
 
 ---
 

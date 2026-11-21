@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Alfred Russel Wallace (1823–1913)"
-description: "British naturalist — co-discoverer of natural selection, founder of biogeography, the Wallace Line, and a public voice on land reform, spiritualism, and the limits of selection."
+description: "Alfred Russel Wallace, co-discoverer of natural selection and founder of biogeography: the Wallace Line, spiritualism, and the limits of selection."
 lastmod: 2026-05-28
 ---
 
@@ -49,7 +49,7 @@ Wallace was publicly active across a wider range of causes than most Victorian n
 
 ## Where Wallace stops
 
-Wallace's contribution to natural selection was real and independent — but his published development of the theory was briefer and less sustained than Darwin's, and the further questions he opened (the limits of selection for the human case, the spiritualist alternative) he did not develop into a research programme others could take up. His biogeography established the field's foundations but predated plate tectonics; the causal explanations he could offer for faunal distributions were limited by the geology available to him. And the range of his public interests — land reform, vaccination, Mars, spiritualism — gave his later career a breadth that cost him focus in the eyes of scientific contemporaries and contributed to the parenthetical reception Berry describes.
+The limit Wallace set on natural selection, that it could not account for the human intellect, was pressed against him by Darwin, Huxley and most of his scientific contemporaries. The range of his public interests — land reform, vaccination, Mars, spiritualism — gave his later career a breadth that cost him focus in the eyes of scientific contemporaries and contributed to the parenthetical reception Berry describes.
 
 ---
 

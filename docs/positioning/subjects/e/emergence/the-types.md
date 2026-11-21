@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-09
 title: "The Types of Emergence"
-description: "The named types and definitions of emergence across the disciplines — the axes every definition takes a position on, and the catalogue from Mill's heteropathic effects to the contested emergent abilities of large language models."
+description: "The named types and definitions of emergence across fields, from Mill's heteropathic effects to the disputed emergent abilities of large language models."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Emergence](/positioning/subjects/e/emergence/) > The types

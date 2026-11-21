@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-18
 title: "Isabelle Stengers (b. 1949)"
-description: "Stengers built a philosophy of scientific practices — cosmopolitics, ecology of practices, reciprocal capture — and returned Whitehead to serious philosophical reading in continental thought."
+description: "Isabelle Stengers's philosophy of scientific practices: cosmopolitics, the ecology of practices, her work with Prigogine, and thinking with Whitehead."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Stengers

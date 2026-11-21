@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-27
 title: "The Shared Voice"
-description: "Common understanding is a language in its own right — a shared voice, built between subjects by the interaction that is primary, strong enough for coexistence, and the place where reading across games, agreement, disagreement and the judgement 'this does not make sense' all happen."
+description: "Common understanding as a language in its own right: a shared voice built between subjects by interaction, where agreement and disagreement happen."
 ---
 
 [Home](/) > [Reality](/reality/) > The shared voice

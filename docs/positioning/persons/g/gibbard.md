@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-07-03
 title: "Allan Gibbard (1942–)"
-description: "Gibbard analysed moral and rational judgement as the acceptance of norms, and later as planning — expressivism recast around what it is to decide how to live."
+description: "Allan Gibbard's expressivism: moral and rational judgement analysed as the acceptance of norms, and later as planning, deciding how to live."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Gibbard

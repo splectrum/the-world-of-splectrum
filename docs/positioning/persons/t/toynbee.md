@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-30
 title: "Arnold J. Toynbee (1889–1975)"
-description: "British historian — A Study of History, the comparative study of civilisations, challenge and response, creative minorities and mimesis, breakdown and disintegration, the universal state and the universal church, and the debates with Geyl and Trevor-Roper."
+description: "Arnold J. Toynbee's A Study of History: the comparative study of civilisations, challenge and response, creative minorities, breakdown and disintegration."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Toynbee

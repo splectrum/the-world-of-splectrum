@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-30
 title: "Peter Turchin (1957–)"
-description: "Russian-American population ecologist turned historian — cliodynamics, secular cycles and structural-demographic theory, elite overproduction, asabiya and metaethnic frontiers, cultural multilevel selection and the evolution of large-scale societies, and the Seshat databank."
+description: "Peter Turchin's cliodynamics: secular cycles and structural-demographic theory, elite overproduction, asabiya, cultural multilevel selection, and Seshat."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Turchin

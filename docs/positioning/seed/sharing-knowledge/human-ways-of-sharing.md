@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-12
 title: "Human Ways of Sharing"
-description: "An overview of the mechanisms by which a subject acquires the shared language tools, as named in developmental psychology and language acquisition — grouped into those that only bring the common in, and those that also carry the private back out."
+description: "How a subject acquires shared language tools, per developmental psychology: mechanisms that bring the common in, and those that carry the private back out."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Seed](/positioning/seed/) > [Sharing Knowledge](/positioning/seed/sharing-knowledge/) > Human Ways of Sharing

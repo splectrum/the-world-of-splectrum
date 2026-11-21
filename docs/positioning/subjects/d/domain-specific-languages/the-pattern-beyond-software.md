@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-13
 title: "The Pattern Beyond Software"
-description: "Purpose-built vocabularies beyond software — from Lavoisier's chemical nomenclature and Linnaeus's taxonomy to mathematical notation, musical notation, and the vocabularies philosophers build for domains ordinary language cannot reach."
+description: "Purpose-built vocabularies outside software, from Lavoisier's chemical nomenclature and Linnaeus to mathematical, musical and philosophical notation."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [DSL](/positioning/subjects/d/domain-specific-languages/) > The Pattern Beyond Software

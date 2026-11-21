@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-09-30
 title: "Evolution"
-description: "The word 'evolution' across its homes — its history before and after biology, the two senses it carries, unfolding and descent with modification, and the criterion each field uses to say what it means by it."
+description: "The word evolution across its homes: its history before and after biology, its senses of unfolding and of descent with modification, and each criterion."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > Evolution

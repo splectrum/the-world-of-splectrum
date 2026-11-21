@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-28
 title: "Wolfgang Pauli (1900–1958)"
-description: "Pauli gave physics the exclusion principle, electron spin, and the neutrino — and, singularly among the quantum founders, took the relation of physics and psyche seriously in his work with Jung."
+description: "Wolfgang Pauli: the exclusion principle, electron spin and the neutrino, and, alone among the quantum founders, physics and psyche with Jung."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Pauli

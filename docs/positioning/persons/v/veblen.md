@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "Thorstein Veblen (1857–1929)"
-description: "Norwegian-American economist and sociologist — institutional economics, conspicuous consumption, the leisure class, 'Why is economics not an evolutionary science?'"
+description: "Thorstein Veblen, founder of institutional economics: conspicuous consumption, the leisure class, and 'Why is economics not an evolutionary science?'"
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Veblen

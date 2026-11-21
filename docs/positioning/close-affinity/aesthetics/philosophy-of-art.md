@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-23
 title: "The philosophy of art"
-description: "The aesthetics branch on the philosophy of art — where the dynamics of meaning appears under its own names: expression theory (Croce, Collingwood), the theory of metaphor (Ricoeur), and symbolic forms (Cassirer)."
+description: "The philosophy of art, where the dynamics of meaning keeps its name: expression in Croce and Collingwood, Ricoeur's metaphor, Cassirer's symbolic forms."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Close affinity](/positioning/close-affinity/) > [Aesthetics](/positioning/close-affinity/aesthetics/) > The philosophy of art

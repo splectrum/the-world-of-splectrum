@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-28
 title: "B.F. Skinner (1904–1990)"
-description: "Skinner built the experimental analysis of behaviour around operant conditioning and the philosophy of radical behaviourism, and reached far beyond psychology — into philosophy, linguistics, social design, and the reinforcement learning of AI."
+description: "B.F. Skinner's operant conditioning and radical behaviourism, Verbal Behavior, his social design, and his reach into philosophy, linguistics and AI."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Skinner

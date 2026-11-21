@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-06-22
 title: "Friedrich Schleiermacher (1768–1834)"
-description: "German theologian and philosopher — the founder of general hermeneutics, grammatical and psychological interpretation, religion as the feeling of absolute dependence."
+description: "Friedrich Schleiermacher, founder of general hermeneutics: grammatical and psychological interpretation, religion as the feeling of absolute dependence."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Schleiermacher

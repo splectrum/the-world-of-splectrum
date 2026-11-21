@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-25
 title: "CAS — Adjacent traditions"
-description: "Traditions adjacent to complex adaptive systems — cybernetics, general systems theory, chaos, cellular automata, evolutionary theory, network science, statistical mechanics. Where the boundaries are sharp and where they are fuzzy."
+description: "Traditions adjacent to complex adaptive systems: cybernetics, systems theory, chaos, cellular automata, evolution, network science, statistical mechanics."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/) > Adjacent traditions

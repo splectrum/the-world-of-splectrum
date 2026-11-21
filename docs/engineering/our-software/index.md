@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-11-08
 title: "Our Software"
-description: "The GitHub organisations SPLectrum's software lives in: bare-for-pear for outside code adapted to Bare, pear-full-square for the engines, HAICCing for projects and packages, SPLectral for its components, and SPLectrum for the planning and the site."
+description: "The five GitHub organisations SPLectrum's software lives in: bare-for-pear, pear-full-square for the engines, HAICCing, SPLectral, and SPLectrum."
 ---
 
 [Home](/) > [Engineering](/engineering/) > Our Software

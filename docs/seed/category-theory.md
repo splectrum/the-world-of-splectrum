@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-12
 title: "When category theory and the seed meet"
-description: "The SPLectrum seed and category theory — CT's primitives are P0 and P1 in mathematical form. Given those two, CT generates the rest of the seed from its own internal logic."
+description: "The SPLectrum seed and category theory: objects and arrows are P0 and P1 in mathematical form, and from them the theory generates the rest of the seed."
 ---
 
 [Home](/) > [The SPLectrum Seed](/seed/) > When category theory and the seed meet

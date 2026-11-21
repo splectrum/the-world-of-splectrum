@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The subordination of aesthetics"
-description: "How aesthetics ended up ranked last among philosophy's branches — from Plato's banishment of the poets through Baumgarten's 'lower gnoseology,' Kant's regulative bridge, Hegel's verdict on art, and the analytic tradition's institutional marginalisation."
+description: "The subordination of aesthetics: Plato's banishment of the poets, Baumgarten's lower gnoseology, Kant, Hegel's verdict on art, and analytic neglect."
 lastmod: 2026-06-13
 ---
 
