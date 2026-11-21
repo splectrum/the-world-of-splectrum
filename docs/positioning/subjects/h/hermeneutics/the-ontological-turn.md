@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Hermeneutics: the ontological turn and the disputes"
-description: "Understanding recast as a mode of being — Heidegger's fore-structure, Gadamer's philosophical hermeneutics, Ricoeur's hermeneutics of suspicion, and the disputes that contested the move: Betti and Hirsch on validity, Habermas on ideology, the Gadamer–Derrida encounter."
+description: "Hermeneutics as a mode of being: Heidegger, Gadamer and Ricoeur, and the disputes it met from Betti, Hirsch, Habermas and Derrida."
 lastmod: 2026-06-22
 ---
 
@@ -43,7 +43,7 @@ The recasting of understanding from a method into a mode of being did not go unc
 
 ## The reach
 
-Hermeneutics has shaped fields well beyond philosophy. In theology, [Rudolf Bultmann](https://en.wikipedia.org/wiki/Rudolf_Bultmann)'s programme of demythologising and the "New Hermeneutic" of Ernst Fuchs and Gerhard Ebeling brought Heideggerian interpretation into the reading of scripture. In the social sciences, the *Verstehen* tradition runs through Max Weber's interpretive sociology and Alfred Schütz's phenomenological account of the social world into the interpretive turn of later anthropology and ethnography. Legal theory continues to argue over interpretation and application in terms hermeneutics supplied. Literary theory absorbed both the reception-oriented work that descends from Gadamer (Hans Robert Jauss and the Constance school) and the suspicion that descends from Ricoeur. In Anglophone philosophy, [Rorty](/positioning/persons/r/rorty/) enlisted hermeneutics for his contrast between an "edifying" philosophy of open conversation and a "systematic" philosophy seeking final foundations. What travels under the name now ranges from a technique of textual scholarship to a general name for the interpretive character of human understanding.
+Hermeneutics has shaped fields well beyond philosophy. In theology, [Rudolf Bultmann](https://en.wikipedia.org/wiki/Rudolf_Bultmann)'s programme of demythologising and the "New Hermeneutic" of Ernst Fuchs and Gerhard Ebeling brought Heideggerian interpretation into the reading of scripture. In the social sciences, the *Verstehen* tradition runs through Max Weber's interpretive sociology and [Alfred Schutz](https://plato.stanford.edu/entries/schutz/)'s phenomenological account of the social world into the interpretive turn of later anthropology and ethnography. Legal theory continues to argue over interpretation and application in terms hermeneutics supplied. Literary theory absorbed both the reception-oriented work that descends from Gadamer (Hans Robert Jauss and the Constance school) and the suspicion that descends from Ricoeur. In Anglophone philosophy, [Rorty](/positioning/persons/r/rorty/) enlisted hermeneutics for his contrast between an "edifying" philosophy of open conversation and a "systematic" philosophy seeking final foundations. What travels under the name now ranges from a technique of textual scholarship to a general name for the interpretive character of human understanding.
 
 ---
 

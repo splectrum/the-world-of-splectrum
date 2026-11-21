@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-28
 title: "Jean-François Lyotard (1924–1998)"
-description: "Lyotard diagnosed the collapse of grand narratives — what remains is a plurality of language games, each with its own rules, none entitled to subsume the others."
+description: "Jean-François Lyotard and the postmodern condition: grand narratives collapse into a plurality of language games, none entitled to subsume the others."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Lyotard
@@ -19,7 +19,7 @@ Lyotard named the collapse of grand narratives. No single story — Enlightenmen
 
 **The postmodern condition.** "Simplifying to the extreme, I define postmodern as incredulity toward metanarratives." The book was commissioned as a report on the state of knowledge for the government of Quebec — a policy document that became the manifesto of postmodernism. The grand narratives no longer convince — not because they were refuted, but because the conditions that sustained them have changed. Knowledge is no longer legitimated by a single story but operates locally, within specific practices.
 
-**Language games.** Lyotard takes [Wittgenstein](/positioning/persons/w/wittgenstein/)'s concept and gives it a political edge. Each language game has its own rules — scientific, narrative, prescriptive, performative. The rules of one game cannot be imposed on another without doing violence. Justice, for Lyotard, consists in respecting the heterogeneity of games — a position [Habermas](/positioning/persons/h/habermas/) directly contested, arguing that justice requires a shared framework for adjudication. The Lyotard-Habermas debate is one of the defining disagreements of late twentieth-century philosophy.
+**Language games.** Lyotard takes [Wittgenstein](/positioning/persons/w/wittgenstein/)'s concept and gives it a political edge. Each language game has its own rules — scientific, narrative, prescriptive, performative. The rules of one game cannot be imposed on another without doing violence. Justice, for Lyotard, consists in respecting the heterogeneity of games — and consensus as the goal of discourse does violence to it. [Habermas](/positioning/persons/h/habermas/) directly contested the position, arguing that justice requires a shared framework for adjudication. The Lyotard-Habermas debate is one of the defining disagreements of late twentieth-century philosophy.
 
 **The differend (*le différend*).** A conflict between parties that cannot be resolved justly because there is no shared rule of judgment. One party's idiom does not translate into the other's. The differend is not a dispute (which can be settled within a shared framework) but a deeper incommensurability. To force resolution under one party's rules is to silence the other.
 
@@ -31,7 +31,7 @@ Lyotard named the collapse of grand narratives. No single story — Enlightenmen
 
 ## Where Lyotard stops
 
-Lyotard diagnosed the collapse but refused to build on the ruins. The differend is irreducible — there is no way across, no shared ground, only the obligation to bear witness to what cannot be expressed. This is powerful as ethics but paralysing as construction. Whether sharing can happen across incommensurable games — whether the differend is the whole story or whether convergence also occurs, indirectly, through the grassroots interaction of vocabularies — is a question his framework forecloses. Lyotard diagnosed the condition; whether something can be built within it is the question he leaves open.
+Lyotard diagnosed the collapse and held the differend irreducible: there is no way across, no shared ground, only the obligation to bear witness to what cannot be expressed. [Habermas](/positioning/persons/h/habermas/) pressed the opposite case, that justice requires a shared framework for adjudication.
 
 ---
 

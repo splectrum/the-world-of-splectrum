@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "The disclosive branch"
-description: "Phenomenology's relocation of the metaphysical questions — from theories built about reality to descriptions of how reality shows up to a situated subject. Husserl, Heidegger, Merleau-Ponty, and the hermeneutic extension."
-lastmod: 2026-06-25
+description: "Phenomenology's relocation of the metaphysical questions: from theories built about reality to how reality shows up to a situated subject."
+lastmod: 2026-11-21
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Subjects](/positioning/subjects/) > [Metaphysics](/positioning/subjects/m/metaphysics/) > The disclosive branch
@@ -29,4 +29,4 @@ The hermeneutic tradition ([hermeneutics](/positioning/subjects/h/hermeneutics/)
 
 ## Where the disclosive stance stops
 
-The disclosive stance begins from the subject to whom the world is given, and that starting point is also the edge it has the most trouble reaching past. Even at its most relational — Husserl's analyses of how other subjects are experienced rather than inferred, Merleau-Ponty's intercorporeality — the description works outward from one subject's field of experience. How a genuinely *shared* world is constituted among many subjects, none of whom occupies another's standpoint, is a question the tradition opens with care and does not close: intersubjectivity is named as the hard problem and left as the frontier. There is a second, internal strain. The stance trades correspondence for disclosure, but it still wants its descriptions to be *faithful* — to get the phenomena right — and what fidelity to appearance means, once the independent standard appearances might be checked against has been set aside, is something the branch debates without settling. Describing how reality shows up, it turns out, does not by itself supply the measure of a description's being right.
+The disclosive stance begins from the subject to whom the world is given. How a genuinely *shared* world is constituted among many subjects, none of whom occupies another's standpoint, is the question on which the tradition divides: whether the other is constituted from the ego's own field (Husserl), is there with the self from the first (Heidegger, Merleau-Ponty), or approaches from beyond any constitution ([Levinas](/positioning/persons/l/levinas/)). The [phenomenology](/positioning/subjects/p/phenomenology/) page walks the positions. There is a second, internal strain. The stance trades correspondence for disclosure, but it still wants its descriptions to be *faithful* — to get the phenomena right — and what fidelity to appearance means, once the independent standard appearances might be checked against has been set aside, is something the branch debates without settling. Describing how reality shows up, it turns out, does not by itself supply the measure of a description's being right.

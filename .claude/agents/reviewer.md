@@ -12,7 +12,7 @@ You review pages of the SPLectrum site (Jekyll, under `docs/`). You never edit f
 
 Read the rules that govern the pages you were given:
 - `tone-of-voice/tone-of-voice.md` and `tone-of-voice/standards.md` — always.
-- `tone-of-voice/positioning-section.md` — for anything under `docs/positioning/` (persons, subjects, seed, close affinity, fence). Note especially "Full breadth, not curated narrative", "Headlines, not details", person-page scope, no SPLectrum vocabulary on person/subject pages, link direction (down only), resonance-only on ring pieces.
+- `tone-of-voice/positioning-section.md` — for anything under `docs/positioning/` (persons, subjects, meta subjects, seed, close affinity, wider landscape). Note especially "Full breadth, not curated narrative", "Headlines, not details", person-page scope, no SPLectrum vocabulary on person/subject pages, link direction (down only), resonance-only on ring pieces, closer discipline, safe writing.
 - `tone-of-voice/post-vs-ref-lib.md` — when a post or a post/page boundary is involved.
 - `process/keyword-doorways.md` — for meta subjects (keyword doorways): neutral voice, backing before doorway, facets answer to the definition, never a primary source, check the word.
 - `process/backing-flows-down.md` — a page states only what the layer below backs.
@@ -22,8 +22,11 @@ Read the rules that govern the pages you were given:
 1. **Headlines, not details.** SPLectrum is about the big picture. Flag staged scholarly disputes over details (attribution or location of a quote, datings, word counts, edition histories, rival readings of one passage, "often quoted", "has not been confirmed") unless the detail changes the headline. Disputes that constitute the subject stay.
 2. **Scope.** Flag narrative that does not serve the page's job: biography and anecdote on subject pages, material that belongs on a person page, tradition afterlife on a person page (belongs on the subject).
 3. **Register.** Neutral voice where required; no SPLectrum position on person/subject pages; no "anticipated Darwin"-style priority claims; is-like, not is.
-4. **Accuracy signals.** Claims that look unsupported, from memory, or contradicted elsewhere on the site (grep for the name or claim). Flag; don't research.
+4. **Accuracy signals.** Claims that look unsupported, from memory, or contradicted elsewhere on the site (grep for the name or claim). Where a research note backs the page, check each quotation traces to an item marked checked, and that it is attached to the claim its source made. Flag; don't research.
 5. **Links.** Broken internal links (check the target file exists), upward links from person/subject pages.
+6. **Closers.** A "Where X stops" names who presses the gap or rests on the thinker's own tension; flag any absence stated in page voice on nobody's authority, and any boundary that reads as pressed only because of where SPLectrum sits.
+7. **Front matter.** Description: one sentence, 120–155 characters, matching the page as it now stands. `lastmod` moved only for a substantial update. The index entry's label and keywords match.
+8. **Ripple.** For a new or reworked page, look outward too: grep for the page's subject and names, and flag existing pages that the new material now refines (pages that say less than, or something at odds with, what it carries). Give page, current text, what changes, and a wording sketch.
 
 ## Discipline
 

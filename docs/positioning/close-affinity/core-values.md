@@ -1,8 +1,8 @@
 ---
 layout: default
-lastmod: 2026-10-12
+lastmod: 2026-11-21
 title: "The three core values"
-description: "Belonging, privacy, creativity as a philosophical triad — the four thinkers who hold all three together from different starting points, and each value carried in depth across its own traditions."
+description: "The three core values, belonging, privacy and creativity, as a philosophical triad: four thinkers who hold all three, and each value in depth."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Close affinity](/positioning/close-affinity/) > The three core values
@@ -49,7 +49,9 @@ Bakhtin holds the three as features of how language works — of the utterance, 
 
 **[Emmanuel Levinas](/positioning/persons/l/levinas/)** — the face of the Other precedes all belonging. The ethical demand is infinite and asymmetrical — the Other's claim on me is not reciprocal. Levinas places the Other at the centre, and the relation is asymmetrical by design. He also develops interiority — the subject as separated, enjoying its own inner life — which places him across belonging and privacy at once.
 
-**[Martin Heidegger](/positioning/persons/h/heidegger/)** — Being-in-the-world is always already Being-with (*Mitsein*). The self is not first isolated and then socialised; it is from the start situated in a shared world of meaning. The priority of the shared is structural. His account of the shared world is oriented toward everydayness and the *they* (*das Man*) — the shared world as the condition from which authentic selfhood must be won.
+**[Edith Stein](/positioning/persons/s/stein/)** — the "we" that keeps the "I". Shared feeling is richer than any single one: "we" feel "a different joy from 'I,' 'you,' and 'he' in isolation", and yet "'I,' 'you,' and 'he' are retained in 'we'". Belonging, here, widens the I without dissolving it.
+
+**[Martin Heidegger](/positioning/persons/h/heidegger/)** — Being-in-the-world is always already Being-with (*Mitsein*). The self is not first isolated and then socialised; it is from the start situated in a shared world of meaning. The priority of the shared is structural. His account of the shared world is oriented toward everydayness and the *they* (*das Man*) — the shared world as the condition of which authentic selfhood is a modification, not an escape.
 
 **[Alasdair MacIntyre](/positioning/persons/m/macintyre/) and [Michael Sandel](/positioning/persons/s/sandel/)** — the communitarian critique of the unencumbered self. The self is constituted by its community's traditions, its shared moral frameworks, its practices. You cannot step behind your attachments and choose from nowhere. MacIntyre develops the point into tradition-constituted rationality; Sandel into the encumbered self against [Rawls's](/positioning/persons/r/rawls/) liberal abstraction. For both, belonging is constitutive of the self.
 
@@ -59,11 +61,13 @@ Bakhtin holds the three as features of how language works — of the utterance, 
 
 **[Thomas Nagel](/positioning/persons/n/nagel/)** — "What is it like to be a bat?" The subjective point of view is irreducible: no objective description absorbs it, and the more objective an account becomes, the further it moves from the experience. For Nagel the barrier lies between kinds of experiencer rather than between one person and another — "Rather it is a type" — so what he carries is not privacy as such but its ground: a point of view that cannot be had from outside.
 
+**[Dan Zahavi](/positioning/persons/z/zahavi/)** — the experiential self. Every experience carries a for-me-ness: it is "given differently (but not necessarily better) to me than to anybody else". The structure is common to every subject; the self it gives is each one's own: "only my experiences are given in a first-personal mode of presentation to me". The other's experience is not hidden from me but given otherwise — a difference of access that is "constitutional", not a shortcoming.
+
 **Emmanuel Levinas** — interiority is positive, not a gap. The subject enjoys (*jouissance*) its own inner life before any encounter with the Other. Separation is a condition for ethics, not its obstacle — only a genuinely interior being can be addressed. Levinas places interiority and belonging in a sequence: separation first, encounter second.
 
 **[Hannah Arendt](/positioning/persons/a/arendt/)** — the private realm is the realm of necessity, the body, the household — the precondition for the public realm of action and speech, but subordinate to it. The private shelters the person who will appear in public, and the weight of Arendt's framework falls on the public — plurality, action, the space of appearance.
 
-**[Maurice Merleau-Ponty](/positioning/persons/m/merleau-ponty/)** — the lived body is the site of privacy. Perception is always mine — embodied, perspectival, irreducibly first-personal. But the body is also intercorporeal: it reaches toward others, it inhabits a shared world. Merleau-Ponty holds the private and the shared together through the body without splitting them into separate domains.
+**[Maurice Merleau-Ponty](/positioning/persons/m/merleau-ponty/)** — the lived body is the site of privacy. Perception is always mine — embodied, perspectival, irreducibly first-personal. But the body is also intercorporeal: it reaches toward others, it inhabits a shared world. Merleau-Ponty holds the private and the shared together through the body without splitting them into separate domains: "Solitude and communication cannot be the two horns of a dilemma, but two 'moments' of one phenomenon".
 
 ---
 
@@ -85,7 +89,7 @@ Bakhtin holds the three as features of how language works — of the utterance, 
 
 ## How the triad surfaces
 
-The three values arrive separately across the tradition. Belonging is carried by the dialogical and communitarian thinkers (Buber, Levinas, Heidegger, MacIntyre, Sandel); privacy by the phenomenologists and philosophers of subjectivity (Merleau-Ponty, Levinas's interiority, and Nagel for the irreducible point of view it rests on); creativity by the process philosophers and the theorists of social imagination (Whitehead, Bergson, Castoriadis, Arendt, James, Deleuze). Each strand carries its value with depth and precision.
+The three values arrive separately across the tradition. Belonging is carried by the dialogical and communitarian thinkers (Buber, Levinas, Heidegger, MacIntyre, Sandel); privacy by the phenomenologists and philosophers of subjectivity (Merleau-Ponty, Levinas's interiority, Zahavi's for-me-ness, and Nagel for the irreducible point of view it rests on); creativity by the process philosophers and the theorists of social imagination (Whitehead, Bergson, Castoriadis, Arendt, James, Deleuze). Each strand carries its value with depth and precision.
 
 Four thinkers hold something like all three at once, each through a different material: Taylor through a genealogy of the modern self, Whitehead through a cosmology, Nishida through the self-aware act, Bakhtin through the working of language. That the triad surfaces whole in materials this far apart — history, cosmos, act, utterance — is the resonance: the three tend to arrive together wherever thought takes up the subject among others.
 

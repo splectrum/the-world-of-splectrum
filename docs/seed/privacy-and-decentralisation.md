@@ -21,7 +21,7 @@ As per the [philosophical seed](/seed/philosophical/). A relation's reach depend
 
 **P2 — Language is the medium through which a subject experiences reality.**
 
-P2 is where privacy becomes irreducible. A subject's experience is constitutively its own — no outside access, no view from nowhere. [Husserl](/positioning/persons/h/husserl/) shows this through the phenomenological reduction: what remains when everything external is bracketed is the subject's own experiencing. [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) places the body as the medium — perception is always from here, never from there. [Nagel](/positioning/persons/n/nagel/) makes the point without metaphysical apparatus: there is something it is like to be a subject, and that something is structurally inaccessible from outside.
+P2 is where privacy becomes irreducible. A subject's experience is constitutively its own — no outside access, no view from nowhere. [Husserl](/positioning/persons/h/husserl/) shows this through the phenomenological reduction: what remains when everything external is bracketed is the subject's own experiencing. [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) places the body as the medium — perception is always from here, never from there. [Zahavi](/positioning/persons/z/zahavi/) names it directly: every experience carries a for-me-ness, given to me differently than to anyone else. [Nagel](/positioning/persons/n/nagel/) supplies the ground: there is something it is like to be a subject, a point of view no objective description absorbs.
 
 The totality of what a subject feels and thinks is private — not as a preference or a right, but as a condition of being a subject at all. Privacy is not added to experience; it is experience.
 

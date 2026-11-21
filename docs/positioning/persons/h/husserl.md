@@ -1,8 +1,8 @@
 ---
 layout: default
-lastmod: 2026-11-20
+lastmod: 2026-11-21
 title: "Edmund Husserl (1859–1938)"
-description: "Husserl founded phenomenology, the systematic study of experience from the inside: intentionality, time-consciousness and the lifeworld."
+description: "Husserl founded phenomenology, the study of experience from the inside: intentionality, time-consciousness, the lifeworld and intersubjectivity."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Husserl
@@ -29,7 +29,7 @@ Husserl founded [phenomenology](/positioning/subjects/p/phenomenology/) — the 
 
 **The lifeworld (*Lebenswelt*).** The pre-scientific, pre-theoretical world of lived experience — the ground on which all theoretical constructions are built. The sciences abstract from the lifeworld but depend on it. Introduced in *The Crisis of European Sciences*, where objectivism, in the *Internet Encyclopedia of Philosophy*'s account, helps to cause "a 'crisis of European humanity'". The crisis is not in the sciences' results but in "what science in general had meant and can mean for human existence": "Merely fact-minded sciences make merely fact-minded people" (§2, tr. Carr). Parts I–II appeared in 1936, the whole in 1954. In §9 [Galileo](/positioning/persons/g/galileo/)'s achievement is a "mathematizing reinterpretation of nature", after which people came to "take for true being what is actually a method" (tr. Carr, as the *Stanford Encyclopedia of Philosophy* quotes it).
 
-**Intersubjectivity.** The *Fifth Cartesian Meditation* opens with the objection against Husserl's own method: reduced to the transcendental ego, "do I not become solus ipse"? His answer is that other subjects are not inferred but experienced, through empathy (*Einfühlung*): my body is paired with a body over there, and the other's life is appresented, never presented. The other is given as other in the "verifiable accessibility of what is not originally accessible". The account ends not in a pair but in a community: the ego can experience a world "only by being in communion with others like himself: a member of a community of monads", and "there can exist only one Objective world". His own conclusion: "The illusion of a solipsism is dissolved" (tr. Cairns). [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) and [Levinas](/positioning/persons/l/levinas/) each took this in different directions, but the move is Husserl's: intersubjectivity is given in experience, not constructed by reasoning.
+**Intersubjectivity.** The *Fifth Cartesian Meditation* opens with the objection against Husserl's own method: reduced to the transcendental ego, "do I not become solus ipse"? His answer is that other subjects are not inferred but experienced, through empathy (*Einfühlung*): my body is paired with a body over there, and the other's life is appresented, never presented. The other is given as other in the "verifiable accessibility of what is not originally accessible". The account ends not in a pair but in a community: the ego can experience a world "only by being in communion with others like himself: a member of a community of monads", and "there can exist only one Objective world". His own conclusion: "The illusion of a solipsism is dissolved" (tr. Cairns). [Edith Stein](/positioning/persons/s/stein/), later his assistant, wrote her doctoral thesis on empathy under him. [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) and [Levinas](/positioning/persons/l/levinas/) each took this in different directions, but the move is Husserl's: intersubjectivity is given in experience, not constructed by reasoning.
 
 **Philosophy as rigorous science.** The *Logos* essay of 1911 opens: "From its earliest beginnings philosophy has claimed to be rigorous science", the science that "renders possible from an ethico-religious point of view a life regulated by pure rational norms". It closes: "Philosophy, however, is essentially a science of true beginnings, or origins", and "The impulse to research must proceed not from philosophies but from things and from the problems connected with them" (tr. Lauer).
 
@@ -37,13 +37,13 @@ Husserl founded [phenomenology](/positioning/subjects/p/phenomenology/) — the 
 
 ## The abyss that remained
 
-Husserl opened the door to lived experience — but he kept consciousness on one side and the world on the other. The phenomenological reduction brackets the world in order to study the subject; the world is constituted *by* consciousness, not encountered *with* it. There remains what Husserl himself called an abyss between consciousness and reality. [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) closed this gap by putting experience in the body. [Heidegger](/positioning/persons/h/heidegger/) dissolved it by placing Dasein always already in the world. Both started from Husserl and moved beyond him precisely at this point.
+On the standard reading, Husserl opened the door to lived experience but kept consciousness on one side and the world on the other: the reduction brackets the world in order to study the subject, and the world is constituted *by* consciousness. Husserl himself spoke of an abyss between consciousness and reality. [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) closed this gap by putting experience in the body. [Heidegger](/positioning/persons/h/heidegger/) dissolved it by placing Dasein always already in the world. Both started from Husserl and are usually read as moving beyond him precisely at this point.
 
 ---
 
 ## Where Husserl stops
 
-Husserl's phenomenology stays with the transcendental ego — a purified consciousness doing the constituting. The method is rigorous but solitary: even intersubjectivity is constituted from within the ego's own experience. The social, the bodily, the historical all remain secondary to the constitutive acts of consciousness. His successors developed what he left undone — [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) put experience in the body, [Heidegger](/positioning/persons/h/heidegger/) placed it in the world, [Rorty](/positioning/persons/r/rorty/) replaced representation with conversation — while keeping his insistence that experience is where inquiry starts.
+Husserl's phenomenology stays with the transcendental ego — a purified consciousness doing the constituting. The standing criticism is that the method is rigorous but solitary: even intersubjectivity is constituted from within the ego's own experience, and the social, the bodily, the historical remain secondary to the constitutive acts of consciousness. [Sartre](/positioning/persons/s/sartre/) put it bluntly: "Husserl can not escape solipsism any more than Kant could". [Zahavi](/positioning/persons/z/zahavi/) reads him otherwise: Husserl undertook "an intersubjective transformation of transcendental philosophy", and Merleau-Ponty is "the most Husserlian" of his major successors.
 
 ---
 
@@ -58,4 +58,4 @@ Husserl's phenomenology stays with the transcendental ego — a purified conscio
 
 ---
 
-See also: [Phenomenology](/positioning/subjects/p/phenomenology/) · [Metaphysics](/positioning/subjects/m/metaphysics/) · [The disclosive branch](/positioning/subjects/m/metaphysics/the-disclosive-branch/) · [Cognition](/positioning/subjects/c/cognition/) · [Cognition in Core Philosophy](/positioning/subjects/c/cognition/philosophy/core/) · [Heidegger](/positioning/persons/h/heidegger/) · [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) · [Gadamer](/positioning/persons/g/gadamer/)
+See also: [Phenomenology](/positioning/subjects/p/phenomenology/) · [Metaphysics](/positioning/subjects/m/metaphysics/) · [The disclosive branch](/positioning/subjects/m/metaphysics/the-disclosive-branch/) · [Cognition](/positioning/subjects/c/cognition/) · [Cognition in Core Philosophy](/positioning/subjects/c/cognition/philosophy/core/) · [Heidegger](/positioning/persons/h/heidegger/) · [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) · [Gadamer](/positioning/persons/g/gadamer/) · [Sartre](/positioning/persons/s/sartre/) · [Levinas](/positioning/persons/l/levinas/) · [Stein](/positioning/persons/s/stein/) · [Zahavi](/positioning/persons/z/zahavi/)

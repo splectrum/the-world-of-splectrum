@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-19
+lastmod: 2026-11-21
 title: "Jürgen Habermas (1929–2025)"
 description: "Habermas relocated rationality from the individual to the space between subjects — communicative action, discourse ethics, the public sphere."
 ---
@@ -9,7 +9,7 @@ description: "Habermas relocated rationality from the individual to the space be
 
 # Jürgen Habermas (1929–2025)
 
-Habermas placed rationality in the space between subjects — not in the individual mind, not in an outside reality, but in communication itself. His discourse ethics made norms valid only if accepted by all affected in rational discourse. His diagnosis of system colonising lifeworld named what happens when centralised structures capture the relational. And his disagreement with [Rorty](/positioning/persons/r/rorty/) — Habermas thought you need universal standards to ground communication; Rorty thought the conversation is all you get — marks one of the defining tensions in twentieth-century philosophy.
+Habermas placed rationality in the space between subjects — not in the individual mind but in communication itself. His discourse ethics made norms valid only if accepted by all affected in rational discourse. His diagnosis of the system colonising the lifeworld named what happens when money and administrative power displace understanding. And his disagreement with [Rorty](/positioning/persons/r/rorty/) — Habermas thought you need universal standards to ground communication; Rorty thought the conversation is all you get — marks one of the defining tensions in twentieth-century philosophy.
 
 [Jürgen Habermas](https://plato.stanford.edu/entries/habermas/) (1929–2025). Philosopher, social theorist, and one of the most prominent public intellectuals in post-war Europe. Assistant to Adorno at the Frankfurt Institute for Social Research, he became the central figure of the second generation of critical theory. Where his predecessors — Horkheimer and Adorno — saw reason as irredeemably instrumental, Habermas argued that a different kind of reason was available: communicative, intersubjective, grounded in the structures of language use. He relocated rationality from the individual subject to the space between subjects.
 
@@ -23,6 +23,8 @@ Habermas placed rationality in the space between subjects — not in the individ
 
 **Discourse ethics.** Moral norms are valid only if they could be accepted by all affected in a rational discourse. This is not consensus as compromise — it is consensus as the outcome of a process where all participants have equal standing and only reasons count.
 
+**From consciousness to communication.** Habermas sets his work against the "philosophy of consciousness", which builds knowledge on the single subject's relation to itself. On [Dan Zahavi](/positioning/persons/z/zahavi/)'s reading the charge extends to phenomenology: Habermas accuses [Husserl](/positioning/persons/h/husserl/), and with him [phenomenology](/positioning/subjects/p/phenomenology/) as such, of solipsism, and takes language, not consciousness, as the foundation of intersubjectivity. Reason, on his account, is embedded in the communicative processes of the lifeworld.
+
 **Postmetaphysical thinking.** Habermas calls his orientation "postmetaphysical thinking". In the *Internet Encyclopedia of Philosophy*'s account it rejects "a normative privilege for philosophy" and the idea that philosophy can "make claims about the world as a whole" (the latter Peter Dews's phrase). Discourse ethics makes morality and ethics matters not for the philosopher but "for the discourse between citizens" (*Autonomy and Solidarity*, the interviews edited by Dews). The "communicative turn" holds, in the IEP's words, "that human apprehension is at root both linguistic and intersubjective".
 
 **Lifeworld and system.** The *lifeworld* is the background of shared meanings, practices, and assumptions that makes communication possible. The *system* — markets, bureaucracies — operates through steering media (money, power) that bypass communicative understanding. Habermas's diagnosis: the system *colonises* the lifeworld, replacing understanding with administration.
@@ -33,7 +35,7 @@ Habermas placed rationality in the space between subjects — not in the individ
 
 ## Where Habermas stops
 
-Habermas grounded communication in universal validity claims — truth, rightness, sincerity — that every speaker implicitly raises. This gives communication structure, but it also smuggles in the outside view: there is a standard (the ideal speech situation) against which all actual conversation falls short. Whether communication needs a transcendental standard or whether convergence can happen without one — from the grassroots, through the interaction itself — is a question his framework answers in advance rather than leaving open. He also kept the subject rational and linguistic in the narrow sense — the body, the pre-linguistic, the lived experience that [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) and [Heidegger](/positioning/persons/h/heidegger/) made central, play no structural role in his account.
+Habermas grounded communication in universal validity claims — truth, rightness, sincerity — that every speaker implicitly raises, with the ideal speech situation as the standard against which actual conversation is measured. [Lyotard](/positioning/persons/l/lyotard/) contested exactly this: consensus as the aim of discourse does violence to the heterogeneity of language games, and justice lies in respecting that heterogeneity. From the phenomenological side the objection is a different one: where Habermas makes language the foundation of intersubjectivity, the phenomenologists, as Zahavi puts it, "have often endeavoured to unearth pre- or extra-linguistic forms of intersubjectivity", in the body and in perception.
 
 ---
 
@@ -47,4 +49,4 @@ Habermas grounded communication in universal validity claims — truth, rightnes
 
 ---
 
-See also: [Hermeneutics](/positioning/subjects/h/hermeneutics/) · [Hermeneutics: the ontological turn and the disputes](/positioning/subjects/h/hermeneutics/the-ontological-turn/) · [Rorty](/positioning/persons/r/rorty/) · [Luhmann](/positioning/persons/l/luhmann/) · [Dewey](/positioning/persons/d/dewey/) · [Ostrom](/positioning/persons/o/ostrom/)
+See also: [Hermeneutics](/positioning/subjects/h/hermeneutics/) · [Hermeneutics: the ontological turn and the disputes](/positioning/subjects/h/hermeneutics/the-ontological-turn/) · [Rorty](/positioning/persons/r/rorty/) · [Luhmann](/positioning/persons/l/luhmann/) · [Dewey](/positioning/persons/d/dewey/) · [Ostrom](/positioning/persons/o/ostrom/) · [Lyotard](/positioning/persons/l/lyotard/) · [Phenomenology](/positioning/subjects/p/phenomenology/) · [Zahavi](/positioning/persons/z/zahavi/)

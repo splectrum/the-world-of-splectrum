@@ -83,7 +83,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 ## P
 
 - [Phase transitions](/positioning/subjects/p/phase-transitions/) · physics<span class="kw">first-order and continuous transitions, critical points and exponents, order parameters and symmetry breaking, universality classes, the renormalisation group and irrelevant operators, the Batterman–Butterfield dispute over limits and emergence</span>
-- [Phenomenology](/positioning/subjects/p/phenomenology/) · philosophy<span class="kw">the study of experience from the inside: Husserl, Heidegger, Merleau-Ponty, Jonas</span>
+- [Phenomenology](/positioning/subjects/p/phenomenology/) · philosophy<span class="kw">the study of experience from the inside: Husserl, Heidegger, Merleau-Ponty, Stein, Levinas, Henry, the question of the other</span>
 - [Philosophy of history](/positioning/subjects/p/philosophy-of-history/) · philosophy, historiography<span class="kw">whether history has a shape and how it is known: Augustine and Ibn Khaldun to Fukuyama, Dilthey and Collingwood, Hempel against Dray, narrativism, Benjamin, Löwith, Popper and Foucault on progress, Koselleck, Hartog and postcolonial history, Braudel, big and deep history, and the contested line over cultural evolution</span>
 - [Philosophy of organism](/positioning/subjects/p/philosophy-of-organism/) · philosophy<span class="kw">Whitehead's speculative metaphysics: actual entities, prehension, creativity, God — the cure for the bifurcation of nature</span>
 - [Philosophy of science](/positioning/subjects/p/philosophy-of-science/) · philosophy<span class="kw">from logical positivism through falsification, paradigms, and methodological pluralism</span>

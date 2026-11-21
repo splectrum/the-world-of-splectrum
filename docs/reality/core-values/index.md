@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-12
+lastmod: 2026-11-21
 title: "The Core Values and the Metaphysics They Disclose"
 description: "Three core values — belonging, privacy, creativity — and the metaphysics they disclose: epistemology, ontology, aesthetics, ethics, politics."
 ---
@@ -15,7 +15,7 @@ SPLectrum's metaphysics takes shape through disclosure, not derivation. It start
 
 **Belonging.** Reality is experienced through a language medium that is shaped by shared language tools — the toolset of perception given to us by our species and community. We are already primed with specific language tools prior to experience. Belonging to a community means sharing how one perceives and understands.
 
-**Privacy.** The experience itself is private. There is no way I can let others look through my eyes, hear through my ears, or feel through my skin. Everyone lives the same structural equality: the privacy of experience first, sharing into belonging second. The realities are genuinely many, (re)created in private by each of us.
+**Privacy.** The experience itself is private. There is no way I can let others look through my eyes, hear through my ears, or feel through my skin. Everyone lives the same structural equality. Which of privacy and belonging comes first is a chicken-and-egg question, and it can be stated either way; from the subject's seat, where this page starts, the privacy of experience comes first and sharing into belonging second. The realities are genuinely many, (re)created in private by each of us.
 
 **Creativity.** Creativity lives in the tension between what is shared and what is privately mine. Although we share the same language tools — in private we can apply them differently, the lived difference between the common ground and the personal experience. Shared reality is added to, not read out. We create and share — and that is what makes diversity a strength.
 

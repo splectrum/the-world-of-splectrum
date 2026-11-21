@@ -162,6 +162,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Heidegger, Martin (1889–1976)](/positioning/persons/h/heidegger/) · philosopher<span class="kw">being-in-the-world, disclosure, Dasein, readiness-to-hand</span>
 - [Heisenberg, Werner (1901–1976)](/positioning/persons/h/heisenberg/) · physicist<span class="kw">matrix mechanics, the uncertainty principle, the Copenhagen interpretation, nuclear physics</span>
 - [Henrich, Joseph (1968–)](/positioning/persons/h/henrich/) · anthropologist<span class="kw">cumulative culture, the WEIRDest people, cultural evolution, the cultural brain, gene-culture coevolution</span>
+- [Henry, Michel (1922–2002)](/positioning/persons/h/henry/) · philosopher<span class="kw">radical immanence, life as self-revelation, material phenomenology, the subjective body, invisible community</span>
 - [Heraclitus (c. 535–c. 475 BCE)](/positioning/persons/h/heraclitus/) · philosopher<span class="kw">flux and constancy, unity of opposites, logos, fire</span>
 - [Hobbes, Thomas (1588–1679)](/positioning/persons/h/hobbes/) · philosopher<span class="kw">Leviathan, the social contract, the state of nature, mechanistic materialism, sovereignty</span>
 - [Hoffmeyer, Jesper (1942–2019)](/positioning/persons/h/hoffmeyer/) · biochemist, biosemiotician<span class="kw">biosemiotics, signs from the cell upward, semiotic freedom, code-duality, semiotic scaffolding, life and semiosis coextensive</span>
@@ -170,7 +171,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Holling, C.S. (1930–2019)](/positioning/persons/h/holling/) · ecologist<span class="kw">ecological resilience, the adaptive cycle, panarchy, resilience vs. stability</span>
 - [Hull, David (1935–2010)](/positioning/persons/h/hull/) · philosopher of biology<span class="kw">Science as a Process, the replicator-interactor framework, selection theory applied to science, species-as-individuals</span>
 - [Hume, David (1711–1776)](/positioning/persons/h/hume/) · philosopher<span class="kw">empiricism, causation as habit, the bundle self, the is-ought problem</span>
-- [Husserl, Edmund (1859–1938)](/positioning/persons/h/husserl/) · philosopher<span class="kw">phenomenology, intentionality, time-consciousness, the lifeworld</span>
+- [Husserl, Edmund (1859–1938)](/positioning/persons/h/husserl/) · philosopher<span class="kw">phenomenology, intentionality, time-consciousness, the lifeworld, intersubjectivity</span>
 - [Hutcheson, Francis (1694–1746)](/positioning/persons/h/hutcheson/) · philosopher<span class="kw">moral sense theory, the greatest happiness principle, the internal sense of beauty</span>
 - [Hutchinson, G. Evelyn (1903–1991)](/positioning/persons/h/hutchinson/) · limnologist, ecologist<span class="kw">the niche concept, Santa Rosalia, biogeochemistry, formation of theoretical ecology</span>
 - [Huxley, Julian (1887–1975)](/positioning/persons/h/huxley-j/) · biologist<span class="kw">coined "the Modern Synthesis", Evolution: The Modern Synthesis, ethology, allometry, clines, UNESCO, eugenics</span>
@@ -338,6 +339,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Sperber, Dan (1942–)](/positioning/persons/s/sperber/) · cognitive scientist, anthropologist<span class="kw">epidemiology of representations, relevance theory, the critique of memetics, cultural attraction</span>
 - [Spinoza, Baruch (1632–1677)](/positioning/persons/s/spinoza/) · philosopher<span class="kw">substance monism, determination as negation, conatus</span>
 - [Stebbins, G. Ledyard (1906–2000)](/positioning/persons/s/stebbins/) · botanist, geneticist<span class="kw">Variation and Evolution in Plants, polyploidy, hybridisation, plant speciation, Modern Synthesis</span>
+- [Stein, Edith (1891–1942)](/positioning/persons/s/stein/) · philosopher<span class="kw">empathy as the experience of foreign consciousness, the we that keeps the I, empathy and the shared world</span>
 - [Stengers, Isabelle (1949–)](/positioning/persons/s/stengers/) · philosopher of science<span class="kw">cosmopolitics, ecology of practices, reciprocal capture, Thinking with Whitehead</span>
 - [Sumner, William Graham (1840–1910)](/positioning/persons/s/sumner/) · sociologist, political economist<span class="kw">Social Darwinism, laissez-faire, What Social Classes Owe to Each Other, Folkways, ethnocentrism</span>
 
@@ -393,6 +395,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## Z
 
+- [Zahavi, Dan (1967–)](/positioning/persons/z/zahavi/) · philosopher<span class="kw">the experiential self, for-me-ness, empathy as direct perception, self and other, the we</span>
 - [Zenil, Hector (1979–)](/positioning/persons/z/zenil/) · computer scientist, complexity researcher<span class="kw">algorithmic information theory, Kolmogorov complexity, coding theorem method, assembly theory critique</span>
 - [Zermelo, Ernst (1871–1953)](/positioning/persons/z/zermelo/) · mathematician<span class="kw">the recurrence objection to Boltzmann, the axiom of choice, Zermelo-Fraenkel set theory, the well-ordering theorem</span>
 - [Zhuangzi (c. 369–286 BCE)](/positioning/persons/z/zhuangzi/) · Daoist philosopher<span class="kw">knowing in skilled doing, Cook Ding, wu-wei, the equality of things, the butterfly dream, words as fish traps</span>

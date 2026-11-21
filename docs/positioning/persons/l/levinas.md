@@ -53,15 +53,15 @@ In "Reality and Its Shadow" (1948), Levinas argued that art is fundamentally irr
 
 The feminist critique: [Simone de Beauvoir](/positioning/persons/b/beauvoir/) noticed early that Levinas "deliberately takes a man's point of view." The feminine occupies a specific structural role — the welcome that makes interiority possible — but in a way that serves the masculine subject's ethical awakening rather than constituting an independent alterity. Irigaray's sustained engagement asks: "Why a son and not a daughter?"
 
+The religious critique: Dominique Janicaud's charge of a "theological turn" in French phenomenology (1991) names Levinas alongside Marion, Henry and Chrétien, for carrying the method beyond what shows itself as an object.
+
 The political critique: can infinite, non-reciprocal responsibility generate a political order? Levinas provides no political theory — only the insistence that institutions must be held in check by the ethical demand. This leaves a "never-ending oscillation between ethics and politics" without resolution.
 
 ---
 
 ## Where Levinas stops
 
-Levinas established that the ethical encounter precedes and exceeds ontology, and that the quality of address — the Saying — is prior to propositional content. But his framework is centred on passive responsibility: the subject as called, accused, held hostage. The passivity is structural — initiative, action, making do not receive the same philosophical attention as response. His account of interiority provides dwelling and labour, but these are positioned as what the ethical relation disrupts rather than as independently significant.
-
-The face-to-face is always between two. The common world is instituted by language, but community as a question of justice enters only through the third party, as a complication — never as an independent structure. Levinas acknowledges the necessity of institutions and politics but provides no political theory, only the demand that they answer to the ethical. And art remains under suspicion: "Reality and Its Shadow" treats it as irresponsible, caught in the image, evading the face's demand.
+Levinas established that the ethical encounter precedes and exceeds ontology, and that the quality of address — the Saying — is prior to propositional content. The political critique asks whether infinite, non-reciprocal responsibility can generate a political order; Levinas acknowledges the necessity of institutions and politics and holds them to the ethical demand. And art remains under suspicion: "Reality and Its Shadow" treats it as irresponsible, caught in the image, evading the face's demand.
 
 ---
 
