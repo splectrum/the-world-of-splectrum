@@ -53,12 +53,6 @@ Hamilton's work on extraordinary sex ratios (1967) and later on selfish genetic 
 
 ---
 
-## Where Hamilton stops
-
-Hamilton's programme is gene-centric and theoretical. It works at the level of allele frequencies, relatedness coefficients, and the conditions under which selection favours particular strategies. The models are powerful and general, but they abstract away the ecological and developmental context in which social behaviour actually operates. How organisms assess relatedness, how kin-directed behaviour is mechanistically implemented, and how ecological conditions modulate the expression of social traits sit outside the formal framework — territory developed by behavioural ecologists and developmental biologists building on Hamilton's foundations rather than by Hamilton himself.
-
----
-
 ## Key works
 
 - Hamilton, W. D., "The genetical evolution of social behaviour" (I and II), *Journal of Theoretical Biology* 7 (1964) — inclusive fitness, Hamilton's rule

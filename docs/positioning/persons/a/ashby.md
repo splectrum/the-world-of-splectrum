@@ -45,12 +45,6 @@ Ashby's work is foundational for control theory, systems theory, and the formal 
 
 Within the cybernetics tradition, Ashby represents the formal wing — mathematical, precise, deliberately stripped of psychological and philosophical language. This is both his strength and his limitation: the apparatus is clean, but it operates at a level of abstraction that some readers find disconnected from the biological and social phenomena it aims to explain.
 
-## Where Ashby stops
-
-Ashby's systems regulate — they maintain essential variables within limits. They do not create, innovate, or explore beyond what the current parameter space allows. Ultrastability is search within a fixed architecture; it does not produce new architectures. The step from regulation to open-ended adaptation — from maintaining stability to generating novelty — is the step that [CAS](/positioning/subjects/c/complex-adaptive-systems/) takes. Ashby's framework describes how systems stay viable; it does not describe how they become something new.
-
----
-
 ## Key works
 
 - *Design for a Brain: The Origin of Adaptive Behaviour* (Chapman and Hall, 1952; 2nd ed. 1960) — ultrastability, essential variables, the mechanical explanation of adaptive behaviour.

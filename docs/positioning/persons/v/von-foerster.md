@@ -49,12 +49,6 @@ Von Foerster's provocation: education systems, management systems, and social in
 
 The BCL (1958–76) was von Foerster's institutional creation and his most lasting contribution. A laboratory without disciplinary boundaries — physicists, biologists, engineers, logicians, and philosophers working on self-organisation, parallel computation, cognitive operations, and the foundations of observation. Maturana's early formulations of what would become autopoiesis were developed during his time at the BCL. Varela visited and was influenced. Pask developed his conversation theory there. The laboratory's closure in 1976 dispersed its ideas across multiple fields.
 
-## Where von Foerster stops
-
-Von Foerster's second-order cybernetics is a framework for understanding observation and cognition — how observers produce their worlds through recursive operations. What it does not develop is a theory of populations, adaptation, or evolution. The focus is on the single observing system and its self-referential dynamics. The step from the observing system to populations of interacting observers — from second-order cybernetics to adaptive populations — is the step that CAS takes. Von Foerster's contribution is to show that the observer cannot be left out of the picture; CAS's contribution is to show what happens when many such observers interact.
-
----
-
 ## Key works
 
 - "On Self-Organizing Systems and Their Environments" (1960) — self-organisation as relational, requiring environmental coupling.

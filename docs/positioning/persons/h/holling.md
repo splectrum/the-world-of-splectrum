@@ -53,12 +53,6 @@ Holling and his collaborators (particularly [Brian Walker](https://en.wikipedia.
 
 The policy implication: manage for resilience rather than for optimality. Accept variability rather than suppressing it. Maintain the system's capacity to reorganise rather than locking in the current regime. The framing has been taken up in natural resource management, urban planning, development studies, and climate adaptation.
 
-## Where Holling stops
-
-Holling's framework describes the dynamics of systems across scales — how they grow, consolidate, collapse, and renew. What it does not develop is the agent level. The adaptive cycle operates at the system level; the agents within the system (organisms, firms, individuals) are not modeled as adaptive units with internal structure. The step from system-level cycles to agent-level adaptation is where Holling's resilience framework meets CAS — and where [Holland](/positioning/persons/h/holland/)'s agent-based approach picks up what the adaptive cycle describes from above.
-
----
-
 ## Key works
 
 - "Resilience and Stability of Ecological Systems" (*Annual Review of Ecology and Systematics*, 1973) — the foundational distinction between engineering and ecological resilience.

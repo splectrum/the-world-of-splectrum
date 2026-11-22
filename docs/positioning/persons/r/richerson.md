@@ -33,12 +33,6 @@ The argument connects to the transmission biases: conformist bias is adaptive be
 
 ---
 
-## Where Richerson stops
-
-The ecological argument for culture is compelling at the species level (humans need culture because we occupy variable environments) but does not fully specify the cultural dynamics at the population level. Why do particular cultural norms arise in particular populations? Why do some norms persist and others disappear? The dual-inheritance framework provides the formal tools to model these dynamics, but the empirical data to parameterise the models — the actual strengths of conformist bias, prestige bias, and between-group cultural variation in specific populations — are often unavailable. The framework is strong on mechanism and weak on measurement.
-
----
-
 ## Key works
 
 - Boyd, R. and P. J. Richerson, *Culture and the Evolutionary Process* (University of Chicago Press, 1985) — the founding work

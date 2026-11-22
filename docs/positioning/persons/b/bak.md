@@ -47,12 +47,6 @@ Self-organized criticality generated enormous interest and significant pushback.
 
 The concept has nonetheless become part of the standard vocabulary in statistical physics, geophysics, and neuroscience. The debate is about scope and specificity, not about whether self-organized criticality is a real phenomenon.
 
-## Where Bak stops
-
-Bak's programme gives a mechanism — local rules driving a system to criticality — and a signature — power-law distributions of event sizes. What it does not give is a theory of what happens at criticality beyond the statistics. The avalanche is described by its size distribution; its internal dynamics, its consequences for the system's subsequent evolution, and its relationship to the system's function (if any) are outside the framework. Self-organized criticality describes the regime; it does not describe what the regime produces.
-
----
-
 ## Key works
 
 - "Self-organized criticality: An explanation of the 1/f noise" (with Tang and Wiesenfeld, *Physical Review Letters*, 1987) — the founding paper.

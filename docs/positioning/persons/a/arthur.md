@@ -39,12 +39,6 @@ Arthur extended the increasing-returns framework into a general account of techn
 
 *Complexity and the Economy* (Oxford University Press, 2014) collects Arthur's mature position. The book gathers three decades of work — increasing returns, the artificial stock market, technological evolution, the nature of economic agency — into a single account of what complexity economics is and how it differs from the neoclassical approach. The difference is not in rejecting formal methods but in changing what the methods are applied to: from equilibrium to process, from representative agents to heterogeneous adaptive ones, from optimality to path dependence.
 
-## Where Arthur stops
-
-Arthur's programme gives economics a process account — how markets, technologies, and institutions evolve through adaptive dynamics and increasing returns. What it does not give is a normative theory. Path dependence shows that outcomes are historically contingent and may be inferior to alternatives; it does not say which alternatives are preferable or how to select among them. The descriptive power is strong; the prescriptive implications are left to others.
-
----
-
 ## Key works
 
 - "Competing Technologies, Increasing Returns, and Lock-In by Historical Events" (*Economic Journal*, 1989) — the formal statement of increasing returns and lock-in.

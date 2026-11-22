@@ -45,12 +45,6 @@ Bertalanffy's programme did not survive as a unified discipline, but its influen
 
 The cross-disciplinary ambition passed to the Santa Fe Institute and CAS research — though CAS is more specific about its primitive (the adaptive agent) than GST ever was about the generic system. The relationship is ancestral: CAS inherits the ambition and breaks from the generality.
 
-## Where Bertalanffy stops
-
-GST identifies structural similarities across domains but does not specify what the system is made of or how its components interact. The agent — a locally acting, adaptive unit with internal structure — is not part of the vocabulary. CAS inherits Bertalanffy's cross-disciplinary ambition but adds the primitive that GST lacked: the adaptive agent that learns, adjusts, and reshapes the landscape it moves through. The generality that was GST's strength was also its limitation — without a specified primitive, the programme could not produce the modeling tradition that CAS became.
-
----
-
 ## Key works
 
 - *Modern Theories of Development: An Introduction to Theoretical Biology* (Oxford University Press, 1933; German original 1928) — the organismic programme.

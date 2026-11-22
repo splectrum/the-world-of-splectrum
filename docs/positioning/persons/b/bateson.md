@@ -29,12 +29,6 @@ Bateson dissolved the boundary between mind and nature by placing mind in the pa
 
 ---
 
-## Where Bateson stops
-
-Bateson gives the grammar of connection — pattern, difference, circuit — but not the mechanism of creation. He can describe how patterns propagate and how systems differentiate, but he does not reach the move where interaction produces what was not there before. Schismogenesis is differentiation, not creation. The pattern connects; it does not explain why there are new patterns. Whether differentiation is itself generative — whether the interaction across differences produces genuinely new differences — is not a question his framework asks.
-
----
-
 ## Key works
 
 - [*Naven*](https://en.wikipedia.org/wiki/Naven) (1936) — anthropological study of the Iatmul, introducing schismogenesis

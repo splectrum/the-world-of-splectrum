@@ -31,12 +31,6 @@ Polanyi showed that knowing always exceeds what can be said — and that this is
 
 ---
 
-## Where Polanyi stops
-
-Polanyi showed that knowing is personal, tacit, embodied — but he kept the knower individual. His republic of science describes mutual adjustment, not the constitution of shared reality through language. How the tacit becomes shared, how communities build a vocabulary that mediates between what each member knows privately and what the group holds in common — these are not his questions. His from-to structure describes how one subject integrates clues; how subjects integrate with each other — how the tacit becomes shared — is not a question his framework addresses. And his emergence, though powerful, stays ontological — it does not address how higher levels are constituted through shared expression. What happens when tacit knowledge meets shared language is a question his work opens but does not take on.
-
----
-
 ## Key works
 
 - [*Personal Knowledge*](https://en.wikipedia.org/wiki/Personal_Knowledge) (1958) — tacit knowing, commitment, the personal in all knowledge

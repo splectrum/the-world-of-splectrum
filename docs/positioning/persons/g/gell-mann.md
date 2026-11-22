@@ -43,12 +43,6 @@ His specific conceptual contribution at SFI was the distinction between effectiv
 
 The book is uneven — the physics sections carry the authority of a founder; the CAS sections are programmatic rather than technical. Its value is as a statement of ambition: the conviction that a cross-disciplinary science of complexity is possible and worth pursuing.
 
-## Where Gell-Mann stops
-
-Gell-Mann's contribution to CAS was institutional and synthetic, not methodological. He did not build agent-based models, develop fitness landscapes, or produce the formal machinery of the tradition. What he did was create the institutional home (SFI), provide the intellectual framing (effective complexity, the quark-and-jaguar programme), and lend the prestige of a Nobel laureate to a field that did not yet have established standing. The tradition he helped found was built by others — [Holland](/positioning/persons/h/holland/), [Kauffman](/positioning/persons/k/kauffman/), [Mitchell](/positioning/persons/m/mitchell/), [Arthur](/positioning/persons/a/arthur/) — but it might not have had an institutional home without him.
-
----
-
 ## Key works
 
 - "The Eightfold Way: A Theory of Strong Interaction Symmetry" (1961) — the SU(3) classification of hadrons.

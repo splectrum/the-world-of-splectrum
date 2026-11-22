@@ -38,10 +38,4 @@ Solé's work on complex adaptive systems maps the territory where cognition emer
 
 ---
 
-## Where Solé stops
-
-Solé maps the architecture of cognition — but he stays with the physical and the computational. His liquid brains are information-processing systems: the interactions carry signals, the collective behaviour is measured in computational terms. How decentralised systems constitute shared meaning, how transient interactions might carry something beyond information processing, whether the emergent intelligence of different architectures differs in kind or only in degree — these questions sit outside his programme. His systems process information. Whether processing is all that is happening is not a question he asks.
-
----
-
 See also: [Maturana](/positioning/persons/m/maturana/) · [Varela](/positioning/persons/v/varela/) · [Whitehead](/positioning/persons/w/whitehead/) · [Peirce](/positioning/persons/p/peirce/) · [Complex Adaptive Systems](/positioning/subjects/c/complex-adaptive-systems/)

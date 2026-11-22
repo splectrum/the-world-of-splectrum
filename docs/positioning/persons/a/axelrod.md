@@ -47,12 +47,6 @@ The cultural dissemination model is notable: agents on a grid have multiple cult
 
 Axelrod's collaboration with [Holland](/positioning/persons/h/holland/), [Arthur Burks](https://en.wikipedia.org/wiki/Arthur_Burks), and [Michael Cohen](https://en.wikipedia.org/wiki/Michael_D._Cohen) at Michigan was a cross-disciplinary research group before SFI existed. Burks brought logic and automata theory, Holland brought genetic algorithms and adaptive systems, Cohen brought organisational theory, and Axelrod brought game theory and political science. The group's work on cooperation, adaptation, and complexity fed directly into the CAS programme.
 
-## Where Axelrod stops
-
-Axelrod's agents are strategic but simple — they have fixed strategies (or strategies that evolve through selection, not learning). Tit-for-tat does not change its rule based on experience; it applies the same logic throughout. The evolution of cooperation operates through differential reproduction of strategies in a population, not through individual agents learning and adjusting their behaviour. The step from population-level selection of strategies to individual-level adaptive agents with internal models is the step that Holland's CAS framework takes.
-
----
-
 ## Key works
 
 - *The Evolution of Cooperation* (Basic Books, 1984) — the prisoner's dilemma tournaments, tit-for-tat, the conditions for cooperation.

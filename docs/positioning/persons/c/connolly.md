@@ -31,12 +31,6 @@ Connolly turned [pluralism](/positioning/subjects/p/pluralism/) from a noun into
 
 ---
 
-## Where Connolly stops
-
-Connolly names the process — pluralisation — and the dispositions that sustain it — agonistic respect, critical responsiveness. He also names the failure mode — resonance machines that collapse plurality into mutual amplification. He has failure-mode mechanism — resonance machines — and dispositional accounts of what sustains plurality. What he does not develop is a generative mechanism for pluralisation itself: the structural account of how interaction across differences produces new differences. Where that mechanism would sit, Connolly draws on process philosophy (Whitehead, Deleuze) rather than developing it independently. He has the process, the dispositions, and the failure modes. What he does not have is a structural account of how the interaction across differences generates the new differences — the generative mechanism itself.
-
----
-
 ## Key works
 
 - *The Terms of Political Discourse* (1974) — essentially contested concepts

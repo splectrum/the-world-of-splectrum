@@ -55,12 +55,6 @@ The exchange is productive rather than merely adversarial. Hazen's evolutionary 
 
 ---
 
-## Where Hazen stops
-
-Hazen's programme stays with the geological and mineralogical layer. Mineral evolution describes how conditions accumulate to enable new mineral species; it stays with the historical and descriptive level rather than extending into general theory of complexity or mechanism. The programme maps the sequence of enabling conditions — it does not propose a general account of why enabling conditions accumulate or what drives the process beyond the specific geological and biological processes that happen to have occurred on Earth.
-
----
-
 ## Key works
 
 - Hazen et al., "Mineral evolution," *American Mineralogist* 93 (2008) — the foundational paper

@@ -31,12 +31,6 @@ Bergson insisted that reality is continuous, creative, and irreducible to static
 
 ---
 
-## Where Bergson stops
-
-Bergson mistrusted language. The intellect spatialises; language is the intellect's tool; therefore language distorts duration. "The word turns against the sensation which gave rise to it."
-
----
-
 ## Key works
 
 - [*Time and Free Will*](https://en.wikipedia.org/wiki/Time_and_Free_Will) (1889) — duration, the critique of spatialised time, freedom

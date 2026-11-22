@@ -29,14 +29,6 @@ Brandom built the most fully worked-out non-representational account of language
 
 ---
 
-## Where Brandom stops
-
-Brandom's picture is anthropocentric. The apparatus — commitment, entitlement, scorekeeping — is built around discursive practice: beings who can give and ask for reasons. It does not obviously extend to relational activity below or beyond the discursive. Cellular signalling, gravitational binding, the trace a footprint leaves in mud — these are relational, but they have no apparatus of commitment and entitlement. Whether his account is load-bearing for one important class of relational activity or for relational activity in general is a question the framework does not address.
-
-The other limit is scope. Brandom's "objectivity emerges from commitment-tracking" covers discursive convergence — agreement through the practice of giving and asking for reasons. Whether convergence also happens through other kinds of relational activity, and whether the structural shape is the same, sits outside his programme.
-
----
-
 ## Key works
 
 - [*Making It Explicit*](https://en.wikipedia.org/wiki/Making_It_Explicit) (1994) — inferentialism, deontic scorekeeping, the normative structure of discourse

@@ -29,12 +29,6 @@ Maturana turned neurobiology into philosophy by taking one observation seriously
 
 ---
 
-## Where Maturana stops
-
-Maturana placed the observer inside the system and refused to let it back out. That is the strength. The limit is that his account stays within the individual organism's viability. Structural coupling between organisms produces compatible change, but Maturana does not develop how *shared* organisation emerges — how two operationally closed systems produce something that belongs to neither alone. The biology of love gestures toward it (coexistence, mutual legitimacy), but as an emotional domain, not as a structural account of shared reality. How operationally closed systems produce shared meaning — not just compatible change but a reality that belongs to neither alone — is not a question his framework takes on.
-
----
-
 ## Key works
 
 - *"What the Frog's Eye Tells the Frog's Brain"* (1959, with Lettvin, McCulloch and Pitts) — the landmark paper on feature detection in the frog retina

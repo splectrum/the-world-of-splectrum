@@ -49,12 +49,6 @@ Reichenbach's earlier work addressed the problem of induction — how empirical 
 
 ---
 
-## Where Reichenbach stops
-
-Reichenbach's branch-system concept explains how records form and why they point toward the past. It does not address what happens when a system actively maintains its records — when the trace is not passively degrading toward equilibrium but is sustained at thermodynamic cost. A fossil is a branch system; an organism carrying a memory is not — it is actively importing free energy to keep its records intact. The step from passive trace to active retention marks a threshold that Reichenbach's framework identifies by implication but does not theorise. [Schrödinger's](/positioning/persons/s/schrodinger/) *What is Life?* and [Prigogine's](/positioning/persons/p/prigogine/) dissipative structures later addressed what happens on the other side of that threshold.
-
----
-
 ## Key works
 
 - *Relativitätstheorie und Erkenntnis apriori* (*The Theory of Relativity and A Priori Knowledge*, 1920) — the empiricist response to Kant on space

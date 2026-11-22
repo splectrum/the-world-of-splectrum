@@ -29,12 +29,6 @@ Sapolsky's work traces human behaviour across every layer that shapes it — gen
 
 ---
 
-## Where Sapolsky stops
-
-Sapolsky's layers are biological, developmental, evolutionary, cultural — but not linguistic. How each layer constitutes its own form of expression, how those forms relate to each other, how the medium of each layer shapes what can be expressed within it — these are not his questions. His multi-layer explanation is descriptive: here is what each layer contributes. How the layers relate structurally — whether they are separate causal channels or expressions within a shared medium — is not a question the framework asks. And his challenge to free will stays within the causal frame: every decision is the output of prior causes. Whether the organism is not just caused but constituted through its relational medium — whether "freedom" names a different kind of question than causation can answer — sits outside his programme.
-
----
-
 ## Key works
 
 - [*Why Zebras Don't Get Ulcers*](https://en.wikipedia.org/wiki/Why_Zebras_Don%27t_Get_Ulcers) (1994, updated 2004) — the physiology of stress, chronic activation, and its consequences

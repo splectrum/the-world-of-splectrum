@@ -63,12 +63,6 @@ Network science as Barabási frames it has been influential and contested. The i
 
 **Disciplinary scope.** Some critics argue that "network science" as a single discipline overstates the coherence of what is really a toolkit applied across existing disciplines. Network analysis is a method; whether it constitutes a science is contested.
 
-## Where Barabási stops
-
-Barabási's programme maps the structure of networks — their topology, their growth, their robustness. What it does not centre is adaptation: agents changing their strategies in response to each other and to the network they inhabit. The network in Barabási's models is the scaffold; the dynamics on the scaffold are studied separately. CAS foregrounds adaptive agents whose behaviour reshapes the network they interact through. Where network science and CAS converge — adaptive networks whose topology coevolves with agent behaviour — the boundary between the two traditions dissolves.
-
----
-
 ## Key works
 
 - "Emergence of Scaling in Random Networks" (with Réka Albert, *Science*, 1999) — scale-free networks, preferential attachment.

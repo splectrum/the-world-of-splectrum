@@ -49,12 +49,6 @@ The contribution is conceptual rather than practical. Von Neumann showed that se
 
 Beyond the applied work, von Neumann made pure mathematical contributions of the first rank. The axiomatisation of set theory (von Neumann-Bernays-Gödel set theory). Operator algebras (von Neumann algebras — rings of bounded operators on Hilbert spaces, foundational for functional analysis and quantum field theory). Ergodic theory (the mean ergodic theorem, 1932). The theory of continuous geometry. Lattice theory.
 
-## Where von Neumann stops
-
-Von Neumann's work is characterised by formalisation: taking an imprecise domain and giving it mathematical structure. The structure is typically static — an equilibrium (game theory), an architecture (computing), a logical construction (self-reproducing automata). What von Neumann does not develop is dynamics in the CAS sense: populations of adaptive agents changing their strategies through interaction. His self-reproducing automaton reproduces but does not evolve; his game theory analyses equilibria but not the adaptive process by which players reach them. The step from formal structure to adaptive dynamics is the step that [Holland](/positioning/persons/h/holland/) — who studied under von Neumann's collaborator Burks at Michigan — would take.
-
----
-
 ## Key works
 
 - *Mathematische Grundlagen der Quantenmechanik* (Springer, 1932) — the Hilbert-space formulation of quantum mechanics.

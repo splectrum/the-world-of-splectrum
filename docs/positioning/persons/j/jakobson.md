@@ -29,7 +29,7 @@ Jakobson was among the most wide-ranging linguists of the century — a founder 
 
 ## Where Jakobson stops
 
-Jakobson's gift was for structure — for finding the small set of contrasts and axes underlying an apparently endless variety of speech, verse, and sign. His model of the functions is among the most durable tools in the study of language precisely because it is a grid: clean, general, and applicable anywhere. That is also its boundary. The scheme tells you which function dominates an utterance but not what the utterance *means* in its moment, and the poetic function, defined as the message turning on its own form, names where literary effect lives without quite saying why a given form moves a given reader.
+Jakobson's gift was for structure — for finding the small set of contrasts and axes underlying an apparently endless variety of speech, verse, and sign. His model of the functions is among the most durable tools in the study of language precisely because it is a grid: clean, general, and applicable anywhere.
 
 ---
 

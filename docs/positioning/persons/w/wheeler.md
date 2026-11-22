@@ -45,9 +45,7 @@ The **Wheeler-DeWitt equation** (1967, with DeWitt) was the first attempt to wri
 
 ---
 
-## Where Wheeler stops
-
-Wheeler's conceptual proposals — geometrodynamics, "it from bit," the participatory universe — are frameworks and questions rather than completed theories. Geometrodynamics did not produce a working theory of quantum gravity; the Wheeler-DeWitt equation is formally problematic (it is not clear what Hilbert space it operates on, or how to extract predictions from a timeless wave function). The "it from bit" proposal is a slogan with profound implications, but the programme of deriving physics from information-theoretic principles is incomplete — it gestures at a direction without providing the mathematical framework that would make it a theory.
+## Legacy
 
 Wheeler's role as a supervisor and question-poser was his most consequential contribution, and it resists summary in terms of results. Feynman's path-integral formulation, Everett's many-worlds interpretation, Thorne's gravitational-wave programme, and the entire field of quantum information theory all trace intellectual lineages to Wheeler's questions and his Princeton group. Whether Wheeler's legacy is the questions he asked or the frameworks he proposed — whether the questions were more productive than the answers — is a judgment that depends on how one weighs conceptual vision against technical achievement.
 
