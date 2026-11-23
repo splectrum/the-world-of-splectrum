@@ -17,7 +17,7 @@ It is now used across mathematics, logic, computer science, theoretical physics,
 
 Category theory was developed in the 1940s by [Samuel Eilenberg](/positioning/persons/e/eilenberg/) and [Saunders Mac Lane](/positioning/persons/m/mac-lane/) as a way of tracking structural relationships in algebraic topology. They needed precise language for what it meant to say that one mathematical construction behaves the same way as another in a different setting. The notion of a natural transformation was their starting point; categories and functors followed as the supporting machinery.
 
-What began as a working tool for algebraic topologists turned out to apply far more widely. By the 1960s, with the work of [F. William Lawvere](https://en.wikipedia.org/wiki/William_Lawvere) and [Alexander Grothendieck](https://en.wikipedia.org/wiki/Alexander_Grothendieck), category theory had become a framework in its own right — a language for studying mathematical structure across domains, and eventually a candidate foundation for mathematics itself.
+What began as a working tool for algebraic topologists turned out to apply far more widely. By the 1960s, with the work of [F. William Lawvere](/positioning/persons/l/lawvere/) and [Alexander Grothendieck](/positioning/persons/g/grothendieck/), category theory had become a framework in its own right — a language for studying mathematical structure across domains, and eventually a candidate foundation for mathematics itself.
 
 ## Core ideas
 

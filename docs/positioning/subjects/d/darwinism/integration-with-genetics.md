@@ -51,7 +51,7 @@ The "Synthesis" framing has itself been questioned by historians of biology. [Be
 
 ## The molecular era
 
-The discovery of DNA's structure in 1953 — by [James Watson](https://en.wikipedia.org/wiki/James_Watson) and [Francis Crick](https://en.wikipedia.org/wiki/Francis_Crick), drawing on the X-ray crystallography of [Rosalind Franklin](https://en.wikipedia.org/wiki/Rosalind_Franklin) —, and the elucidation of the genetic code through the 1960s, provided the physical substrate Darwin had been missing. Inheritance was no longer an abstraction or a mathematical variable — it was a molecule whose structure, replication, and mutation could be studied directly.
+The discovery of DNA's structure in 1953 — by [James Watson](https://en.wikipedia.org/wiki/James_Watson) and [Francis Crick](/positioning/persons/c/crick/), drawing on the X-ray crystallography of [Rosalind Franklin](https://en.wikipedia.org/wiki/Rosalind_Franklin) —, and the elucidation of the genetic code through the 1960s, provided the physical substrate Darwin had been missing. Inheritance was no longer an abstraction or a mathematical variable — it was a molecule whose structure, replication, and mutation could be studied directly.
 
 The molecular era opened evolutionary biology to new kinds of evidence (molecular phylogenetics, genomic comparison) and new kinds of questions (the neutral theory of molecular evolution, the role of regulatory versus structural genes). It also revealed the extent of genetic similarity across species — humans and chimpanzees sharing roughly 98.7% of their DNA, humans and mice sharing around 85% — giving common descent a molecular concreteness it had not previously had.
 

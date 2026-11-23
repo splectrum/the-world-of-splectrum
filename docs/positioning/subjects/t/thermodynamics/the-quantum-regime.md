@@ -23,7 +23,7 @@ Two conditions make this consistent with the second law. The process is **not cy
 
 ## Thermalisation without a bath
 
-A closed quantum system evolving unitarily never changes its entropy, yet isolated systems are observed to reach thermal equilibrium. The **eigenstate thermalisation hypothesis** — proposed by Deutsch (1991) and Srednicki (1994), named and promoted after Rigol, Dunjko and Olshanii's numerical work in 2008 — holds that individual energy eigenstates of a generic interacting many-body Hamiltonian already look thermal to local observables. The system serves as its own bath, and equilibrium is a property of the eigenstates rather than something an environment imposes.
+A closed quantum system evolving unitarily never changes its entropy, yet isolated systems are observed to reach thermal equilibrium. The **eigenstate thermalisation hypothesis** — proposed by [Deutsch](/positioning/persons/d/deutsch/) (1991) and Srednicki (1994), named and promoted after Rigol, Dunjko and Olshanii's numerical work in 2008 — holds that individual energy eigenstates of a generic interacting many-body Hamiltonian already look thermal to local observables. The system serves as its own bath, and equilibrium is a property of the eigenstates rather than something an environment imposes.
 
 It is a hypothesis, not a theorem. It is very well supported numerically and has been proved in restricted settings, but not for generic interacting systems, and it has known classes of exception — integrable systems, many-body localisation, quantum many-body scars, and systems with long-range interactions — each of which is itself an active research area.
 

@@ -204,6 +204,7 @@ The draft produces its outputs and is then deleted:
 
 - **From a blog post:** link out to the ref lib freely for depth — the post tells the story, the library holds the reference. This is the encouraged direction.
 - **From a ref lib page:** do **not** link into the blog. If a ref lib page wants to gesture at "the story behind this," state it as plain text without a link, or leave the connection to the reader — the blog post itself carries the link back to the library. Never a markdown link, never an include, into `/blog/…`.
+- **Scope (Jules, 2026-11-23).** The rule binds the middle row — seed, reality, the resonance rings, persons, subjects, the bottom row — label pages included. The top row (home, About, Real Life, Engineering) may point to *published* posts sparingly, as further reading in the accessible telling; a page is the better target where one holds the material. A post is a dated record and a page is kept current, so even there the safe direction is post → page.
 - **The old `pending-link` include is retired.** It existed only to let ref lib pages point at not-yet-published posts by emitting the link after the publish date. Under the one-way rule there is no such link to emit, so the mechanism is unnecessary. Do not add new `pending-link` includes; existing ones are being removed.
 
 ### Blog post review checklist

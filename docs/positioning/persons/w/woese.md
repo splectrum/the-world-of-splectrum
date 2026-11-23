@@ -37,7 +37,7 @@ Elected to the National Academy of Sciences (1988). [Crafoord Prize](https://en.
 
 ## The genetic code and the progenote
 
-Woese's later work addressed the origin of the translation machinery itself. In a series of papers from the 1990s and 2000s, he argued that the genetic code — the mapping between nucleotide triplets and amino acids — was not a frozen accident (as [Francis Crick](https://en.wikipedia.org/wiki/Francis_Crick) had suggested) but evolved through a process of optimisation. The code's structure — its redundancy patterns, the assignment of chemically similar amino acids to similar codons — reflects selection for error minimisation.
+Woese's later work addressed the origin of the translation machinery itself. In a series of papers from the 1990s and 2000s, he argued that the genetic code — the mapping between nucleotide triplets and amino acids — was not a frozen accident (as [Francis Crick](/positioning/persons/c/crick/) had suggested) but evolved through a process of optimisation. The code's structure — its redundancy patterns, the assignment of chemically similar amino acids to similar codons — reflects selection for error minimisation.
 
 He also developed the concept of the **progenote**: the last common ancestor of all three domains was not a fully formed cell with a fixed genetic code but a community of primitive entities with imprecise translation and extensive horizontal gene transfer. In this picture, the modern cell — with its accurate ribosome and stable genetic code — is not the starting point but the product of an evolutionary process in which the translation machinery itself was refined. The progenote hypothesis remains speculative but has influenced thinking about the earliest stages of life.
 

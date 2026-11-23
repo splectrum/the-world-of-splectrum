@@ -30,4 +30,3 @@ If every language is contingent on its own creation, no language can claim to be
 
 See [The seed and Interrelational Pluralism](/seed/interrelational-pluralism/) for the full dynamic. See [The seed and Historicity](/seed/historicity/) for what happens when language leaves a trace.
 
-See the [seed series](/blog/label/seed/) for the conversation around these principles.

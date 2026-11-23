@@ -51,4 +51,4 @@ Interrelational pluralism is not a label for P4 alone. It is the full dynamic: P
 
 The engine does not depend on human subjects. It runs wherever differentiation leaves a trace that accumulates — across the full gradient from the simplest retention to the most articulate community. The human case is one region of that gradient, not the reference point.
 
-See the [seed series](/blog/label/seed/) for the conversation around these principles. See [interrelational pluralism — positioning](/positioning/seed/interrelational-pluralism/) for the structural trajectory.
+See [interrelational pluralism — positioning](/positioning/seed/interrelational-pluralism/) for the structural trajectory.

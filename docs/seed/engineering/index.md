@@ -27,4 +27,3 @@ Each owner reads or transforms only its own data state. The data fabric propagat
 **P5 — Together they form a web of growing complexity.**<br>
 Within the engineering design space a protocol structure is aimed for that reflects those of language in general. However, bear in mind that designing a solution for implementation is designing for the creation of clones - individuals - and most of the language (protocol) interrelation exists in design evolution.
 
-See the [seed series](/blog/label/seed/) for the conversation around these principles.

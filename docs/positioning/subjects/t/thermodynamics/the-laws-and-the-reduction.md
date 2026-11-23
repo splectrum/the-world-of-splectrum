@@ -35,7 +35,7 @@ Boltzmann's H-theorem appears to derive the approach to equilibrium from mechani
 
 **Loschmidt's reversibility objection** (1876): the underlying mechanics is time-symmetric, so for every trajectory in which entropy rises there is a reversed trajectory in which it falls. No time-asymmetric conclusion can follow from time-symmetric premises.
 
-**Zermelo's recurrence objection** (1896), from Poincaré recurrence: a bounded mechanical system returns arbitrarily close to any earlier state given enough time, so entropy cannot increase monotonically forever.
+**[Zermelo](/positioning/persons/z/zermelo/)'s recurrence objection** (1896), from Poincaré recurrence: a bounded mechanical system returns arbitrarily close to any earlier state given enough time, so entropy cannot increase monotonically forever.
 
 What the theorem actually uses is the *Stosszahlansatz*, the molecular chaos assumption — that the velocities of colliding particles are uncorrelated before collision but not after. That assumption is itself time-asymmetric, so the asymmetry is put in rather than derived. The modern reading is that the H-theorem establishes a statistical tendency, not a mechanical necessity, and Boltzmann's own position moved toward the combinatorial account plus an appeal to cosmological initial conditions.
 

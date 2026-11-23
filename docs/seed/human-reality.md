@@ -29,4 +29,3 @@ P4 is where P0 fires again — at the scale of language itself. Where languages 
 **P5 — Together they form a web of growing complexity.**<br>
 We synchronise, knowledge deepens, new languages emerge from the overlap, and those in turn synchronise with others. The complexity is in the relating, not in any single community.
 
-See the [seed series](/blog/label/seed/) for the conversation around these principles.

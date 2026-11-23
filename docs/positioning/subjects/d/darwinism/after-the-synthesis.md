@@ -15,7 +15,7 @@ The Modern Synthesis settled a framework for evolutionary biology by the late 19
 
 [Motoo Kimura](/positioning/persons/k/kimura/)'s neutral theory of molecular evolution (1968) proposed that the majority of evolutionary changes at the molecular level — substitutions of one nucleotide for another in DNA — are selectively neutral. They are not favoured or disfavoured by natural selection; they spread through populations by genetic drift alone. The theory did not deny the importance of natural selection for adaptive evolution at the organismal level, but it argued that selection is not the primary cause of molecular variation. Most molecular differences between species, on this account, are noise rather than signal.
 
-The neutral theory was initially controversial but is now part of the standard framework. It reshaped how variation is understood: not all genetic difference is adaptive, and the background rate of neutral change provides a molecular clock useful for estimating divergence times between species. The nearly neutral theory, developed by [Tomoko Ohta](https://en.wikipedia.org/wiki/Tomoko_Ohta), extended Kimura's framework to include mutations of very slight effect, where drift and selection interact.
+The neutral theory was initially controversial but is now part of the standard framework. It reshaped how variation is understood: not all genetic difference is adaptive, and the background rate of neutral change provides a molecular clock useful for estimating divergence times between species. The nearly neutral theory, developed by [Tomoko Ohta](/positioning/persons/o/ohta/), extended Kimura's framework to include mutations of very slight effect, where drift and selection interact.
 
 ## Kin selection and inclusive fitness
 

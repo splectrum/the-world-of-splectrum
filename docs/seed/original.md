@@ -29,4 +29,3 @@ Languages, as committed ways of expressing relation, are not isolated games. The
 **P5 — Together they form a web of growing complexity.**<br>
 The languages together form a web — each one a node, each interaction a relation. As languages emerge and interact, the web's relational density grows. The complexity is in the relating, not in any individual language.
 
-See the [seed series](/blog/label/seed/) for the conversation around these principles.

@@ -50,7 +50,9 @@ Touchstone over comprehensive applies — but at the depth level, not the breadt
 
 **No SPLectrum vocabulary anywhere on the page.** Not in the body, not in the intro, not in the closer, not in see-also. If the connection to the seed needs a label to land somewhere, it is being asked to do work that another bucket is built to do. Trust the architecture.
 
-**What person and subject pages are for (Jules, 2026-11-21).** They make information available to SPLectrum, so the site is self-contained; they do not evaluate the people or traditions on them. As the site evolves they should become more relevant: unnecessary detail cut back, and gaps that matter to SPLectrum filled in (in the neutral register, from checked sources). Pruning can go too far or go wrong; the regular research updates are the housekeeping that picks that up, so pruning is not held back for fear of it.
+**What person and subject pages are for (Jules, 2026-11-21, 2026-11-23).** They make information available to SPLectrum, so the site is self-contained; they do not evaluate the people or traditions on them. A person page, and an ordinary subject page, gives a comprehensive overview in general, and expands in more detail where the information is useful to SPLectrum. The overview does not do detail: it carries the headlines, all of them, including the ones SPLectrum does not use. Depth goes only where it is useful, and it is still the thinker's or the field's own material in the neutral register: relevance decides where a page goes deeper, never how it tells it or which side of a dispute shows. As the site evolves the pages should become more relevant: unnecessary detail cut back (detail that is neither overview nor useful depth — staged scholarly disputes, CV minutiae, translator and edition apparatus), and gaps filled — gaps in the overview as much as gaps that matter to SPLectrum (in the neutral register, from checked sources). Pruning can go too far or go wrong; the regular research updates are the housekeeping that picks that up, so pruning is not held back for fear of it.
+
+**Meta subjects take a broader scope.** A meta subject brings information together under a subject name SPLectrum uses, and because SPLectrum is about the broad view, it takes a much broader scope than a subject normally does; its arrangement may be SPLectrum-inspired (see *Meta subjects* below). The comprehensive treatment is still always there, section by section: each section gives the comprehensive overview of what it gathers. The keyword doorways are meta subjects; so, in nature, are pluralism, epistemology (with the metaphysics map) and the standing of aesthetics in philosophy, though they have not yet been taken up as meta subjects (Jules, 2026-11-23). Until they are, their sorting is not at fault; their voice is — a page grading the thinkers it gathers, or defending its own arrangement, is still page-voice evaluation.
 
 **A closer is optional.** A page needs no "Where X stops" section; it has one only when there is something worth carrying. A "where X stops" closer can still exist where it is useful, framed as the thinker's own boundaries, never as the gap between them and SPLectrum. It has two safe modes: it names who presses the gap (a critic, or a sharply individuated position in the reception, stated in their terms), or it rests on a tension in the thinker's own work. It never states an absence in page voice on nobody's authority ("X does not address…", "sits outside his programme", "acknowledged but not developed"): the test is whether a presser can be named, and if none can, the boundary is likely seed-selected and is cut or replaced. The subjectivity round (2026-11-21) found four of five such page-voice absences contradicted by the thinkers' own texts. Framing a boundary as "SPLectrum asks what he doesn't" turns the page into a SPLectrum-side reading.
 
@@ -86,13 +88,16 @@ Matter-of-fact, structural, topical. Site register, not blog register. The same 
 
 ### Linking
 
-The affinity ring is the seam between the field and SPLectrum — the one surface that links both ways, and the only doorway between the two bodies.
+Links flow down freely and never up (Jules, 2026-11-23). The order is reality → affinity rings → subjects → persons, with the seed and the bottom row on the SPLectrum side alongside reality:
 
-- **Down into the field.** A piece links to the person and subject pages it walks — that is where the situating work happens (see *Format of a piece*). These are the ring's outward links.
-- **Up to SPLectrum.** A piece may link to SPLectrum-side surfaces (reality, the seed proper, other sections) for the positioning reading — this is the one positioning surface where that is allowed, because the ring is where SPLectrum legitimately appears.
-- **The ring is the entry point from the SPLectrum side.** A pure SPLectrum page reaching into positioning links to an **affinity ring**, never straight to a subject or person page; the ring then fans out into the field. So the field stays reachable only *through* a ring, and SPLectrum never reaches past the ring into the raw A–Z. A SPLectrum page may name a thinker in prose, but the link goes to the ring that covers them, not to `/positioning/persons/…` or `/positioning/subjects/…`.
+- **Down is always allowed.** Any SPLectrum page — reality, the seed proper, a ring, the bottom row, the Real Life pages — may link straight to the person and subject pages it names. A downward link cannot make a neutral page speak for the position, which is what the direction rule guards against.
+- **Never up from the field.** Person and subject pages (meta subjects included) link only to other persons, subjects and external references — see *See also on person/subject pages*.
+- **Rings do not link up to reality or the seed proper.** A ring states the position once in its own opening and walks the field from there.
+- **Sideways** among SPLectrum pages is fine (seed ↔ seed ring, reality ↔ reality).
 
-The counterpart rule — person/subject pages carry no upward links at all — is under *See also on person/subject pages*. Together: the field is sealed at the top, SPLectrum enters only at the ring, and the ring is the sole two-way chokepoint.
+Walking through thinkers is ring work. A seed or reality page that walks a series of thinkers is doing a ring's job; that is a content question for the page, not something to fix by removing links.
+
+**Blog links.** A post is a dated record, a page is kept current; the safe direction is post → page. Middle-row pages (seed, reality, rings, persons, subjects, bottom row) carry no links into the blog, label pages included. Top-row pages (home, About, Real Life, Engineering) may point to published posts sparingly, as further reading in the accessible telling; a page is the better target where one holds the material. See `posting-guide.md` § Link direction.
 
 ### Landing pages
 
@@ -126,7 +131,14 @@ The strategy, the rules and the keyword inventory are in `process/keyword-doorwa
 
 ## See also on person/subject pages
 
-Only pages in direct relation to what the page itself says: the persons and subjects its content bears on. Do not go looking for links, and do not list pages only because they relate to pages the body links to. Within-positioning interlinking only.
+Only pages in direct relation to what the page itself says (Jules, 2026-11-23):
+
+- the subjects the page belongs to;
+- persons and subjects the page actually discusses, or with a plain relation a neutral reader would recognise — teacher, rival, co-author, the tradition;
+- no neighbours by affinity: nothing listed only because SPLectrum reads the two together;
+- a soft limit of about six entries.
+
+Do not go looking for links, and do not list pages only because they relate to pages the body links to. Within-positioning interlinking only.
 
 Links flow one way only: reality → affinity rings → subjects → persons, never up. "Up" means the SPLectrum side: inside the field, persons and subjects link to each other in both directions. A person page links to the subjects it belongs to (in the body at first mention, and in See also), just as a subject links to its persons. A person or subject page links **only** to other persons, subjects, or external references — never to the seed, the close-affinity or wider-landscape rings, or any other SPLectrum-side surface. Not woven into the See also, not as a separate sub-block, not as a quiet pointer. An upward link is a link-direction breach, not a formatting question — the same intrusion as SPLectrum vocabulary in the body, just wearing a hyperlink. The resonance rings link *down* to the person; the person does not link back up. Readers reach the SPLectrum-side reading from those rings, not from here.
 
