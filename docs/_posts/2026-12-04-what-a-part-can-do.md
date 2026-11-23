@@ -9,7 +9,7 @@ status: draft
 words: 706
 ---
 
-<img src="https://plus.unsplash.com/premium_photo-1747905993630-413500985036?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="What a Part Can Do" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://plus.unsplash.com/premium_photo-1747905993630-413500985036?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="What a Part Can Do" />
 
 The second law of thermodynamics, in the form most people meet it, says that entropy does not decrease in an isolated system. The qualification does a lot of work, and information thermodynamics is the field that has spent the last few decades taking it seriously.
 
@@ -27,7 +27,7 @@ The results are constraints, and a constraint is a different thing from an expla
 
 In a network, a part can be a demon to some of its neighbours and a molecule to others. The demon had to know for itself, and paid for its own forgetting. A part in a network can be known by the rest and acted back on: what it can do is set by what passes between it and its neighbours. The second law still holds for the whole. For a part, what is possible is a matter of where it sits.
 
-<small>This post is part of the [conversations series](/blog/label/conversations/). See also the reference entries on <a href="/positioning/persons/i/ito/">Ito</a> and <a href="/positioning/subjects/t/thermodynamics/information-and-computation/">information and computation</a>.</small>
+<small>This post is part of the [conversations series](/blog/label/conversations/). See also <a href="/positioning/persons/i/ito/">Sosuke Ito</a> and <a href="/positioning/subjects/t/thermodynamics/information-and-computation/">Information and Computation</a>.</small>
 
 
 ---

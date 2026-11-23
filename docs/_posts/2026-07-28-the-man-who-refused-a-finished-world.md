@@ -20,7 +20,7 @@ That refusal is the through-line from the wager to the metaphysics. A finished u
 
 Where does he stop? He kept pragmatism personal — truth is what works *for me*, what helps *me* live — and left to others the question of how a community converges on a shared truth, and the further question of what it means for language to be the medium of that convergence. His pluralism opens the door; the social and the relational needed hands after his. But he opened the door. The conviction that the many are real is older than philosophy's memory; James was the first to claim it under its own name — and to make a life out of believing it.
 
-<small>This post is part of the [positioning series](/blog/label/positioning/). See also the reference entry on <a href="/positioning/persons/j/james/">William James</a>.</small>
+<small>This post is part of the [positioning series](/blog/label/positioning/). See also <a href="/positioning/persons/j/james/">William James</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@gmalhotra">Gayatri Malhotra</a> / Unsplash</small>

@@ -8,7 +8,7 @@ description: "Physicists declared philosophy dead in 2010. Philosophers had anno
 status: ready
 words: 650
 ---
-<img src="https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" alt="The End of Philosophy, Really?" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" alt="The End of Philosophy, Really?" />
 
 In 2010 [Stephen Hawking](/positioning/persons/h/hawking/) and Leonard Mlodinow wrote in *The Grand Design*: "philosophy is dead. Philosophy has not kept up with modern developments in science, particularly physics." Others had said much the same. Steven Weinberg said he knew of no one in postwar physics "whose research has been significantly helped by the work of philosophers".
 
@@ -36,7 +36,7 @@ This was not yet in view when Russell wrote. In 1912 the subjects had gone, but 
 
 Knowledge keeps growing, and the quest for it keeps making specialisms. Each one sends questions back as it goes: what its terms mean, what its results show, how it joins up with the others. Philosophy may only look as if it is losing, because its successes leave and take other names. But doesn't each new specialism give it a chance to grow, rather than another subject to lose?
 
-<small>This post is part of the [conversations series](/blog/label/conversations/). See also the reference entries on <a href="/positioning/subjects/m/metaphilosophy/western/the-end-of-philosophy/">the end of philosophy</a> and <a href="/positioning/subjects/m/metaphilosophy/western/scientists-on-philosophy/">scientists on philosophy</a>, part of the <a href="/positioning/subjects/m/metaphilosophy/">metaphilosophy</a> subject.</small>
+<small>This post is part of the [conversations series](/blog/label/conversations/). See also <a href="/positioning/subjects/m/metaphilosophy/western/the-end-of-philosophy/">Metaphilosophy: The End of Philosophy</a>, <a href="/positioning/subjects/m/metaphilosophy/western/scientists-on-philosophy/">Metaphilosophy: Scientists on Philosophy</a> and <a href="/positioning/subjects/m/metaphilosophy/">Metaphilosophy</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@giamboscaro">giamboscaro</a> / Unsplash</small>

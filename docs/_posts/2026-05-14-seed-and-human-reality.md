@@ -22,7 +22,7 @@ Now the shared space. It follows from the seed that we never interact directly. 
 
 What happens *between* us when subjects meet? The seed gives the structural fact — we don't interact directly. What that leaves room for is the next move.
 
-<small>This post is part of the [seed series](/blog/label/seed/). See also <a href="/seed/human-reality/">Human Reality</a> on the seed.</small>
+<small>This post is part of the [seed series](/blog/label/seed/). See also <a href="/seed/human-reality/">The seed and Human Reality</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@joelmott">Joel Mott</a> / Unsplash</small>

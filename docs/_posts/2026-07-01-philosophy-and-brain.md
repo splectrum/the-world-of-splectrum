@@ -5,10 +5,10 @@ description: "Neuroscience, behavioural biology and AI give philosophy something
 date: 2026-07-01
 lastmod: 2026-08-01
 labels: [preamble,philosophy]
-status: final review
+status: ready
 words: 510
 ---
-<img src="https://images.unsplash.com/photo-1620028193494-671878b176b7?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="Brain"/>
+<img src="https://images.unsplash.com/photo-1620028193494-671878b176b7?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="Brain" />
 
 This century is seeing an exponential increase in knowledge in scientific disciplines like neuroscience, behavioural biology, and artificial intelligence. That scientific understanding can, in turn, guide our philosophical thinking in ways it couldn't before — not by replacing philosophy with science, but by giving philosophical questions something more solid to push against.
 
@@ -22,7 +22,7 @@ Understanding the thinking machine can lead to a better comprehension of thinkin
 
 This doesn't diminish the wonder of consciousness or reduce philosophy to biology. Quite the opposite. It gives philosophy a firmer floor to stand on while asking the oldest questions. What is it like to be a thing that thinks? What can such a thing actually know? How should it live with others of its kind? These questions don't go away when science gets better. They get sharper.
 
-<small>This post is from an earlier moment in the walk(28/11/2024). This post is part of the [preamble](/blog/label/preamble/), about happening before SPLectrum saw the light of day.</small>
+<small>This post is from an earlier moment in the walk (28/11/2024). This post is part of the [preamble](/blog/label/preamble/), about happening before SPLectrum saw the light of day.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@theblowup">the blowup</a> / Unsplash</small>

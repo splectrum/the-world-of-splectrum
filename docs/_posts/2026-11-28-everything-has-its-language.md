@@ -8,7 +8,7 @@ description: "No philosophy from above holds the sciences together: every field 
 status: draft
 words: 745
 ---
-<img src="https://plus.unsplash.com/premium_photo-1673697239981-389164b7b87f?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" alt="Everything Has Its Language" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://plus.unsplash.com/premium_photo-1673697239981-389164b7b87f?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" alt="Everything Has Its Language" />
 
 [From an Inquiry into the Whole](/blog/2026/11/from-an-inquiry-into-the-whole/) ended on a question: what was natural philosophy now lies scattered across many sciences, so does anything still hold them together? What is left as the core, the questions of what there is and how we can know it, keeps shrinking. Is it becoming an empty seat?
 

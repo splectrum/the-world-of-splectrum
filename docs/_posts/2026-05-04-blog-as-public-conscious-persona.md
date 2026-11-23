@@ -32,7 +32,7 @@ For the architectural description of the persona, see the [Public Conscious Pers
 
 Welcome to the Public Conscious Persona.
 
-<small>More on the human-AI partnership on the <a href="/haicc/">HAICC page</a> and <a href="/engineering/splectrum/haicc/personas/">Personas</a>.</small>
+<small>See also <a href="/haicc/">HAICC</a> and <a href="/engineering/splectrum/haicc/personas/">Personas</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@anniespratt">Annie Spratt</a> / Unsplash</small>

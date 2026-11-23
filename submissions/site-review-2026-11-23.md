@@ -28,6 +28,9 @@ First full cold review of the site and repo. Eight reviewers: persons A–G, H�
   - Memory: Bartlett (remembering as reconstruction), Tulving (episodic memory) — retention, historicity.
   - Language, conversation, the subject: Kenneth Burke (terministic screens), Oakeshott (the conversation of mankind), Beauvoir (the Other, situated freedom — subjectivity), Solé (liquid brains — cognition, complexity).
 - **A10 (aesthetics subordination):** aesthetics in philosophy is a meta subject in nature and may hold the subordination sorting, declared as its own. The person pages (Baumgarten, Croce, Collingwood, Aristotle, Abhinavagupta) only report what each held; their page-voice argument for the thesis goes (person batch).
+- **A11 (top navigation):** the stale status lines fixed: About drops "progress is slow due to time constraints"; P2P now says the work on it is not yet in full swing. Rewording waits for the Engineering rework.
+- **A12 (posting guide):** posts brought in line: one image tag (no inline float; the CSS sizes it), one footer form (series line, then "See also" with page titles), the two reality posts given their series line; status is `draft` (written, on Jules's list for rework and review) or `ready`, and published posts set to `ready`. The guide updated: series labels, status, cadence (eight fixed days a month: 1, 4, 8, 12, 16, 20, 24, 28), about 5 links as guidance, the pipeline as practised (cleanup once the draft is written).
+- **A13 (published posts):** no edits. Posts are Jules's voice and dated records; the neutral-page tests (attribution, page-voice verdicts, closers) do not apply to them. 04-16 is said of language in the narrow sense; 04-21 argues against *inaccessible*, not against privacy; 07-12 refutes an absolute "is". Recorded in the reviewer brief.
 
 ## A. Position questions — to discuss with Jules
 

@@ -9,7 +9,7 @@ status: ready
 words: 651
 ---
 
-<img src="https://images.unsplash.com/photo-1717308086506-4cbc0f4624ed?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Thermodynamics and the Geodesic Principle" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1717308086506-4cbc0f4624ed?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Thermodynamics and the Geodesic Principle" />
 
 What does change cost?
 
@@ -29,7 +29,7 @@ These results are bounds, not predictions: what any process must pay at minimum,
 
 What follows is that there is a most efficient way to make a change, and that the end state is the same whichever way is taken; only the bill differs. The cheapest way is the most demanding one. It requires full control over the system and time to spare: the more efficiency is wanted, the tighter the constraints. The question it leaves is not how to reach the minimum but what cost one is willing to live with for the outcome, and how soon.
 
-<small>This post is part of the [conversations series](/blog/label/conversations/). See also the reference entries on <a href="/positioning/persons/i/ito/">Ito</a>, <a href="/positioning/persons/l/landauer/">Landauer</a>, and the thermodynamics pages on <a href="/positioning/subjects/t/thermodynamics/away-from-equilibrium/">away from equilibrium</a> and <a href="/positioning/subjects/t/thermodynamics/information-and-computation/">information and computation</a>.</small>
+<small>This post is part of the [conversations series](/blog/label/conversations/). See also <a href="/positioning/persons/i/ito/">Sosuke Ito</a>, <a href="/positioning/persons/l/landauer/">Rolf Landauer</a>, <a href="/positioning/subjects/t/thermodynamics/away-from-equilibrium/">Away from Equilibrium</a> and <a href="/positioning/subjects/t/thermodynamics/information-and-computation/">Information and Computation</a>.</small>
 
 
 ---

@@ -29,7 +29,7 @@ Languages are living things — in fertile ground they will grow and multiply. T
 
 A lot said, not all explained. This is just the beginning.
 
-<small>This post is part of the [seed series](/blog/label/seed/). See also the <a href="/seed/">Seed</a> section of the site.</small>
+<small>This post is part of the [seed series](/blog/label/seed/). See also <a href="/seed/">The SPLectrum Seed</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@funen99">Funen99</a> / Unsplash</small>

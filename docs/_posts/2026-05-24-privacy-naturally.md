@@ -8,7 +8,7 @@ description: "Privacy is a structural fact, not a right to be granted: every sub
 status: ready
 words: 793
 ---
-<img src="https://images.unsplash.com/photo-1595666944516-bbb485958fb5?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="Privacy" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1595666944516-bbb485958fb5?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="Privacy" />
 
 When I put together the seed, I wasn't thinking about privacy. I was thinking about language, about how subjects experience reality, about the web of complexity that grows when they share what they know. Privacy wasn't on the list.
 
@@ -42,7 +42,7 @@ Which makes me wonder. What if the architecture itself could be different? What 
 
 I think it can.
 
-<small>This post is part of the [seed series](/blog/label/seed/). See also the <a href="/">home page</a>.</small>
+<small>This post is part of the [seed series](/blog/label/seed/). See also <a href="/">The World of SPLectrum</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@jdent">Jason Dent</a> / Unsplash</small>

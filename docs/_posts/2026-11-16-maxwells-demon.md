@@ -31,7 +31,7 @@ In 2012, Antoine Bérut and colleagues measured it: a single colloidal particle 
 
 So the demon was never banished. It was billed. Knowing which way the molecules go is not, in itself, what costs. What costs is going full cycle: the memory returning to its initial condition.
 
-<small>This post is part of the [conversations series](/blog/label/conversations/). See also the reference entry on <a href="/positioning/subjects/t/thermodynamics/information-and-computation/">information and computation</a>.</small>
+<small>This post is part of the [conversations series](/blog/label/conversations/). See also <a href="/positioning/subjects/t/thermodynamics/information-and-computation/">Information and Computation</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@sortino">Joshua Sortino</a> / Unsplash</small>

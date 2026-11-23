@@ -5,7 +5,7 @@ date: 2026-06-20
 lastmod: 2026-06-20
 labels: [reality,philosophy]
 description: "Three values that come with the grain of being a subject: belonging, privacy, creativity. The flag SPLectrum flies on the content side."
-status: draft
+status: ready
 words: 641
 ---
 <img src="https://images.unsplash.com/photo-1570393080660-de4e4a15a247?q=80&w=700&h=460&auto=format&fit=crop" alt="Flying the Flag of Belonging, Privacy and Creativity" />
@@ -29,6 +29,8 @@ And this opens up an unexpected avenue: the importance of how I experience and h
 In SPLectrum aesthetics takes on an important role: there is no reality without sensory experience. And since experience is mediated by language, a reality shaped by the beauty, purity, effectiveness of the language we use to share and create belonging, that we use to function as communities.
 
 The absence of absolute values easily instills fear - objectivity as subjectivity converging is often pushed away. In fact it should be embraced. If objectivity is where our subjectivities converge, then we all have an equal stake in shaping what counts as real. We who belong have to figure that out - together. Starting from individual and running across communities, that is where diversity makes us stronger. 
+
+<small>This post is part of the [reality series](/blog/label/reality/).</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@schaidler">Sebastian Schaidler</a> / Unsplash</small>

@@ -9,7 +9,7 @@ status: ready
 words: 609
 ---
 
-<img src="https://images.unsplash.com/photo-1678899813352-f78cd41e1744?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="SPLectrum and Emergence" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1678899813352-f78cd41e1744?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="SPLectrum and Emergence" />
 
 History keeps a file marked *strong emergence* — properties of wholes that cannot be derived, even in principle, from full knowledge of their parts. And history has taken entries out of it more than once. Vitalism filed *life* there; biochemistry restated it. [C. D. Broad](/positioning/persons/b/broad/), the most careful mind ever to organise the file, put *silver chloride* in it in 1925 — the properties of a compound, his confident example of a relation no amount of knowledge could close. Quantum mechanics began deriving chemical bonds within the decade. Philosophers of chemistry still argue about how complete that derivation is, but the example moved. The file is not empty; experience is still in it.
 
@@ -21,7 +21,7 @@ There is one more clause, and it is the pluralist one. SPLectrum is just one voi
 
 So the position, stated plainly. Novelty is real, and it arrives as a new context on top of an existing one. Say what layered on what, and within which language you are speaking. Where your context cannot state the relation, file it under unknown and keep working; the file has a good record. And where a discussion of emergence is running in no well-defined context at all, it is a discussion about the word. The reference library carries [what the word's many communities each mean by it](/positioning/subjects/e/emergence/). And that is the better place to start.
 
-<small>This post is part of the [reality series](/blog/label/reality/). See also <a href="/reality/emergence/">Emergence</a> on the reality side.</small>
+<small>This post is part of the [reality series](/blog/label/reality/). See also <a href="/reality/emergence/">Emergence</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@emmebience">emmebience</a> / Unsplash</small>

@@ -28,7 +28,7 @@ Meanwhile the question of where the *pieces* come from — the things Merge comb
 
 What the sixty years show is a stance taken early that then had to be held. This is science fighting a war in the trenches, actively non-pluralistic, each holding one position. The war was never about the findings — it was only about the tribe.
 
-<small>This post is part of the [seed series](/blog/label/seed/). See also the reference entry on <a href="/positioning/subjects/n/nativism/">nativism</a>.</small>
+<small>This post is part of the [seed series](/blog/label/seed/). See also <a href="/positioning/subjects/n/nativism/">Nativism</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@inakihxz">Iñaki del Olmo</a> / Unsplash</small>

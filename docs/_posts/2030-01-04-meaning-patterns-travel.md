@@ -5,7 +5,7 @@ description: "The two-body problem turns up in atoms, negotiation, partnership, 
 date: 2030-01-04
 lastmod: 2026-07-24
 labels: [formalisation, mathematics, language]
-status: mandatory review
+status: draft
 words: 540
 ---
 <img src="https://images.unsplash.com/photo-1776056693062-f36abae66bbf?q=80&w=700&h=460&auto=format&fit=crop" alt="Meaning Patterns Travel" />

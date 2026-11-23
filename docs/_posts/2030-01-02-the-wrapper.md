@@ -5,7 +5,7 @@ description: "Naming wraps a long conversation into a graspable unit without rep
 date: 2030-01-02
 lastmod: 2026-07-24
 labels: [formalisation, mathematics, philosophy]
-status: mandatory review
+status: draft
 words: 610
 ---
 <img src="https://images.unsplash.com/photo-1595481197464-eddddfe2624c?q=80&w=700&h=460&auto=format&fit=crop" alt="The Wrapper" />

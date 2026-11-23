@@ -24,7 +24,7 @@ There is one more thing worth noticing about the shape. Most of these mechanisms
 
 Absorbing what the common holds, building its own from it, and feeding its own back into the shared as it goes. A picture of how a child comes into language. Widen the frame past childhood, and it looks like how we go on living: never finished, always at work, always in the middle of the talking.
 
-<small>This post is part of the [seed series](/blog/label/seed/). See also the reference entry on <a href="/positioning/seed/sharing-knowledge/human-ways-of-sharing/">human ways of sharing</a>.</small>
+<small>This post is part of the [seed series](/blog/label/seed/). See also <a href="/positioning/seed/sharing-knowledge/human-ways-of-sharing/">Human Ways of Sharing</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@mrthetrain">Joshua Hoehne</a> / Unsplash</small>

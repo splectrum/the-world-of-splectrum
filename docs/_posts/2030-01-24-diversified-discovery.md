@@ -5,7 +5,7 @@ description: "If creation conforms to discovery, how discovery is organised matt
 date: 2030-01-24
 lastmod: 2026-07-20
 labels: [creativity, philosophy]
-status: Mandatory review
+status: draft
 words: 441
 ---
 <img src="https://images.unsplash.com/photo-1559523527-b05d4e6775f8?q=80&w=700&h=460&auto=format&fit=crop" alt="Diversified Discovery" />
@@ -20,7 +20,7 @@ The inverse holds. Monoculture — biological, cultural, linguistic, technologic
 
 Decentralisation, then, is not an ethical position or a political programme. It is diversified discovery — the natural organisation of exploration in a relational space where no single position sees everything. The architecture the engineering already builds takes this shape. Multiple processes, multiple positions, multiple paths through the same fabric. The pattern emerges from the relational space itself, not because someone decided cooperation is a virtue. The relational space rewards diversification because that is how discovery works.
 
-<small>This post is part of the [creativity series](/blog/label/creativity/). See also <a href="/seed/">the seed</a>.</small>
+<small>This post is part of the [creativity series](/blog/label/creativity/). See also <a href="/seed/">The SPLectrum Seed</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@jaydenyoonzk">Jayden Yoon ZK</a> / Unsplash</small>

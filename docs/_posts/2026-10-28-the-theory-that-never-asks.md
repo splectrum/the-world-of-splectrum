@@ -9,7 +9,7 @@ status: ready
 words: 646
 ---
 
-<img src="https://plus.unsplash.com/premium_photo-1728688265254-0748734fa14a?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Theory That Never Asks What Things Are Made Of" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://plus.unsplash.com/premium_photo-1728688265254-0748734fa14a?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Theory That Never Asks What Things Are Made Of" />
 
 Thermodynamics has a strange position among physical theories. Its laws were worked out before it was settled whether matter is made of atoms, and when the atoms turned up nothing had to be withdrawn. The same apparatus now applies to gases, magnets, living cells, computation and black holes — domains with almost nothing in common at the level of what they are made of. The strangeness goes away once the kind of theory is named.
 
@@ -35,7 +35,7 @@ What holds for a principle theory holds for any vocabulary that travels. It trav
 
 Which brings me back to black holes, where the sequence is Carnot and Boltzmann again, half a century apart. The principle theory got there first — the four laws, with the area of the horizon standing in for entropy — and what is being sought is the constructive account, the microstates whose count gives the area: Strominger and Vafa counted them for a class of extremal black holes in string theory in 1996, and loop quantum gravity has a count of its own. Whether a horizon has those properties or something shaped like them is the open question, and it is being worked on by building, not by arguing.
 
-<small>This post is part of the [conversations series](/blog/label/conversations/). See also the reference entries on <a href="/positioning/subjects/t/thermodynamics/">thermodynamics</a> and <a href="/positioning/subjects/t/thermodynamics/black-holes/">black holes</a>.</small>
+<small>This post is part of the [conversations series](/blog/label/conversations/). See also <a href="/positioning/subjects/t/thermodynamics/">Thermodynamics</a> and <a href="/positioning/subjects/t/thermodynamics/black-holes/">Black Holes</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@nataliablauth">Natalia Blauth</a> / Unsplash</small>

@@ -29,7 +29,7 @@ Language is a medium that binds things together — like glue, it tells a story 
 ***P2 - Language is the medium through which a subject experiences reality.***
 Expect a battleground here. No reality without subject, no outside view seen from nowhere. What you experience is what you get, what is. The funny part is that in everyday life we acknowledge this: 'He lives in a different world, a different reality'. But within science and philosophy there is a lot of pushback, tacit persistence of an outside view. What is often overlooked is that the lived experience of reality provides richness, where representation — the imperfect description of an outside reality — is in essence dead.
 
-<small>This post is part of the [seed series](/blog/label/seed/). Continued in [First Principles — the Social Core](/blog/2026/05/first-principles-the-social-core/). See also the <a href="/seed/">Seed</a> section of the site.</small>
+<small>This post is part of the [seed series](/blog/label/seed/). Continued in [First Principles — the Social Core](/blog/2026/05/first-principles-the-social-core/). See also <a href="/seed/">The SPLectrum Seed</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@funen99">Funen99</a> / Unsplash</small>

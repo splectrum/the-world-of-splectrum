@@ -8,7 +8,7 @@ description: "Basal cognition and SPLectrum reach the same open ground from diff
 status: ready
 words: 630
 ---
-<img src="https://images.unsplash.com/photo-1588260693037-45d3add2388d?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Where Basal Cognition and SPLectrum Meet" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1588260693037-45d3add2388d?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Where Basal Cognition and SPLectrum Meet" />
 
 I wrote earlier about [the field that waited a century](/blog/2026/09/the-field-that-waited-a-century/) — how basal cognition, the research programme studying cognition below the nervous system, spent a hundred years as orphaned results before [Pamela Lyon](/positioning/persons/l/lyon/) inverted the question and gave the evidence a home. This post is about what happens when that field and SPLectrum are put side by side. They meet — and the meeting point is more precise than a general sympathy.
 
@@ -28,7 +28,7 @@ Each of these is a being with its own language — partial in reach, contingent 
 
 The full reading — the cases worked in detail, and their importance to SPLectrum — is in the reference library, at [basal cognition in close affinity](/positioning/close-affinity/basal-cognition/). The short version fits in a sentence: the field has the cases, worked from the organisms outward, and SPLectrum has an account of cognition that never asked for a brain. Neither was built for the other, which is what makes the fit worth looking at.
 
-<small>This post is part of the [language series](/blog/label/language/). See also the reference entries on <a href="/positioning/close-affinity/basal-cognition/">basal cognition in close affinity</a> and <a href="/positioning/subjects/b/basal-cognition/">the basal cognition subject</a>.</small>
+<small>This post is part of the [language series](/blog/label/language/). See also <a href="/positioning/close-affinity/basal-cognition/">Basal cognition in close affinity</a> and <a href="/positioning/subjects/b/basal-cognition/">The basal cognition subject</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@europeana">Europeana</a> / Unsplash</small>

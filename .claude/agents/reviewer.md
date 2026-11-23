@@ -33,6 +33,7 @@ Read the rules that govern the pages you were given:
 - Be discriminating: a clean page is a valid result. Don't pad findings.
 - Don't flag necessary attribution or exact dates that carry the point; never propose replacing an exact fact with a vaguer one — cut it or keep it.
 - Where you'd move material, check the destination page first (does it already carry it?).
+- Posts are Jules's voice and dated records. Tests 3 (no SPLectrum position, attribution of judgements) and 6 (closers) are for neutral pages and do not apply to posts: a post may judge, read a thinker, and ask where he stops. On a post, flag only what is factually wrong, and only a contradiction with the site that is not a reading of the walk at an earlier stage — rare, and his call.
 
 ## Output
 

@@ -24,7 +24,7 @@ The *Zhuangzi* was written in China in the fourth century BCE. Zhuangzi locates 
 
 For me these stories don't just touch the mysterious side of cognition, but are a poignant expression of the subject values of [belonging, privacy and creativity](/reality/core-values/).
 
-<small>This post is part of the [conversations series](/blog/label/conversations/). See also the reference entry on <a href="/positioning/persons/z/zhuangzi/">Zhuangzi</a>.</small>
+<small>This post is part of the [conversations series](/blog/label/conversations/). See also <a href="/positioning/persons/z/zhuangzi/">Zhuangzi</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@theocrazzolara">Theo Crazzolara</a> / Unsplash</small>

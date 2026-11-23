@@ -5,7 +5,7 @@ description: "A post from before SPLectrum: a blog started three years earlier t
 date: 2026-06-24
 lastmod: 2026-07-24
 labels: [preamble]
-status: final review
+status: ready
 words: 461
 ---
 <img src="https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?q=80&w=700&h=460&auto=format&fit=crop" alt="Promises Made, Promises Broken" />
@@ -30,7 +30,7 @@ The next posts will fill in each area. New promise made — let's see what happe
 
 *It took me another two years to figure out that it was language that I was after. And it was a software project and AI that pointed it out to me.*
 
-<small>This post is from an earlier moment in the walk(24/11/2024). This post is part of the [preamble](/blog/label/preamble/), about happening before SPLectrum saw the light of day.</small>
+<small>This post is from an earlier moment in the walk (24/11/2024). This post is part of the [preamble](/blog/label/preamble/), about happening before SPLectrum saw the light of day.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@jaleel_akbash">Jaleel Akbash</a> / Unsplash</small>

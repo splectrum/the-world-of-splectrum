@@ -9,7 +9,7 @@ status: draft
 words: 614
 ---
 
-<img src="https://images.unsplash.com/photo-1775601464800-c3438030dd51?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" alt="The Demon, SPLectrum and Cognition" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1775601464800-c3438030dd51?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" alt="The Demon, SPLectrum and Cognition" />
 
 The posts on [Maxwell's demon](/blog/2026/11/maxwells-demon/) and on [what a part can do](/blog/2026/12/what-a-part-can-do/) followed the demon from a thought experiment to a network, in the field's own terms. This one reads them with SPLectrum, because the demon, looked at again, is like something SPLectrum has been talking about all along: a being in exchange with its surroundings, knowing something about them, and doing something with what it knows.
 
@@ -29,7 +29,7 @@ The third is knowledge itself. The physics speaks of information: a correlation 
 
 The demon was imagined as a being that could cheat the second law. It turned out to be a being that knows, and pays for knowing. Read SPLectrum's way, that looks a lot like a living thing: something that holds a little of its surroundings in itself, uses it to keep going, and pays to keep it fresh.
 
-<small>This post is part of the [language series](/blog/label/language/). See also the reference entries on <a href="/positioning/close-affinity/basal-cognition/">basal cognition in close affinity</a> and <a href="/positioning/subjects/t/thermodynamics/information-and-computation/">information and computation</a>.</small>
+<small>This post is part of the [language series](/blog/label/language/). See also <a href="/positioning/close-affinity/basal-cognition/">Basal cognition in close affinity</a> and <a href="/positioning/subjects/t/thermodynamics/information-and-computation/">Information and Computation</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@mintchap">Brad Switzer</a> / Unsplash</small>

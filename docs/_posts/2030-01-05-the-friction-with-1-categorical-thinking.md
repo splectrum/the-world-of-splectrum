@@ -5,7 +5,7 @@ description: "Asked 'is X equal to Y?', one side wants yes or no while the other
 date: 2030-01-05
 lastmod: 2026-07-24
 labels: [formalisation, philosophy, mathematics]
-status: mandatory review
+status: draft
 words: 600
 ---
 <img src="https://images.unsplash.com/photo-1533582437341-dfdc01630b05?q=80&w=700&h=460&auto=format&fit=crop" alt="The Friction with 1-Categorical Thinking" />

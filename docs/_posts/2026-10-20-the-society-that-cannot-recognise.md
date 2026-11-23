@@ -9,7 +9,7 @@ status: ready
 words: 673
 ---
 
-<img src="https://images.unsplash.com/photo-1582519934634-165964332f00?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Society That Cannot Recognise" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1582519934634-165964332f00?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Society That Cannot Recognise" />
 
 In 2002, three researchers at Lausanne — Tatiana Giraud, Jes Pedersen and Laurent Keller — sampled Argentine ants from thirty-three populations along the coasts of Italy, France, Spain and Portugal, and then put workers from every possible pairing of those populations together to see what happened. Over eleven hundred trials, scored on a scale from *ignores the other* to *fights to the death*.
 
@@ -33,7 +33,7 @@ That is a disagreement about a word, conducted by people who agree about the fac
 
 It would have happened had he not asked. Moffett put the question in the title of a paper — *what is a society?* — and made his colleagues answer it, which they did. The question, asked and answered where it could be argued rather than assumed.
 
-<small>This post is part of the [conversations series](/blog/label/conversations/). See also the reference entry on <a href="/positioning/persons/m/moffett/">Mark Moffett</a>.</small>
+<small>This post is part of the [conversations series](/blog/label/conversations/). See also <a href="/positioning/persons/m/moffett/">Mark W. Moffett</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@juanmascan1978">juanmascan1978</a> / Unsplash</small>

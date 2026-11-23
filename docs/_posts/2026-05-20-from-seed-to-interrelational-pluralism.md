@@ -40,7 +40,7 @@ This position starts from the human case — because that is where we are, and w
 
 Welcome to the home of Interrelational Pluralism.
 
-<small>This post is part of the [seed series](/blog/label/seed/). See also the <a href="/seed/interrelational-pluralism/">seed and Interrelational Pluralism</a>.</small>
+<small>This post is part of the [seed series](/blog/label/seed/). See also <a href="/seed/interrelational-pluralism/">The seed and Interrelational Pluralism</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@mvogulov">mvogulov</a> / Unsplash</small>

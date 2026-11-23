@@ -9,7 +9,7 @@ status: draft
 words: 841
 ---
 
-<img src="https://images.unsplash.com/photo-1531851243379-1524c00c0545?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Empty Chair" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1531851243379-1524c00c0545?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Empty Chair" />
 
 In 2018 [Artemy Kolchinsky](/positioning/persons/k/kolchinsky/) and [David Wolpert](/positioning/persons/w/wolpert/) [set out to find the meaningful correlations between a system and its environment](https://arxiv.org/abs/1806.08053). They set themselves one condition, and it makes the attempt worth watching: the answer had to be **intrinsic**, grounded in the system's own dynamics rather than in a goal supplied from outside. A utility function fails that test, because it makes the meaning, in their words, "for the external scientist who imputes goals to the system, rather than for the system itself." They wanted a definition that would work for a rock, a hurricane and a cell alike, with nobody deciding in advance what any of them was for. The observer's chair was to stay empty.
 
@@ -29,7 +29,7 @@ The paper sets its founding idea, that meaningful information is correlation tha
 
 The paper is an example of a more general pattern. A constraint is set, the construction breaks it, and the breach is filed as an engineering problem for later, when the real possibility is that the constraint asked for the wrong thing. Intrinsic did not have to mean independent of any frame, and it did not have to mean known without a scientist. The chair was never empty, and it is not the scientist who fills it: the coupling does. What the scientist does is say what it holds, and stand to be corrected.
 
-<small>This post is part of the [positioning series](/blog/label/positioning/). See also the reference entries on <a href="/positioning/persons/k/kolchinsky/">Kolchinsky</a>, <a href="/positioning/persons/w/wolpert/">Wolpert</a>, <a href="/positioning/persons/r/rovelli/">Rovelli</a> and <a href="/positioning/subjects/r/relational-quantum-mechanics/">relational quantum mechanics</a>. On the seed side: <a href="/seed/semantic-information/">an attempt at semantic information</a>.</small>
+<small>This post is part of the [positioning series](/blog/label/positioning/). See also <a href="/positioning/persons/k/kolchinsky/">Artemy Kolchinsky</a>, <a href="/positioning/persons/w/wolpert/">David Wolpert</a>, <a href="/positioning/persons/r/rovelli/">Carlo Rovelli</a>, <a href="/positioning/subjects/r/relational-quantum-mechanics/">Relational quantum mechanics</a> and <a href="/seed/semantic-information/">The seed and an attempt at semantic information</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@griestprojects">Griest Projects</a> / Unsplash</small>

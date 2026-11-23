@@ -5,7 +5,7 @@ description: "We become alive without noticing and see death coming: an individu
 date: 2026-06-16
 lastmod: 2026-07-16
 labels: [preamble]
-status: final review
+status: ready
 words: 499
 ---
 <img src="https://images.unsplash.com/photo-1518495973542-4542c06a5843?q=80&w=700&h=460&auto=format&fit=crop" alt="No Life Without Death" />
@@ -24,7 +24,7 @@ We are not separate from life — we *are* life, expressing itself through our p
 
 The flame passes on, taking new forms, exploring new possibilities. Always changing, always growing. That is a way of lasting forever which doesn't require any of us to personally manage the trick.
 
-<small>This post is from an earlier moment in the walk(20/02/2022). This post is part of the [preamble](/blog/label/preamble/), about happening before SPLectrum saw the light of day.</small>
+<small>This post is from an earlier moment in the walk (20/02/2022). This post is part of the [preamble](/blog/label/preamble/), about happening before SPLectrum saw the light of day.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@melissaaskew">Melissa Askew</a> / Unsplash</small>

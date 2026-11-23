@@ -22,7 +22,7 @@ And the composition of the path says the same thing from another side. A relatio
 
 A plectrum sounds a note. The string could always have sounded it — the note was possible — but before the pluck there is no music, and after it there is. The sounding is the creation of the music, and nothing arrived from outside the string. The spectrum of possible notes is what the string holds; the plectrum brings one after another into reality by touching it. Different plectrums, different paths through the spectrum, different music. Same range of the possible. SPLectrum: the full range of what a medium holds open, made real through the act of contact. The name already carries the argument. And if creating is walking the possible, a question follows: what does that mean for how we organise the walking?
 
-<small>This post is part of the [creativity series](/blog/label/creativity/). See also <a href="/seed/">the seed</a>.</small>
+<small>This post is part of the [creativity series](/blog/label/creativity/). See also <a href="/seed/">The SPLectrum Seed</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@brechtcorbeel">Brecht Corbeel</a> / Unsplash</small>

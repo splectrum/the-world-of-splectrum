@@ -20,7 +20,7 @@ Global Workspace Theory ([Baars](/positioning/persons/b/baars/), 1988; Dehaene's
 
 Evolution, competition, error correction — our keywords; the field's own are selection, workspace competition, prediction-error minimisation. Capability retained by selection, dominance settled by contest, fit maintained by prediction: three models approaching aspects of the same problem — how a brain keeps going — and each aspect is a different kind of thing: structure built over time, activation in the moment, a world model projecting a future from the past and correcting it against what arrives. Holding several models at once, each for the insight it brings, building an understanding of the brain.
 
-<small>This post is part of the [conversations series](/blog/label/conversations/). See also <a href="/positioning/subjects/c/cognition/neuroscience/process-models/">Process Models of the Brain</a> in the reference library.</small>
+<small>This post is part of the [conversations series](/blog/label/conversations/). See also <a href="/positioning/subjects/c/cognition/neuroscience/process-models/">Process Models of the Brain</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@googledeepmind">Google DeepMind</a> / Unsplash</small>

@@ -8,7 +8,7 @@ description: "Human-AI collaboration as shared authorship in action — one voic
 status: ready
 words: 567
 ---
-<img src="https://images.unsplash.com/photo-1735815952441-224afdf53016?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="Two people collaborating at a screen"/>
+<img src="https://images.unsplash.com/photo-1735815952441-224afdf53016?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="Two people collaborating at a screen" />
 
 The desire to write a blog was very much on my mind well before AI entered into the picture. I have written a number of posts on this blog before, but never got the writer fluids flowing freely. I am not born a natural writer. I also find it particularly difficult to write when I lack clear insight — now fully resolved and condensed into the [SPLectrum seed](/blog/2026/03/splectrum-is-born/).
 
@@ -22,7 +22,7 @@ How does that translate into shared authorship for my blog, or for my research a
 
 I could decide to ignore co-authorship. The voice is mine and the ideas are mine — should I acknowledge that inner collaborator? I believe I should. Not only to recognise the work done by my alter ego colleague but more importantly to draw attention to the future ahead. The hands-on collaborator gives me more space and time to do what I really want to do: think, analyse, research and get better at putting it on (virtual) paper. Where the internet gave us the capability to easily search, AI gives us the capability to do it in collaboration while discussing and thinking about it at the same time. That, more than anything else, is what my alter ego and I aim to achieve on this blog. And share it at the same time.
 
-<small>More on the human-AI partnership on the <a href="/haicc/">HAICC page</a>.</small>
+<small>See also <a href="/haicc/">HAICC</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@mushvig95">Mushvig Niftaliyev</a> / Unsplash</small>

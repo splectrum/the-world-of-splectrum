@@ -21,10 +21,9 @@ The working tree must be committed first (`--allow-dirty` overrides). Dates are 
 
 ## Cadence
 
-Blog cadence is layered: roughly weekly as a minimum schedule looking four months ahead, every four days as a target schedule with a two-month ahead window, and when there is additional material posts slot in between — creating a local two-day cadence. Posts are rescheduled as needed so the storyline makes sense.
+Blog cadence is roughly every four days, on fixed day numbers: eight per month, between the 1st and the 28th. Posts are rescheduled as needed so the storyline makes sense.
 
-- **The day-number grid.** Posts sit on two monthly tracks so day numbers repeat every month: **track A — 1, 8, 16, 24**; **track B — 4, 12, 20, 28**. One track alone is the weekly minimum; both tracks interleaved give the four-day target. When scheduling or rescheduling, place posts on grid days — a series runs down one track; the other track carries the interleave.
-- **Current operation (2026-07-23).** Reduced availability: the schedule runs track A only — one post per week. Track B is dormant until time allows.
+- **The day-number grid.** The eight days are **1, 4, 8, 12, 16, 20, 24, 28**, the same every month. They form two interleaved tracks, **A — 1, 8, 16, 24** and **B — 4, 12, 20, 28**; a series can run down one track while the other carries the interleave. When scheduling or rescheduling, place posts on grid days.
 - **Parking.** Posts not yet scheduled are parked on fictitious 2030 dates, grouped in series blocks, and brought back when ready. On unparking: rename the file to the real date, set the frontmatter `date:` to match (it overrides the filename), and re-point any internal cross-links to the post's new URL.
 - Publication date: the post's `date:` (UTC); it goes live with the first deploy on or after that date.
 - The live schedule is the `date:` of the posts in `docs/_posts/`. It is not tracked in `scheduled-tasks.md`, and scheduling is Jules's call (`process/drafted-posts.md`).
@@ -47,7 +46,7 @@ words: NNN
 ```
 
 - **description** — one sentence, used in meta tags and blog listings
-- **status** — `storyline`, `draft`, `review needed`, `Mandatory review`, `final revision`, `final review`, `ready`
+- **status** — `draft` or `ready`. A post is `draft` from the moment it is written: it is then on Jules's task list for rework and review. It becomes `ready` when he has finished with it.
 - **words** — body word count (target 600 average, range 300–900). Update after edits.
 - **labels** — 1–2 category labels, 0–1 series label, max 3 total. What each series is for (2026-07-24):
   - **positioning** — high impact only: the load-bearing engagements where SPLectrum places itself against existing thought (e.g. Whitehead — process and anti-representationalism).
@@ -79,6 +78,8 @@ docs/_posts/   — published posts, date-prefixed
 
 Each stage deletes on transition — git history is the archive.
 
+**Current practice (Jules, 2026-11-23).** An idea may go through research and discussion first; at some point a draft post is written, straight into `docs/_posts/` (on a grid day, or parked on a 2030 date) with `status: draft`. From then on it is on Jules's task list for rework and review until it is `ready` (see `process/drafted-posts.md`). The repo cleanup, deleting the submission, research and groundwork notes it came from, can happen once the draft is written.
+
 ### Submission frontmatter
 
 ```yaml
@@ -106,7 +107,7 @@ Submissions stay in `submissions/` during this process; frontmatter tracks statu
 
 ### Scheduling strategy
 
-**Cadence.** Roughly weekly as a minimum looking four months ahead. Every four days as target with a two-month window. When there is additional material, posts slot in between — creating a local two-day cadence. Currently running the weekly minimum only (track A — see § Cadence).
+**Cadence.** See § Cadence: roughly every four days, on the eight fixed day numbers.
 
 **Composition.** Alternate categories for variety, or cluster the same topic for depth. Not too many heavy core posts in a row. Engineering posts spaced out. Thinking posts as breathers. Topical bunching when posts build on each other.
 
@@ -128,17 +129,17 @@ title: Post title
 series: e.g. mycelium, language
 category: e.g. engineering, philosophy
 persona: e.g. SPLectrum, comment, thought
-status: storyline | draft | review-ready
+status: draft | ready
 ---
 
 # Post Title
 Labels: label1, label2, label3
 
-<img src="IMAGE_URL" alt="ALT" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="IMAGE_URL" alt="ALT" />
 
 [post content]
 
-<small>This post is part of the [series name](/blog/label/series). More in the <a href="https://splectrum.world/area/">area of the reference library</a>.</small>
+<small>This post is part of the [series name](/blog/label/series/). See also <a href="/area/page/">Page Title</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@photographer">Name</a> / Unsplash</small>
@@ -181,7 +182,7 @@ Labels: label1, label2, label3
 3. **Reference pages** — Claude organises reference page content in the draft, drawing from storyline and submission
 4. **Narrative** — Jules writes the flowing text from the storyline
 5. **Improve** — Claude improves on the narrative
-6. **Edit cycles** — collaborative until review-ready
+6. **Edit cycles** — collaborative until ready
 7. **Production tasks** — image selection, links, final review
 
 ### On scheduling
@@ -215,7 +216,7 @@ When reviewing existing or new posts, check:
 2. **Image** — no inline float styles (CSS handles sizing). Just `<img src="..." alt="..." />`
 3. **Internal links** — use absolute paths (`/seed`, `/engineering/splectrum/mycelium/`). No old Blogger URLs, no `jules-tenbos.github.io`, no `.html` extensions
 4. **External links** — People and subjects with internal person/subject pages → use internal links. External (SEP/Wikipedia) only for names without a page. Works → Wikipedia links on person pages, not in posts
-5. **Series footer** — `<small>This post is part of the [series name](/blog/label/series). See also <a href="/area/page">Page Title</a>.</small>` Use "See also" with the page title, not "More in the reference library"
+5. **Footer** — `<small>This post is part of the [series name](/blog/label/series/). See also <a href="/area/page/">Page Title</a>.</small>` "See also" followed by the target pages' titles (several joined with commas and "and"); no "More in…" or "the reference entry on…". A post without a series keeps only the See also; a post without a See also keeps only the series line. Preamble and earlier-moment posts keep their own dated line.
 6. **Photo credit** — `<small>Photo: <a href="...">Name</a> / Unsplash</small>` separated by `---`
 7. **No old Blogger artefacts** — no `Blogger-ID:`, no `Labels:` line (use front matter), no bold date lines in body, no `/search/label/`, no `/p/xxx.html`
 8. **Voice** — consistent with the post's series and category
@@ -262,7 +263,7 @@ Credit footer:
 Two dimensions: **category** and **series**.
 
 - **Category** (1–2) — the domain: philosophy, science, engineering, mathematics
-- **Series** (0–1, optional) — groups posts into a journey: category-theory, evolution, language, positioning, preamble, seed
+- **Series** (0–1, optional) — groups posts into a journey: conversations, creativity, formalisation, language, positioning, preamble, reality, seed
 
 Every post has at least one category. Series is added only when the post belongs to a named journey. Max 3 labels total.
 
@@ -322,8 +323,8 @@ Content...
 ### Linking from blog posts
 
 - Series label link: `/blog/label/<series>` (Jekyll label page)
-- Reference library link: `https://splectrum.world/<area>/`
-- Post footer pattern: `<small>This post is part of the [series](/blog/label/series). More in the <a href="url">area of the reference library</a>.</small>`
+- Reference library link: `/<area>/` (absolute from the site root)
+- Post footer pattern: see the review checklist, item 5
 
 ## Links
 
@@ -344,7 +345,7 @@ A page lives where its section puts it, even when that makes the URL long. Where
 Reference pages (e.g. the infrastructure hub) end with a **Sources** block pointing at where the material lives upstream — `Docs`, `Repo`, `npm` — so refreshes are cheap. Do **not** add a `Snapshot:` / `verified` / `reviewed` date line to the body: freshness is tracked by the `lastmod` frontmatter, which is machine-readable and updates whenever the page is touched. A hand-written body date only duplicates `lastmod` and rots independently. Keep substantive non-date facts (e.g. "checked against bare 1.28.5") if useful, but drop the date itself.
 
 ### General
-- Maximum 5 links per post (internal + external combined)
+- About 5 links per post (internal + external combined) as guidance, not a limit
 - Link on first mention, not every mention
 - Not in the first sentence — let the reader settle in
 - Every link should add value — if the reader wouldn't learn anything useful by clicking, don't link

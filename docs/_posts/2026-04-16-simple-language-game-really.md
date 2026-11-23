@@ -8,7 +8,7 @@ description: "Wittgenstein's slab game through SPLectrum glasses — equivalent 
 status: ready
 words: 720
 ---
-<img src="https://images.unsplash.com/photo-1627453999411-dd9c2604c109?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="Letters"  />
+<img src="https://images.unsplash.com/photo-1627453999411-dd9c2604c109?q=80&w=700&h=460&auto=format&fit=crop&crop=center" alt="Letters" />
 
 I think it is a good time to return to the language game, [Wittgenstein](/positioning/persons/w/wittgenstein/)'s way, but this time looking at it through SPLectrum glasses. To not let the game itself stand in the way of understanding, let's use a simple one-word language game: Slab.
 
@@ -31,7 +31,7 @@ Analysing simple things hides so much complexity. And this is necessary — we w
 
 What each observer experiences goes far beyond what is shared. The builder feels the weight of each slab landing, the roughness under his hands, the sun on his back. The assistant feels the strain of lifting, the rhythm of the work, the satisfaction of a clean handover. None of this enters the shared vocabulary — it doesn't need to. But it is there, in every moment. The personal experience goes well beyond language and what language can share. That is where [Heidegger](/positioning/persons/h/heidegger/)'s being in the world really kicks in.
 
-<small>This post is part of the [language series](/blog/label/language/). See also the <a href="/language/">Language</a> section of the site.</small>
+<small>This post is part of the [language series](/blog/label/language/). See also <a href="/language/">Language</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@brett_jordan">Brett Jordan</a> / Unsplash</small>

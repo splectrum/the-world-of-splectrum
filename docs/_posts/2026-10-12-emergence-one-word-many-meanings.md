@@ -8,7 +8,7 @@ description: "The word 'emergence' works in physics, biology, sociology, AI and 
 status: ready
 words: 704
 ---
-<img src="https://images.unsplash.com/photo-1624806992617-e6b47f5b76a0?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Emergence — One Word, Many Meanings" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1624806992617-e6b47f5b76a0?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Emergence — One Word, Many Meanings" />
 
 Emergence, a word many researchers dread. The physicists Sophia and Steven Kivelson, [introducing an attempt to define it properly](https://www.nature.com/articles/npjquantmats201624), call it "appealingly intuitive but problematically ill-defined," and observe that it sometimes appears simply as a colloquial signal that a property is "newsworthy and highly fundable." A [recent perspective paper on the concept](https://arxiv.org/abs/2507.04951) puts the complaint more bluntly: lacking consensus on a definition, "authors often cloak conceptual gaps with terms that sound profound but remain undefined." And when [NASA's astrobiology programme convened a workshop on the concept](https://astrobiology.nasa.gov/news/all-about-emergence/), more than a hundred scientists spent four days presenting, debating and — not infrequently — disagreeing about what it meant. The word *emergence* arrives trailing a century of confusion, and using it invites arguments you did not mean to start.
 
@@ -24,7 +24,7 @@ It is tempting to read this as somebody's failure. I don't. To me it reads as a 
 
 Emergence is the word for surprising disclosures against a known background — always context-bound, and prone to be cast into local definitions.
 
-<small>This post is part of the [conversations series](/blog/label/conversations/). See also the reference entries on <a href="/positioning/subjects/e/emergence/">emergence</a>, <a href="/positioning/subjects/e/emergence/the-types/">the types</a> and <a href="/positioning/subjects/e/emergence/the-overviews/">the overviews</a>.</small>
+<small>This post is part of the [conversations series](/blog/label/conversations/). See also <a href="/positioning/subjects/e/emergence/">Emergence</a>, <a href="/positioning/subjects/e/emergence/the-types/">The Types of Emergence</a> and <a href="/positioning/subjects/e/emergence/the-overviews/">The Overviews of Emergence</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@farmsteadphoto">farmsteadphoto</a> / Unsplash</small>

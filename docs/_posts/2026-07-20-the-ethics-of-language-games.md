@@ -26,7 +26,7 @@ Belonging to a community is not binary either, there are choices to be made abou
 
 SPLectrum's ethics, being concerned with the values a subject emanates towards others, is in my opinion similar to SPLectrum's ontology in that it is static and descriptive. The still picture of ethics serves to better the understanding of values and language games, but living the values is a dynamic of co-existence, of resonance and dissonance. It runs between communities, between a subject and its communities, and — because none of us is a single thing — within each subject too, among the games it holds. That dynamic is politics, and it is where this series goes next.
 
-<small>This post is part of the [reality series](/blog/label/reality/). More in the <a href="https://splectrum.world/reality/ethics/">ethics area of the reference library</a>.</small>
+<small>This post is part of the [reality series](/blog/label/reality/). See also <a href="/reality/ethics/">Ethics — the values a language game holds</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@pavement_special">Riccardo Annandale</a> / Unsplash</small>

@@ -5,7 +5,7 @@ description: "The structural principles of reality run continuously through the 
 date: 2030-01-25
 lastmod: 2026-07-20
 labels: [creativity, science]
-status: Mandatory review
+status: draft
 words: 653
 ---
 <img src="https://images.unsplash.com/photo-1772413438851-f6dd22c7ebe1?q=80&w=700&h=460&auto=format&fit=crop" alt="A View from the Perimeter" />

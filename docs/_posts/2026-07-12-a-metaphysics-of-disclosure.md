@@ -26,4 +26,4 @@ That is also why the insistence on the absolute — a single true account, a the
 
 We are ready to continue our journey, as the metaphysics turns outward. The subject moves from *learner* to *actor*, from the fields of epistemology, ontology and aesthetics to the fields of ethics and politics. And I want you to do it with this realisation: you have far more sway over your reality than you may realise, or than others may lead you to believe.
 
-<small>This post is part of the [reality series](/blog/label/reality/). More in the <a href="https://splectrum.world/positioning/">positioning area of the reference library</a>.</small>
+<small>This post is part of the [reality series](/blog/label/reality/). See also <a href="/positioning/">Positioning</a>.</small>

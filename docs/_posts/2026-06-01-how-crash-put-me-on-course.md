@@ -8,7 +8,7 @@ description: "A blackout at motorway speed forced an inventory of what matters (
 status: ready
 words: 484
 ---
-<img src="https://images.unsplash.com/photo-1545291200-dfd334fcda76?q=80&w=700&h=460&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" alt="How a Crash Put Me on Course" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1545291200-dfd334fcda76?q=80&w=700&h=460&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" alt="How a Crash Put Me on Course" />
 
 On this day seven years ago I had a fortuitous car crash — if something like that exists. Although I have always been interested in inquiry, spanning science and philosophy, it is this event that set me on course for SPLectrum.
 

@@ -22,7 +22,7 @@ His most famous lecture, "Two Concepts of Liberty" (1958), carries the same warn
 
 Where does he stop? At the question he is always asked: if goods genuinely conflict and no formula ranks them, how do we ever choose? Judgment, he answered — practical wisdom, weighing without a scale — and declined to systematise further, a refusal his critics have pressed on ever since. But the refusal is the man. He worked in portraits, not systems, and he kept returning to one crooked sentence of [Kant](/positioning/persons/k/kant/)'s: "Out of the crooked timber of humanity, no straight thing was ever made." The utopias of his century all promised to plane the timber straight, and he had seen up close what the planing costs. Permanent trade-offs, tragic choices, judgment without a formula — it is a graver, less consoling philosophy than the one true answer. It is also the only one in the room that never handed anyone to the mob.
 
-<small>This post is part of the [conversations series](/blog/label/conversations/). See also the reference entry on <a href="/positioning/persons/b/berlin/">Isaiah Berlin</a>.</small>
+<small>This post is part of the [conversations series](/blog/label/conversations/). See also <a href="/positioning/persons/b/berlin/">Isaiah Berlin</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@duvlady">Darla Bethea</a> / Unsplash</small>

@@ -60,7 +60,7 @@ No being has inherent self-nature. Everything arises in dependence on conditions
 
 My formulation - ***Being is tension across the interface*** - came to me as I imagined a water droplet suspended in air. The droplet as the differentiation, the tension in the interface to keep the droplet together as liquid, suspended in a gas. Being suspended in its complement. The interface is where being meets the world.
 
-<small>This post is part of the [seed series](/blog/label/seed/). More on the seed in the <a href="/seed/">seed section of the reference library</a>.</small>
+<small>This post is part of the [seed series](/blog/label/seed/). See also <a href="/seed/">The SPLectrum Seed</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@xcrap">xcrap</a> / Unsplash</small>

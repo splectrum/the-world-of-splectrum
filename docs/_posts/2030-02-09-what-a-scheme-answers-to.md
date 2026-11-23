@@ -9,7 +9,7 @@ status: draft
 words: 862
 ---
 
-<img src="https://images.unsplash.com/photo-1620969427101-7a2bb6d83273?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" alt="What a Scheme Answers To" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1620969427101-7a2bb6d83273?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" alt="What a Scheme Answers To" />
 
 [The portrait](/blog/2026/11/the-man-who-kept-changing-his-mind/) ended on the part Hilary Putnam kept. Three realisms, and through all of them one piece he never gave back: conceptual relativity, the observation that the same world admits more than one true description and that none of them is the world's own.
 
@@ -25,7 +25,7 @@ A second voice on the same seam comes from the other end of the century. [Walter
 
 What the reading keeps is what Putnam kept: nothing above the schemes, truth that is not the vote of the moment, and conceptual relativity as the ground under both.
 
-<small>This post is part of the [positioning series](/blog/label/positioning/). See also <a href="/reality/shared-voice/">The shared voice</a> on the reality side, and the reference entries on <a href="/positioning/persons/p/putnam/">Putnam</a>, <a href="/positioning/persons/b/benjamin/">Benjamin</a> and <a href="/positioning/subjects/t/translation-theory/">translation theory</a>.</small>
+<small>This post is part of the [positioning series](/blog/label/positioning/). See also <a href="/reality/shared-voice/">The Shared Voice</a>, <a href="/positioning/persons/p/putnam/">Hilary Putnam</a>, <a href="/positioning/persons/b/benjamin/">Walter Benjamin</a> and <a href="/positioning/subjects/t/translation-theory/">Translation Theory</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@joshua_hoehne">Joshua Hoehne</a> / Unsplash</small>

@@ -5,7 +5,7 @@ description: "The same threshold curve from the thinking side: oral tradition, w
 date: 2030-01-26
 lastmod: 2026-07-20
 labels: [creativity, philosophy]
-status: Mandatory review
+status: draft
 words: 745
 ---
 <img src="https://images.unsplash.com/photo-1620662831351-9f68f76d0b9a?q=80&w=700&h=460&auto=format&fit=crop" alt="A View from the Perimeter — The Thinking Side" />

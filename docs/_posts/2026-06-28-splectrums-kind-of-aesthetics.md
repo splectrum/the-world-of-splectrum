@@ -25,5 +25,7 @@ Pulling expression of meaning back to where it started creates a natural flow th
 
 SPLectrum's aesthetics as the single umbrella [finds itself in resonance](/positioning/close-affinity/aesthetics/) with many philosophical branches that touch on some aspect of expression of meaning, and that puts my mind at rest. It's a difference that makes sense in the pluralistic landscape.
 
+<small>This post is part of the [reality series](/blog/label/reality/).</small>
+
 ---
 <small>Photo: <a href="https://unsplash.com/@kxvn_lx">Kevin Laminto</a> / Unsplash</small>

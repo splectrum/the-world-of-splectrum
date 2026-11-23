@@ -8,7 +8,7 @@ description: "Natural philosophy began as one inquiry into the whole and became 
 status: ready
 words: 684
 ---
-<img src="https://images.unsplash.com/photo-1776062356815-d5e8312792a8?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" alt="From an Inquiry into the Whole" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1776062356815-d5e8312792a8?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" alt="From an Inquiry into the Whole" />
 
 The first Greek thinkers called their activity inquiry into nature, *historia peri physeos*. Its object was the whole. It had no parts yet, and it was not even called philosophy; that name came later. Plato's Socrates remembers it from his youth: "the kind of wisdom which they call investigation of nature". Looking back, [Aristotle](/positioning/persons/a/aristotle/) placed the beginning of the inquiry in wonder "about the changes of the moon and of the sun, about the stars and about the origin of the universe". Pythagoras, when asked what human beings are born for, is said to have answered: "to be an observer of the sky".
 
@@ -24,7 +24,7 @@ Then in the nineteenth century the scope of physics narrowed: Thomson and Tait's
 
 With natural philosophy now meaning physics, the all-encompassing reach had gone. The sciences took up its facets without thinking of them as one, and much of what kept the word philosophy stayed with the old ambition: to say what reality is, and to say it with certainty. The scientific method was to make that good: one language, one method, one world, as the Vienna Circle's unity of science still had it. But the focus had turned to language, and there, from [Russell](/positioning/persons/r/russell/) on, it became clear that the certainty could not be carried through logically. The specialisms were proliferating and absolutism was failing. "[Philosophy is dead](/blog/2026/11/the-end-of-philosophy-really/)", [Stephen Hawking](/positioning/persons/h/hawking/) and Leonard Mlodinow wrote in 2010, though many philosophers go on positing. What failed is what [Rorty](/positioning/persons/r/rorty/) spelled with a capital P, philosophy as judge and jury over every other kind of knowledge. What was natural philosophy goes on, scattered across many sciences that hardly remember their common origin. Does anything still hold them together?
 
-<small>This post is part of the [conversations series](/blog/label/conversations/). See also the reference entry on <a href="/positioning/subjects/m/metaphilosophy/western/natural-philosophy/">natural philosophy</a>, part of the <a href="/positioning/subjects/m/metaphilosophy/">metaphilosophy</a> subject, and <a href="/positioning/wider-landscape/natural-philosophy-in-evolution/">Natural Philosophy in Evolution</a>.</small>
+<small>This post is part of the [conversations series](/blog/label/conversations/). See also <a href="/positioning/subjects/m/metaphilosophy/western/natural-philosophy/">Metaphilosophy: Natural Philosophy</a>, <a href="/positioning/subjects/m/metaphilosophy/">Metaphilosophy</a> and <a href="/positioning/wider-landscape/natural-philosophy-in-evolution/">Natural Philosophy in Evolution</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@alanaprilio">alanaprilio</a> / Unsplash</small>

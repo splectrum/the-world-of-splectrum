@@ -24,7 +24,7 @@ Experience happens with a given language, my toolset of perception. This is give
 
 Reading in reverse - make, own, share — not three goods rationed against each other, but one self-creation showing three faces. Put together they are a single liberating force: you make your reality, it is yours, and you share it without losing it. Freedom — not a fourth value, but what the three come to together.
 
-<small>This post is part of the [reality series](/blog/label/reality/). See also <a href="/seed/interrelational-pluralism/">Interrelational Pluralism</a> and <a href="/seed/pluralism-and-the-coin/">The Seed, Pluralism and the Coin</a>.</small>
+<small>This post is part of the [reality series](/blog/label/reality/). See also <a href="/seed/interrelational-pluralism/">The seed and Interrelational Pluralism</a> and <a href="/seed/pluralism-and-the-coin/">The Seed, Pluralism and the Coin</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@imsogabriel">imsogabriel</a> / Unsplash</small>

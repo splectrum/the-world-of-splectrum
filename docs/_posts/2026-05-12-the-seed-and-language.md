@@ -5,7 +5,7 @@ date: 2026-05-12
 lastmod: 2026-05-12
 labels: [seed, philosophy]
 description: "What language is in the seed's terms — contingency, the personal, and the retention that turns a point of existence into duration."
-status: final review
+status: ready
 words: 640
 ---
 <img src="https://plus.unsplash.com/premium_photo-1771261524262-4aa32195849f?q=80&w=700&h=460&auto=format&fit=crop" alt="The Seed and Language" />
@@ -26,7 +26,7 @@ With language we have interaction at a point in time. Historicity stretches a po
 
 But this language preconditioning should not feel like a constraint. See it as a richness that can be built upon. The freedom of personal experience is yours to explore if you choose to avail of it. And that is what people with new ideas do. To understand something is to have created a language for it — borrowing helps, but the act of creation cannot be skipped.
 
-<small>This post is part of the [seed series](/blog/label/seed/). See also the <a href="/seed/">Seed</a> section of the site.</small>
+<small>This post is part of the [seed series](/blog/label/seed/). See also <a href="/seed/">The SPLectrum Seed</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@lishakov">Lishakov</a> / Unsplash</small>

@@ -8,7 +8,7 @@ description: "From NASA's sentence through the families of definitions of life, 
 status: ready
 words: 662
 ---
-<img src="https://images.unsplash.com/photo-1525545840020-a9a77a939f80?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" alt="Life, Alive or What?" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1525545840020-a9a77a939f80?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" alt="Life, Alive or What?" />
 
 "Life is a self-sustaining chemical system capable of Darwinian evolution." The definition of life most people know comes from a NASA panel working on exobiology in 1994. But it has its troubles. It "might include viruses while excluding mules", as [Carlos Mariscal](https://plato.stanford.edu/entries/life/) notes. [Gerald Joyce](https://astrobiology.nasa.gov/news/forming-a-definition-for-life/), who was on the panel, answers that a virus doesn't make the cut, and that "capable" belongs to the system and not to the single mule: "It's the population, or even the ecology, that makes the living system."
 
@@ -34,7 +34,7 @@ Life is more than what is alive. Anything alive depends on substances that are n
 
 It may turn out that we need to look beyond biology to answer that question.
 
-<small>This post is part of the [positioning series](/blog/label/positioning/). See also the reference entries on <a href="/positioning/subjects/a/assembly-theory/">assembly theory</a> and <a href="/positioning/subjects/m/mineral-evolution/">mineral evolution</a>.</small>
+<small>This post is part of the [positioning series](/blog/label/positioning/). See also <a href="/positioning/subjects/a/assembly-theory/">Assembly Theory</a> and <a href="/positioning/subjects/m/mineral-evolution/">Mineral evolution</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@eryk9o9">eryk9o9</a> / Unsplash</small>

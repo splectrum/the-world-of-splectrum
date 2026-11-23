@@ -24,7 +24,7 @@ Two rejections of representationalism starting from the same relational core but
 
 Rorty keeps reality lived by staying inside vocabularies. Whitehead rejects the bifurcation of nature and develops a process theory of how things come to be in relation. Two-pronged anti-representationalism. How can this contrast be turned into a unity, take Rorty's minimal position in language and add Whitehead's process and rigour?
 
-<small>This post is part of the [seed series](/blog/label/seed/). See also <a href="/seed/">the seed</a>.</small>
+<small>This post is part of the [seed series](/blog/label/seed/). See also <a href="/seed/">The SPLectrum Seed</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@vincentvanzalinge">vincentvanzalinge</a> / Unsplash</small>

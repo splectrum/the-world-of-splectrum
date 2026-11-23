@@ -5,7 +5,7 @@ date: 2026-08-04
 lastmod: 2026-09-22
 labels: [positioning, philosophy]
 description: "Charles Renouvier defined freedom as the sustaining of a thought, rescued William James with it, and vanished; only the one line he held in play survived."
-status: draft
+status: ready
 words: 606
 ---
 <img src="https://images.unsplash.com/photo-1507608616759-54f48f0af0ee?q=80&w=700&h=460&auto=format&fit=crop" alt="The Man Who Sustained a Thought" />
@@ -22,7 +22,7 @@ Then Renouvier vanished. Looking back, historians rank him with Comte and [Bergs
 
 He practised the definition to the last. Dying at Prades in the autumn of 1903, he dictated final reflections to his student, reasoning about death while undergoing it — holding the thread while it ran out. There is a neat justice in how the story ends, because it is his own doctrine enacted at the scale of a life: what stays real is what someone keeps in play. On his own definition, Renouvier was free to the end.
 
-<small>This post is part of the [positioning series](/blog/label/positioning/). See also the reference entry on <a href="/positioning/persons/r/renouvier/">Charles Renouvier</a>.</small>
+<small>This post is part of the [positioning series](/blog/label/positioning/). See also <a href="/positioning/persons/r/renouvier/">Charles Renouvier</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@sadswim">ian dooley</a> / Unsplash</small>

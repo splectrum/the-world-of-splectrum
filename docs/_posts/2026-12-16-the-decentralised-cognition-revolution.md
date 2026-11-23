@@ -9,7 +9,7 @@ status: draft
 words: 799
 ---
 
-<img src="https://images.unsplash.com/photo-1674027444636-ce7379d51252?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Decentralised Cognition Revolution" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1674027444636-ce7379d51252?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Decentralised Cognition Revolution" />
 
 In "[A Revolution in Cognition?](/blog/2026/10/a-revolution-in-cognition/)" I said the revolution worth having is to understand cognition from the ground up, in AI and equally in life. The part I keep coming back to is a turn of attention from how powerful to how related, which is to say from the centralised to the decentralised. Power gathers at a centre; relating happens everywhere at once. Decentralisation here is not a way of redistributing power. It is how living things already relate.
 
@@ -33,7 +33,7 @@ Decentralised belonging has no centre that grants membership; it is made at ever
 
 Which is a strange way round for a technological revolution to work: the artificial drawing us back to look properly at the living. It is the part I find most worth being hopeful about.
 
-<small>This post is part of the [conversations series](/blog/label/conversations/). See also <a href="/positioning/subjects/b/basal-cognition/">basal cognition</a> and <a href="/seed/cognition/">The seed and Cognition</a>.</small>
+<small>This post is part of the [conversations series](/blog/label/conversations/). See also <a href="/positioning/subjects/b/basal-cognition/">Basal Cognition</a> and <a href="/seed/cognition/">The seed and Cognition</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@growtika">Growtika</a> / Unsplash</small>

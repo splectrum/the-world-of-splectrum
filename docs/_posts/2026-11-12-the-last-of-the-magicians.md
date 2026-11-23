@@ -8,7 +8,7 @@ description: "Isaac Newton, in his own words and his assistant's: a man still li
 status: ready
 words: 610
 ---
-<img src="https://images.unsplash.com/photo-1609929986805-6fc98967b2a1?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" alt="The Last of the Magicians" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1609929986805-6fc98967b2a1?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" alt="The Last of the Magicians" />
 
 In 1936 [Isaac Newton](/positioning/persons/n/newton/)'s private papers were sold at auction. The economist [John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) bought about half of them, and came to a verdict of his own. "In the eighteenth century and since," he wrote, "Newton came to be thought of as the first and greatest of the modern age of scientists, a rationalist." He saw it differently: "Newton was not the first of the age of reason. He was the last of the magicians, the last of the Babylonians and Sumerians, the last great mind which looked out on the visible and intellectual world with the same eyes as those who began to build our intellectual inheritance rather less than 10,000 years ago."
 
@@ -22,7 +22,7 @@ The vegetable never left him. In his book on light, inertia is "a passive Princi
 
 The alchemy, marked "not fit to be printed" when he died, waited two centuries for the sale. Keynes's phrase for the man he found there was one "with one foot in the Middle Ages and one foot treading a path for modern science". The new did not come from someone who had left the old behind. It came from someone still living in it, who kept the fire going in the same years he was writing down the laws.
 
-<small>This post is part of the [conversations series](/blog/label/conversations/). See also the reference entries on <a href="/positioning/persons/n/newton/">Newton</a> and <a href="/positioning/subjects/m/metaphilosophy/western/natural-philosophy/">natural philosophy</a>.</small>
+<small>This post is part of the [conversations series](/blog/label/conversations/). See also <a href="/positioning/persons/n/newton/">Isaac Newton</a> and <a href="/positioning/subjects/m/metaphilosophy/western/natural-philosophy/">Metaphilosophy: Natural Philosophy</a>.</small>
 
 ---
 <small>Photo: <a href="https://unsplash.com/@modry_dinosaurus">modry_dinosaurus</a> / Unsplash</small>
