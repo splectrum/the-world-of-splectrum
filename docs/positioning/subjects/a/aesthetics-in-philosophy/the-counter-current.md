@@ -91,7 +91,7 @@ His later work on painting (*"Eye and Mind"*, 1961; *"Cézanne's Doubt"*, 1945) 
 
 ### Heidegger — poetry and the truth of Being
 
-[Martin Heidegger's](/positioning/persons/h/heidegger/) "The Origin of the Work of Art" (1935/36) treats art not as representation or expression but as a "setting-to-work of truth" — truth (*aletheia*, unconcealment) happens in the artwork. Art is not subordinate to philosophy; it is an independent site where truth occurs. "Language is the house of Being. In its home man dwells." Poetry is the paradigmatic form of language because it preserves language's capacity to disclose Being rather than merely representing entities.
+[Martin Heidegger's](/positioning/persons/h/heidegger/) "The Origin of the Work of Art" (1935/36) treats art not as representation or expression but as a "setting-to-work of truth" — truth (*aletheia*, unconcealment) happens in the artwork. Art is not subordinate to philosophy; it is an independent site where truth occurs. In the *Letter on Humanism* (1947) he says it of language itself: "Language is the house of Being. In its home man dwells." Poetry is the paradigmatic form of language because it preserves language's capacity to disclose Being rather than merely representing entities.
 
 Heidegger explicitly rejects "aesthetics" as a discipline — a product, he argues, of the subjectivisation of art completed by Kant. But his own position elevates what aesthetics is *about* — the sensuous, the linguistic, the disclosive — to the highest philosophical significance. The rejection of the label accompanies an embrace of the content.
 

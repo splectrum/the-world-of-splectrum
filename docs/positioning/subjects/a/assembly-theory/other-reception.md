@@ -41,7 +41,7 @@ The 2023 *Nature* paper was reviewed by Pierrick Bourrat (philosopher of biology
 
 ## The defenders' broader work
 
-Cole Mathis is a notable contributor and explainer on the theory side. Key contributions: Mathis, Patarroyo, Cronin (2021) "Understanding assembly indices" — an accessible introduction to the formal apparatus; Mathis (2022) "On the Salient Misunderstandings of Assembly Theory" — a direct response to early critiques addressing common misreadings of the framework. Mathis is a chemist working with Cronin at Glasgow; his contributions to the framework extend beyond defence to substantive development.
+Cole Mathis is a notable contributor and explainer on the theory side. His blog post "On the Salient Misunderstandings of Assembly Theory" (2022) is a direct response to early critiques, addressing common misreadings of the framework. Mathis is a computational physicist, a doctoral student of Walker's at ASU and later a postdoctoral team leader in Cronin's Glasgow lab, now at Arizona State University; his contributions to the framework extend beyond defence to substantive development.
 
 The *npj Complexity* (2025) paper is the formal response to the AIT critique. The *J. R. Soc. Interface* exchanges are the formal response to the mineral critique. Together these represent the defenders' peer-reviewed engagement with the debate.
 

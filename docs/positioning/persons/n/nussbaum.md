@@ -50,7 +50,7 @@ This is a neo-Stoic position (the Stoics treated emotions as judgments — false
 
 Nussbaum positions the capabilities approach within the tradition of political liberalism — specifically, as a form of "political, not metaphysical" theory (following [Rawls's](/positioning/persons/r/rawls/) formulation). The list of capabilities is offered not as a comprehensive doctrine of the good life but as a political conception that citizens with different comprehensive views can endorse for their own reasons. The threshold is a floor, not a ceiling — above it, citizens are free to pursue their own conceptions of the good.
 
-Her work with the United Nations Development Programme (the Human Development Reports, the Human Development Index) translates the philosophical framework into policy. Development is measured not by GDP but by what people are able to do and be — education, health, political participation, gender equality. The capabilities approach provides the normative foundation for the human development paradigm.
+With Sen she worked at WIDER (United Nations University) and co-edited *The Quality of Life* (1993), and she was founding president of the Human Development and Capability Association. The human development approach measures development not by GDP but by what people are able to do and be — education, health, political participation, gender equality. It entered UN policy through the Human Development Reports and the Human Development Index, launched at the United Nations Development Programme by [Mahbub ul Haq](https://en.wikipedia.org/wiki/Mahbub_ul_Haq) in 1990 on the basis of Sen's capability work.
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 layout: default
 lastmod: 2026-05-28
-title: "Joseph Henrich (1968–)"
+title: "Joseph Henrich"
 description: "Canadian-American anthropologist — cumulative culture, the WEIRDest people, cultural evolution applied to human cognition, gene-culture coevolution."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Henrich
 
-# Joseph Henrich (1968–)
+# Joseph Henrich
 
 Henrich argued that what makes humans ecologically dominant is not individual intelligence but cumulative culture — the ability to build on and improve the innovations of previous generations, producing a body of adaptive knowledge that no individual could discover alone. *The Secret of Our Success* (2015) presents the case: humans survive in diverse environments not because they are individually smarter than other animals but because cultural learning accumulates solutions across generations — solutions to problems of food processing, tool manufacture, navigation, medicine, and social organisation that are too complex for any individual to rediscover from scratch. The argument extends the [Boyd](/positioning/persons/b/boyd/)–[Richerson](/positioning/persons/r/richerson/) dual-inheritance framework into a broader claim about human cognition: our brains evolved not primarily for individual problem-solving but for cultural learning — for acquiring, storing, and transmitting the accumulated knowledge of the group.
 
@@ -15,7 +15,7 @@ Henrich argued that what makes humans ecologically dominant is not individual in
 
 ## Life
 
-Born 1968 in Abbotsford, British Columbia, Canada. Undergraduate at the University of Notre Dame. PhD in anthropology at UCLA (1999), under Robert Boyd — extending the Boyd-Richerson programme into empirical fieldwork and cross-cultural experimental economics. Postdoctoral work at Emory University. Professor of psychology and economics at the University of British Columbia (2006–2020). Professor of human evolutionary biology at Harvard (2020–), where he chairs the Department of Human Evolutionary Biology.
+Bachelor's degrees in anthropology and aerospace engineering from the University of Notre Dame (1991). PhD in anthropology at UCLA (1999), extending the Boyd-Richerson programme into empirical fieldwork and cross-cultural experimental economics. Faculty in anthropology at Emory University (2002–07); University of British Columbia (2007–15). At Harvard since 2015, where he is Ruth Moore Professor of Biological Anthropology and Professor of Human Evolutionary Biology.
 
 Henrich's distinctive methodological contribution is the combination of formal cultural-[evolution](/positioning/subjects/e/evolution/) theory with large-scale cross-cultural experiments. His fieldwork spans fifteen societies across five continents — from Machiguenga horticulturalists in Peru to Mapuche farmers in Chile to Hadza foragers in Tanzania — testing economic-game behaviour (ultimatum games, dictator games, public-goods games) across populations with radically different social structures. The cross-cultural experimental programme has been one of the most productive empirical research streams in cultural evolution.
 

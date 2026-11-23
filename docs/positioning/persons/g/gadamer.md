@@ -27,6 +27,8 @@ Gadamer made the case that understanding is never neutral — it is always alrea
 
 **Dialogue.** Gadamer modelled understanding on genuine conversation. In real dialogue, neither party controls the outcome — the subject matter leads. Questions open up what is being discussed; answers are provisional, inviting further questions. The back-and-forth is constitutive: understanding is not something one party has and transmits, it is something that emerges between participants.
 
+**Linguisticality (*Sprachlichkeit*).** The third part of *Truth and Method* holds that all understanding is linguistically mediated: language is the medium in which tradition is handed down and conversation takes place, which is why hermeneutics claims universality. Its dictum is "being that can be understood is language". Readers have taken it in strong and weak senses; in later comments Gadamer leaned to the weaker one, that whatever can be understood can be brought into language.
+
 **Application.** Understanding always involves application to one's own situation. Gadamer rejected the idea that interpretation comes first and application follows as a separate step. To understand a text is already to apply it — to bring it into relation with the questions and concerns one carries. This is not a distortion of the text; it is what understanding consists in.
 
 ---

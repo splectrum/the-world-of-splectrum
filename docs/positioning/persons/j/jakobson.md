@@ -25,6 +25,8 @@ Jakobson was among the most wide-ranging linguists of the century — a founder 
 
 **The bridge to Peirce.** Almost alone among the structuralists, Jakobson took [Peirce](/positioning/persons/p/peirce/) seriously, adopting the triad of icon, index, and symbol into a tradition otherwise built on [Saussure](/positioning/persons/s/saussure/). It was the first significant connection between the two founding lineages of the sign — the dyadic, system-bound sign and the triadic, world-spanning one.
 
+**Translation.** "On Linguistic Aspects of Translation" (1959) distinguishes three kinds: intralingual translation or rewording, by other signs of the same language; interlingual translation or "translation proper", by some other language; and intersemiotic translation or transmutation, by signs of nonverbal sign systems. "Equivalence in difference is the cardinal problem of language", and languages "differ essentially in what they must convey and not in what they may convey"; poetry is untranslatable, and "only creative transposition is possible".
+
 ---
 
 ## Where Jakobson stops
@@ -38,6 +40,7 @@ Jakobson's gift was for structure — for finding the small set of contrasts and
 - "Linguistics and Poetics" (1960) — the six functions and the poetic function
 - "Two Aspects of Language and Two Types of Aphasic Disturbances" (1956) — metaphor and metonymy
 - *Fundamentals of Language* (with Morris Halle, 1956)
+- "On Linguistic Aspects of Translation" (1959) — the three kinds of translation; equivalence in difference
 - "Closing Statement" and the essays collected in *Language in Literature*
 
 ---

@@ -47,6 +47,12 @@ A parallel programme applying ecological methods — species-area relationships,
 
 ---
 
+## Functional information
+
+A 2023 *PNAS* paper, "On the roles of function and selection in evolving systems" (first author Wong, with Hazen among the co-authors), generalises the argument from minerals to "the evolution of varied systems, including stars, minerals, atmospheres, and life". It names three kinds of selection — static persistence, dynamic persistence and novelty generation — and proposes a "law of increasing functional information": the functional information of a system will increase, that is, the system will evolve, if many different configurations of it undergo selection for one or more functions.
+
+---
+
 ## The assembly theory exchange
 
 Hazen and collaborators challenged assembly theory's biosignature threshold by calculating assembly indices for inorganic mineral subunits — ewingite, ilmajokite, and others — and finding values up to 21, above the threshold of 15 that assembly theory proposes as the cut between biotic and abiotic complexity. The [mineral exchange](/positioning/subjects/a/assembly-theory/the-mineral-exchange/) carries the full three-round debate.
@@ -62,6 +68,7 @@ The exchange is productive rather than merely adversarial. Hazen's evolutionary 
 - Grew and Hazen, "Beryllium mineral evolution," *American Mineralogist* 99 (2014) — case study in element-specific mineral evolution
 - Hazen, *Symphony in C: Carbon and the Evolution of (Almost) Everything* (Norton, 2019) — carbon's role across mineralogy, biology, and Earth systems
 - Hazen et al., "On the paragenetic modes of minerals: a mineral evolution perspective," *American Mineralogist* 107 (2022) — the evolutionary system of mineralogy
+- Wong, M. L. et al. (with Hazen), "On the roles of function and selection in evolving systems," *PNAS* 120 (2023) — the law of increasing functional information
 - Hazen et al., "Molecular assembly indices of mineral heteropolyanions," *J. R. Soc. Interface* 21 (2024) — the assembly theory critique
 
 ---

@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-05-26
 title: "Niles Eldredge (1943–)"
-description: "American paleontologist: punctuated equilibrium with Gould, hierarchy theory, the turnover pulse, and macroevolution as not reducible to microevolution."
+description: "American paleontologist: punctuated equilibrium with Gould, hierarchy theory, and macroevolution as not reducible to microevolution."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Eldredge
@@ -44,14 +44,6 @@ The core idea: the biological world is organised as two parallel hierarchies tha
 **The ecological hierarchy** — organisms, populations, communities, regional biotas, the global biosphere — is the system of energy transfer and matter cycling. Organisms obtain energy, populations occupy niches, communities interact, ecosystems process matter and energy.
 
 The two hierarchies are linked at the level of the organism — organisms are both reproducing entities (genealogical) and economic entities (ecological) — but the higher levels are not the same. Species (genealogical) are not populations (ecological). Clades (genealogical) are not ecosystems (ecological). Macroevolutionary patterns — speciation, adaptive radiation, mass extinction — arise from the interaction between the two systems, not from extrapolating within-population dynamics upward. The dual hierarchy has been contested: gene-centric critics have argued that the genealogical and ecological levels are in principle reducible to gene-level dynamics, and that the hierarchy is a descriptive convenience rather than a causal architecture. Whether the levels have genuine causal autonomy or are bookkeeping categories remains debated.
-
----
-
-## The turnover pulse hypothesis
-
-Proposed in the 1990s and developed through subsequent work with colleagues including [Elisabeth Vrba](/positioning/persons/v/vrba/) (whose own turnover pulse hypothesis addressed similar questions from the mammalian paleontological record). The claim: pulses of speciation and extinction cluster around episodes of environmental disruption — climate change, habitat fragmentation, sea-level shifts. Stasis holds during stable periods; environmental disruption breaks the stasis by fragmenting populations and opening ecological space.
-
-The hypothesis connects punctuated equilibrium to environmental history: it explains why change is concentrated in episodes rather than distributed continuously. It also connects macroevolutionary theory to paleoclimatology and Earth systems science. Critics have questioned whether the apparent clustering of turnover events reflects genuine biological pulses or artefacts of temporal binning in the stratigraphic record — a methodological challenge shared with other macroevolutionary pattern claims.
 
 ---
 

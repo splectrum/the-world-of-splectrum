@@ -37,6 +37,8 @@ This is not merely a theory of conversation. All language use — including writ
 
 The polyphonic novel is Bakhtin's literary model for his philosophical principle: genuine understanding does not reduce multiple perspectives to one truth but holds them in productive tension. The monological novel — in which the author's voice controls and finalises the characters — is the literary counterpart of a philosophy that claims a single, authoritative perspective on reality.
 
+The essay "Discourse in the Novel", collected in *The Dialogic Imagination*, names the linguistic ground of this: heteroglossia (*raznorechie*), "the social diversity of speech types". Every language, at any moment of its history, is internally stratified into many social voices, and Bakhtin made this internal stratification the "indispensable prerequisite for the novel as a genre".
+
 ---
 
 ## Carnival

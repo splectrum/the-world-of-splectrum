@@ -21,7 +21,7 @@ The [second law of thermodynamics](https://en.wikipedia.org/wiki/Second_law_of_t
 
 The derivation is not as clean as that summary suggests, and the objections came in Boltzmann's own lifetime. [Loschmidt](/positioning/persons/l/loschmidt/) pointed out that time-symmetric mechanics cannot by itself yield a time-asymmetric conclusion — for every trajectory along which entropy rises there is a reversed one along which it falls. [Zermelo](/positioning/persons/z/zermelo/) added that a bounded system must eventually return arbitrarily close to any earlier state, so entropy cannot rise forever. What Boltzmann's argument uses is an assumption about the absence of correlations before collisions, and that assumption is itself time-asymmetric. Why the past was low-entropy in the first place is a separate question, and remains open; the reference library sets out the positions at [thermodynamics](/positioning/subjects/t/thermodynamics/the-laws-and-the-reduction/).
 
-[Arthur Eddington](/positioning/persons/e/eddington/) named it "the arrow of time" in *The Nature of the Physical World* (1928). He identified it as the only law of physics that distinguishes past from future. Everything else is indifferent to direction.
+[Arthur Eddington](/positioning/persons/e/eddington/) named it "time's arrow" in *The Nature of the Physical World* (1928): the increase of entropy, he wrote, is "the only distinction known to physics" between past and future. Everything else is indifferent to direction.
 
 ## Emergence
 
@@ -32,8 +32,6 @@ Among emergent properties, entropy is distinctive. Temperature and pressure can 
 ## Information and trace
 
 Entropy connects to information. [Claude Shannon](/positioning/persons/s/shannon/) showed in *[A Mathematical Theory of Communication](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication)* (1948) that information and thermodynamic entropy share the same mathematical form — whether they are therefore the same quantity is disputed. [Rolf Landauer](/positioning/persons/l/landauer/) made it physical in "[Irreversibility and Heat Generation in the Computing Process](https://en.wikipedia.org/wiki/Landauer%27s_principle)" (1961): erasing a bit of information requires a minimum dissipation of energy. Information has thermodynamic cost.
-
-As Landauer established, storing and erasing information are thermodynamic processes that require an entropy gradient.
 
 ## The three arrows
 

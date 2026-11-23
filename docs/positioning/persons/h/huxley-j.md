@@ -29,6 +29,8 @@ Knighted 1958. Fellow of the Royal Society (1938). Published prolifically throug
 
 The 1942 book that gave the movement its name. Huxley's contribution was not a new result but a new kind of overview: he brought together the mathematical population genetics of Fisher, Haldane, and Wright; Dobzhansky's field genetics; Mayr's systematics; Simpson's paleontology; and work on speciation, adaptation, and the genetics of natural populations into a single narrative framework. The book made the case that Darwinian natural selection, operating on Mendelian genetic variation within populations, is the central mechanism of evolutionary change — and that the various biological disciplines had converged on this conclusion independently.
 
+The book closes with a chapter on evolutionary progress, set apart from the adaptive radiation treated in the chapter before. Huxley defined progress as "all-round biological improvement", against specialisation as one-sided improvement, and measured it by "a progressive increase of life's control over and independence of the environment".
+
 The synthesis Huxley narrated was real, but the degree of its unity has been questioned. Historians of biology — [Betty Smocovitis](https://en.wikipedia.org/wiki/Vassiliki_Betty_Smocovitis) (*Unifying Biology*, 1996), [William Provine](https://en.wikipedia.org/wiki/William_B._Provine) — have argued that the Synthesis was partly a retrospective construction, consolidated at the 1959 Darwin centenary celebrations, and that real disagreements among its architects were smoothed over in the shared narrative. Huxley's book was both a scientific achievement and an act of coalition-building.
 
 ---

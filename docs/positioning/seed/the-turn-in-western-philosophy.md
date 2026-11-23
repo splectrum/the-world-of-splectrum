@@ -13,13 +13,13 @@ In SPLectrum's philosophy, language is the medium through which a subject experi
 
 ## The trajectory
 
-**[Descartes](/positioning/persons/d/descartes/) (1641)** discovers the observer — "I think, therefore I am" — but immediately saves the outside view. God guarantees that clear and distinct ideas correspond to reality. He also splits mind from body, freeing science to treat matter as mechanism.
+**[Descartes](/positioning/persons/d/descartes/) (1641)** discovers the observer — "I am, I exist" — but immediately saves the outside view. God guarantees that clear and distinct ideas correspond to reality. He also splits mind from body, freeing science to treat matter as mechanism.
 
-**[Kant](/positioning/persons/k/kant/) (1781)** removes the God guarantee. The knower structures what counts as experience — through categories (space, time, causality). But he keeps the thing-in-itself as a safety net: reality-as-it-is, unknowable but there. The outside view is cracked but not abandoned.
+**[Kant](/positioning/persons/k/kant/) (1781)** removes the God guarantee. The knower structures what counts as experience — through the forms of intuition (space, time) and the categories (causality among them). But he keeps the thing-in-itself as a safety net: reality-as-it-is, unknowable but there. The outside view is cracked but not abandoned.
 
 **[Hegel](/positioning/persons/h/hegel/)** puts Kant's categories in motion. Understanding develops historically, through contradiction and resolution. The thing-in-itself dissolves — nothing exists only in relation to itself without relation to the other. Distinguishing and relating are the same act.
 
-**[Husserl](/positioning/persons/h/husserl/)** turns inward — examine what actually appears to consciousness, without theoretical baggage. Consciousness is always consciousness *of* something. The method is radical; the metaphysics is cautious — subject and world separated by an "abyss."
+**[Husserl](/positioning/persons/h/husserl/)** turns inward — examine what actually appears to consciousness, without theoretical baggage. Consciousness is always consciousness *of* something. The method is radical; the metaphysics is cautious — consciousness and reality divided by "a veritable abyss of sense" (*Ideas* I, 1913).
 
 **[Heidegger](/positioning/persons/h/heidegger/)** closes the gap Husserl kept open. We don't observe the world from a distance — we're thrown into it. Language is "the house of being," the medium in which we exist.
 
@@ -33,7 +33,7 @@ In SPLectrum's philosophy, language is the medium through which a subject experi
 
 **[Rorty](/positioning/persons/r/rorty/).** Drew on Wittgenstein, Heidegger, and [Dewey](/positioning/persons/d/dewey/). No [mirror of nature](https://en.wikipedia.org/wiki/Philosophy_and_the_Mirror_of_Nature). Vocabularies are tools, not representations. All justification is social. Conversation replaces epistemology. No vocabulary is closer to reality than another.
 
-**[Merleau-Ponty](/positioning/persons/m/merleau-ponty/).** Phenomenology grounded in the body. Not a mind in a body — a body-subject. Perception is active bodily engagement. The body is the medium for having a world. Meaning inhabits gesture — "the gesture does not make me think of anger, it is the anger itself." Expression is constitutive — speech does not translate a ready-made thought, it accomplishes it. Understanding others is bodily resonance — inter-subjectivity starts as inter-corporeality. [Flesh](https://plato.stanford.edu/entries/merleau-ponty/#Onto) — the shared medium from which perceiver and perceived differentiate.
+**[Merleau-Ponty](/positioning/persons/m/merleau-ponty/).** Phenomenology grounded in the body. Not a mind in a body — a body-subject. Perception is active bodily engagement. The body is the medium for having a world. Meaning inhabits gesture — "the gesture does not make me think of anger, it is anger itself." Expression is constitutive — speech does not translate a ready-made thought, it accomplishes it. Understanding others is bodily resonance — inter-subjectivity starts as inter-corporeality. [Flesh](https://plato.stanford.edu/entries/merleau-ponty/#Onto) — the shared medium from which perceiver and perceived differentiate.
 
 ## The affinity
 

@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Melanie Mitchell (1969–)"
+title: "Melanie Mitchell"
 description: "American computer scientist and complexity researcher: genetic algorithms, Copycat and analogy-making, Complexity: A Guided Tour, and a sober view of AI."
 lastmod: 2026-05-25
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Mitchell
 
-# Melanie Mitchell (1969–)
+# Melanie Mitchell
 
 Mitchell is the contemporary public voice of complex adaptive systems research and the author of the field's standard introduction. Her own research spans genetic algorithms, analogy-making, and the nature of abstraction — but her distinctive contribution is synthesis: pulling together what CAS has achieved, naming its limits honestly, and making the case for the tradition without overclaiming. As she wrote: *"If there is a general science of complexity, it is still in its extreme infancy."* (*Complexity: A Guided Tour*, 2009)
 
@@ -15,7 +15,7 @@ Mitchell is the contemporary public voice of complex adaptive systems research a
 
 ## Life
 
-Born 1969. BA in mathematics from Brown University; PhD in computer science from the University of Michigan (1990), where she studied under [Douglas Hofstadter](https://en.wikipedia.org/wiki/Douglas_Hofstadter) and [John Holland](/positioning/persons/h/holland/). The dual supervision shaped her work: Hofstadter's focus on analogy and abstraction, Holland's on adaptive systems and evolutionary computation. Faculty at Portland State University; external professor at the [Santa Fe Institute](https://www.santafe.edu). Davis Professor of Complexity at SFI.
+Born in Los Angeles. Studied at Brown University; PhD in computer science from the University of Michigan (1990), with a dissertation on Copycat supervised by [Douglas Hofstadter](https://en.wikipedia.org/wiki/Douglas_Hofstadter), while also working with [John Holland](/positioning/persons/h/holland/)'s group. Both shaped her work: Hofstadter's focus on analogy and abstraction, Holland's on adaptive systems and evolutionary computation. Research professor at the [Santa Fe Institute](https://www.santafe.edu) (1992–1999); professor at Portland State University (2004–2020); since 2020 professor at the Santa Fe Institute (James B. Alley, Jr. Professor).
 
 ## Copycat and analogy-making
 

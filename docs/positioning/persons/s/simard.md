@@ -35,7 +35,7 @@ Simard's career trajectory — from ministry forester to academic researcher —
 
 ## Where Simard stops
 
-The "wood wide web" framing — forests as cooperative networks of trees sharing resources through a fungal internet — has been criticised as anthropomorphic and oversimplified. [Justine Karst](https://en.wikipedia.org/wiki/Justine_Karst), Jason Hoeksema, and others published a systematic review (2023) arguing that the evidence for ecologically significant resource transfer through mycorrhizal networks is weaker than the popular narrative suggests. The isotope-tracer experiments demonstrate that carbon moves between trees through the network, but the quantity transferred may be too small to affect the recipient tree's growth or survival. Whether the transfer is "sharing" (intentional, cooperative) or a by-product of the fungal network's own metabolism (the fungi move carbon for their own purposes, and some reaches neighbouring trees as a side effect) is not resolved by the experimental evidence.
+The "wood wide web" framing — forests as cooperative networks of trees sharing resources through a fungal internet — has been criticised as anthropomorphic and oversimplified. Justine Karst, Melanie Jones and Jason Hoeksema published a review of the field studies and of how they have been cited (2023), arguing that the evidence for ecologically significant resource transfer through mycorrhizal networks is weaker than the popular narrative suggests. The isotope-tracer experiments demonstrate that carbon moves between trees through the network, but the quantity transferred may be too small to affect the recipient tree's growth or survival. Whether the transfer is "sharing" (intentional, cooperative) or a by-product of the fungal network's own metabolism (the fungi move carbon for their own purposes, and some reaches neighbouring trees as a side effect) is not resolved by the experimental evidence.
 
 The "mother tree" concept has been pressed on its teleological language. Simard describes mother trees as "nurturing" their offspring and "investing" in the network — language that implies intention and purpose. Whether trees are agents with something analogous to purpose, or whether the patterns of resource transfer are better described as evolved responses to environmental signals without any agentive character, is a philosophical question that the ecology cannot settle. The popular reception has tended toward the agentive reading; the scientific community is more cautious.
 
@@ -48,7 +48,7 @@ The forestry policy implications — that clear-cutting and monoculture plantati
 - Simard, S. W., D. A. Perry, M. D. Jones, D. D. Myrold, D. M. Durall, and R. Molina, "Net transfer of carbon between ectomycorrhizal tree species in the field," *Nature* 388 (1997) — the carbon-transfer experiment
 - Simard, S. W., "The foundational role of mycorrhizal networks in self-organization of interior Douglas-fir forests," *Forest Ecology and Management* 258 (2009) — mother trees and network structure
 - Simard, S. W., *Finding the Mother Tree: Discovering the Wisdom of the Forest* (Knopf, 2021) — the memoir and popular account
-- Karst, J., J. D. Hoeksema, et al., "Assessing the dual-mycorrhizal-network hypothesis: a comment on Simard et al.," *New Phytologist* (2023) — the systematic critique
+- Karst, J., M. D. Jones, and J. D. Hoeksema, "Positive citation bias and overinterpreted results lead to misinformation on common mycorrhizal networks in forests," *Nature Ecology & Evolution* 7 (2023): 501–511 — the critique
 
 ---
 

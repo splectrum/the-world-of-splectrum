@@ -19,7 +19,7 @@ Why "us", then? Because reality is disclosed to each one of us individually, bef
 - [P0 Being Implies Language](/real-life/spl/splectrum-101/seed-principles/being-implies-language/) — how anything comes about at all: a being and its language, together.
 - [P1 Language Is Relational](/real-life/spl/splectrum-101/seed-principles/language-is-relational/) — words mean through each other; language relates concepts.
 - [P2 The Medium of Experience](/real-life/spl/splectrum-101/seed-principles/the-medium-of-experience/) — to exist is to be in relation; the experience is the reality, and it is personal.
-- [P3 Sharing Knowledge About Reality](/real-life/spl/splectrum-101/seed-principles/sharing-knowledge/) — knowledge is information that means something, shared, and sharing reshapes reality.
+- [P3 Sharing Knowledge About Reality](/real-life/spl/splectrum-101/seed-principles/sharing-knowledge/) — knowledge is information turned into concepts, shared, and sharing reshapes reality.
 - [P4 Interrelational and of Equal Standing](/real-life/spl/splectrum-101/seed-principles/interrelational-equal-standing/) — new languages carry old concepts somewhere new; none stands above another.
 - [P5 A Web of Complexity](/real-life/spl/splectrum-101/seed-principles/web-of-complexity/) — subjects who experience and share keep the web growing: evolution.
 

@@ -29,6 +29,8 @@ The magnum opus, *A System of Synthetic Philosophy* (1862–96), comprised *Firs
 
 The formula was meant to apply across the cosmic, the biological, the psychological, and the social — a single law of development from the simple to the complex. The ambition was enormous. The brittleness was that any advance in one domain's science could crack the whole structure, and Spencer refused to revise the system as the science underneath it dated.
 
+*Principles of Biology* gave life a definition of the same reach: "the broadest and most complete definition of Life will be—The continuous adjustment of internal relations to external relations."
+
 ## "Survival of the fittest"
 
 The phrase was introduced in *Principles of Biology* (1864), in response to Darwin's *Origin*. Spencer's own framing: *"This survival of the fittest, which I have here sought to express in mechanical terms, is that which Mr. Darwin has called 'natural selection, or the preservation of favoured races in the struggle for life.'"* He coined it as a paraphrase of Darwin, not as a cruelty doctrine. Darwin adopted the phrase from the fifth edition of *Origin* (1869) onwards, after [Wallace](/positioning/persons/w/wallace/) urged him to use it to head off the personifying readings of "natural selection."

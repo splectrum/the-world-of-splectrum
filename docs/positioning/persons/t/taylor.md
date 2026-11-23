@@ -9,23 +9,33 @@ description: "Charles Taylor, Canadian philosopher: Sources of the Self, languag
 
 # Charles Taylor (1931–)
 
-Taylor's project is a genealogy of the modern self — how we came to experience ourselves as having inner depths, as oriented toward authenticity, and as defined through dialogue with others. *Sources of the Self* (1989) traces three axes of modern identity: inwardness (the sense that I have an interior life with its own depth and authority), the dialogical self (identity formed through shared language and recognition), and authenticity (the demand to be true to one's own originality). The three are not a theory of the self but a history of how the modern West came to live selfhood this way — a genealogy, not an ontology. Taylor insists the moral sources have to be articulated if they are to have force: they are real, but they need language to work.
+Taylor's project is a history of the modern identity — how the modern West came to experience the self as having inner depths, to find the good in ordinary life, and to hear a moral voice in its own nature. *Sources of the Self* (1989) tells that history through three facets: modern inwardness, the affirmation of ordinary life, and the expressivist idea of nature as an inner moral source. In *The Ethics of Authenticity* (1991) and "The Politics of Recognition" (1992) he takes up the ideal of authenticity and argues that identity is formed dialogically, so that it depends on recognition. Taylor insists the moral sources have to be articulated if they are to have force: they are real, but they need language to work.
 
 ## Life
 
-Born in Montreal in 1931 into a bilingual family (English-speaking father, French-speaking mother). Educated at McGill University and then at Oxford as a Rhodes Scholar, where he studied with [Isaiah Berlin](/positioning/persons/b/berlin/) and Elizabeth Anscombe. He spent most of his academic career at McGill and at All Souls College, Oxford, moving between the anglophone and francophone philosophical worlds — unusually at home in both analytic and Continental traditions. He ran for the Canadian federal parliament four times as a New Democratic Party candidate in the 1960s, losing each time to Pierre Trudeau. His political engagement — Québec nationalism, multiculturalism, secularism — runs through his philosophical work rather than sitting alongside it. He was awarded the Templeton Prize (2007) and the Kyoto Prize (2008).
+Born in Montreal in 1931 into a bilingual family (English-speaking father, French-speaking mother). Educated at McGill University and then at Oxford as a Rhodes Scholar, where he studied with [Isaiah Berlin](/positioning/persons/b/berlin/). He spent most of his academic career at McGill and at All Souls College, Oxford, moving between the anglophone and francophone philosophical worlds — unusually at home in both analytic and Continental traditions. He ran for the Canadian federal parliament four times as a New Democratic Party candidate in the 1960s, losing each time, most famously to Pierre Trudeau in 1965. His political engagement — Québec nationalism, multiculturalism, secularism — runs through his philosophical work rather than sitting alongside it. He was awarded the Templeton Prize (2007) and the Kyoto Prize (2008).
 
 ---
 
-## Sources of the Self — the three axes
+## Sources of the Self
 
-[*Sources of the Self*](https://plato.stanford.edu/entries/taylor/) (1989) is Taylor's central work. It traces the history of modern identity through three dimensions, each constitutive of how the modern self experiences itself:
+[*Sources of the Self: The Making of the Modern Identity*](https://en.wikipedia.org/wiki/Sources_of_the_Self) (1989) is Taylor's central work. Its first part argues that moral frameworks are inescapable: to be a self is to be oriented in a space of questions about the good, through strong evaluations of what is worth wanting, and the moral sources behind those frameworks have to be articulated. The rest of the book tells the history of the modern identity through three facets, each given its own part.
 
-**Inwardness.** The idea that the self has an interior — not just beliefs and desires, but a depth that can be explored, expressed, or betrayed. Taylor traces this from Augustine (the turn inward as the road to God), through Descartes (the disengaged subject finding certainty within), through Montaigne (the essays as self-exploration), to the Romantics (inner nature as a source of moral authority). The modern sense that "I have an inner life" is not a universal human experience — it was made, and the making can be told.
+**Inwardness.** The idea that the self has an interior — not just beliefs and desires, but a depth that can be explored, expressed, or betrayed. Taylor traces this from Augustine (the turn inward as the road to God), through Descartes (the disengaged subject finding certainty within) and Locke, to Montaigne (the essays as self-exploration). The modern sense that "I have an inner life" is not a universal human experience — it was made, and the making can be told.
 
-**The dialogical self.** Identity is not monological — it is formed in dialogue, through the languages of shared understanding we are given by our communities. Taylor draws on [Hegel](/positioning/persons/h/hegel/)'s recognition, Herder's expressivism, and [Mead's](https://plato.stanford.edu/entries/mead/) social self. The claim is not that others influence the self (trivially true) but that the self is constituted through shared language: "We become full human agents, capable of understanding ourselves, and hence of defining an identity, through our acquisition of rich human languages of expression."
+**The affirmation of ordinary life.** From the Reformation's sanctification of work and family, through rationalised Christianity and Deism, to the eighteenth-century philosophers of moral sentiment, the good life comes to be located in production and family life rather than in higher activities set apart from them.
 
-**Authenticity.** The demand to be true to one's own originality — to find and express what is uniquely mine, rather than conforming to external models. Taylor traces this from Rousseau (the sentiment of existence, being in touch with oneself) through Herder (each person has their own measure) to the Romantic and post-Romantic culture of self-expression. Authenticity is a genuine moral ideal, not merely self-indulgence, but it can slide into narcissism when it loses the dialogical dimension — when "being true to myself" is cut loose from the shared frameworks that give it substance.
+**The voice of nature.** With Rousseau, Herder and the Romantics, nature — our own inner nature included — becomes a source of moral authority, and the self comes to define itself by expressing it: the expressivist turn. A further part follows this into the "subtler languages" of post-Romantic art and the epiphanies of modernism, and the conclusion sets out the conflicts of modernity among these sources.
+
+---
+
+## Authenticity and recognition
+
+Two threads that run alongside the history, taken up in 1991–92.
+
+**Authenticity.** The demand to be true to one's own originality — to find and express what is uniquely mine, rather than conforming to external models. Taylor traces this from Rousseau (the sentiment of existence, being in touch with oneself) through Herder (each person has their own measure) to the Romantic and post-Romantic culture of self-expression. Authenticity is a genuine moral ideal, not merely self-indulgence, but it can slide into narcissism when it is cut loose from the shared frameworks that give "being true to myself" its substance.
+
+**Dialogical identity.** Identity is not monological — it is formed in dialogue, through the languages of shared understanding we are given by others. Taylor draws on [Hegel](/positioning/persons/h/hegel/)'s recognition and [Mead's](https://plato.stanford.edu/entries/mead/) "significant others". As "The Politics of Recognition" puts it: "We become full human agents, capable of understanding ourselves, and hence of defining our identity, through our acquisition of rich human languages of expression." An identity that is meant to be inwardly generated, yet is formed in dialogue, gives recognition a new importance: "My own identity crucially depends on my dialogical relations with others."
 
 ---
 
@@ -55,16 +65,17 @@ The key concept is the "buffered self" — the modern self that experiences itse
 
 ## Where Taylor stops
 
-Taylor's project is genealogical — it tells how the modern self came to be this way, not what the self *is*. The three axes (inwardness, dialogical self, authenticity) describe a historical achievement, not an ontological structure. Taylor argues the moral sources are real, but he traces their emergence rather than grounding them. The result is a rich account of *how we got here* that stops short of a metaphysics of selfhood.
+Part I's claims about selfhood are general; what the book traces historically is the modern identity. He argues the moral sources are real, and the book's method is to trace how they came to be held.
 
-The philosophy of language — expression as constitutive, not instrumental — is perhaps Taylor's deepest commitment. It connects inwardness (what I have to express), dialogue (the shared language I express through), and authenticity (the demand to express what is genuinely mine). Taylor draws the scope at the human language animal and means to — his late book is literally *The Language Animal*. The constitutive power of language is a claim about what makes human selfhood possible, not a general principle extended beyond it.
+The philosophy of language — expression as constitutive, not instrumental — is perhaps Taylor's deepest commitment. Taylor draws the scope at the human language animal and means to — his late book is literally *The Language Animal*. The constitutive power of language is a claim about what makes human selfhood possible, not a general principle extended beyond it.
 
 ---
 
 ## Key works
 
-- [*Sources of the Self: The Making of the Modern Identity*](https://en.wikipedia.org/wiki/Sources_of_the_Self) (1989) — the genealogy of the modern self: inwardness, dialogue, authenticity
+- [*Sources of the Self: The Making of the Modern Identity*](https://en.wikipedia.org/wiki/Sources_of_the_Self) (1989) — the history of the modern identity: inwardness, the affirmation of ordinary life, expressivism
 - [*The Ethics of Authenticity*](https://en.wikipedia.org/wiki/The_Ethics_of_Authenticity) (1991) — authenticity as a genuine moral ideal, its trivialisations and recoveries
+- "The Politics of Recognition" (1992) — identity formed in dialogue, and the demand for recognition that follows from it
 - [*A Secular Age*](https://en.wikipedia.org/wiki/A_Secular_Age) (2007) — how the West moved from default belief to belief as one option among many
 - [*Philosophical Arguments*](https://en.wikipedia.org/wiki/Charles_Taylor_(philosopher)) (1995) — essays on language, agency, recognition, and cross-cultural understanding
 - *The Language Animal: The Full Shape of the Human Linguistic Capacity* (2016) — the constitutive theory of language, the HHH tradition against the HLC tradition

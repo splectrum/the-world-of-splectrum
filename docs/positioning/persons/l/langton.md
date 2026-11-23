@@ -19,7 +19,7 @@ Born 1948. Langton's path into science was unconventional. After military servic
 
 ## The artificial life workshops
 
-Langton organised the first Artificial Life workshop at Los Alamos in September 1987 — a deliberate act of field-creation. The proceedings, *Artificial Life* (Addison-Wesley, 1989), defined the research programme: study the principles of living systems by synthesising lifelike behaviour in computational and physical media, rather than analysing existing biological organisms.
+Langton organised the first Artificial Life workshop at Los Alamos in September 1987 — a deliberate act of field-creation. The proceedings, *Artificial Life* (Addison-Wesley, 1989), defined the research programme: study the principles of living systems by synthesising lifelike behaviour in computational and physical media, rather than analysing existing biological organisms. In his introduction he located life in the organisation of matter rather than in the matter so organised, which is what makes synthesis in other media a way of studying it.
 
 The framing was distinctive. Where biology studies life-as-we-know-it — carbon-based, DNA-encoded, evolved on Earth — artificial life studies life-as-it-could-be: the broader class of possible systems that exhibit self-reproduction, adaptation, evolution, and autonomous behaviour. The claim is not that digital organisms are alive (though some in the field make that claim) but that the principles governing living systems are substrate-independent and can be studied through synthesis.
 
@@ -27,11 +27,11 @@ The workshops continued through the early 1990s and attracted researchers across
 
 ## The edge of chaos
 
-Langton's central conceptual contribution. Working with cellular automata, he proposed a classification of dynamical regimes:
+Langton's central conceptual contribution. Working with cellular automata, he took up [Wolfram](/positioning/persons/w/wolfram/)'s four classes of behaviour (1984) and introduced the λ parameter (1986), which orders the space of rules so that the classes fall along it:
 
 **Class I (ordered):** perturbations die out; the system converges to a fixed state. Information cannot propagate. **Class II (periodic):** perturbations produce periodic oscillations; the system cycles. Information propagates locally but not globally. **Class III (chaotic):** perturbations cascade without bound; the system is unpredictable. Information propagates everywhere but carries no structure. **Class IV (complex):** perturbations propagate across the system, producing structures that persist, interact, and compute. Information travels with structure intact.
 
-Langton's proposal: Class IV dynamics occur at the phase transition between order and chaos — the edge of chaos. At this boundary, the system has maximum computational capacity: it can store information (like ordered systems) and transmit it (like chaotic systems). Living systems, Langton argued, operate near this transition, which is why they exhibit both stability and adaptability.
+Langton's proposal: Class IV dynamics occur at the phase transition between order (Classes I and II) and chaos (Class III) — the edge of chaos. At this boundary, the system has maximum computational capacity: it can store information (like ordered systems) and transmit it (like chaotic systems). Living systems, Langton argued, operate near this transition, which is why they exhibit both stability and adaptability.
 
 The edge-of-chaos concept has been influential and contested. The influence: it provides a framework for understanding why living systems seem to balance order and flexibility, and it connects to [Kauffman](/positioning/persons/k/kauffman/)'s work on Boolean networks at criticality. The contestation: whether "the edge of chaos" is a precise dynamical concept or a suggestive metaphor, whether real biological systems demonstrably operate there, and whether Wolfram's original cellular automaton classification (which Langton extended) is the right framework for the claim.
 

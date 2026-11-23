@@ -2,14 +2,14 @@
 layout: default
 lastmod: 2026-05-27
 title: "Arthur Eddington (1882–1944)"
-description: "British astrophysicist — named 'the arrow of time', confirmed general relativity, the internal constitution of stars, the mass-luminosity relation."
+description: "British astrophysicist — named 'time's arrow', confirmed general relativity, the internal constitution of stars, the mass-luminosity relation."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Eddington
 
 # Arthur Eddington (1882–1944)
 
-Eddington named the arrow of time. In *The Nature of the Physical World* (1928), he identified the second law of thermodynamics — entropy increases — as "the only law of physics that distinguishes past from future" and gave it the phrase that stuck: "the arrow of time." The observation was not new ([Boltzmann](/positioning/persons/b/boltzmann/) had established the statistical foundations; [Clausius](https://en.wikipedia.org/wiki/Rudolf_Clausius) had formulated the second law), but Eddington's formulation crystallised the question that the subsequent century of physics would pursue: why does time have a direction when the fundamental equations are time-symmetric? Eddington was also the astrophysicist who confirmed [Einstein](/positioning/persons/e/einstein/)'s general relativity through the 1919 solar eclipse expedition, established the theory of stellar structure, and — in his later career — pursued a speculative "fundamental theory" that was widely judged to have failed.
+Eddington named the arrow of time. In *The Nature of the Physical World* (1928), he identified the increase of entropy as "the only distinction known to physics" between past and future and gave it the phrase that stuck: "time's arrow". The observation was not new ([Boltzmann](/positioning/persons/b/boltzmann/) had established the statistical foundations; [Clausius](https://en.wikipedia.org/wiki/Rudolf_Clausius) had formulated the second law), but Eddington's formulation crystallised the question that the subsequent century of physics would pursue: why does time have a direction when the fundamental equations are time-symmetric? Eddington was also the astrophysicist who confirmed [Einstein](/positioning/persons/e/einstein/)'s general relativity through the 1919 solar eclipse expedition, established the theory of stellar structure, and — in his later career — pursued a speculative "fundamental theory" that was widely judged to have failed.
 
 ---
 

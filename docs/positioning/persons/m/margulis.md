@@ -55,6 +55,8 @@ Margulis collaborated with the atmospheric chemist [James Lovelock](/positioning
 
 The Gaia hypothesis provoked sharp criticism from evolutionary biologists, particularly [Dawkins](/positioning/persons/d/dawkins/) and [John Maynard Smith](/positioning/persons/m/maynard-smith/), who argued that it implied planetary-scale natural selection without a population of planets for selection to act on. How could the biosphere be "self-regulating" in a Darwinian sense if there is only one Earth? Lovelock's Daisyworld model (1983) demonstrated that local, individually selfish behaviour could produce planet-scale regulation without group selection, partially addressing the critique. The Gaia concept has since been reframed in less teleological terms as Earth system science — the study of biogeochemical feedbacks — a framework that is mainstream, though the stronger versions of the Gaia claim (the biosphere as a quasi-organism) remain contested.
 
+With Dorion Sagan, Margulis took up [Maturana](/positioning/persons/m/maturana/) and [Varela](/positioning/persons/v/varela/)'s autopoiesis: *Microcosmos* (1986) calls life today an autopoietic, photosynthetic phenomenon on a planetary scale.
+
 ---
 
 ## Where Margulis stops

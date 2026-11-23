@@ -41,6 +41,8 @@ Haldane's biochemical work includes the Briggs-Haldane derivation of enzyme kine
 
 His 1929 essay "The origin of life" proposed, independently of Alexander Oparin, that life originated in a "hot dilute soup" of organic compounds in the early oceans — reduced by the absence of atmospheric oxygen and energised by ultraviolet radiation. The Oparin-Haldane hypothesis defined the research programme on prebiotic chemistry for decades and motivated the Miller-Urey experiment (1953).
 
+In the essay "What is Life?" (1949) he opened with "I am not going to answer this question", then described life as "essentially a pattern of chemical happenings" that begets a similar pattern, as a flame does, but regulates itself as a flame does not. A full description in these terms would reduce life to mechanism, which he believed impossible.
+
 ---
 
 ## Self-experimentation
@@ -71,6 +73,7 @@ Haldane's programme is mathematical and case-specific. He worked through the gen
 - *The Causes of Evolution* (Longmans, Green, 1932) — the book-length treatment of selection mathematics
 - Briggs, G. E., & Haldane, J. B. S., "A note on the kinetics of enzyme action," *Biochemical Journal* 19 (1925) — steady-state enzyme kinetics
 - "The origin of life," *The Rationalist Annual* (1929) — the prebiotic soup hypothesis
+- *What is Life?* (Alcuin Press, 1949) — essays; the title essay on life as a self-regulating pattern of chemical happenings
 - "The cost of natural selection," *Journal of Genetics* 55 (1957) — substitutional load, Haldane's dilemma
 - *Daedalus, or Science and the Future* (Kegan Paul, 1924) — speculative essay on biology's future
 - *Possible Worlds* (Chatto & Windus, 1927) — collected popular essays

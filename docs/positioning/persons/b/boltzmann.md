@@ -57,9 +57,9 @@ Boltzmann defended the atomic hypothesis on the grounds that it explained what e
 
 ---
 
-## Where Boltzmann stops
+## Legacy
 
-Boltzmann's framework explains why entropy increases: there are more ways for a system to be disordered than ordered. It does not explain why the universe began in a state of low entropy — why there was a gradient for entropy to increase along in the first place. The statistical mechanics explains the direction of time given a low-entropy boundary condition; it does not explain the boundary condition itself. [Roger Penrose](/positioning/persons/r/penrose/) quantified the improbability of the initial low-entropy state; [David Albert](/positioning/persons/a/albert/) named it the Past Hypothesis; [Sean Carroll](/positioning/persons/c/carroll/) explored its cosmological implications. The question Boltzmann's framework defers — why did the universe start in so special a state? — remains one of the deepest open questions in physics.
+Boltzmann's statistics explain why entropy rises from a low-entropy state: there are more ways for a system to be disordered than ordered. They do not by themselves say why the past was low-entropy. Boltzmann's own answer was a fluctuation: the universe as a whole is in thermal equilibrium, "therefore dead", and our region is a rare excursion from it; for a living being in such a region, "past" is simply the direction of lower entropy, and for the universe as a whole the two directions of time are indistinguishable, as space has no up or down (*Vorlesungen über Gastheorie* II, 1898, §90). The standard objection is that a small fluctuation is far more probable than one the size of the observable universe, and the question passed to cosmology. [Roger Penrose](/positioning/persons/r/penrose/) quantified the improbability of the initial low-entropy state; [David Albert](/positioning/persons/a/albert/) named it the Past Hypothesis; [Sean Carroll](/positioning/persons/c/carroll/) explored its cosmological implications. Why the universe started in so special a state remains one of the deepest open questions in physics.
 
 ---
 

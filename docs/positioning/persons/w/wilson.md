@@ -61,7 +61,7 @@ The reversal provoked sharp criticism from the inclusive fitness community. A re
 
 From the 1980s onward, Wilson became the most prominent scientific advocate for biodiversity conservation. *Biophilia* (1984) proposed that humans have an innate affinity for other living organisms. *The Diversity of Life* (1992) laid out the biodiversity crisis for a general audience. The *Half-Earth* proposal (2016) argued that half of Earth's surface should be set aside as protected habitat to prevent mass extinction.
 
-Wilson coined the term "biodiversity" (in its shortened form; the full "biological diversity" predates him) and was instrumental in placing the concept at the centre of conservation policy. His advocacy was grounded in his scientific work — island biogeography provided the theoretical framework for understanding how habitat loss drives extinction.
+The shortened term "biodiversity" was introduced by Walter G. Rosen, who conceived the 1986 National Forum on BioDiversity in Washington; Wilson edited the forum's volume, *Biodiversity* (1988), and was instrumental in placing the concept at the centre of conservation policy. His advocacy was grounded in his scientific work — island biogeography provided the theoretical framework for understanding how habitat loss drives extinction.
 
 ---
 

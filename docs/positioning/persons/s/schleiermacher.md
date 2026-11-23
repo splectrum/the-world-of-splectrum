@@ -37,6 +37,8 @@ He made the inversion that defines the field. The naïve assumption is that unde
 
 **The hermeneutic circle.** Part and whole are mutually conditioning. One must grasp a text as a whole to understand any of its parts, yet can only build up the whole from the parts. Understanding therefore comes in degrees and advances by repeated passes, each refining both sides at once. The circle is not a vicious one; it is the form interpretation takes.
 
+**Two methods of translating.** The 1813 lecture "Ueber die verschiedenen Methoden des Uebersezens" holds that there are only two: "Entweder der Übersezer läßt den Schriftsteller möglichst in Ruhe, und bewegt den Leser ihm entgegen; oder er läßt den Leser möglichst in Ruhe und bewegt den Schriftsteller ihm entgegen", either the translator leaves the writer in peace as far as possible and moves the reader toward him, or leaves the reader in peace and moves the writer toward him. The two must be kept strictly apart, since any mixture gives a highly unreliable result.
+
 ---
 
 ## Theology and religion
@@ -70,6 +72,7 @@ What lies outside this programme is the productivity of that distance itself —
 - *Über die Religion: Reden an die Gebildeten unter ihren Verächtern* ([*On Religion: Speeches to Its Cultured Despisers*](https://en.wikipedia.org/wiki/On_Religion:_Speeches_to_its_Cultured_Despisers), 1799) — religion as a province of intuition and feeling, distinct from metaphysics and morality
 - *Monologen* (*Soliloquies*, 1800) — the Romantic ethics of individuality
 - *Platons Werke* (Plato translation, 1804–1828) — the dialogues rendered and arranged as a developing whole
+- "Ueber die verschiedenen Methoden des Uebersezens" (*On the Different Methods of Translating*, 1813) — the two methods of translating
 - *Der christliche Glaube* ([*The Christian Faith*](https://en.wikipedia.org/wiki/The_Christian_Faith), 1821–22; rev. 1830–31) — piety as the feeling of absolute dependence; doctrine as the articulation of religious feeling
 - *Hermeneutik und Kritik* (*Hermeneutics and Criticism*, ed. Lücke, 1838, posthumous) — the lectures on the general art of understanding
 

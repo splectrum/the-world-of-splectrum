@@ -1,13 +1,13 @@
 ---
 layout: default
 lastmod: 2026-05-28
-title: "Elisabeth Vrba (1942–2015)"
+title: "Elisabeth Vrba (1942–2025)"
 description: "Elisabeth Vrba, palaeontologist: the turnover pulse hypothesis, the effect hypothesis, exaptation with Gould, and African mammalian macroevolution."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Vrba
 
-# Elisabeth Vrba (1942–2015)
+# Elisabeth Vrba (1942–2025)
 
 Vrba was a paleontologist whose work on African mammalian faunas established that major pulses of speciation and extinction cluster around episodes of environmental change — particularly the aridification events that transformed East African landscapes from forest to grassland between three and two million years ago. Her turnover pulse hypothesis (1985) proposed that these clustered events are not coincidental but causally linked: environmental change fragments habitats, isolates populations, and drives coordinated bursts of speciation and extinction across multiple lineages simultaneously. The hypothesis connects macroevolutionary pattern to environmental history and makes speciation a response to physical disruption rather than a gradual, lineage-internal process. Vrba also co-developed the concept of exaptation with [Stephen Jay Gould](/positioning/persons/g/gould/) (1982) — the distinction between a trait's current function and the selective pressures that originally produced it.
 
@@ -15,9 +15,9 @@ Vrba was a paleontologist whose work on African mammalian faunas established tha
 
 ## Life
 
-Born 7 May 1942 in Hamburg, Germany. Her family emigrated to South Africa; she grew up in Namibia and was educated at the University of Cape Town (BSc in zoology, 1964; PhD in zoology, 1974). Her doctoral work was on the systematics and evolution of African bovids (antelopes and their relatives) — the group that became the empirical foundation of her macroevolutionary programme.
+Born 1942 in Hamburg, Germany. After her father's death the family moved in 1944 to a sheep farm in South West Africa (now Namibia). She studied zoology at the University of Cape Town from 1964 and took her PhD in zoology and palaeontology there in 1974. Her doctoral work was on the systematics and evolution of African bovids (antelopes and their relatives) — the group that became the empirical foundation of her macroevolutionary programme.
 
-Research officer at the Transvaal Museum in Pretoria (1968–86), where she built the bovid fossil collections that anchored her work and produced substantial systematic revisions of African bovid groups — particularly the Antilopini and Aepycerotini — establishing the cladistic structure of the bovid radiation and the species-level taxonomy on which her macroevolutionary analyses depended. The systematics was a body of work in its own right, not simply data-gathering for the bigger theory. The Transvaal Museum period was her most productive: the turnover pulse hypothesis, the effect hypothesis, and the exaptation paper with Gould all originated during these years. Moved to Yale University in 1986 as professor of geology and geophysics, where she continued her research on African mammalian evolution, paleoclimate, and macroevolutionary theory until her retirement. Died 21 December 2015 in Branford, Connecticut.
+At the Transvaal Museum in Pretoria from 1969, and its deputy director from 1977 to 1986, she built the bovid fossil collections that anchored her work and produced substantial systematic revisions of African bovid groups — particularly the Antilopini and Aepycerotini — establishing the cladistic structure of the bovid radiation and the species-level taxonomy on which her macroevolutionary analyses depended. The systematics was a body of work in its own right, not simply data-gathering for the bigger theory. The Transvaal Museum period was her most productive: the turnover pulse hypothesis, the effect hypothesis, and the exaptation paper with Gould all originated during these years. Moved to Yale University in 1986 as professor of geology and geophysics, where she continued her research on African mammalian evolution, paleoclimate, and macroevolutionary theory until her retirement. Died 5 February 2025 in New Haven, Connecticut, aged 82.
 
 ---
 
@@ -32,8 +32,6 @@ The hypothesis, developed through a series of papers from 1985 onward, rests on 
 **Habitat theory.** Vrba generalised the turnover pulse into a broader framework she called habitat theory: the claim that most speciation is initiated by changes in the physical environment (particularly climate-driven habitat change), rather than by biotic interactions (competition, predation) or lineage-internal genetic dynamics. The framework predicts that speciation rates should correlate with the degree of environmental change and with the ecological specificity of the lineage — specialists are more vulnerable to habitat fragmentation than generalists and should show higher turnover rates.
 
 **Hominin evolution.** The 2.8–2.5 mya turnover pulse that Vrba identified in the bovid record coincides with the period associated with the emergence of the genus *Homo* and the divergence of *Paranthropus* — the robust australopithecines. Vrba argued that the same aridification pulse that drove bovid speciation and extinction also fragmented hominin habitats, driving the speciation events that produced the hominin radiation. The "habitat theory of hominin evolution" became one of the major frameworks in paleoanthropology: the claim that human ancestors emerged not through gradual adaptation but as part of a coordinated environmental pulse that reshaped the entire East African mammalian fauna. The 1995 volume *Paleoclimate and Evolution, with Emphasis on Human Origins*, which Vrba co-edited, developed this connection in detail and is much of why her work matters outside paleontology proper.
-
-The hypothesis was developed independently of, but in parallel with, [Eldredge](/positioning/persons/e/eldredge/)'s own turnover pulse work, which addressed similar questions from the invertebrate record. The two programmes reinforced each other: both argued that macroevolutionary change is concentrated in environmentally driven pulses rather than distributed continuously.
 
 ---
 

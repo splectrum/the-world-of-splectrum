@@ -13,7 +13,7 @@ Smolin works at the intersection of quantum gravity, cosmology, and the philosop
 
 ## Life
 
-Born in New York in 1955. He studied physics at Hampshire College, Harvard (PhD, 1979), and held positions at Yale, Syracuse, and Penn State before co-founding the Perimeter Institute for Theoretical Physics in Waterloo, Ontario, in 1999, where he remains a faculty member. He is also adjunct professor at the University of Waterloo.
+Born in New York in 1955. He studied physics at Hampshire College, Harvard (PhD, 1979), and held positions at Yale, Syracuse, and Penn State before joining the Perimeter Institute for Theoretical Physics in Waterloo, Ontario, as one of its founding faculty members in 2001. He is also adjunct professor at the University of Waterloo.
 
 He is one of the most publicly engaged theoretical physicists of his generation, writing accessibly about the state of fundamental physics. *The Trouble with Physics* (2006) — a critique of string theory's dominance and the sociology of theoretical physics — was widely read and widely debated. His intellectual partnerships with [Rovelli](/positioning/persons/r/rovelli/) (on loop quantum gravity) and with [Stuart Kauffman](/positioning/persons/k/kauffman/) (on the TAP — theory of the adjacent possible — at the intersection of physics, biology, and complexity) reflect his interest in cross-disciplinary boundary work.
 
@@ -23,7 +23,7 @@ He is one of the most publicly engaged theoretical physicists of his generation,
 
 [Loop quantum gravity](https://plato.stanford.edu/entries/quantum-gravity/) (LQG), developed from the late 1980s, quantises general relativity without requiring extra dimensions or supersymmetry (the features that define string theory). The central result is that space is discrete at the Planck scale: area and volume come in quanta, and the geometry of spacetime is described by spin networks (graphs whose edges carry quantum numbers representing units of area and volume). At large scales, smooth spacetime emerges from the underlying discrete structure.
 
-Smolin's contributions to LQG include work on the cosmological applications (loop quantum cosmology, which replaces the big bang singularity with a "big bounce"), the role of the Barbero-Immirzi parameter, and the black hole entropy calculation — showing that loop quantum gravity can reproduce the Bekenstein-Hawking entropy formula from a counting of microscopic states. He has also worked on the problem of dynamics in LQG — how the spin network evolves — which remains the programme's most difficult open problem.
+Smolin's work in LQG was collaborative, with Ted Jacobson, Rovelli, Louis Crane, Ashtekar and others. With Rovelli he introduced the loop representation (1988), and the two showed that the quantum operators for area and volume have discrete spectra, finding their natural expression in spin networks (1995). He has also worked on the problem of dynamics in LQG — how the spin network evolves — which remains the programme's most difficult open problem, and, with João Magueijo, proposed doubly special relativity, a route to testing quantum-gravity effects.
 
 ---
 

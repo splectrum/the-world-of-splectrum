@@ -27,7 +27,7 @@ The totality of what a subject feels and thinks is private — not as a preferen
 
 **P3 — Language is where subjects share knowledge about reality.**
 
-Sharing does not dissolve privacy — it operates between privacies. Subjects share through language, indirectly, reading each other through effects on a shared environment. What converges is shared reality — knowledge — but convergence requires enough common ground. A community forms when subjects carry sufficient shared reality to synchronise. From inside, a private circle; from outside, opaque.
+Sharing does not dissolve privacy — it operates between privacies. Subjects share through language, indirectly, reading each other through effects on a shared environment. What converges is shared reality, and with it shared knowledge, but convergence requires enough common ground. A community forms when subjects carry sufficient shared reality to synchronise. From inside, a private circle; from outside, opaque.
 
 [Michael Polanyi](/positioning/persons/p/polanyi/) calls the knowledge that lives inside such circles *tacit* — unarticulated, carried in practice, inaccessible to those outside the practice. [Elinor Ostrom](/positioning/persons/o/ostrom/) demonstrated empirically that communities self-organise to govern shared resources — not through central command, but through local rules evolved from within.
 

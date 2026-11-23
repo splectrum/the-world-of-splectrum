@@ -24,7 +24,6 @@ They met at a NASA astrobiology workshop in 2012. The concept began in Cronin's 
 ## Development sequence
 
 - Marshall, Murray, Cronin (2017), *Phil. Trans. R. Soc. A* 375: "A probabilistic framework for identifying biosignatures using Pathway Complexity" — introduced the pathway complexity concept for molecular objects.
-- Mathis, Patarroyo, Cronin (2021): "Understanding assembly indices" — accessible technical introduction to the formal apparatus.
 - Marshall et al. (2021), *Nature Communications*: "Identifying molecules as biosignatures with assembly theory and mass spectrometry" — extended to assembly theory proper; demonstrated mass spectrometry measurement.
 - Marshall et al. (2022), *Entropy* 24: "Formalising the pathways to life using assembly spaces" — formal extension of the mathematical framework.
 - Walker and Cronin (2023), *Aeon*: "Time is an object" — public-facing essay laying out the metaphysical claims.
@@ -40,13 +39,13 @@ They met at a NASA astrobiology workshop in 2012. The concept began in Cronin's 
 
 **Sara Imari Walker.** Theoretical physicist and astrobiologist. Professor in the School of Earth and Space Exploration at Arizona State University; Deputy Director of the Beyond Center for Fundamental Concepts in Science; external professor at the Santa Fe Institute; Berggruen Institute fellow. Background in theoretical physics with focus on origin of life. Walker brought the astrobiology framing — the question of what life is and how to detect it — and the broader metaphysical ambition that extended assembly theory from a measurement tool into a proposed account of time and complexity.
 
-**Stuart Marshall.** Cronin's PhD student and postdoc; lead author on several foundational papers including the 2017 pathway complexity paper and the 2021 mass spectrometry paper. Carried much of the early formal and experimental development.
+**Stuart Marshall.** Member of Cronin's group from 2012 and his part-time doctoral student (PhD 2024); lead author on several foundational papers including the 2017 pathway complexity paper and the 2021 mass spectrometry paper. Carried much of the early formal and experimental development.
 
-**Abhishek Sharma.** Lead author of the 2023 *Nature* paper, working on the ASU side. Contributed to the formal unification of the framework's claims.
+**Abhishek Sharma.** Joint first author, with Dániel Czégel, of the 2023 *Nature* paper, in Cronin's group at Glasgow. With Czégel he developed the paper's mathematical basis, and he ran its simulations.
 
-**Cole Mathis.** Chemist working with Cronin at Glasgow. Key explainer and contributor: "Understanding assembly indices" (2021) introduced the formal apparatus accessibly; "On the Salient Misunderstandings of Assembly Theory" (2022) responded directly to early critiques and common misreadings.
+**Cole Mathis.** Computational physicist, a doctoral student of Walker's at ASU and later a postdoctoral team leader in Cronin's Glasgow lab, now at Arizona State University. Key explainer and contributor: his blog post "On the Salient Misunderstandings of Assembly Theory" (2022) responded directly to early critiques and common misreadings.
 
-**The Santa Fe team.** Dániel Czégel, Michael Lachmann, and Christopher Kempes contributed to the 2023 *Nature* paper, connecting assembly theory to the broader complexity-science tradition at the Santa Fe Institute.
+**The Santa Fe and ASU co-authors.** Michael Lachmann and Christopher Kempes (Santa Fe Institute), with Dániel Czégel (Beyond Center, ASU), contributed to the 2023 *Nature* paper, connecting assembly theory to the broader complexity-science tradition at the Santa Fe Institute.
 
 ---
 
@@ -59,8 +58,7 @@ They met at a NASA astrobiology workshop in 2012. The concept began in Cronin's 
 - Sharma et al., "Assembly theory explains and quantifies selection and evolution," *Nature* 622 (2023)
 
 **Defending and explaining:**
-- Mathis, Patarroyo, Cronin, "Understanding assembly indices" (2021)
-- Mathis, "On the Salient Misunderstandings of Assembly Theory" (2022)
+- Mathis, "On the Salient Misunderstandings of Assembly Theory," blog post, colemathis.github.io (25 October 2022)
 - "Assembly theory and its relationship with computational complexity," *npj Complexity* (2025)
 
 **Accessible and public-facing:**

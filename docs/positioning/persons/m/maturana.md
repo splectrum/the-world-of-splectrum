@@ -23,6 +23,8 @@ Maturana turned neurobiology into philosophy by taking one observation seriously
 
 **The observer.** *"Anything said is said by an observer."* This is Maturana's most-quoted line, what Heinz von Foerster called *"Maturana's Theorem Number One."* There is no description of the world that is not also a description by someone. The observer is not a flaw in the account — the observer is part of the account. This is not relativism; it is the recognition that observation is an operation performed by an operationally closed system.
 
+**Language.** Maturana treated language as an activity, "languaging": it takes place in the flow of recursive consensual coordinations of actions between organisms that live together. It is a biological phenomenon but not a neurophysiological one, since it happens between organisms rather than in the nervous system, and "with languaging observing and the observer arise" ("Reality: The Search for Objectivity or the Quest for a Compelling Argument", 1988).
+
 **Structural determinism.** A system's responses are determined by its own structure, not by external inputs. What reaches the system from outside is a perturbation — what the system does with it depends on what the system is. The same light falling on a frog's eye and a human's eye produces different outcomes because the structures are different. The environment triggers; it does not instruct.
 
 **Biology of love.** Maturana's later work, developed with Ximena Dávila and Gerda Verden-Zöller. *"Love is the grounding of our existence as humans, and is the basic emotioning in our systemic identity as human beings."* Love here is not sentiment — it is the domain of those relational behaviours in which the other arises as a legitimate other in coexistence. Human sociality, Maturana argues, is constituted in this domain, not in competition or hierarchy. The concept is distinctly his, separate from the joint autopoiesis work with Varela.
@@ -34,6 +36,7 @@ Maturana turned neurobiology into philosophy by taking one observation seriously
 - *"What the Frog's Eye Tells the Frog's Brain"* (1959, with Lettvin, McCulloch and Pitts) — the landmark paper on feature detection in the frog retina
 - *Biology of Cognition* (1970) — the foundational paper: living is knowing
 - [*Autopoiesis and Cognition*](https://en.wikipedia.org/wiki/Autopoiesis_and_Cognition) (with Varela, 1980) — the formal statement of autopoiesis
+- "Reality: The Search for Objectivity or the Quest for a Compelling Argument," *Irish Journal of Psychology* 9 (1988) — objectivity in parentheses; languaging and the observer
 - [*The Tree of Knowledge*](https://en.wikipedia.org/wiki/The_Tree_of_Knowledge_(book)) (with Varela, 1987) — accessible presentation of the theory
 - *The Origin of Humanness in the Biology of Love* (with Verden-Zöller, 2008/12) — the later work on love and human sociality
 

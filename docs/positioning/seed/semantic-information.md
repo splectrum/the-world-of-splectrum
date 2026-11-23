@@ -19,7 +19,7 @@ The territory this reads across is the attempt, made from physics rather than ph
 
 The programme starts from a gap in Shannon's theory. Information as Shannon defined it measures correlation and says nothing about whether the correlation is about anything or matters to anyone — the gap being deliberate, since the problem he was solving concerned telephone lines. Kolchinsky and Wolpert's 2018 framework sets out to close it, under a constraint they state at the outset: the definition must be **intrinsic**, grounded in the system's own dynamics rather than in a goal supplied from outside. They reject utility-function accounts on exactly that ground, as giving meaning "for the external scientist who imputes goals to the system, rather than for the system itself."
 
-The construction runs through a **viability function** — a measure of how tightly a system stays concentrated in states that keep it in being — and a counterfactual scrambling of its correlations with the environment. The correlations whose destruction costs viability are the ones doing work, and semantic information is what they carry. Applied to a rock, a hurricane and a food-caching bird, the measure produces a gradient: nothing, little, a great deal. Agents come apart from passive structures without anyone having defined agency in advance.
+The construction runs through a **viability function** — a measure of how tightly a system stays concentrated in states that keep it in being — and a counterfactual scrambling of its correlations with the environment. The correlations whose destruction costs viability are the ones doing work, and semantic information is what they carry. Applied to a rock, a hurricane and a food-caching bird, the measure produces a gradient: very little, little, a great deal. Agents come apart from passive structures without anyone having defined agency in advance.
 
 The choice of cases is itself worth dwelling on. The comparison could have been run within life — a bacterium against a bird against a person — producing a gradient of sophistication inside a boundary taken for granted. Instead the three examples straddle it, and the same question is put to each: does anything here mean anything to it? The middle term is what makes the axis work. A hurricane is not padding between two extremes but the case that stops the gradient being a disguised life/non-life binary — dynamic, self-maintaining, dissipative, and on the measure carrying almost nothing. Whatever the gradient tracks, it is not aliveness; it is something living things happen to have a great deal of.
 
@@ -27,15 +27,15 @@ What the construction declines to do is as marked as what it does. It does not p
 
 What the construction requires is worth setting out. A viability function needs a standard of doing well, which is to say it needs something for which the persistence is at stake. The slot is structural: it cannot be left empty and still leave a quantity to measure. The framework's authors are explicit about it, and name who is occupying it:
 
-> It is important to re-emphasize that, in our framework, the viability function is exogenously determined by the scientist analysing the system, rather than being a purely endogenous characteristic of the system.
+> It is important to re-emphasize that, in our framework, the viability function is exogenously determined by the scientist analyzing the system, rather than being a purely endogenous characteristic of the system.
 
-Two further choices of the same kind are named — where the cut between system and environment falls, and the timescale — with all three described as "'subjective' choices of the scientist". Their argument is that viability is nonetheless less arbitrary than a scenario-specific utility function, since staying in existence is almost always a necessary if unstated condition for anything else a system might be doing.
+Three further choices of the same kind are named — where the cut between system and environment falls, the timescale, and the initial distribution over their joint states — all three described as "'subjective' choices of the scientist". Their argument is that viability is nonetheless less arbitrary than a scenario-specific utility function, since staying in existence is almost always a necessary if unstated condition for anything else a system might be doing.
 
 A formalism which requires a subject-slot has found something rather than lost something. Where meaning is present, a relatum is present; the mathematics registering that is the mathematics working.
 
 ## The relational move, in a neighbouring domain
 
-The framework credits [Carlo Rovelli](/positioning/persons/r/rovelli/) for the idea it builds on — meaningful information as survival-relevant correlation. What sits alongside it in Rovelli's own work is a treatment of subject-relative quantities developed for a different subject matter entirely.
+The framework names two sources for its starting idea, meaningful information as survival-relevant correlation: the authors' own 2016 presentation and [Carlo Rovelli](/positioning/persons/r/rovelli/)'s "Meaning = Information + Evolution" (2016). What sits alongside it in Rovelli's own work is a treatment of subject-relative quantities developed for a different subject matter entirely.
 
 In relational quantum mechanics the state of a system is relative to whatever it is interacting with, and Rovelli's insistence is that this is structure rather than limitation: objectivity does not require frame-independence, and a value can be entirely real while being real relative to an interaction. He has since carried the same move into thermodynamics, and is careful to separate it from any claim about knowledge — "A cup of hot tea does not cool down because of what I know or do not know about its molecules." The coarse-graining is fixed by which variables physically couple, and the resulting entropy he describes as objective but relative to the system it is relative to.
 
@@ -43,11 +43,11 @@ The shape is the same one the viability slot has: a quantity well defined relati
 
 ## The interval the measure is taken over
 
-The timescale is the third of the named choices, and it is worth following because the framework's own examples turn on it.
+The timescale is one of these named choices, and it is worth following because the framework's own examples turn on it.
 
-Viability is assessed over an interval. The rock scores nothing because over the interval naturally chosen for it, no correlation it carries bears on whether it is still there. Extended to geological time the verdict changes — a rock's persistence depends heavily on water, temperature and chemistry, and correlations that were inert become load-bearing. Contracted far enough, the bird's semantic information vanishes in its turn, since over a millisecond nothing it knows about its caches bears on its being alive at the end.
+Viability is assessed over an interval. The rock scores next to nothing because over the interval naturally chosen for it, no correlation it carries bears on whether it is still there. Extended to geological time the verdict changes — a rock's persistence depends heavily on water, temperature and chemistry, and correlations that were inert become load-bearing. Contracted far enough, the bird's semantic information vanishes in its turn, since over a millisecond nothing it knows about its caches bears on its being alive at the end.
 
-The gradient holds at the interval each case is naturally given, and the naturalness is the thing to look at. A comparison run on the same *relative* interval throughout — a fixed fraction of characteristic lifetime — would likely preserve the ordering while removing the rock's zero, which is what makes the rock read as categorically different rather than merely slower.
+The gradient holds at the interval each case is naturally given, and the naturalness is the thing to look at. A comparison run on the same *relative* interval throughout — a fixed fraction of characteristic lifetime — would likely preserve the ordering while removing the rock's near-zero, which is what makes the rock read as categorically different rather than merely slower.
 
 ## What the territory offers
 

@@ -25,13 +25,13 @@ The seed's own vocabulary — terms as they appear in [the original principles](
 
 <span id="indirect-interaction">**Indirect interaction**</span> (P3) — Subject-to-subject relating, never direct: like a relay where the baton — what is shared — is passed between subjects, each interacting with it in their own language context and shaping it before passing on. The structural form of being-with-others — the everyday sense of "experiencing the world in relation to others."
 
-<span id="knowledge">**Knowledge**</span> — The insight factor of a subject's reality.
+<span id="knowledge">**Knowledge**</span> — Information turned into concepts. Whether it is retained is a separate matter: it can be kept, and it can be lost.
 
 <span id="language">**Language**</span> — A language game unit — one specific interaction pattern.
 
 <span id="reach">**Reach**</span> (P1) — The relations a language holds.
 
-<span id="reality">**Reality**</span> — The totality of a subject's experience.
+<span id="reality">**Reality**</span> — The totality of what a subject has retained of its experience.
 
 <span id="seed">**Seed**</span> — SPLectrum's foundational axiomatic base; six principles on the creation and dynamics of language, subjects and relation.
 
@@ -40,6 +40,8 @@ The seed's own vocabulary — terms as they appear in [the original principles](
 <span id="six-principles">**Six principles**</span> — The axiomatic base of SPLectrum.
 
 <span id="subject">**Subject**</span> — Entity that has the current POV, holding the reference point for relational interactions.
+
+<span id="understanding">**Understanding**</span> — The insight gained from knowledge.
 
 ## Philosophical — page vocabulary
 
@@ -51,7 +53,7 @@ The vocabulary as it appears on [the seed and philosophy](/seed/philosophical/).
 
 <span id="sublation">**Sublation**</span> (P0) — The dialectical mechanism through which each new determination supersedes and preserves prior ones ([Hegel](https://plato.stanford.edu/entries/hegel/)).
 
-<span id="determinatio-est-negatio">**Determinatio est negatio**</span> (P0) — Every determination requires what it negates ([Spinoza](https://plato.stanford.edu/entries/spinoza/)).
+<span id="determinatio-est-negatio">**Determinatio est negatio**</span> (P0) — Every determination requires what it negates (after [Spinoza](https://plato.stanford.edu/entries/spinoza/), Letter 50: *determinatio negatio est*).
 
 <span id="actual-occasion">**Actual occasion**</span> (P0, P5) — Unit of process; each occasion concresces from prior ones ([Whitehead](https://plato.stanford.edu/entries/whitehead/)).
 

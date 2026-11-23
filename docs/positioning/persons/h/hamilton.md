@@ -41,9 +41,11 @@ The implications were wide. Kin selection — the preferential direction of altr
 
 Hamilton's later major contribution: the theory that sexual reproduction is maintained by host-parasite coevolution. The problem: sex is costly (the twofold cost of males — a sexual population devotes half its reproductive effort to producing males, who do not themselves bear offspring). Why does sex persist when asexual reproduction would be more efficient?
 
-Hamilton proposed (with Marlene Zuk, 1982, and in a series of subsequent papers) that parasites impose frequency-dependent selection on hosts: common genotypes are disproportionately targeted by co-evolving parasites, giving rare genotypes an advantage. Sexual reproduction generates the genetic diversity that keeps host populations moving through genotype space, staying ahead of parasites. This is the Red Queen hypothesis in its most developed form — named after the Red Queen in *Through the Looking-Glass*, who tells Alice that "it takes all the running you can do, to keep in the same place."
+Hamilton proposed (from 1980, and with [Robert Axelrod](/positioning/persons/a/axelrod/) and Reiko Tanese in 1990) that parasites impose frequency-dependent selection on hosts: common genotypes are disproportionately targeted by co-evolving parasites, giving rare genotypes an advantage. Sexual reproduction generates the genetic diversity that keeps host populations moving through genotype space, staying ahead of parasites. This is the Red Queen hypothesis in its most developed form — named after the Red Queen in *Through the Looking-Glass*, who tells Alice that "it takes all the running you can do, to keep in the same place."
 
-The hypothesis is one of several competing explanations for the maintenance of sex (others include Muller's ratchet, the Fisher-Muller hypothesis, and the lottery model). Empirical support is mixed; the Hamilton-Zuk hypothesis remains influential and contested.
+The hypothesis is one of several competing explanations for the maintenance of sex (others include Muller's ratchet, the Fisher-Muller hypothesis, and the lottery model). Empirical support is mixed; the parasite (Red Queen) hypothesis remains influential and contested.
+
+With Marlene Zuk (1982) he carried the same host–parasite cycles over to sexual selection: across North American passerine birds, striking display was associated with chronic blood parasites, which fits a model in which animals choose mates for heritable disease resistance by judging traits whose full expression depends on health and vigour. This is the Hamilton–Zuk hypothesis.
 
 ---
 
@@ -57,7 +59,9 @@ Hamilton's work on extraordinary sex ratios (1967) and later on selfish genetic 
 
 - Hamilton, W. D., "The genetical evolution of social behaviour" (I and II), *Journal of Theoretical Biology* 7 (1964) — inclusive fitness, Hamilton's rule
 - Hamilton, W. D., "Extraordinary sex ratios," *Science* 156 (1967) — sex ratio distortion, selfish genetic elements
-- Hamilton, W. D., & Zuk, M., "Heritable true fitness and bright birds: A role for parasites?," *Science* 218 (1982) — sex and parasites
+- Hamilton, W. D., "Sex versus non-sex versus parasite," *Oikos* 35 (1980) — sex and parasites
+- Hamilton, W. D., & Zuk, M., "Heritable true fitness and bright birds: A role for parasites?," *Science* 218 (1982) — sexual selection and parasites
+- Hamilton, W. D., Axelrod, R., & Tanese, R., "Sexual reproduction as an adaptation to resist parasites (a review)," *PNAS* 87 (1990) — sex and parasites
 - Hamilton, W. D., *Narrow Roads of Gene Land* (3 vols., Oxford, 1996–2005) — collected papers with autobiographical commentary; the third volume published posthumously
 
 ---

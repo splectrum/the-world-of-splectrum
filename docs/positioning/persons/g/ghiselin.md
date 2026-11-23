@@ -1,23 +1,23 @@
 ---
 layout: default
 lastmod: 2026-05-28
-title: "Michael Ghiselin (1939–)"
+title: "Michael Ghiselin (1939–2024)"
 description: "American biologist and philosopher of biology: the species-as-individuals thesis and The Economy of Nature and the Evolution of Sex."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Ghiselin
 
-# Michael Ghiselin (1939–)
+# Michael Ghiselin (1939–2024)
 
-Ghiselin proposed that biological species are not natural kinds — not classes defined by shared properties — but historical individuals: particular, spatiotemporally bounded entities, each with a unique origin, history, and eventual extinction. The thesis, first argued in "A Radical Solution to the Species Problem" (1974), was developed independently of and simultaneously with [David Hull](/positioning/persons/h/hull/)'s parallel argument (1976, 1978), and between them the two transformed the metaphysics of biology. If species are individuals rather than kinds, then there are no laws about particular species ("all swans are white" is an empirical generalisation, not a law), biological taxonomy is a historical rather than a classificatory enterprise, and the ontological structure of biology differs fundamentally from that of physics and chemistry. Ghiselin is also the author of *The Economy of Nature and the Evolution of Sex* (1974), a wide-ranging theoretical work on sexual selection, and an authority on the systematics and natural history of opisthobranch molluscs (sea slugs).
+Ghiselin proposed that biological species are not natural kinds — not classes defined by shared properties — but historical individuals: particular, spatiotemporally bounded entities, each with a unique origin, history, and eventual extinction. The thesis, first argued in "A Radical Solution to the Species Problem" (1974), was developed independently of and simultaneously with [David Hull](/positioning/persons/h/hull/)'s parallel argument (1976, 1978), and between them the two transformed the metaphysics of biology. If species are individuals rather than kinds, then there are no laws about particular species ("all swans are white" is an empirical generalisation, not a law), biological taxonomy is a historical rather than a classificatory enterprise, and the ontological structure of biology differs fundamentally from that of physics and chemistry. Ghiselin is also the author of *The Economy of Nature and the Evolution of Sex* (1974), a wide-ranging theoretical work on sexual selection, and was an authority on the systematics and natural history of opisthobranch molluscs (sea slugs).
 
 ---
 
 ## Life
 
-Born 13 March 1939 in Salt Lake City, Utah. Educated at the University of Utah (BS in zoology, 1960) and Stanford University (PhD in zoology, 1965). His doctoral work was on the comparative functional morphology of opisthobranch gastropods — a research programme he maintained alongside his philosophical work for his entire career.
+Born 1939 in Salt Lake City, Utah. Educated at the University of Utah (BS in zoology, 1960) and Stanford University (PhD in zoology, 1965). His doctoral work was on the comparative functional morphology of opisthobranch gastropods — a research programme he maintained alongside his philosophical work for his entire career.
 
-Research fellow at the Marine Biological Laboratory, Woods Hole, Massachusetts (1967–68). Joined the California Academy of Sciences in San Francisco (1983), where he served as a research fellow and later as chair of the Department of Invertebrate Zoology. The California Academy appointment reflected Ghiselin's dual identity: he was simultaneously a practising systematist (describing new species, revising taxa, conducting fieldwork on Pacific and Caribbean reefs) and a philosopher of biology working on the foundations of taxonomy, individuality, and evolutionary theory.
+Research fellow at the Marine Biological Laboratory, Woods Hole, Massachusetts (1967–68). Joined the California Academy of Sciences in San Francisco (1983), where he served as a research fellow and later as chair of the Department of Invertebrate Zoology. The California Academy appointment reflected Ghiselin's dual identity: he was simultaneously a practising systematist (describing new species, revising taxa, conducting fieldwork on Pacific and Caribbean reefs) and a philosopher of biology working on the foundations of taxonomy, individuality, and evolutionary theory. He died in 2024.
 
 Ghiselin's philosophical work was initially met with resistance. The species-as-individuals thesis struck many biologists as counterintuitive — the idea that *Homo sapiens* is an individual (like a particular organism) rather than a kind (like gold or water) challenged deeply embedded habits of thought. The thesis gained traction through Hull's independent advocacy and its adoption by [Ernst Mayr](/positioning/persons/m/mayr/) (who noted its compatibility with the biological species concept) and others. It is now widely, though not universally, accepted in the philosophy of biology.
 

@@ -39,7 +39,7 @@ Chemify, the company Cronin founded, commercialises this programme. The ambition
 
 ## Assembly theory
 
-Co-developed with [Sara Walker](/positioning/persons/w/walker/) from 2017 onward. The [assembly theory subject pages](/positioning/subjects/a/assembly-theory/) carry the full treatment.
+Begun in his group as pathway complexity (2017) and developed with [Sara Walker](/positioning/persons/w/walker/), co-author from 2021. The [assembly theory subject pages](/positioning/subjects/a/assembly-theory/) carry the full treatment.
 
 Cronin's contribution to assembly theory comes from the chemistry side: the observation that complex molecules cannot just emerge into existence because the combinatorial space of possible constructions is too vast, and the development of the assembly index as a measurable quantity — computable from molecular structure and experimentally accessible via mass spectrometry. The empirical apparatus — measuring molecular complexity through fragmentation patterns — grows directly from his laboratory's capabilities in analytical chemistry.
 

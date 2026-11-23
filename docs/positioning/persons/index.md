@@ -107,12 +107,12 @@ Individual thinkers referenced across the positioning section. Each page present
 ## E
 
 - [Eco, Umberto (1932–2016)](/positioning/persons/e/eco/) · semiotician, philosopher, novelist<span class="kw">a theory of codes, the open work, the limits of interpretation, the model reader, unlimited semiosis, The Name of the Rose</span>
-- [Eddington, Arthur (1882–1944)](/positioning/persons/e/eddington/) · astrophysicist<span class="kw">named "the arrow of time", confirmed general relativity, stellar structure, the mass-luminosity relation</span>
+- [Eddington, Arthur (1882–1944)](/positioning/persons/e/eddington/) · astrophysicist<span class="kw">named "time's arrow", confirmed general relativity, stellar structure, the mass-luminosity relation</span>
 - [Edelman, Gerald (1929–2014)](/positioning/persons/e/edelman/) · biologist<span class="kw">Neural Darwinism, neuronal group selection, reentrant signalling, the immunological Nobel, consciousness</span>
 - [Eigen, Manfred (1927–2019)](/positioning/persons/e/eigen/) · biophysical chemist<span class="kw">relaxation methods, Nobel Prize 1967, selection among self-replicating molecules, the error threshold, the quasispecies, the hypercycle</span>
 - [Eilenberg, Samuel (1913–1998)](/positioning/persons/e/eilenberg/) · mathematician<span class="kw">co-founder of category theory, Eilenberg-Steenrod axioms, homological algebra, automata theory</span>
 - [Einstein, Albert (1879–1955)](/positioning/persons/e/einstein/) · physicist<span class="kw">special and general relativity, the photoelectric effect, Brownian motion, the EPR paradox, E = mc²</span>
-- [Eldredge, Niles (1943–)](/positioning/persons/e/eldredge/) · paleontologist<span class="kw">punctuated equilibrium, hierarchy theory, genealogical-ecological duality, stasis, turnover pulse</span>
+- [Eldredge, Niles (1943–)](/positioning/persons/e/eldredge/) · paleontologist<span class="kw">punctuated equilibrium, hierarchy theory, genealogical-ecological duality, stasis</span>
 - [Empedocles (c. 494–c. 434 BCE)](/positioning/persons/e/empedocles/) · philosopher<span class="kw">the four elements, love and strife, the cosmic cycle, the earliest pluralist cosmology</span>
 - [Everett, Hugh III (1930–1982)](/positioning/persons/e/everett/) · physicist<span class="kw">the many-worlds interpretation, the relative-state formulation, the universal wave function</span>
 
@@ -137,7 +137,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Garfield, Jay (1955–)](/positioning/persons/g/garfield/) · philosopher<span class="kw">Nāgārjuna translation and commentary, cross-cultural philosophy, Madhyamaka and Western philosophy</span>
 - [Gause, Georgy (1910–1986)](/positioning/persons/g/gause/) · biologist<span class="kw">the competitive exclusion principle, experimental population ecology, The Struggle for Existence</span>
 - [Gell-Mann, Murray (1929–2019)](/positioning/persons/g/gell-mann/) · physicist<span class="kw">quarks, the Eightfold Way, effective complexity, Santa Fe Institute co-founder</span>
-- [Ghiselin, Michael (1939–)](/positioning/persons/g/ghiselin/) · biologist, philosopher of biology<span class="kw">the species-as-individuals thesis, the evolution of sex, opisthobranch systematics</span>
+- [Ghiselin, Michael (1939–2024)](/positioning/persons/g/ghiselin/) · biologist, philosopher of biology<span class="kw">the species-as-individuals thesis, the evolution of sex, opisthobranch systematics</span>
 - [Gibbard, Allan (1942–)](/positioning/persons/g/gibbard/) · philosopher<span class="kw">norm-expressivism, Wise Choices Apt Feelings, thinking how to live, planning and normative judgement, the Gibbard–Satterthwaite theorem</span>
 - [Gibbs, Josiah Willard (1839–1903)](/positioning/persons/g/gibbs/) · physicist, mathematician<span class="kw">statistical mechanics, chemical thermodynamics, Gibbs free energy, the phase rule, ensembles</span>
 - [Gibson, Eleanor J. (1910–2002)](/positioning/persons/g/gibson-e/) · psychologist<span class="kw">perceptual learning as differentiation, the visual cliff, the psychology of reading, ecological account of development, National Medal of Science</span>
@@ -161,7 +161,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Hegel, Georg Wilhelm Friedrich (1770–1831)](/positioning/persons/h/hegel/) · philosopher<span class="kw">dialectic, sublation, determinate negation, historical development</span>
 - [Heidegger, Martin (1889–1976)](/positioning/persons/h/heidegger/) · philosopher<span class="kw">being-in-the-world, disclosure, Dasein, readiness-to-hand</span>
 - [Heisenberg, Werner (1901–1976)](/positioning/persons/h/heisenberg/) · physicist<span class="kw">matrix mechanics, the uncertainty principle, the Copenhagen interpretation, nuclear physics</span>
-- [Henrich, Joseph (1968–)](/positioning/persons/h/henrich/) · anthropologist<span class="kw">cumulative culture, the WEIRDest people, cultural evolution, the cultural brain, gene-culture coevolution</span>
+- [Henrich, Joseph](/positioning/persons/h/henrich/) · anthropologist<span class="kw">cumulative culture, the WEIRDest people, cultural evolution, the cultural brain, gene-culture coevolution</span>
 - [Henry, Michel (1922–2002)](/positioning/persons/h/henry/) · philosopher<span class="kw">radical immanence, life as self-revelation, material phenomenology, the subjective body, invisible community</span>
 - [Heraclitus (c. 535–c. 475 BCE)](/positioning/persons/h/heraclitus/) · philosopher<span class="kw">flux and constancy, unity of opposites, logos, fire</span>
 - [Hobbes, Thomas (1588–1679)](/positioning/persons/h/hobbes/) · philosopher<span class="kw">Leviathan, the social contract, the state of nature, mechanistic materialism, sovereignty</span>
@@ -208,7 +208,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Lamarck, Jean-Baptiste (1744–1829)](/positioning/persons/l/lamarck/) · naturalist<span class="kw">the first comprehensive theory of the transformation of species, two forces of complexification and adaptation, use and disuse and the inheritance of acquired characters, the invertebrates, Philosophie zoologique</span>
 - [Landauer, Rolf (1927–1999)](/positioning/persons/l/landauer/) · physicist<span class="kw">Landauer's principle, the thermodynamics of computation, information as physical, Maxwell's demon resolved</span>
 - [Langer, Susanne K. (1895–1985)](/positioning/persons/l/langer/) · philosopher<span class="kw">discursive and presentational symbolism, art as the creation of forms symbolic of human feeling, the virtual and the primary illusion, the biology of mind</span>
-- [Langton, Christopher (1948–)](/positioning/persons/l/langton/) · computer scientist<span class="kw">artificial life, edge of chaos, self-reproducing loops, the SFI artificial life workshops</span>
+- [Langton, Christopher (1948–)](/positioning/persons/l/langton/) · computer scientist<span class="kw">artificial life, edge of chaos, self-reproducing loops, the artificial life workshops</span>
 - [Laski, Harold (1893–1950)](/positioning/persons/l/laski/) · political theorist<span class="kw">political pluralism, the sovereignty critique, the state as one association among many, democratic socialism</span>
 - [Latour, Bruno (1947–2022)](/positioning/persons/l/latour/) · philosopher, sociologist of science<span class="kw">actor-network theory, We Have Never Been Modern, the Parliament of Things, cosmopolitics, modes of existence</span>
 - [Lawvere, F. William (1937–2023)](/positioning/persons/l/lawvere/) · mathematician<span class="kw">categorical foundations of mathematics, ETCS, elementary topos theory, categorical logic, adjointness</span>
@@ -232,7 +232,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Mac Lane, Saunders (1909–2005)](/positioning/persons/m/mac-lane/) · mathematician<span class="kw">co-founder of category theory, Categories for the Working Mathematician, mathematical structuralism</span>
 - [MacArthur, Robert (1930–1972)](/positioning/persons/m/macarthur/) · ecologist<span class="kw">island biogeography, species packing, r/K selection, warbler niche, mathematical ecology</span>
 - [Mach, Ernst (1838–1916)](/positioning/persons/m/mach/) · physicist, philosopher<span class="kw">Mach's principle, the critique of atomism, positivism, the economy of thought, the energeticist opposition</span>
-- [MacIntyre, Alasdair (1929–)](/positioning/persons/m/macintyre/) · philosopher<span class="kw">tradition-constituted rationality, After Virtue, the Enlightenment failure, incommensurability of traditions</span>
+- [MacIntyre, Alasdair (1929–2025)](/positioning/persons/m/macintyre/) · philosopher<span class="kw">tradition-constituted rationality, After Virtue, the Enlightenment failure, incommensurability of traditions</span>
 - [Malthus, Thomas (1766–1834)](/positioning/persons/m/malthus/) · political economist, demographer<span class="kw">principle of population, moral restraint, rent, effective demand</span>
 - [Marcuse, Herbert (1898–1979)](/positioning/persons/m/marcuse/) · philosopher<span class="kw">one-dimensional man, the Great Refusal, the aesthetic dimension, Eros and civilisation, critical theory</span>
 - [Margulis, Lynn (1938–2011)](/positioning/persons/m/margulis/) · biologist<span class="kw">endosymbiosis, serial endosymbiosis theory, symbiogenesis, Gaia hypothesis</span>
@@ -245,7 +245,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Medawar, Peter (1915–1987)](/positioning/persons/m/medawar/) · immunologist, biologist<span class="kw">immunological tolerance, mutation accumulation theory of ageing, transplantation, philosophy of science</span>
 - [Mendel, Gregor (1822–1884)](/positioning/persons/m/mendel/) · friar, naturalist<span class="kw">laws of inheritance, pea plant experiments, discrete hereditary factors, dominance and recessiveness</span>
 - [Merleau-Ponty, Maurice (1908–1961)](/positioning/persons/m/merleau-ponty/) · philosopher<span class="kw">phenomenology of the body, perception, the habitual body, intercorporeality</span>
-- [Mitchell, Melanie (1969–)](/positioning/persons/m/mitchell/) · computer scientist, complexity researcher<span class="kw">genetic algorithms, analogy-making, the CAS synthesis, complexity's limits and achievements</span>
+- [Mitchell, Melanie](/positioning/persons/m/mitchell/) · computer scientist, complexity researcher<span class="kw">genetic algorithms, analogy-making, the CAS synthesis, complexity's limits and achievements</span>
 - [Moffett, Mark W. (1958–)](/positioning/persons/m/moffett/) · biologist<span class="kw">anonymous societies, identity markers, the ant-human structural comparison, fission-fusion, canopy ecology, definitions as marks not explanations</span>
 - [Mokyr, Joel (1946–)](/positioning/persons/m/mokyr/) · economic historian<span class="kw">The Lever of Riches, macroinventions and microinventions, useful knowledge, the Industrial Enlightenment, A Culture of Growth, technology as an evolutionary process, 2025 Nobel prize</span>
 - [Morgan, Conwy Lloyd (1852–1936)](/positioning/persons/m/morgan-cl/) · comparative psychologist, philosopher<span class="kw">Morgan's canon, animal learning by trial and error, organic selection, emergent evolution, resultants and emergents</span>
@@ -322,7 +322,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Schopenhauer, Arthur (1788–1860)](/positioning/persons/s/schopenhauer/) · philosopher<span class="kw">the world as will and representation, aesthetic contemplation, the Ideas, music, compassion, pessimism</span>
 - [Schrödinger, Erwin (1887–1961)](/positioning/persons/s/schrodinger/) · physicist<span class="kw">wave mechanics, the Schrödinger equation, What is Life?, negative entropy, the cat</span>
 - [Schumpeter, Joseph (1883–1950)](/positioning/persons/s/schumpeter/) · economist<span class="kw">creative destruction, the entrepreneur as innovator, business cycles, capitalism's self-undermining dynamics</span>
-- [Searle, John (1932–)](/positioning/persons/s/searle/) · philosopher<span class="kw">speech act theory, the Chinese Room, intentionality, biological naturalism, collective intentionality, the construction of social reality, status functions</span>
+- [Searle, John (1932–2025)](/positioning/persons/s/searle/) · philosopher<span class="kw">speech act theory, the Chinese Room, intentionality, biological naturalism, collective intentionality, the construction of social reality, status functions</span>
 - [Sebeok, Thomas A. (1920–2001)](/positioning/persons/s/sebeok/) · linguist, semiotician<span class="kw">zoosemiotics, biosemiotics, the revival of Uexküll, Peirce over Saussure, modeling systems theory, the atomic priesthood</span>
 - [Sellars, Wilfrid (1912–1989)](/positioning/persons/s/sellars/) · philosopher<span class="kw">the myth of the given, the space of reasons, psychological nominalism, the manifest and scientific images</span>
 - [Sen, Amartya (1933–)](/positioning/persons/s/sen/) · economist, philosopher<span class="kw">the capability approach, development as freedom, social choice theory, famine and democracy, the idea of justice</span>
@@ -345,7 +345,7 @@ Individual thinkers referenced across the positioning section. Each page present
 
 ## T
 
-- [Taylor, Charles (1931–)](/positioning/persons/t/taylor/) · philosopher<span class="kw">Sources of the Self, inwardness, the dialogical self, authenticity, A Secular Age, language as constitutive expression</span>
+- [Taylor, Charles (1931–)](/positioning/persons/t/taylor/) · philosopher<span class="kw">Sources of the Self, inwardness, the affirmation of ordinary life, expressivism, authenticity, recognition, A Secular Age, language as constitutive expression</span>
 - [Tomasello, Michael (1950–)](/positioning/persons/t/tomasello/) · psychologist<span class="kw">shared intentionality and the human-unique "we" mode, joint attention, the usage-based theory of language acquisition against universal grammar, intention-reading and pattern-finding, cultural learning and the ratchet effect, the great-ape comparison</span>
 - [Tooby, John (1952–2023)](/positioning/persons/t/tooby/) · evolutionary psychologist<span class="kw">the adapted mind, the environment of evolutionary adaptedness, the Standard Social Science Model critique</span>
 - [Torvalds, Linus (1969–)](/positioning/persons/t/torvalds/) · software engineer<span class="kw">the Linux kernel, Git, Subsurface, open-source infrastructure and stewardship</span>
@@ -367,7 +367,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Von Glasersfeld, Ernst (1917–2010)](/positioning/persons/v/von-glasersfeld/) · philosopher, cyberneticist<span class="kw">radical constructivism, viability not truth, knowledge as construction, the interpretation of Piaget, constructivism in education</span>
 - [Von Neumann, John (1903–1957)](/positioning/persons/v/von-neumann/) · mathematician<span class="kw">game theory, von Neumann architecture, quantum mechanics, self-reproducing automata</span>
 - [Von Uexküll, Jakob (1864–1944)](/positioning/persons/v/von-uexkull/) · biologist, theoretical biologist<span class="kw">the Umwelt, the functional circle, Merkwelt and Wirkwelt, the tick's world, the Bedeutungslehre, forerunner of biosemiotics</span>
-- [Vrba, Elisabeth (1942–2015)](/positioning/persons/v/vrba/) · paleontologist<span class="kw">the turnover pulse hypothesis, the effect hypothesis, exaptation (with Gould), habitat theory, African mammalian macroevolution</span>
+- [Vrba, Elisabeth (1942–2025)](/positioning/persons/v/vrba/) · paleontologist<span class="kw">the turnover pulse hypothesis, the effect hypothesis, exaptation (with Gould), habitat theory, African mammalian macroevolution</span>
 - [Vygotsky, Lev (1896–1934)](/positioning/persons/v/vygotsky/) · psychologist<span class="kw">cultural-historical psychology, the higher mind formed from the outside in, internalisation and the general genetic law, mediation by signs, the zone of proximal development, inner speech and the dispute with Piaget</span>
 
 ## W

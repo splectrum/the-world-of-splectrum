@@ -1,13 +1,13 @@
 ---
 layout: default
 lastmod: 2026-10-19
-title: "Alasdair MacIntyre (1929–)"
+title: "Alasdair MacIntyre (1929–2025)"
 description: "Scottish-American philosopher: After Virtue, the failure of the Enlightenment moral project, and rationality as always internal to a tradition."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > MacIntyre
 
-# Alasdair MacIntyre (1929–)
+# Alasdair MacIntyre (1929–2025)
 
 MacIntyre argued that the Enlightenment project of grounding morality in universal reason has failed — and that the failure is not contingent but structural. There is no standpoint outside all traditions from which moral claims can be justified. Rationality itself is tradition-constituted: standards of rational inquiry, criteria for what counts as evidence, and the very terms in which problems are formulated are internal to the tradition in which they arise. The consequence is a plurality of moral traditions, each internally rational, none reducible to a common standard — and the question of how traditions that are incommensurable can nevertheless learn from one another becomes the central problem. *After Virtue* (1981) is the diagnosis; *Whose Justice? Which Rationality?* (1988) and *Three Rival Versions of Moral Enquiry* (1990) develop the constructive account.
 
@@ -17,9 +17,9 @@ MacIntyre argued that the Enlightenment project of grounding morality in univers
 
 Born 12 January 1929 in Glasgow, Scotland. Educated at Queen Mary College, University of London (BA), and the University of Manchester (MA). Taught at the University of Leeds, the University of Essex, and the University of Oxford in the 1950s and 1960s. His early work was in philosophy of action and the philosophy of the social sciences — *A Short History of Ethics* (1966) was a widely used textbook that already showed the historical sensibility that would dominate his later work.
 
-Moved to the United States in 1970. Taught at Brandeis University, Boston University, Wellesley College, and Vanderbilt University before settling at the University of Notre Dame (1988), where he was appointed O'Brien Senior Research Professor of Philosophy. The move to Notre Dame was not accidental: MacIntyre had converted to Roman Catholicism in the early 1980s, and the Thomistic tradition — the intellectual inheritance of [Thomas Aquinas](/positioning/persons/a/aquinas/) — became the tradition from which he argued. The conversion is intellectually load-bearing: MacIntyre's defence of tradition-constituted rationality is itself conducted from within a specific tradition, and he has been explicit that this is not a weakness but a consequence of his own thesis.
+Moved to the United States in 1970. Taught at Brandeis University, Boston University, Wellesley College, and Vanderbilt University before settling at the University of Notre Dame (1988), where he was appointed O'Brien Senior Research Professor of Philosophy. The move to Notre Dame was not accidental: MacIntyre had converted to Roman Catholicism in the early 1980s, and the Thomistic tradition — the intellectual inheritance of [Thomas Aquinas](/positioning/persons/a/aquinas/) — became the tradition from which he argued. The conversion is intellectually load-bearing: MacIntyre's defence of tradition-constituted rationality is itself conducted from within a specific tradition, and he was explicit that this is not a weakness but a consequence of his own thesis.
 
-Continues to publish and lecture. His career arc — from Marxism in the 1950s and 1960s, through a period of engagement with analytic philosophy, to the Aristotelian-Thomistic position of *After Virtue* onward — is itself an example of the tradition-to-tradition movement his philosophy describes.
+He died on 21 May 2025 in South Bend, Indiana. His career arc — from Marxism in the 1950s and 1960s, through a period of engagement with analytic philosophy, to the Aristotelian-Thomistic position of *After Virtue* onward — is itself an example of the tradition-to-tradition movement his philosophy describes.
 
 ---
 
@@ -53,7 +53,7 @@ MacIntyre's thesis — that rationality is tradition-constituted — applies to 
 
 The mechanism for learning across traditions — inhabiting a second tradition "as a second first language" — is structurally demanding. It requires individuals who can achieve genuine bilingual competence across incommensurable traditions. [Stephen Mulhall](https://en.wikipedia.org/wiki/Stephen_Mulhall) and [Adam Swift](https://en.wikipedia.org/wiki/Adam_Swift_(political_philosopher)) have argued that recognising liberalism as a tradition does not undermine it — that liberalism can acknowledge its own historicity and continue to function, which is exactly what a tradition is supposed to do.
 
-On politics, he has described himself as holding "what I regard as Marxist conclusions but in the very different terms of Thomistic theory," and has argued that contemporary politics offers no adequate institutional expression of the tradition-based moral reasoning he defends.
+On politics, he described himself as holding "what I regard as Marxist conclusions but in the very different terms of Thomistic theory," and argued that contemporary politics offers no adequate institutional expression of the tradition-based moral reasoning he defended.
 
 ---
 

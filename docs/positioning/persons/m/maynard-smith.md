@@ -55,7 +55,7 @@ Maynard Smith's early experimental work pioneered the use of *Drosophila* as a m
 
 ## Exposition
 
-He was an unusually clear writer. *The Theory of Evolution* (1958, with later editions) and *Evolutionary Genetics* (1989) were widely used textbooks. His expository gift — the use of simple models to illuminate complex problems — is itself part of the contribution; several generations of evolutionary biologists learned the field through his prose.
+He was an unusually clear writer. *The Theory of Evolution* (1958, with later editions) and *Evolutionary Genetics* (1989) were widely used textbooks. His expository gift — the use of simple models to illuminate complex problems — is itself part of the contribution; several generations of evolutionary biologists learned the field through his prose. *The Problems of Biology* (1986) puts the question of what life is in evolutionary terms: it reports the suggestion that life be defined by the properties natural selection needs, so that entities with multiplication, variation and heredity are alive.
 
 ## Where Maynard Smith stops
 
@@ -69,6 +69,7 @@ The ESS framework models evolution as a game between strategies — powerful for
 - "The Logic of Animal Conflict," with G. R. Price, *Nature* 246 (1973) — the ESS
 - [*The Evolution of Sex*](https://en.wikipedia.org/wiki/The_Evolution_of_Sex) (1978) — the two-fold cost
 - [*Evolution and the Theory of Games*](https://en.wikipedia.org/wiki/Evolution_and_the_Theory_of_Games) (1982) — evolutionary game theory
+- *The Problems of Biology* (1986) — short introduction; life defined by the properties evolution by natural selection needs
 - [*The Major Transitions in Evolution*](https://en.wikipedia.org/wiki/The_Major_Transitions_in_Evolution), with E. Szathmáry (1995) — the transitions framework
 - *Animal Signals*, with D. Harper (2003) — honest signalling
 

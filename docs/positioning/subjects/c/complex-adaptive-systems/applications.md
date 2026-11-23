@@ -25,7 +25,7 @@ Systems biology treats the cell as a network of interacting components rather th
 
 ## Artificial life
 
-[Christopher Langton](/positioning/persons/l/langton/)'s SFI workshops (1987 onward) established artificial life as a research programme: the study of life-as-it-could-be, not just life-as-we-know-it. [Tom Ray](https://en.wikipedia.org/wiki/Thomas_S._Ray)'s Tierra (1991) created a digital ecosystem — self-replicating programs competing for CPU time and memory, evolving parasites, hyperparasites, and cooperative strategies without any biological input. Tierra demonstrated that open-ended evolution could occur in a purely computational medium.
+[Christopher Langton](/positioning/persons/l/langton/)'s artificial-life workshops (the first at Los Alamos, 1987) established artificial life as a research programme: the study of life-as-it-could-be, not just life-as-we-know-it. [Tom Ray](https://en.wikipedia.org/wiki/Thomas_S._Ray)'s Tierra (1991) created a digital ecosystem — self-replicating programs competing for CPU time and memory, evolving parasites, hyperparasites, and cooperative strategies without any biological input. Tierra demonstrated that open-ended evolution could occur in a purely computational medium.
 
 The strong/weak artificial life debate runs through the programme. The strong claim: digital organisms are genuinely alive, not merely simulations of life. The weak claim: artificial life models illuminate principles of biological organisation without the digital entities themselves being alive. The debate remains unresolved and connects forward into artificial intelligence — whether computational systems can instantiate the properties they model.
 

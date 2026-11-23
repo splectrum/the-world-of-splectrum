@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-10-16
 title: "P3 Sharing Knowledge About Reality 101"
-description: "Seed principle P3 in plain words: knowledge is information that means something, shared passively at first, then in the languages we keep adding."
+description: "Seed principle P3 in plain words: knowledge is information turned into concepts, shared passively at first, then in the languages we keep adding."
 sitemap: false
 ---
 
@@ -12,7 +12,7 @@ sitemap: false
 
 **P3 — Language is where subjects share knowledge about reality.**
 
-Knowledge, in plain words, is information that means something: the ice is thin, the bread is fresh, someone is at the door. It lives in experience, in how we relate, and it is expressed in language.
+Knowledge, in plain words, is information turned into concepts: the ice is thin, the bread is fresh, someone is at the door. It lives in experience, in how we relate, and it is expressed in language.
 
 When we are close to each other, we share a lot without trying: how we look, sound, move. Call it basic passive sharing.
 

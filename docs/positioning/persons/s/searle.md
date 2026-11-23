@@ -1,17 +1,17 @@
 ---
 layout: default
 lastmod: 2026-10-12
-title: "John Searle (1932–)"
+title: "John Searle (1932–2025)"
 description: "John Searle's speech act theory, the Chinese Room argument against strong AI, and his account of social reality built from collective intentionality."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Searle
 
-# John Searle (1932–)
+# John Searle (1932–2025)
 
 Searle worked across four connected fronts in philosophy of language and mind: he systematised *speech act theory*, gave the *Chinese Room* argument against the claim that computation is sufficient for understanding, developed *biological naturalism* about consciousness, and built an account of how *institutional reality* — money, property, marriage, government — is constructed and held in place by collective agreement. The thread joining them is a concern with how mind, meaning, and society are grounded in facts about intentional agents, without either eliminating them or floating them free of the physical world.
 
-[John Searle](https://plato.stanford.edu/entries/searle/) (b. 1932). American philosopher, for most of his career at the University of California, Berkeley, where he had earlier been an activist in the Free Speech Movement. He studied at Oxford under [J. L. Austin](/positioning/persons/a/austin-jl/) and P. F. Strawson, and carried Austin's ordinary-language approach into a systematic theory of language. His major books span the fronts above: *Speech Acts* (1969), *Intentionality* (1983), *The Rediscovery of the Mind* (1992), and *The Construction of Social Reality* (1995). In his later years his reputation was damaged by findings of sexual-harassment violations at Berkeley, which led to the revocation of his emeritus status in 2019.
+[John Searle](https://plato.stanford.edu/entries/searle/) (1932–2025). American philosopher, for most of his career at the University of California, Berkeley, where he had earlier been an activist in the Free Speech Movement. He studied at Oxford under [J. L. Austin](/positioning/persons/a/austin-jl/) and P. F. Strawson, and carried Austin's ordinary-language approach into a systematic theory of language. His major books span the fronts above: *Speech Acts* (1969), *Intentionality* (1983), *The Rediscovery of the Mind* (1992), and *The Construction of Social Reality* (1995). In his later years his reputation was damaged by findings of sexual-harassment violations at Berkeley, which led to the revocation of his emeritus status in 2019.
 
 ---
 

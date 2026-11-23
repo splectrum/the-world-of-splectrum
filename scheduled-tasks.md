@@ -30,6 +30,8 @@ Lives in `plan/`, one folder per topic; discussion captures not yet placed go to
 
 ### Not yet scheduled
 
+- [ ] **The knowledge ladder** — `submissions/knowledge-ladder.md` (captured 2026-11-23, from the site review's A1): data → information → knowledge → understanding → wisdom (Ackoff, after Eliot), against Jules's pair of knowledge and understanding. A post and/or a subject page; judge where it takes us. Researcher round first.
+
 - [ ] **Subjects page** — future page within the site explaining what a subject is here (the subject pages, their pieces, the doorways) and what a metasubject is: a single neutral access point into the field around a word, gathering work from many disciplines, which sets its own parameters (metaphilosophy: the activity rather than the name). Needed now that "metasubject" appears on pages (the metaphilosophy hub uses it); settle the spelling at the same time ("meta subject" in the doorway convention, "metasubject" on the hub).
 
 

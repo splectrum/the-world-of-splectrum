@@ -15,7 +15,7 @@ Holling changed what "resilience" means in ecology — and in doing so gave [com
 
 ## Life
 
-Born Crawford Stanley Holling, 6 January 1930 in Ontario, Canada. BSc and MSc in ecology from the University of Toronto; PhD in ecology from the University of British Columbia (1957). Research scientist at the Canadian Department of Forestry, then faculty at the University of British Columbia, where he spent most of his career. Founded the Resilience Alliance in 1999 — a network of research institutions studying social-ecological resilience. Fellow of the Royal Society of Canada. Volvo Environment Prize (1998). Died 16 August 2019.
+Born Crawford Stanley Holling, 6 December 1930, in Theresa, New York, to Canadian parents; grew up in Ontario. BA and MSc in zoology from the University of Toronto (1952); PhD from the University of British Columbia (1957). Research scientist with the Canadian Department of Forestry (1952–67); professor at the University of British Columbia from 1967, where he directed the Institute of Resource Ecology; director of the International Institute for Applied Systems Analysis in Austria (1981–84); Arthur R. Marshall Jr. Chair in Ecological Sciences at the University of Florida until his retirement in 1999. Founded the Resilience Alliance in 1999 — a network of research institutions studying social-ecological resilience. Fellow of the Royal Society of Canada. Volvo Environment Prize (2008). Died 16 August 2019 in Nanaimo, British Columbia.
 
 ## Resilience and stability
 

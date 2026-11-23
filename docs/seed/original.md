@@ -18,7 +18,7 @@ Being is what stands apart from its context — the other. The tension between b
 What a language gives access to depends on what it relates to. A language's reach is the relations it holds — different relations, different reach.
 
 **P2 — Language is the medium through which a subject experiences reality.**<br>
-Language puts the subject in interaction — the only way the subject is in. Experience requires accumulation. A subject's reality is the totality of what has been retained. Knowledge is what the subject comes to recognise within that accumulation.
+Language puts the subject in interaction — the only way the subject is in. Experience requires accumulation. A subject's reality is the totality of what has been retained. Knowledge is information the subject turns into concepts; understanding is the insight it gains from them.
 
 **P3 — Language is where subjects share knowledge about reality.**<br>
 Subjects converge through indirect language interaction. Convergence is the source of shared reality, and of the only objectivity available.

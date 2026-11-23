@@ -20,7 +20,7 @@ Although we mostly experience language as a shared resource — something object
 As a human, you can only create, communicate and understand in your own language. Likewise for other forms of life — they create and understand in theirs. A subject is always inside its own language, never above or outside it.
 
 **P2 — Language is the medium through which a subject experiences reality.**<br/>
-There is no reality given to a subject first and put into words afterwards. Language puts the subject in interaction — it is the only way in. What the subject experiences is what its language lets it differentiate, and what it retains of that experience accumulates: a subject's reality is the totality of what has been retained, and its knowledge is what it comes to recognise within that accumulation. The medium is also the reach — what the subject's language cannot differentiate does not come into its experience.
+There is no reality given to a subject first and put into words afterwards. Language puts the subject in interaction — it is the only way in. What the subject experiences is what its language lets it differentiate, and what it retains of that experience accumulates: a subject's reality is the totality of what has been retained, and its knowledge is the information it turns into concepts. The medium is also the reach — what the subject's language cannot differentiate does not come into its experience.
 
 **P3 — Language is where subjects share knowledge about reality.**<br/>
 A new creation starts as private experience. For it to have shared existence, it must be added to shared reality through language. Not the creation itself, but the language that expresses it. And there is no prescribed recipe — it could have happened differently.

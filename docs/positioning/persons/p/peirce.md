@@ -29,6 +29,8 @@ Peirce founded both [pragmatism](/positioning/subjects/p/pragmatism/) and modern
 
 **Fallibilism.** Any belief, however well-established, could turn out to be wrong. This is not scepticism — it is the condition that makes inquiry possible. Without fallibilism, there is no reason to keep inquiring.
 
+**Evolutionary cosmology.** In a series of papers in *The Monist* opening with "The Architecture of Theories" (1891), Peirce argued against determinism. He called his doctrine that chance has an objective standing in the universe *tychism*, and the doctrine of the continuity of nature *synechism*. The laws of nature, on this account, are habits that have evolved from a primal tendency to take habits, and the world is still evolving.
+
 ---
 
 ## Key works
@@ -36,6 +38,7 @@ Peirce founded both [pragmatism](/positioning/subjects/p/pragmatism/) and modern
 - [*On a New List of Categories*](https://en.wikipedia.org/wiki/On_a_New_List_of_Categories) (1867) — Firstness, Secondness, Thirdness
 - [*The Fixation of Belief*](https://en.wikipedia.org/wiki/The_Fixation_of_Belief) (1877) — four methods of settling opinion; inquiry as the self-correcting method
 - [*How to Make Our Ideas Clear*](https://en.wikipedia.org/wiki/How_to_Make_Our_Ideas_Clear) (1878) — the pragmatic maxim
+- "The Architecture of Theories," *The Monist* (1891) — opens the cosmological series: chance, habit, evolving law
 - *Collected Papers* (1931–58, posthumous) — eight volumes assembled by different editors from manuscripts; for decades the only access to the bulk of the work, though notoriously unreliable in dating and grouping
 - *Writings of Charles S. Peirce: A Chronological Edition* (1982 onward, still in progress) — the scholarly replacement, restoring chronological order and editorial accuracy
 
