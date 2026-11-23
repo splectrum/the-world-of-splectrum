@@ -9,7 +9,7 @@ description: "Brandom replaced representation with inference — meaning is what
 
 # Robert Brandom (1950–)
 
-Brandom built the most fully worked-out non-representational account of language in contemporary philosophy. His inferentialism locates meaning in relations between commitments, not in word-to-world correspondence — language as binding, not representing. If meaning is relational even in the most articulate human practices, the question becomes whether the same holds beyond the discursive. He sits alongside [Wittgenstein](/positioning/persons/w/wittgenstein/), [Sellars](/positioning/persons/s/sellars/), and [Rorty](/positioning/persons/r/rorty/) in the non-representational tradition.
+Brandom built the most fully worked-out non-representational account of language in contemporary philosophy. His inferentialism locates meaning in relations between commitments, not in word-to-world correspondence. He sits alongside [Wittgenstein](/positioning/persons/w/wittgenstein/), [Sellars](/positioning/persons/s/sellars/), and [Rorty](/positioning/persons/r/rorty/) in the non-representational tradition.
 
 [Robert Brandom](https://plato.stanford.edu/entries/brandom/) (1950–). Philosopher at the University of Pittsburgh, student of Rorty and heir to the Sellarsian tradition. His career has been a sustained effort to work out what language looks like once you stop thinking of it as representation. The flagship project — *Making It Explicit* (1994), followed by the compact *Articulating Reasons* (2000) — took over a decade to write and runs to nearly eight hundred pages. *A Spirit of Trust* (2019) extends the framework into a reading of Hegel's *Phenomenology of Spirit* as a theory of recollective rationality.
 

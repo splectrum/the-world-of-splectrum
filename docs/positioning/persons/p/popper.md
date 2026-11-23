@@ -9,7 +9,7 @@ description: "Karl Popper's critical rationalism: falsification instead of verif
 
 # Karl Popper (1902–1994)
 
-Popper made fallibilism central to the [philosophy of science](/positioning/subjects/p/philosophy-of-science/). His conjecture and refutation — knowledge grows through error-elimination, never arriving at final truth — insisted that no vocabulary is final and no description is complete. His open society — institutions treated as conjectures, open to criticism — applied the same principle to politics. But Popper sought a universal demarcation criterion, one rule to separate science from non-science. [Kuhn](/positioning/persons/k/kuhn/) and [Feyerabend](/positioning/persons/f/feyerabend/) moved past him: no single rule holds across all contexts.
+Popper made fallibilism central to the [philosophy of science](/positioning/subjects/p/philosophy-of-science/). His conjecture and refutation holds that knowledge grows through error-elimination, never arriving at final truth. His open society — institutions treated as conjectures, open to criticism — applied the same principle to politics. He also sought a universal demarcation criterion, one rule to separate science from non-science; [Kuhn](/positioning/persons/k/kuhn/) and [Feyerabend](/positioning/persons/f/feyerabend/) argued that no single rule holds across all contexts.
 
 [Karl Popper](https://plato.stanford.edu/entries/popper/) (1902–1994). Philosopher of science who replaced verification with falsification. Born in Vienna, he wrote *The Logic of Scientific Discovery* in dialogue with the Vienna Circle's logical positivism — close to them but rejecting their verification principle. He fled Austria in 1937 (Jewish ancestry), spent the war years in New Zealand (Canterbury University College), then moved to the London School of Economics in 1946 where he spent the rest of his career. Knighted in 1965. His students — Lakatos, [Feyerabend](/positioning/persons/f/feyerabend/), Agassi — each moved away from his programme in different directions. A theory is scientific not because it can be confirmed but because it can, in principle, be refuted. Science advances not by accumulating truths but by eliminating errors — bold conjectures subjected to severe tests, surviving until they fail.
 
@@ -33,7 +33,7 @@ Popper made fallibilism central to the [philosophy of science](/positioning/subj
 
 ## Where Popper stops
 
-Popper's fallibilism is powerful — but it assumes a single game. Falsification works within a paradigm; across paradigms, as [Kuhn](/positioning/persons/k/kuhn/) showed, the rules change. Popper's demarcation criterion seeks a universal boundary between science and non-science; [Feyerabend](/positioning/persons/f/feyerabend/) showed that history consistently violates it. And World 3 — objective knowledge independent of knowers — reintroduces the outside view through the back door: knowledge as a thing out there, detached from the subjects who constitute it. Whether knowledge can exist apart from the communities that sustain it, or whether it lives in the relational space between subjects, is a question World 3 answers in advance rather than leaving open.
+[Kuhn](/positioning/persons/k/kuhn/) argued that falsification works within a paradigm and that across paradigms the rules change. Popper's demarcation criterion seeks a universal boundary between science and non-science; [Feyerabend](/positioning/persons/f/feyerabend/) argued that history consistently violates it.
 
 ---
 

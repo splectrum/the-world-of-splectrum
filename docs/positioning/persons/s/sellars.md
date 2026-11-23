@@ -9,7 +9,7 @@ description: "Sellars dismantled the myth of the given — no content arrives pr
 
 # Wilfrid Sellars (1912–1989)
 
-Sellars closed the door on any starting point outside language. His critique of the given showed that no content arrives meaningful before conceptual work has been done — language is not a layer placed on top of raw experience but is constitutive of experience. If that holds, then the question of what language is and how it works becomes foundational, not supplementary. [Brandom](/positioning/persons/b/brandom/) built his inferentialism directly on Sellars's foundations.
+Sellars's critique of the given argued that no content arrives meaningful before conceptual work has been done: experience is always already conceptually shaped, and awareness of sorts, resemblances and facts is, on his account, a linguistic affair. [Brandom](/positioning/persons/b/brandom/) built his inferentialism directly on Sellars's foundations.
 
 [Wilfrid Sellars](https://plato.stanford.edu/entries/sellars/) (1912–1989). Philosopher at the University of Minnesota and later the University of Pittsburgh, where he established the tradition that Brandom would continue. Son of the philosopher Roy Wood Sellars. His work bridged the analytic and pragmatist traditions, combining rigorous logical analysis with a deep concern for the normative structure of knowledge. His influence was slow to build — *Empiricism and the Philosophy of Mind* (1956) was decades ahead of its reception — but it reshaped the landscape of epistemology and philosophy of language.
 
@@ -24,12 +24,6 @@ Sellars closed the door on any starting point outside language. His critique of 
 **The manifest and scientific images.** In "Philosophy and the Scientific Image of Man" (1962), Sellars distinguished two frameworks for understanding the world. The essay opens with a definition: "The aim of philosophy, abstractly formulated, is to understand how things in the broadest possible sense of the term hang together in the broadest possible sense of the term." The manifest image is the commonsense picture: persons, reasons, intentions, everyday objects. The scientific image replaces these with imperceptible entities and causal laws. Sellars did not choose one over the other — he argued that philosophy's task is to reconcile them, to understand how persons-in-the-manifest-image relate to processes-in-the-scientific-image without reducing either away.
 
 **Psychological nominalism.** The claim that all awareness of sorts, resemblances, and facts is a linguistic affair — not in the trivial sense that we need words to report awareness, but in the strong sense that the awareness itself is structured by the language the subject has acquired. Without language, there is sensation but not awareness-of-something-as-something.
-
----
-
-## Where Sellars stops
-
-Sellars's space of reasons is built around human discursive practice — beings who give and ask for reasons. His critique of the given may hold more broadly, but the apparatus he built to cash it out is specific to such beings.
 
 ---
 

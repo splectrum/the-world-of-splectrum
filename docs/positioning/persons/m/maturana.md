@@ -9,7 +9,7 @@ description: "Maturana placed cognition inside the organism — perception is no
 
 # Humberto Maturana (1928–2021)
 
-Maturana turned neurobiology into philosophy by taking one observation seriously: the nervous system does not represent an external world — it maintains its own coherence. From that, everything followed. Cognition is living. Observation is always from inside. Reality is not denied but relocated: it is what the observer brings forth, not what the observer mirrors.
+Maturana turned neurobiology into philosophy by taking one observation seriously: the nervous system does not represent an external world — it maintains its own coherence. From that, everything followed. Cognition is living. Observation is always from inside. Reality is not denied but relocated: it is what the observer brings forth, not what the observer represents.
 
 [Humberto Maturana Romesín](https://en.wikipedia.org/wiki/Humberto_Maturana) (1928–2021). Medicine at Universidad de Chile; anatomy and neurophysiology at University College London; biology PhD at Harvard, 1958; neurophysiology of vision at MIT with Warren McCulloch, co-authoring the landmark 1959 paper *"What the Frog's Eye Tells the Frog's Brain"* with Lettvin, McCulloch and Pitts — a paper that showed the frog's retina was not transmitting an image but detecting features relevant to the frog's survival. Returned to Chile in the 1960s, founded the Laboratory for Experimental Epistemology and the Biology of Cognition at the University of Chile. Co-founded Instituto Matríztico with Ximena Dávila in 2000. Recipient of Chile's National Science Award.
 

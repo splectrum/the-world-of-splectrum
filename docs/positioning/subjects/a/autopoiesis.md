@@ -41,12 +41,6 @@ Three lines extended autopoiesis beyond its biological origin.
 
 ---
 
-## Where autopoiesis stops
-
-Autopoiesis gives a precise account of how autonomous systems maintain themselves and interact without merging. Structural coupling and natural drift explain how systems change through their coupling history — emergence within conservation. What the theory does not centrally address is the origination of new autopoietic forms: new boundaries, new types of closure, transitions between kinds of organisation. The origination of new forms sits outside the programme.
-
----
-
 ## Key works
 
 - [*Autopoiesis and Cognition: The Realization of the Living*](https://en.wikipedia.org/wiki/Autopoiesis_and_Cognition) (Maturana and Varela, 1980) — the foundational statement

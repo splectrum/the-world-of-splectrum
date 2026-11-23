@@ -39,7 +39,7 @@ The question is genuinely unresolved, and the evidence on each side is thin. The
 
 ## Where Voloshinov stops
 
-Voloshinov's lasting achievement is to have made the sign irreducibly social — to have shown that meaning is an event between people, not a possession of either the system or the individual mind. His Marxism then binds that achievement tightly to a single axis: the life of the sign is read as the conflict of *class* accents, the word as an arena of the *class* struggle. The binding is the boundary. It routes the whole contestation of meaning through class antagonism, and leaves the many other lines along which utterances differ, answer, and contend — and the question of how accents are produced and shift apart from class position — comparatively undeveloped; it is also the most dated element of the work. And the account stayed a programme rather than a system: Voloshinov died at forty with the project a brilliant sketch, its fuller development left to others in the Circle and, after them, to the long argument over who had written what.
+Voloshinov made the sign irreducibly social: meaning is an event between people, not a possession of either the system or the individual mind. His Marxism then binds that tightly to a single axis: the life of the sign is read as the conflict of *class* accents, the word as an arena of the *class* struggle. The binding is the boundary. And the account stayed a programme rather than a system: Voloshinov died at forty with the project a sketch, its fuller development left to others in the Circle and, after them, to the long argument over who had written what.
 
 ---
 

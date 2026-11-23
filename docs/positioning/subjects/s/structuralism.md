@@ -37,7 +37,7 @@ The commitment to relation over substance. Whether the structure is stable (clas
 
 ## Where structuralism stops
 
-Structuralism found the relational but held it still. The system it studies is given, stable, synchronic — a snapshot, not a process — and the method that made it powerful, bracketing *parole* to describe *langue*, is also what fixes it: there is no account of how a structure arises, how it changes, or how one system gives way to another. The speaking subject, too, falls outside the frame, a position in the system rather than a source of it. Post-structuralism pressed exactly on this point — if meaning is pure difference then the system never finally settles — but its response was to displace the structure rather than to put it in motion, exposing the instability without building a successor account in its place. What structuralism leaves open is the dynamic and the diachronic: the relational caught as a system, but not yet as something that grows, is lived, and is shared over time.
+The system structuralism studies is given, stable, synchronic — a snapshot, not a process — and the method that made it powerful, bracketing *parole* to describe *langue*, is also what fixes it; the speaking subject becomes a position in the system rather than a source of it. Post-structuralism pressed exactly on this point: if meaning is pure difference, then the system never finally settles.
 
 ---
 

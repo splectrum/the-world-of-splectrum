@@ -37,7 +37,7 @@ German idealism's direct influence waned after Hegel, but its questions persist:
 
 ## Where German idealism stops
 
-The idealists overcame Kant's gap — but with systems that claim to exhaust reality. Hegel's absolute knowing, Fichte's self-positing I, Schelling's absolute: each offers a totalising account in which subject and world are fully reconciled. That closure is where the reaction began. Schelling's own late philosophy turned against Hegel's, insisting that reason cannot derive the fact *that* anything exists at all; [Kierkegaard](/positioning/persons/k/kierkegaard/) defended the existing individual against the system; Feuerbach and [Marx](/positioning/persons/m/marx/) turned the dialectic from spirit to the material and the social; and by mid-century the neo-Kantian call to go "back to Kant" had reinstated the limit the idealists dissolved. What the successors kept was the process — the productivity of negation, and the refusal of a gap between subject and world.
+The idealists overcame Kant's gap — but with systems that claim to exhaust reality. Hegel's absolute knowing, Fichte's self-positing I, Schelling's absolute: each offers a totalising account in which subject and world are fully reconciled. That closure is where the reaction began. Schelling's own late philosophy turned against Hegel's, insisting that reason cannot derive the fact *that* anything exists at all; [Kierkegaard](/positioning/persons/k/kierkegaard/) defended the existing individual against the system; Feuerbach and [Marx](/positioning/persons/m/marx/) turned the dialectic from spirit to the material and the social; and by mid-century the neo-Kantian call to go "back to Kant" had reinstated the limit the idealists dissolved.
 
 ---
 

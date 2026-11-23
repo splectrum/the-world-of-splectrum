@@ -57,11 +57,7 @@ The substance-process debate remains live in analytic ontology — whether proce
 
 Process thinkers share the conviction that static categories distort reality. Substance, attribute, fixed essence — these are abstractions drawn from a world that is fundamentally in motion. To understand anything is to understand its history, its relations, and its becoming. Permanence is real, but it is the permanence of pattern, not of stuff.
 
----
-
-## Where process philosophy stops
-
-The tradition's three classical figures diverge on what follows from the core move. Hegel's process reaches absolute knowing; Bergson's remains intuitive and anti-conceptual; Whitehead's is systematic and speculative. None of them makes language the medium through which process is lived and shared. Hegel's spirit develops through history but speaks in one voice. Bergson mistrusts language as spatialisation of duration. Whitehead's actual occasions prehend each other but do not share a vocabulary. Peirce is the partial exception: signs and interpretants are processual, but his account stays within the logic of representation rather than the shared practice of language.
+The tradition's three classical figures diverge on what follows from the core move. Hegel's process reaches absolute knowing; Bergson's remains intuitive and anti-conceptual; Whitehead's is systematic and speculative.
 
 ---
 

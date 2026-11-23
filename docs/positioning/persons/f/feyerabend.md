@@ -2,16 +2,16 @@
 layout: default
 lastmod: 2026-05-15
 title: "Paul Feyerabend (1924–1994)"
-description: "Feyerabend showed that science has no single method — theoretical pluralism, anything goes, and every tradition has its own standards."
+description: "Feyerabend argued that science has no single method — theoretical pluralism, anything goes, and every tradition has its own standards."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Feyerabend
 
 # Paul Feyerabend (1924–1994)
 
-Feyerabend made the case for [pluralism](/positioning/subjects/p/pluralism/) from inside the [philosophy of science](/positioning/subjects/p/philosophy-of-science/). No single method, no privileged vocabulary, no tradition that ranks above another. His theoretical pluralism — competing theories expose what a dominant one hides — showed that monopoly of ideas is as dangerous as monopoly of power. His incommensurability, developed alongside [Kuhn](/positioning/persons/k/kuhn/), showed that different frameworks carve reality differently without one being reducible to another. Where [Popper](/positioning/persons/p/popper/) sought a universal demarcation criterion, Feyerabend showed that the history of science consistently violates whatever criterion you set.
+Feyerabend made the case for [pluralism](/positioning/subjects/p/pluralism/) from inside the [philosophy of science](/positioning/subjects/p/philosophy-of-science/). He argued that science has no single method and that it has no inherent authority over other traditions. His theoretical pluralism held that competing theories expose what a dominant one hides, and that a monopoly of ideas is as dangerous as a monopoly of power. His incommensurability, developed alongside [Kuhn](/positioning/persons/k/kuhn/), held that theories within different frameworks may not be fully translatable into each other. Where [Popper](/positioning/persons/p/popper/) sought a universal demarcation criterion, Feyerabend argued that the history of science violates whatever criterion is set.
 
-[Paul Feyerabend](https://plato.stanford.edu/entries/feyerabend/) (1924–1994). Philosopher of science who argued that science has no single method — and that this is a strength, not a weakness. Wounded on the Eastern Front in WWII, he studied under [Popper](/positioning/persons/p/popper/) in London and then spent his career dismantling the very programme Popper had taught him. Against the rationalist tradition that sought universal rules for scientific inquiry, Feyerabend showed that the breakthroughs in the history of science consistently violated the methodological principles that were supposed to govern them.
+[Paul Feyerabend](https://plato.stanford.edu/entries/feyerabend/) (1924–1994). Philosopher of science who argued that science has no single method — and that this is a strength, not a weakness. Wounded on the Eastern Front in WWII, he studied under [Popper](/positioning/persons/p/popper/) in London and then spent his career dismantling the very programme Popper had taught him. Against the rationalist tradition that sought universal rules for scientific inquiry, Feyerabend argued that the breakthroughs in the history of science consistently violated the methodological principles that were supposed to govern them.
 
 ---
 
@@ -26,12 +26,6 @@ Feyerabend made the case for [pluralism](/positioning/subjects/p/pluralism/) fro
 **Incommensurability.** Theories operating within different frameworks may not be fully translatable into each other. The terms change meaning across paradigms — "mass" in Newton is not "mass" in Einstein. Feyerabend (alongside [Kuhn](/positioning/persons/k/kuhn/), who developed the idea independently) argued that this is not a failure of science but a feature of how deep change works.
 
 **Science as one tradition among many.** In *Science in a Free Society* and later work, Feyerabend argued that science has no inherent authority over other traditions — indigenous knowledge, religious practice, craft traditions. Each has its own standards, its own achievements. Privileging science is a political choice, not an epistemological necessity. This position earned him the label "the worst enemy of science" — a characterisation he wore lightly.
-
----
-
-## Where Feyerabend stops
-
-Feyerabend tore down the methodological monopoly but — like [Rorty](/positioning/persons/r/rorty/) on the philosophical side — deliberately refused to build something in its place. "Anything goes" is a diagnostic, not a programme. His pluralism is negative: no rule can be fixed in advance. Whether a constructive pluralism can be built from the same insight — what happens when the gate is open and the garden grows — is a question his framework deliberately leaves unanswered.
 
 ---
 

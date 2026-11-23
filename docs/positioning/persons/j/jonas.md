@@ -9,7 +9,7 @@ description: "Jonas bridged phenomenology and biology — the organism as self-c
 
 # Hans Jonas (1903–1993)
 
-Jonas extended [phenomenology](/positioning/subjects/p/phenomenology/) into biology. Metabolism as self-constitution — a boundary sustained from within, being differentiated from its other. Inwardness — something mattering to the organism, however rudimentary. The inseparability of freedom and necessity — the organism must maintain itself or cease to be. These properties are visible from the simplest cell, closing the gap between the living and the philosophical that [Descartes](/positioning/persons/d/descartes/)' mind-body split had opened.
+Jonas extended [phenomenology](/positioning/subjects/p/phenomenology/) into biology. Metabolism as self-constitution — a boundary sustained from within, being differentiated from its other. Inwardness — something mattering to the organism, however rudimentary. The inseparability of freedom and necessity — the organism must maintain itself or cease to be. These properties, Jonas held, are visible from the simplest cell, against the mechanistic tradition running from [Descartes](/positioning/persons/d/descartes/) onward.
 
 [Hans Jonas](https://plato.stanford.edu/entries/hans-jonas/) (1903–1993). Philosopher who bridged phenomenology and biology. A student of [Heidegger](/positioning/persons/h/heidegger/) and Bultmann at Marburg, Jonas fled Nazi Germany, fought in the British Army's Jewish Brigade in WWII, and lost his mother in Auschwitz. He emigrated to Israel, then settled in New York, teaching at the New School for Social Research. His early work on Gnosticism studied a worldview in which the self is radically alien to the material world — spirit trapped in matter. His philosophy of life inverts this entirely: the self is not trapped in matter but constituted through it. The organism, not consciousness, is where selfhood begins. Metabolism is the first act of freedom: a living thing maintains its own identity against the flow of matter that passes through it.
 
@@ -26,12 +26,6 @@ Jonas extended [phenomenology](/positioning/subjects/p/phenomenology/) into biol
 **Inwardness (*Innerlichkeit*).** Even the simplest organism has an inside — a perspective, however rudimentary, from which its exchanges with the world matter to it. Inwardness is not consciousness in the human sense; it is the minimal condition of something mattering, of having a stake in one's own continuation.
 
 **The imperative of responsibility.** In *The Imperative of Responsibility*, Jonas extends his philosophy of life into ethics. A technological civilisation capable of destroying the conditions of future life bears a new kind of responsibility — not just to those who exist but to the possibility of existence itself. The book was a bestseller in Germany and shaped the precautionary principle in environmental policy.
-
----
-
-## Where Jonas stops
-
-Jonas showed that selfhood begins at the cell — but he stayed with the individual organism. The relational space between organisms, the constitution of shared reality through language, how different languages interrelate — these are not his questions. His inwardness is singular: each organism has its own stake, its own perspective. How organisms with inwardness constitute something shared — how the relational space between self-constituting beings produces shared reality — is not a question his framework takes on.
 
 ---
 

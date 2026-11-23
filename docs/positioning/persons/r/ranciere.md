@@ -51,7 +51,7 @@ Rancière connects [aesthetics](/positioning/subjects/a/aesthetics-in-philosophy
 
 ## Where Rancière stops
 
-The distribution of the sensible provides a way of understanding how social orders maintain themselves that does not reduce to ideology, repression, or hegemony. It operates at a deeper level: what is perceptible before the question of what is believed or enforced arises. And connecting aesthetics and politics structurally — both operating on the same terrain — is a genuine contribution.
+The distribution of the sensible provides a way of understanding how social orders maintain themselves that does not reduce to ideology, repression, or hegemony. It operates at a deeper level: what is perceptible before the question of what is believed or enforced arises.
 
 But if politics is a rare eruption that disrupts the police order, what happens the morning after? Hallward's strategy objection presses exactly this: there is no pathway from the democratic moment to institutional transformation. Any organisation risks becoming a new police order; any programme assumes a gap between those who design it and those who receive it.
 

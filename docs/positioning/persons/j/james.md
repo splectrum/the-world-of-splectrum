@@ -9,7 +9,7 @@ description: "James made pragmatism public — truth is what works, experience i
 
 # William James (1842–1910)
 
-James made relations real. His radical empiricism — the insistence that relations are as real as the things they connect — dissolved the dualism of subject and object without retreating into idealism. His "stream of consciousness" replaced the discrete mental states of earlier psychology with a continuous flow. But his individualism and his tendency to ground truth in personal utility left the social dimension to others. He opened doors that [Dewey](/positioning/persons/d/dewey/) and [Rorty](/positioning/persons/r/rorty/) walked through toward the shared and the relational.
+James made relations real. His radical empiricism — the insistence that relations are as real as the things they connect — dissolved the dualism of subject and object without retreating into idealism. His "stream of consciousness" replaced the discrete mental states of earlier psychology with a continuous flow.
 
 [William James](https://plato.stanford.edu/entries/james/) (1842–1910). Philosopher and psychologist — one of the founders of [pragmatism](/positioning/subjects/p/pragmatism/) and the most widely read American philosopher of his generation. Born into privilege (his father was an independently wealthy Swedenborgian theologian, his brother the novelist Henry James), he studied medicine at Harvard, suffered prolonged depression in his twenties, and found his way to philosophy through psychology. His *Principles of Psychology* (1890) established him as a leading psychologist before he turned fully to philosophy. He held the chair of philosophy at Harvard from 1885. Where [Peirce](/positioning/persons/p/peirce/) was rigorous, technical and largely ignored, James was accessible, charismatic and enormously influential — he made pragmatism a public movement, for better and worse.
 
@@ -28,12 +28,6 @@ James made relations real. His radical empiricism — the insistence that relati
 **Philosophy and the pragmatic method.** *Pragmatism* (1907) opens on temperament: "The history of philosophy is to a great extent that of a certain clash of human temperaments" (Lecture I). Lecture II gives the method and the point. "The pragmatic method is primarily a method of settling metaphysical disputes that otherwise might be interminable"; it is "THE ATTITUDE OF LOOKING AWAY FROM FIRST THINGS, PRINCIPLES, 'CATEGORIES,' SUPPOSED NECESSITIES; AND OF LOOKING TOWARDS LAST THINGS, FRUITS, CONSEQUENCES, FACTS" (capitals his). And "The whole function of philosophy ought to be to find out what definite difference it will make to you and me, at definite instants of our life, if this world-formula or that world-formula be the true one."
 
 **Pluralism.** Reality is not one thing — it is many things, loosely connected. James opposed monism (Hegel, Bradley) and argued for a "pluralistic universe" where unity is partial, relations are external, and the whole is never fully given. "Ever not quite."
-
----
-
-## Where James stops
-
-James kept pragmatism personal. Truth is what works *for me*, what helps *me* live. The social dimension — how a community converges on shared truth — was left to Dewey. The structural question — what it means for language itself to be the medium of that convergence — was left further still. His [pluralism](/positioning/subjects/p/pluralism/) opens the door; his individualism means the relational and the shared need other sources.
 
 ---
 

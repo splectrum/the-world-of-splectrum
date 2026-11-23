@@ -65,14 +65,6 @@ Rasa is not only a chapter in the history of theory; it remains the working aest
 
 ---
 
-## Where rasa stops
-
-Rasa is, throughout its development, a theory of *reception* — of the relish that arises in the spectator or reader. Its centre of gravity is the moment of tasting and the connoisseur fit to taste; the making of the work, the labour and intention of the poet or performer, and the social and historical life of art among audiences are not where its analysis concentrates. It is an account of how the cultivated receiver experiences art, more than of how art is produced or of what it does in the world.
-
-And its frame is contemplative, and after Abhinavagupta increasingly soteriological. The worth of aesthetic experience comes to be measured by its nearness to a spiritual end — rasa as the twin of the bliss of liberation, the ninth flavour as the gateway to peace — so that the value of art is settled by reference to something beyond art, and the question of the autonomy of the aesthetic, of art weighed on terms that are not the spiritual tradition's, is not one the theory raises. Its address, too, is to the *sahridaya*, the refined connoisseur whose cultivated sensibility the work requires; the experience of the untrained, and the forms of art outside the Sanskrit cosmopolitan world for which the theory was built, lie at the edge of what it set out to explain. The tradition gave the inner side of aesthetic experience — the savour, and its kinship with the highest states of mind — an analysis of extraordinary depth; the outer life of art it left largely to one side.
-
----
-
 ## Persons
 
 [Abhinavagupta](/positioning/persons/a/abhinavagupta/)

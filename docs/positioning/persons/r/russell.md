@@ -9,7 +9,7 @@ description: "Russell built the analytical tradition on logic — Principia Math
 
 # Bertrand Russell (1872–1970)
 
-Russell, together with [Frege](/positioning/persons/f/frege/), built the analytical tradition that [Wittgenstein](/positioning/persons/w/wittgenstein/) and [Rorty](/positioning/persons/r/rorty/) later dismantled. His conviction that philosophy should achieve the precision of logic, and that language's surface grammar conceals a deeper logical form, defined the programme the later Wittgenstein rejected. Russell's insistence on clarity and his willingness to follow arguments wherever they led remain exemplary. His paradox, which destroyed [Frege](/positioning/persons/f/frege/)'s logicist programme, is also a reminder that formal systems encounter their own limits.
+Russell, together with [Frege](/positioning/persons/f/frege/), built the analytical tradition. His conviction that philosophy should achieve the precision of logic, and that language's surface grammar conceals a deeper logical form, defined the programme the later [Wittgenstein](/positioning/persons/w/wittgenstein/) rejected. His paradox destroyed Frege's logicist programme and forced the development of type theory and axiomatic set theory.
 
 [Bertrand Russell](https://plato.stanford.edu/entries/russell/) (1872–1970). Philosopher, logician, mathematician, public intellectual, political activist — one of the most widely known intellectuals of the twentieth century. Born into the British aristocracy (his grandfather was twice Prime Minister), orphaned early, raised by his grandmother. Studied mathematics at Cambridge, became a Fellow of Trinity College. Co-authored [*Principia Mathematica*](https://en.wikipedia.org/wiki/Principia_Mathematica) with [Whitehead](/positioning/persons/w/whitehead/) — three volumes (1910–13) attempting to derive all of mathematics from logic. Was Wittgenstein's teacher and early champion. Imprisoned for pacifism in WWI, dismissed from Trinity. Won the Nobel Prize in Literature (1950). Campaigned for nuclear disarmament into his nineties. His philosophical positions shifted repeatedly — from idealism to logical atomism to neutral monism — but the commitment to logic as the foundation of philosophy remained constant.
 
@@ -35,7 +35,7 @@ Russell, together with [Frege](/positioning/persons/f/frege/), built the analyti
 
 ## Where Russell stops
 
-Russell's programme assumed that language has a single logical form waiting to be uncovered — that philosophical problems are really logical problems in disguise. The later [Wittgenstein](/positioning/persons/w/wittgenstein/) rejected this entirely: language has no single form, only a plurality of games, each with its own grammar. [Rorty](/positioning/persons/r/rorty/) took the rejection further: there is no logical deep structure beneath conversation. Whether language is one system with a hidden form or many languages, each relational, each lived — Russell's programme assumed the first; the tradition that followed moved decisively toward the second.
+Russell's programme assumed that language has a single logical form waiting to be uncovered — that philosophical problems are really logical problems in disguise. The later [Wittgenstein](/positioning/persons/w/wittgenstein/) rejected this entirely: language has no single form, only a plurality of games, each with its own grammar. [Rorty](/positioning/persons/r/rorty/) took the rejection further: there is no logical deep structure beneath conversation.
 
 ---
 

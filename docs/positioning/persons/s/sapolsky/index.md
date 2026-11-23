@@ -9,7 +9,7 @@ description: "Robert Sapolsky on the biology of human behaviour across every lay
 
 # Robert Sapolsky (1957–)
 
-Sapolsky's multi-layer method traces behaviour across every level — genes, hormones, brain, development, culture, evolution — and insists that no single layer explains it. None is reducible to another, none is privileged. The Forest Troop baboons — where a culture outlasted the individuals who created it — showed shared reality constituted at the grassroots, persisting through social interaction. His integrative stance refuses to step outside to a single vantage point: understanding behaviour means inhabiting all the layers simultaneously.
+Sapolsky's multi-layer method traces behaviour across every level — genes, hormones, brain, development, culture, evolution — and insists that no single layer explains it. The Forest Troop baboons, whose more egalitarian culture outlasted the individuals who created it, showed social structure reshaping biology.
 
 [Robert Sapolsky](https://en.wikipedia.org/wiki/Robert_Sapolsky) (1957–). Neuroendocrinologist, primatologist, and science writer. John A. and Cynthia Fry Gunn Professor at Stanford, with joint appointments in Biological Sciences, Neurology & Neurological Sciences, and Neurosurgery. MacArthur Fellowship, 1987.
 

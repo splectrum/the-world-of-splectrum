@@ -9,7 +9,7 @@ description: "Spinoza dissolved the distinction between God and nature — one s
 
 # Baruch Spinoza (1632–1677)
 
-Spinoza's *omnis determinatio est negatio* — determination is negation — is one of the most consequential sentences in the history of philosophy. To be determined is to be not-everything-else. [Fichte](/positioning/persons/f/fichte/) took this and made it dynamic; [Hegel](/positioning/persons/h/hegel/) made it the engine of the dialectic. Spinoza's conatus — each thing striving to persist in its own being — anticipates [Jonas](/positioning/persons/j/jonas/)'s metabolism as self-constitution. And his substance monism dissolved the [Descartes](/positioning/persons/d/descartes/) split between mind and body two centuries before phenomenology did it again.
+Spinoza's *omnis determinatio est negatio* — determination is negation — is one of the most consequential sentences in the history of philosophy. To be determined is to be not-everything-else. [Fichte](/positioning/persons/f/fichte/) took this and made it dynamic; [Hegel](/positioning/persons/h/hegel/) made it the engine of the dialectic. Spinoza's conatus is each thing's striving to persist in its own being. And his substance monism dissolved the [Descartes](/positioning/persons/d/descartes/) split between mind and body.
 
 [Baruch Spinoza](https://plato.stanford.edu/entries/spinoza/) (1632–1677). Rationalist philosopher who dissolved the distinction between God and nature into a single substance. Born into the Portuguese-Jewish community of Amsterdam, he was excommunicated (*cherem*) in 1656 at age 23 — one of the harshest bans in the history of the community. He earned his living as a lens grinder, refused a professorship at Heidelberg to preserve his intellectual independence, and died at 44, likely from lung disease related to glass dust. The *Ethics* was withheld from publication during his lifetime and published posthumously by friends. Everything that exists is a mode of one substance, understood under two of its infinite attributes — thought and extension — the only two accessible to us. There is no transcendent creator, no separate mind — only nature expressing itself in infinite ways.
 
@@ -33,7 +33,7 @@ Spinoza's *omnis determinatio est negatio* — determination is negation — is 
 
 ## Where Spinoza stops
 
-Spinoza's one substance is complete — eternal, infinite, fully determined. There is no genuine novelty, no historical development, no becoming. Everything that is follows necessarily from God's nature. [Hegel](/positioning/persons/h/hegel/) historicised what Spinoza had frozen; [Bergson](/positioning/persons/b/bergson/)'s creative evolution restored genuine novelty. And Spinoza's monism, for all its anti-dualist power, leaves no room for plurality: there is one substance, one truth, one system. Whether the determination-through-negation insight can be kept while the monism is opened into genuine plurality is a question the system itself cannot ask. The insight is foundational; the system that houses it is too closed.
+Spinoza's one substance is complete — eternal, infinite, fully determined. There is no genuine novelty, no historical development, no becoming. Everything that is follows necessarily from God's nature. [Hegel](/positioning/persons/h/hegel/) historicised what Spinoza had frozen; [Bergson](/positioning/persons/b/bergson/)'s creative evolution restored genuine novelty.
 
 ---
 

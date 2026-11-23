@@ -2,14 +2,14 @@
 layout: default
 lastmod: 2026-10-24
 title: "Gottfried Wilhelm Leibniz (1646–1716)"
-description: "Leibniz articulated the relational view of space two centuries before the tools existed to make it work — no space without things."
+description: "Leibniz, philosopher and mathematician: the relational view of space against Newton, monads, pre-established harmony and sufficient reason."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Leibniz
 
 # Gottfried Wilhelm Leibniz (1646–1716)
 
-Leibniz gave the earliest clear articulation of the relational view — space is not a container but the ordering of things that coexist. No things, no space. He said this against Newton's absolute space, and physics kept Newton's space for the next two centuries. The relational intuition was there; the mathematics wasn't. But Leibniz was a rationalist in the [Descartes](/positioning/persons/d/descartes/) line — pre-established harmony, God as guarantor, monads that mirror the universe but never interact.
+Leibniz gave the earliest clear articulation of the relational view — space is not a container but the ordering of things that coexist. No things, no space. He said this against Newton's absolute space, and physics kept Newton's space for the next two centuries. Leibniz was also a rationalist in the [Descartes](/positioning/persons/d/descartes/) line — pre-established harmony, God as guarantor, monads that mirror the universe but never interact.
 
 [Gottfried Wilhelm Leibniz](https://plato.stanford.edu/entries/leibniz/) (1646–1716). Philosopher, mathematician, diplomat, librarian, polymath — one of the last people who could plausibly claim to know everything knowable. Born in Leipzig, he spent most of his career in Hanover as adviser to the House of Brunswick, pursuing philosophy and mathematics alongside political and diplomatic work. He co-invented calculus (independently of Newton, leading to one of the bitterest priority disputes in the history of science — Leibniz's notation won). He designed calculating machines, proposed a universal logical language, corresponded with over a thousand people across Europe, and left behind a vast unpublished archive that scholars are still working through. His philosophy is a system of extraordinary ambition: monads, pre-established harmony, the best of all possible worlds (satirised by Voltaire in *Candide*). He died in Hanover largely forgotten; only his secretary attended the funeral.
 

@@ -26,8 +26,6 @@ On the second question the tradition divides against itself, and the division is
 
 Hermeneutics is divided against itself on what it is, and the division is not incidental — it is the tradition's open question. Having moved from a method to a mode of being, it cannot easily recover the standard of correctness that the methodological conception promised: once understanding is situated all the way down and no procedure secures it, the criterion that would distinguish a sound interpretation from a wilful one becomes hard to state — the pressure that Betti, Hirsch, and in another register Habermas keep on it. The tradition holds that there is truth in understanding; it has not agreed on how that truth is checked.
 
-Its field, too, has an edge. Hermeneutics takes the domain of interpretation to be the human encounter with meaning — texts, works, traditions, dialogue — and in its philosophical form takes that domain to be coextensive with language: what can be understood is language, and understanding is everywhere linguistic. This is its strength and its boundary at once. Whether anything that is not a human-linguistic expression can be said to be interpreted or understood — whether the circle of understanding reaches beyond the linguistic and historical world into the non-linguistic, the natural, the sub-human — is a question the tradition mostly does not raise, because its founding move was to locate understanding in the medium of language and the inheritance of tradition. The interpreter and the interpreted are, on its account, both already within the house of language; what lies outside that house it leaves to others to describe.
-
 ---
 
 ## Persons

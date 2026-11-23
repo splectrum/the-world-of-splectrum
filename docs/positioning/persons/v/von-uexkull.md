@@ -29,7 +29,7 @@ Uexküll reconceived the organism's relation to its world. Against a biology tha
 
 ## Where von Uexküll stops
 
-The Umwelt is built one organism at a time. Each creature is sealed in its own world, and the account stays there: how the Umwelten of different organisms mesh, or how a world might be held in common across them, is not part of his programme — the duet is always between a single animal and its surroundings, never among animals. And the fit he describes rests on a designed "Plan"; how such fit could arise without one he answered by rejecting the question rather than replacing it. Later workers kept the Umwelt and the functional circle while setting the Plan aside, carrying sign-relations across the whole of the living world in the [biosemiotics](/positioning/subjects/b/biosemiotics/) his work seeded.
+The Umwelt is built one organism at a time. And the fit he describes rests on a designed "Plan"; how such fit could arise without one he answered by rejecting the question rather than replacing it. Later workers kept the Umwelt and the functional circle while setting the Plan aside, carrying sign-relations across the whole of the living world in the [biosemiotics](/positioning/subjects/b/biosemiotics/) his work seeded.
 
 ---
 

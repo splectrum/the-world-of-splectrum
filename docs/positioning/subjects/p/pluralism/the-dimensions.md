@@ -51,7 +51,7 @@ Each dimension below reaches "many, none privileged" from its own concerns — m
 
 Two positions are often read alongside pluralism without starting from "there are many" — they supply relational structure rather than a count.
 
-**[Peirce](/positioning/persons/p/peirce/)** — community of inquirers, truth as long-run convergence. Shared reality is produced through inquiry, not discovered ready-made; the account is made within the human community of inquiry.
+**[Peirce](/positioning/persons/p/peirce/)** — community of inquirers, truth as long-run convergence.
 
 **[Rovelli](/positioning/persons/r/rovelli/)** — relational quantum mechanics. No absolute observer, no observer-independent state; properties are relational, existing between systems rather than within them. A relational structure established within physics.
 

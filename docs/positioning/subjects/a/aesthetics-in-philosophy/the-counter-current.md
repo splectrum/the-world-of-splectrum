@@ -141,7 +141,7 @@ Each figure names something different as the condition aesthetics provides:
 - **Attention:** Murdoch — the capacity to see justly is the foundation of ethics.
 - **The sensible field:** Rancière — the distribution of what can be perceived is prior to all politics and ethics.
 
-No single thinker makes all of these moves simultaneously. Each reaches toward the same structural claim from a different starting point. What the tradition keeps producing — across centuries, across traditions (idealist, pragmatist, phenomenological, hermeneutic, political) — is the observation that the quality of the medium matters before the quality of the message.
+No single thinker makes all of these moves simultaneously. Each reaches toward the same structural claim from a different starting point.
 
 ---
 

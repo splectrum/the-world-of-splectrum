@@ -33,12 +33,6 @@ Despite their differences, pragmatists share a refusal of the spectator theory o
 
 ---
 
-## Where pragmatism stops
-
-Pragmatism tears down the mirror but is deliberately agnostic about what replaces it. "What works" is a powerful criterion, but it leaves open what counts as working and for whom. [Peirce](/positioning/persons/p/peirce/) anchored truth in the long-run convergence of inquiry — but that is an ideal, not a mechanism. [Rorty](/positioning/persons/r/rorty/) anchored it in conversation — but conversation risks collapsing into persuasion. [Dewey](/positioning/persons/d/dewey/) came closest to a constructive account through democratic inquiry, but took communication as a given rather than a question.
-
----
-
 ## Persons
 
 [Peirce](/positioning/persons/p/peirce/) · [James](/positioning/persons/j/james/) · [Dewey](/positioning/persons/d/dewey/) · [Rorty](/positioning/persons/r/rorty/)

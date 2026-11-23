@@ -9,7 +9,7 @@ description: "Dewey brought pragmatism into the social — inquiry as community 
 
 # John Dewey (1859–1952)
 
-Dewey moved pragmatism from the individual to the social. Inquiry is not a solitary mind mirroring reality — it is a community solving problems together, and the knowledge that emerges belongs to the community, not to any single observer. His insistence that experience is transaction — organism and environment shaping each other — dissolved the spectator theory of knowledge. And his commitment to democracy as a way of life, not just a political system, made equal participation structural rather than aspirational.
+Dewey moved pragmatism from the individual to the social. Inquiry, on his account, is not the work of a solitary mind but what a community does when it faces a problem. He held that experience is transaction — organism and environment shaping each other — and set it against the spectator theory of knowledge. And he held democracy to be a way of life, a mode of associated living, not just a political system.
 
 [John Dewey](https://plato.stanford.edu/entries/dewey/) (1859–1952). Philosopher, psychologist, educational reformer — the most publicly influential American philosopher of the twentieth century. Born in Burlington, Vermont, studied at Johns Hopkins (where [Peirce](/positioning/persons/p/peirce/) was a marginal presence), taught at Michigan, Chicago and Columbia. At Chicago he founded the Laboratory School (1896), putting his educational philosophy into practice. His career spanned seven decades and an extraordinary range: logic, [aesthetics](/positioning/subjects/a/aesthetics-in-philosophy/), ethics, political philosophy, education, psychology. He was politically active throughout — supporting women's suffrage, labour rights, civil liberties — and remained productive into his nineties. Where [James](/positioning/persons/j/james/) made pragmatism popular, Dewey made it systematic and social.
 
@@ -28,12 +28,6 @@ Dewey moved pragmatism from the individual to the social. Inquiry is not a solit
 **The public and its problems.** Dewey's political philosophy centres on the public — the group of people affected by the indirect consequences of actions. The public is not given; it has to find and organise itself. Modern societies make this difficult: the scale and complexity of indirect consequences mean the public is "eclipsed," unable to identify itself. The task is not to impose solutions from above but to create the conditions in which publics can form and act.
 
 **Art as experience.** In *Art as Experience* (1934), Dewey argued that aesthetic experience is not separate from ordinary experience — it is ordinary experience at its most complete and integrated. Most experience is fragmented, interrupted, left unfinished; aesthetic experience is experience that runs its full course from inception through development to consummation. The rhythm of doing and undergoing — active engagement with a medium that resists and transforms the initial impulse — is what gives expression its form. The work of art is not the object on the museum wall but the experience of making and encountering it: perception is itself creative, the beholder reconstructing the work through their own engaged response. Fine art intensifies qualities present in all experience, from the satisfaction of a well-made meal to the shape of a conversation that reaches closure. The museum conception of art — art as isolated from ordinary life, housed in special institutions — is a cultural artifact, not an aesthetic truth.
-
----
-
-## Where Dewey stops
-
-Dewey brought pragmatism into the social and the democratic, but he stayed at the level of practice and institution — taking communication as a given rather than a question.
 
 ---
 

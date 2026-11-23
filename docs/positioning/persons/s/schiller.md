@@ -53,7 +53,7 @@ Schiller's critique of specialisation remains one of the sharpest in the traditi
 
 ## Where Schiller stops
 
-Schiller genuinely illuminates why moral programmes fail on unprepared ground, and the play drive names a real phenomenon — full engagement without determination, the coincidence of freedom and form. But his architecture depends on the Kantian split between sense and form. Hegel already pushed back here: if the split is misconceived, the reconciliation addresses a problem the framework itself constructs. The play drive mediates between two poles — and Schiller's [aesthetics](/positioning/subjects/a/aesthetics-in-philosophy/) stays mediational throughout: beauty mediates sense and form, the aesthetic state mediates the natural and the moral.
+Schiller's architecture depends on the Kantian split between sense and form. Hegel already pushed back here: if the split is misconceived, the reconciliation addresses a problem the framework itself constructs. The play drive mediates between two poles — and Schiller's [aesthetics](/positioning/subjects/a/aesthetics-in-philosophy/) stays mediational throughout: beauty mediates sense and form, the aesthetic state mediates the natural and the moral.
 
 "Beauty is freedom in appearance" leaves the relationship between semblance and truth permanently unstable. Schiller simultaneously claims aesthetic semblance is "independent from truth" and that "truth lives on in the illusion of art." Hegel argued that beauty is not the appearance of freedom but its direct sensuous manifestation — and that disagreement remains unresolved within the tradition.
 

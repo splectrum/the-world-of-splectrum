@@ -51,8 +51,6 @@ Bakhtin's rediscovery by younger Soviet scholars in the early 1960s coincided wi
 
 Dialogism is a tradition of luminous concepts more than a system, and by its own commitments it could hardly be otherwise. Bakhtin's principle of *unfinalisability* — that no person, and no meaning, can be summed up and closed — is turned against the very idea of a finished theory, so the tradition offers a family of richly suggestive, elastic categories rather than a doctrine with fixed definitions and testable claims. This is its ethical signature and the reason it has been taken up almost everywhere; it is also why its key terms, stretched across so many fields, have been applied more often than they have been pinned down.
 
-Its analysis is richest at the scale of the utterance and the meeting of voices, and thinner on the durable structures that carry language beyond the face-to-face encounter. The institutions, traditions, and political orders through which utterances are organised and sustained over time are named in the tradition — carnival as a counter-culture, the novel as a genre — more than they are theorised; the passage from the dialogue between voices to the standing arrangements of a society is gestured at rather than built. Dialogism gave an incomparably rich account of what happens between speakers; what holds the conversation of a whole culture in place, and how it changes, it largely left to others to describe.
-
 ---
 
 ## Persons

@@ -53,12 +53,6 @@ But the concepts survived the fragmentation. Feedback became standard vocabulary
 
 Wiener's ethical concerns about automation proved prescient. The questions he raised in 1950 — about the relationship between human agency and automated systems, about who benefits from automation and who is displaced, about the political conditions under which cybernetic technology serves human purposes — are the questions the AI debate is still working through.
 
-## Where Wiener stops
-
-Wiener's programme centres regulation — systems maintaining target states through feedback. CAS centres adaptation — systems changing their states, their rules, and the landscapes they move through. The difference is between a thermostat and an evolving population. Wiener's framework describes how systems stay the same; CAS describes how they become different. Feedback connects them; what they do with feedback distinguishes them.
-
----
-
 ## Key works
 
 - *Cybernetics: or Control and Communication in the Animal and the Machine* (MIT Press, 1948; 2nd ed. 1961) — the founding text of cybernetics.

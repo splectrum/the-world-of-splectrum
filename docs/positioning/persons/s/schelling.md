@@ -45,12 +45,6 @@ Schelling's early career was in strategic studies — nuclear deterrence, arms c
 
 *Arms and Influence* (Yale University Press, 1966) extended the analysis: the power to hurt as distinct from the power to win, the logic of coercion, the role of reputation in deterrence. The style is characteristic — concrete, example-driven, impatient with formalism that obscures rather than clarifies.
 
-## Where Schelling stops
-
-Schelling's agents are simple — they have a preference and a threshold, they evaluate their local neighbourhood, they move or stay. The models do not include learning, memory, adaptation, or internal models. The agents do not change their preferences through experience; they apply the same rule throughout. The power of the demonstration lies precisely in this simplicity — it shows how much macro-level structure can arise from agents with no strategic sophistication at all. The step from simple-threshold agents to adaptive agents with internal models and evolving strategies is the step that [Holland](/positioning/persons/h/holland/)'s CAS framework takes.
-
----
-
 ## Key works
 
 - *The Strategy of Conflict* (Harvard University Press, 1960) — focal points, credible commitment, the reframing of game theory.

@@ -2,14 +2,14 @@
 layout: default
 lastmod: 2026-10-27
 title: "Immanuel Kant (1724–1804)"
-description: "Kant asked how the mind structures experience — the question that defined the turn, even as the outside view survived it."
+description: "Kant asked how the mind structures experience: the Copernican revolution, the categories, the unknowable thing-in-itself, and the moral law."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Persons](/positioning/persons/) > Kant
 
 # Immanuel Kant (1724–1804)
 
-Kant is the hinge. His question — how does the mind structure experience? — reversed the direction of philosophy. Before Kant, philosophy asked how the mind conforms to objects. After Kant, it asked how objects conform to the mind. That reversal opened the door to everything that followed: [Hegel](/positioning/persons/h/hegel/), [Husserl](/positioning/persons/h/husserl/), [Heidegger](/positioning/persons/h/heidegger/), [Wittgenstein](/positioning/persons/w/wittgenstein/), [Rorty](/positioning/persons/r/rorty/). But Kant also kept the outside view: the thing-in-itself (*Ding an sich*) remains, unknowable but real. The tradition that followed has been progressively dropping this remainder.
+Kant is the hinge. His question — how does the mind structure experience? — reversed the direction of philosophy. Before Kant, philosophy asked how the mind conforms to objects. After Kant, it asked how objects conform to the mind. That reversal opened the door to everything that followed: [Hegel](/positioning/persons/h/hegel/), [Husserl](/positioning/persons/h/husserl/), [Heidegger](/positioning/persons/h/heidegger/), [Wittgenstein](/positioning/persons/w/wittgenstein/), [Rorty](/positioning/persons/r/rorty/). But Kant also kept the thing-in-itself (*Ding an sich*): unknowable but real.
 
 [Immanuel Kant](https://plato.stanford.edu/entries/kant/) (1724–1804). Philosopher — the central figure of modern Western philosophy. Born in Königsberg, Prussia, he never left. He studied, taught and wrote at the University of Königsberg for his entire career. Woken from "dogmatic slumber" by [Hume](/positioning/persons/h/hume/)'s scepticism about causation, he spent a silent decade rethinking the foundations of knowledge and produced the *Critique of Pure Reason* (1781) — a work that changed everything and is notoriously difficult to read. He followed it with critiques of practical reason and judgment, constructing a system that unified epistemology, [ethics](/positioning/subjects/e/ethics/), and [aesthetics](/positioning/subjects/a/aesthetics-in-philosophy/). His personal life was famously regular — neighbours set their clocks by his afternoon walk. The regularity masked a revolution.
 
@@ -43,7 +43,7 @@ Kant is the hinge. His question — how does the mind structure experience? — 
 
 ## Where Kant stops
 
-Kant saved the outside view. The thing-in-itself persists — unknowable, but structurally present as the guarantee that reality is not merely our construction. And the categories are fixed, universal, ahistorical — the same for all rational beings, in all times. Both assumptions came under attack almost immediately: [Hegel](/positioning/persons/h/hegel/) historicised the categories, [Heidegger](/positioning/persons/h/heidegger/) dissolved the subject-object split, [Wittgenstein](/positioning/persons/w/wittgenstein/) replaced fixed categories with language games. Where the trajectory leads — no thing-in-itself, no fixed categories, no outside view, experience structured through historical and plural forms of life rather than a transcendental ego — is the question his successors have been working through ever since.
+The thing-in-itself persists — unknowable, but structurally present as the guarantee that reality is not merely our construction. And the categories are fixed, universal, ahistorical — the same for all rational beings, in all times. Both assumptions came under attack almost immediately: [Hegel](/positioning/persons/h/hegel/) historicised the categories, [Heidegger](/positioning/persons/h/heidegger/) dissolved the subject-object split, [Wittgenstein](/positioning/persons/w/wittgenstein/) replaced fixed categories with language games.
 
 ---
 

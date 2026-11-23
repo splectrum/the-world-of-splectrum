@@ -31,7 +31,7 @@ The third stream answered that the acquiring is the child's own construction, wo
 
 ---
 
-What the three streams bring to cognition, taken together, is the question itself made empirical: whether the acquiring is imposed, unfolded, or built is not settled by definition but watched, in children, longitudinally. And what the watching keeps returning is activity — at every point where the streams have met the evidence, the child has turned out to be doing something: extracting, constructing, reading intentions, reworking structure. The acquiring has an owner.
+What the three streams bring to cognition, taken together, is the question itself made empirical: whether the acquiring is imposed, unfolded, or built is not settled by definition but watched, in children, longitudinally.
 
 ---
 
