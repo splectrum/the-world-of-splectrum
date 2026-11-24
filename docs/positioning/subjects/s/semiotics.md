@@ -39,7 +39,7 @@ From the 1950s the dyadic tradition expanded from language to the sign-life of w
 
 ## The biosemiotic extension
 
-The Peircean sign — triadic, and needing no human in it — could be carried where Saussure's language-bound sign could not: into the living world. [Thomas Sebeok](/positioning/persons/s/sebeok/) took it there, coining *zoosemiotics* and reviving the biologist [Jakob von Uexküll](/positioning/persons/v/von-uexkull/), whose *Umwelt* — the world as disclosed to a creature through its own senses and needs — became the field's seed. [Jesper Hoffmeyer](/positioning/persons/h/hoffmeyer/) built it into a thoroughgoing biosemiotics in which sign-relations run from the cell upward and life and semiosis are held coextensive — the most expansive claim the tradition has made, and its most contested. The developed account is the [biosemiotics](/positioning/subjects/b/biosemiotics/) subject.
+The Peircean sign — triadic, and needing no human in it — could be carried where Saussure's language-bound sign could not: into the living world. [Thomas Sebeok](/positioning/persons/s/sebeok/) took it there, coining *zoosemiotics* and reviving the biologist [Jakob von Uexküll](/positioning/persons/v/von-uexkull/), whose *Umwelt* — the world as disclosed to a creature through its own senses and needs — became the field's starting point. [Jesper Hoffmeyer](/positioning/persons/h/hoffmeyer/) built it into a thoroughgoing biosemiotics in which sign-relations run from the cell upward and life and semiosis are held coextensive — the most expansive claim the tradition has made, and its most contested. The developed account is the [biosemiotics](/positioning/subjects/b/biosemiotics/) subject.
 
 ---
 

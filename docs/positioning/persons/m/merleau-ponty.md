@@ -19,7 +19,7 @@ Merleau-Ponty brought the body back into philosophy. The lived body as medium of
 
 **The lived body (*le corps propre*).** The body is not an object among objects — it is the subject's way of being in the world. Perception, movement, and expression are not separate faculties but aspects of a single bodily involvement. "The body is our general medium for having a world." The phantom limb — a person who still feels a limb that has been amputated — is Merleau-Ponty's most vivid demonstration: the body schema is not a map of the physical body but a lived structure of possibilities.
 
-**The habitual body.** The body accumulates — skills, postures, learned responses sediment into habit. This accumulation is what makes experience possible: each new perception meets a body already shaped by what came before. Historicity is carried in the body itself.
+**The habitual body.** The body accumulates — skills, postures, learned responses sediment into habit. This accumulation is what makes experience possible: each new perception meets a body already shaped by what came before. The body is the bearer of its own past.
 
 **Perception as primary.** Against both empiricism (perception as passive reception of sense data) and intellectualism (perception as judgment applied to sensations), Merleau-Ponty argues that perception is the body's direct engagement with its surroundings — always perspectival, always partial, always from here. "We are condemned to meaning" — the world arrives already structured by the body's orientation within it.
 

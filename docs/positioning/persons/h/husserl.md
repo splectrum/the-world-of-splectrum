@@ -23,7 +23,7 @@ Husserl founded [phenomenology](/positioning/subjects/p/phenomenology/) — the 
 
 **The phenomenological reduction.** The *epoché*: suspending the natural attitude — our everyday assumption that the world exists independently of experience. The purpose is not scepticism but revelation: the natural attitude conceals the constitutive role of consciousness. What we take to be "just there" is constituted through acts of consciousness. The reduction makes this visible — what remains is the field of experience itself, with its own structures and laws.
 
-**Time-consciousness.** Every present moment carries retention (traces of what just passed) and protention (anticipation of what comes next). Experience is never a point — it is always a flow with temporal thickness. Without retention, there is interaction but no experience.
+**Time-consciousness.** Every present moment carries retention (traces of what just passed) and protention (anticipation of what comes next). Experience is never a point — it is always a flow with temporal thickness. Without retention, Husserl argues, there could be no consciousness of anything that endures, such as a melody.
 
 **Passive synthesis.** Not all constitution is active. Beneath attention and judgment, experience is already being organised — associations forming, similarities pairing, the perceptual field structuring itself — before the ego does anything. Husserl's later, "genetic" phenomenology studied this pre-active layer: sense arrives already synthesised, and active thought works on material passive synthesis has prepared. Developed in the lectures published as *Analyses Concerning Passive and Active Synthesis*.
 

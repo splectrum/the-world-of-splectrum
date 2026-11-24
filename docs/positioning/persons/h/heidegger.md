@@ -9,7 +9,7 @@ description: "Heidegger displaced the subject-object split — we are always alr
 
 # Martin Heidegger (1889–1976)
 
-Heidegger broke the spectator model of knowledge. Being-in-the-world — always already involved, always already understanding — replaced the subject contemplating objects with a being inseparable from its world. In the later work, language becomes the medium through which Being discloses itself: not a tool humans use but something they dwell in.
+Heidegger broke the spectator model of knowledge. Being-in-the-world — always already involved, always already understanding — replaced the subject contemplating objects with a being inseparable from its world. In the later work, language becomes the place where Being comes to light: not a tool humans use but something they dwell in.
 
 [Martin Heidegger](https://plato.stanford.edu/entries/heidegger/) (1889–1976). Asked the question of Being — not what exists, but what it means *to be*. His answer displaced the subject-object split that had structured Western philosophy since Descartes. We do not first exist and then encounter a world; we are always already in a world, disclosed through our involvement with it. Heidegger served as rector of Freiburg University in 1933–34 under the Nazi regime, joined the NSDAP, and never publicly recanted. The *Black Notebooks* (published 2014 onward) revealed antisemitic passages. The relationship between his philosophy and his politics remains one of the most debated questions in twentieth-century intellectual history.
 
@@ -33,7 +33,7 @@ Heidegger broke the spectator model of knowledge. Being-in-the-world — always 
 
 **The turn (*die Kehre*).** After *Being and Time*, Heidegger's thinking shifted. Early Heidegger approached Being through the analysis of Dasein. Later Heidegger turned toward Being itself — its history, its withdrawal, the way it discloses and conceals itself across epochs. The subject recedes; language, poetry, and technology become the sites where Being shows itself.
 
-**Language.** "Language is the house of Being" (*Letter on Humanism*, 1947). In the later work, language is not a tool humans use — it is the medium through which Being discloses itself. "Language speaks" (*Die Sprache spricht*): we do not master language; we dwell in it. Poetry, for Heidegger, is language at its most disclosive — the place where what is concealed comes to word.
+**Language.** "Language is the house of Being" (*Letter on Humanism*, 1947). In the later work, language is not a tool humans use — it is where Being comes to light. "Language speaks" (*Die Sprache spricht*): we do not master language; we dwell in it. Poetry, for Heidegger, is language at its most disclosive — the place where what is concealed comes to word.
 
 **The age of the world picture.** In "The Age of the World Picture" (1938) man becomes *subiectum* with Descartes: "Man becomes the relational center of that which is as such", and the world picture is "not … a picture of the world but the world conceived and grasped as picture" (tr. Lovitt). An appendix ties this to an end: "With Descartes begins the completion and consummation of Western metaphysics … Through anthropology the transition of metaphysics into the event of the simple stopping and setting aside of all philosophy is introduced." Young and Haynes render the last words "the simple cessation and suspension of all philosophy".
 

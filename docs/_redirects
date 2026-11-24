@@ -1,6 +1,7 @@
 # Cloudflare Pages redirects (copied into the build via `include` in _config.yml)
 /start-here/ /real-life/spl/start-here/ 301
 /seed/philosophical/ /positioning/seed/philosophical/ 301
+/positioning/persons/r/penrose/ /positioning/persons/p/penrose/ 301
 /engineering/infrastructure/ /engineering/third-party-software/ 301
 /engineering/infrastructure/bare/* /engineering/third-party-software/bare/:splat 301
 /engineering/infrastructure/p2p/* /engineering/third-party-software/p2p/:splat 301

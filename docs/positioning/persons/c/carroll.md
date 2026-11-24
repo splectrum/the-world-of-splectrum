@@ -23,7 +23,7 @@ Carroll has been unusually active as a public communicator — his blog (*Prepos
 
 ## The arrow of time and the Past Hypothesis
 
-*From Eternity to Here* (2010) organises the arrow-of-time question around the low-entropy initial condition. The argument builds on [Boltzmann](/positioning/persons/b/boltzmann/)'s statistical mechanics, [Penrose](/positioning/persons/r/penrose/)'s quantification of the improbability of the initial state, and Albert's formulation of the Past Hypothesis:
+*From Eternity to Here* (2010) organises the arrow-of-time question around the low-entropy initial condition. The argument builds on [Boltzmann](/positioning/persons/b/boltzmann/)'s statistical mechanics, [Penrose](/positioning/persons/p/penrose/)'s quantification of the improbability of the initial state, and Albert's formulation of the Past Hypothesis:
 
 The fundamental equations of physics are time-symmetric — they work equally well run backwards. The arrow of time arises not from the dynamics but from the boundary condition: the early universe was in a state of extraordinarily low entropy. Without this boundary condition, the statistical mechanics would predict equilibrium in both temporal directions — no arrow, no records, no memory. "The reason we remember the past and not the future, the reason effects always follow causes and never vice versa, is because of entropy."
 
@@ -63,4 +63,4 @@ Carroll's public engagement — books, blog, podcast — has made him one of the
 
 ---
 
-See also: [Boltzmann](/positioning/persons/b/boltzmann/) · [Albert](/positioning/persons/a/albert/) · [Penrose](/positioning/persons/r/penrose/)
+See also: [Boltzmann](/positioning/persons/b/boltzmann/) · [Albert](/positioning/persons/a/albert/) · [Penrose](/positioning/persons/p/penrose/)

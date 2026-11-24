@@ -33,7 +33,7 @@ The pattern of small focused languages around Unix is where DSL practice first b
 
 The lecture did not use the term "domain-specific language," and its immediate influence was on the APL community rather than on DSL practice broadly. But it established the conceptual frame that links software DSLs to the longer history of purpose-built vocabularies. The [cross-domain view](/positioning/subjects/d/domain-specific-languages/the-pattern-beyond-software/) of DSLs draws directly on this argument.
 
-## 1980s — Lisp and the seed of internal DSLs
+## 1980s — Lisp and the origins of internal DSLs
 
 [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language))'s [macro system](https://en.wikipedia.org/wiki/Macro_(computer_science)#Syntactic_macros) and [homoiconicity](https://en.wikipedia.org/wiki/Homoiconicity) — the property that code and data share the same representation — made it natural to build small languages inside Lisp. A Lisp macro can transform source code at compile time, effectively extending the language's syntax. Programmers routinely built domain-specific notations within Lisp programs, blurring the line between using a language and extending it.
 

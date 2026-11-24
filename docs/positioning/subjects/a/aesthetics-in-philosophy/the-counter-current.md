@@ -33,7 +33,7 @@ This radically departs from [Kant](/positioning/persons/k/kant/), who treats aes
 
 The early German Romantics — Friedrich Schlegel, Novalis — make parallel moves. Schlegel: "Poetry and philosophy should be made one." Novalis: "The world must be romanticised" — the ordinary raised to the dignity of the unknown, the finite made to appear infinite. This is not aestheticism (art for art's sake) but a metaphysical claim: the aesthetic mode of experience discloses what rational analysis cannot.
 
-The Romantic elevation was short-lived as a philosophical programme — [Hegel's](/positioning/persons/h/hegel/) system absorbed and subordinated it. But it planted the seed: if art accesses what concepts cannot, aesthetics cannot simply be the junior partner.
+The Romantic elevation was short-lived as a philosophical programme — [Hegel's](/positioning/persons/h/hegel/) system absorbed and subordinated it. But it left a thought that lasted: if art accesses what concepts cannot, aesthetics cannot simply be the junior partner.
 
 ---
 

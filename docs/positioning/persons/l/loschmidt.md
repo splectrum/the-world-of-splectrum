@@ -45,7 +45,7 @@ The exchange between Loschmidt and Boltzmann is one of the foundational episodes
 
 ## Where Loschmidt stops
 
-Loschmidt raised the reversibility objection but did not develop an alternative theory of irreversibility. The question he posed — why does the universe have a low-entropy initial condition? — remains open. Modern treatments ([Roger Penrose](/positioning/persons/r/penrose/)'s Weyl curvature hypothesis, [David Albert](/positioning/persons/a/albert/)'s Past Hypothesis, [Sean Carroll](/positioning/persons/c/carroll/)'s cosmological approach) all attempt to answer the question Loschmidt identified, but none has achieved consensus. The reversibility objection is more productive as a question than as an argument: it does not refute Boltzmann's statistical mechanics but reveals the assumptions on which the entire framework rests.
+Loschmidt raised the reversibility objection but did not develop an alternative theory of irreversibility. The question he posed — why does the universe have a low-entropy initial condition? — remains open. Modern treatments ([Roger Penrose](/positioning/persons/p/penrose/)'s Weyl curvature hypothesis, [David Albert](/positioning/persons/a/albert/)'s Past Hypothesis, [Sean Carroll](/positioning/persons/c/carroll/)'s cosmological approach) all attempt to answer the question Loschmidt identified, but none has achieved consensus. The reversibility objection is more productive as a question than as an argument: it does not refute Boltzmann's statistical mechanics but reveals the assumptions on which the entire framework rests.
 
 Loschmidt's structural chemistry work — he proposed molecular structures for organic compounds as early as 1861, independently of [August Kekulé](https://en.wikipedia.org/wiki/August_Kekulé) — has been largely eclipsed in the historical record by Kekulé's priority claims. Part of the explanation is practical: *Chemische Studien I* was published by Loschmidt's employer Carl Gerold in a small print run of around 250 copies and did not circulate widely, while Kekulé's later publications reached a broad audience through established journals. Whether Loschmidt's structural diagrams anticipated Kekulé's benzene ring and related structures, or whether they were different in kind, is a question in the history of chemistry that has been debated but not fully resolved — but the limited circulation of the 1861 work is part of why the question remained unresolved for so long.
 
@@ -59,4 +59,4 @@ Loschmidt's structural chemistry work — he proposed molecular structures for o
 
 ---
 
-See also: [Boltzmann](/positioning/persons/b/boltzmann/) · [Maxwell](/positioning/persons/m/maxwell/) · [Penrose](/positioning/persons/r/penrose/)
+See also: [Boltzmann](/positioning/persons/b/boltzmann/) · [Maxwell](/positioning/persons/m/maxwell/) · [Penrose](/positioning/persons/p/penrose/)

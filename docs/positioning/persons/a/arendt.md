@@ -49,7 +49,7 @@ Plurality is not one value among others in Arendt's framework; it is the conditi
 
 **The web of relationships.** Action among plural beings creates a web that no one planned, that no single will controls, and that generates consequences beyond anyone's intention or foresight. The web has a reality of its own: it is the medium in which action produces its effects and acquires its meaning. Stories — what happened, who did what — are the web's retrospective form; institutions are its stabilised form; neither is fully in anyone's hands.
 
-**The public realm** — the space of appearance in which people act and speak before one another. Distinguished from the private realm (the household, bound to necessity and labour) and the social (which in modernity has blurred the public-private distinction, colonising public life with economic concerns). The public realm is where plurality becomes real — where distinct perspectives meet, and where shared reality is constituted through the clash of differing viewpoints rather than the imposition of a single one.
+**The public realm** — the space of appearance in which people act and speak before one another. Distinguished from the private realm (the household, bound to necessity and labour) and the social (which in modernity has blurred the public-private distinction, colonising public life with economic concerns). The public realm is where plurality becomes real — where distinct perspectives meet, and where the common world gains its reality from being seen from many positions at once rather than through a single one.
 
 ---
 

@@ -9,7 +9,7 @@ lastmod: 2026-05-26
 
 # Norbert Wiener (1894–1964)
 
-Wiener founded cybernetics — the science of communication and control in the animal and the machine. The central insight: feedback is a universal mechanism. Whether a thermostat regulates temperature, a gunner tracks a moving target, or a nervous system coordinates movement, the same structural pattern operates: output is fed back as input, and the system adjusts. Wiener saw this pattern across engineering, biology, and neuroscience, and named the cross-disciplinary study of it. The tradition he launched reshaped control theory, influenced artificial intelligence, seeded systems thinking, and fed directly into [complex adaptive systems](/positioning/subjects/c/complex-adaptive-systems/) research a generation later.
+Wiener founded cybernetics — the science of communication and control in the animal and the machine. The central insight: feedback is a universal mechanism. Whether a thermostat regulates temperature, a gunner tracks a moving target, or a nervous system coordinates movement, the same structural pattern operates: output is fed back as input, and the system adjusts. Wiener saw this pattern across engineering, biology, and neuroscience, and named the cross-disciplinary study of it. The tradition he launched reshaped control theory, influenced artificial intelligence, shaped systems thinking, and fed directly into [complex adaptive systems](/positioning/subjects/c/complex-adaptive-systems/) research a generation later.
 
 ---
 
@@ -17,7 +17,7 @@ Wiener founded cybernetics — the science of communication and control in the a
 
 Born 26 November 1894 in Columbia, Missouri. A child prodigy: entered Tufts University at eleven, BA in mathematics at fourteen (1909). PhD from Harvard in mathematical logic at eighteen (1913), with a dissertation on set theory supervised by [Karl Schmidt](https://en.wikipedia.org/wiki/Karl_Schmidt_(mathematician)). Postdoctoral work at Cambridge with [Bertrand Russell](/positioning/persons/r/russell/) and at Göttingen with [David Hilbert](https://en.wikipedia.org/wiki/David_Hilbert). Faculty at MIT from 1919 until his death, rising to Institute Professor — MIT's highest faculty distinction.
 
-During World War II Wiener worked on anti-aircraft fire control — the problem of predicting the future position of a moving target and directing gunfire accordingly. The work brought together stochastic processes, feedback, and prediction in a way that became the seed of cybernetics. The target-tracking problem required treating the gunner, the gun, the target, and the prediction mechanism as a single feedback system — erasing the boundary between human and machine components.
+During World War II Wiener worked on anti-aircraft fire control — the problem of predicting the future position of a moving target and directing gunfire accordingly. The work brought together stochastic processes, feedback, and prediction in a way that became the starting point of cybernetics. The target-tracking problem required treating the gunner, the gun, the target, and the prediction mechanism as a single feedback system — erasing the boundary between human and machine components.
 
 Died 18 March 1964 in Stockholm.
 

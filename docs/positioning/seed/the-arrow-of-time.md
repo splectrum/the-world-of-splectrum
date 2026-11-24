@@ -49,7 +49,7 @@ All three arrows point the same way in our universe. Whether this alignment is n
 
 The arrow depends on a boundary condition: the early universe was in a state of extraordinarily low entropy. Without this, there would be no gradient for entropy to increase along, and no arrow.
 
-[Roger Penrose](/positioning/persons/r/penrose/) quantified the improbability in *The Road to Reality* (2004): the gravitational entropy of the early universe was vanishingly small — matter was spread nearly uniformly, gravity had not yet clumped it into stars, galaxies, and black holes. The second law runs because we started from this special state. Why the initial state was so special is, as Penrose puts it, one of the deepest puzzles in physics.
+[Roger Penrose](/positioning/persons/p/penrose/) quantified the improbability in *The Road to Reality* (2004): the gravitational entropy of the early universe was vanishingly small — matter was spread nearly uniformly, gravity had not yet clumped it into stars, galaxies, and black holes. The second law runs because we started from this special state. Why the initial state was so special is, as Penrose puts it, one of the deepest puzzles in physics.
 
 [Sean Carroll](/positioning/persons/c/carroll/) explores the implications in *From Eternity to Here* (2010): "The reason we remember the past and not the future, the reason effects always follow causes and never vice versa, is because of entropy." The arrow of time is real but not fundamental — it is a consequence of a cosmological fact about how the universe began.
 

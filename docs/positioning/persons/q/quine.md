@@ -13,7 +13,7 @@ Quine dismantled two pillars of the empiricist tradition and rebuilt [epistemolo
 
 ## Life
 
-Born in Akron, Ohio, in 1908. He studied mathematics and philosophy at Oberlin College and completed his doctorate at Harvard under Alfred North Whitehead in 1932, writing on the foundations of [Principia Mathematica](/positioning/persons/r/russell/). A travelling fellowship took him to Vienna (where he attended meetings of the [Vienna Circle](/positioning/persons/c/carnap/), though briefly) and to Prague, where he worked intensively with [Rudolf Carnap](/positioning/persons/c/carnap/) — the single most important intellectual relationship of his career, and the one he spent decades working against.
+Born in Akron, Ohio, in 1908. He studied mathematics and philosophy at Oberlin College and completed his doctorate at Harvard under Alfred North Whitehead in 1932, writing on the foundations of [*Principia Mathematica*](https://en.wikipedia.org/wiki/Principia_Mathematica). A travelling fellowship took him to Vienna (where he attended meetings of the [Vienna Circle](/positioning/persons/c/carnap/), though briefly) and to Prague, where he worked intensively with [Rudolf Carnap](/positioning/persons/c/carnap/) — the single most important intellectual relationship of his career, and the one he spent decades working against.
 
 He spent his entire academic career at Harvard (1936–2000), becoming Edgar Pierce Professor of Philosophy. He was the dominant figure in American analytic philosophy from the 1950s through the 1980s — the philosopher other philosophers had to address. His writing is compressed, precise, and occasionally witty; his personal style was austere and systematic. He died in Boston in 2000.
 

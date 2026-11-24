@@ -53,7 +53,7 @@ His biogeochemical work, particularly "The biogeochemistry of vertebrate excreti
 
 ## The circular causal systems paper
 
-"Circular causal systems in ecology," *Annals of the New York Academy of Sciences* 50 (1948). An early paper exploring feedback loops in ecological systems — how populations regulate each other through predator-prey dynamics and how these circular causal chains produce the oscillations observed in natural populations. The paper appeared in the same period as the [Macy conferences](/positioning/persons/w/wiener/) on cybernetics, and Hutchinson was aware of the parallel between ecological feedback and the feedback concepts being formalised in cybernetics and systems theory. He did not develop this line systematically, but it placed ecological thinking in conversation with the broader systems-theoretic work of the period.
+"Circular causal systems in ecology," *Annals of the New York Academy of Sciences* 50 (1948). An early paper exploring feedback loops in ecological systems — how populations regulate each other through predator-prey dynamics and how these circular causal chains produce the oscillations observed in natural populations. The paper appeared in the same period as the [Macy conferences](https://en.wikipedia.org/wiki/Macy_conferences) on cybernetics, and Hutchinson was aware of the parallel between ecological feedback and the feedback concepts being formalised in cybernetics and systems theory. He did not develop this line systematically, but it placed ecological thinking in conversation with the broader systems-theoretic work of the period.
 
 ---
 

@@ -9,7 +9,7 @@ description: "American philosopher of physics — the Past Hypothesis, the found
 
 # David Albert (1954–)
 
-Albert is a philosopher of physics whose work addresses two problems: why time has a direction, and what happens when a quantum measurement is made. His most influential contribution is the formulation of the Past Hypothesis — the postulate that the universe began in a state of extraordinarily low entropy — as an explicit foundational element in statistical mechanics. [Boltzmann](/positioning/persons/b/boltzmann/)'s framework explains why entropy increases given a low-entropy starting point; [Penrose](/positioning/persons/r/penrose/) quantified the improbability of that starting point; Albert named it and argued for its role as a fundamental postulate on which the reliability of all records, inferences, and sciences of the past depends. His work on quantum mechanics — particularly the measurement problem and the case for dynamical-collapse theories — is pursued in parallel, and the two programmes connect: the arrow of time and the interpretation of quantum mechanics are, in Albert's view, not separate problems.
+Albert is a philosopher of physics whose work addresses two problems: why time has a direction, and what happens when a quantum measurement is made. His most influential contribution is the formulation of the Past Hypothesis — the postulate that the universe began in a state of extraordinarily low entropy — as an explicit foundational element in statistical mechanics. [Boltzmann](/positioning/persons/b/boltzmann/)'s framework explains why entropy increases given a low-entropy starting point; [Penrose](/positioning/persons/p/penrose/) quantified the improbability of that starting point; Albert named it and argued for its role as a fundamental postulate on which the reliability of all records, inferences, and sciences of the past depends. His work on quantum mechanics — particularly the measurement problem and the case for dynamical-collapse theories — is pursued in parallel, and the two programmes connect: the arrow of time and the interpretation of quantum mechanics are, in Albert's view, not separate problems.
 
 ---
 
@@ -67,4 +67,4 @@ Albert's preference for GRW over Everett is philosophically motivated and empiri
 
 ---
 
-See also: [Boltzmann](/positioning/persons/b/boltzmann/) · [Reichenbach](/positioning/persons/r/reichenbach/) · [Penrose](/positioning/persons/r/penrose/)
+See also: [Boltzmann](/positioning/persons/b/boltzmann/) · [Reichenbach](/positioning/persons/r/reichenbach/) · [Penrose](/positioning/persons/p/penrose/)
