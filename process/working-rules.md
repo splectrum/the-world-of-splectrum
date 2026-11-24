@@ -25,3 +25,12 @@ The day-to-day rules of the collaboration, each learned from a case. The other p
 
 - **"Seed" is reserved.** Never use it as our own everyday metaphor ("the seed of an idea"); it reads as the SPLectrum term. A quoted translation on a page where SPLectrum is absent can keep it.
 - **Internal links are absolute from the site root** (`/section/.../slug/`), never relative: a relative link copied to a page at another depth breaks. A link target starts with `/` or `http`; `grep -rnoE "\]\([^/h)][^)]*\)"` finds relative ones.
+
+## Delegated editing
+
+Learned 2026-11-25, when a six-agent consistency pass over ~480 person and subject pages had to be rolled back: it cut material other pages and live posts rely on, and its rewording drifted in meaning on about one rewritten page in four.
+
+- **Cut and replace, don't reword.** An editing agent cuts a sentence, or replaces a named term with the field's own term; it does not rephrase claims. Rewording without the source in hand is where meaning drifts. A lead that needs rebuilding is proposed, not written.
+- **Check reliance before cutting.** Person and subject pages back the pages above them (`process/backing-flows-down.md`). Before cutting a quote or fact, grep the site (posts included) for it; if anything relies on it, it stays.
+- **Quotes stay quotes; exact stays exact.** No quotation turned into paraphrase, no exact fact made vaguer. Technical pages (formats, protocols, specifications) are not trimmed for detail.
+- **Pilot, then scale.** Run a brief on about ten pages, review the diffs cold, fix the brief, and only then widen it. Slices stay small (about 30 pages), agents do not sub-delegate, and nothing is shared through scratch scripts.
