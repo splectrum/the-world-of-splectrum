@@ -9,9 +9,9 @@ status: draft
 words: 757
 ---
 
-<img src="IMAGE_URL" alt="Nagel, the Subject and the Way Out" style="float:left;margin:0 15px 10px 0;width:50vw;max-width:350px;" />
+<img src="https://images.unsplash.com/photo-1758685734622-3e0a002b2f53?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" alt="Nagel, the Subject and the Way Out" />
 
-A recent interview with [Thomas Nagel](/positioning/persons/n/nagel/), given after he was named laureate of the Berggruen Prize for Philosophy & Culture, drew my attention back to a philosopher whose thinking has been influential in the development of SPLectrum's approach. The interview was about AI, and that is a conversation for another time. What it brought back was the problem he has held open for half a century: "how to combine the perspective of a particular person inside the world with an objective view of that same world, the person and his viewpoint included."
+A recent interview with [Thomas Nagel](/positioning/persons/n/nagel/), given after he was named laureate of the Berggruen Prize for Philosophy & Culture, drew my attention back to a philosopher whose thinking has been influential in the development of SPLectrum's approach. The interview was about AI, but that is a conversation for another time. Here my attention was drawn back to a pillar of his main work: "how to combine the perspective of a particular person inside the world with an objective view of that same world, the person and his viewpoint included."
 
 In 1974 he asked what it is like to be a bat. A bat finds its way by echolocation, there is something it is like to be that bat, and no account of its neurons or of sonar tells us what. His point was not privacy. "I am not adverting here to the alleged privacy of experience to its possessor," he wrote; the point of view in question "is a type." The barrier lies between kinds of experiencer. And the usual road to knowledge leads away from it: a shift to greater objectivity, "less attachment to a specific viewpoint", does not bring us nearer to experience; "it takes us farther away from it." Here SPLectrum joins him fully. Experience is had by a subject before it is anything else, and no description from outside stands in for it.
 
@@ -28,4 +28,4 @@ Nagel walked a careful line inside analytic philosophy. Against physicalism he d
 <small>This post is part of the [positioning series](/blog/label/positioning/). See also the reference entries on <a href="/positioning/persons/n/nagel/">Nagel</a>.</small>
 
 ---
-<small>Photo: <a href="https://unsplash.com/@PHOTOGRAPHER">NAME</a> / Unsplash</small>
+<small>Photo: <a href="https://unsplash.com/@silverkblack">NAME</a> / Unsplash</small>
