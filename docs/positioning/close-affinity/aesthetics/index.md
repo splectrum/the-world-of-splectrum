@@ -9,7 +9,7 @@ description: "SPLectrum holds aesthetics, the dynamics of meaning, as a core pil
 
 # Aesthetics
 
-In SPLectrum's philosophy, aesthetics is the field concerned with the dynamics of meaning and language — how a subject turns shared language tools into a unique, private medium of experience. SPLectrum holds this field core; the derivation is on the reality side, and this surface points outward from it into the field.
+In SPLectrum's philosophy, aesthetics is the field concerned with the dynamics of meaning and language — how a subject turns shared language tools into a unique, private medium of experience. SPLectrum holds this field core; the account itself is built on the reality side, and this surface points outward from it into the field.
 
 For most of philosophy, aesthetics was held to the senses, and abstract thinking held itself detached from them — so the dynamics of meaning were never treated as a central concern. The dynamic was there throughout; it was simply picked up in disparate places, each time under the name of the domain it surfaced in.
 

@@ -64,16 +64,11 @@ These gate other work. Ordered by how much depends on them.
 - real-life-section tone file: rewrite after the section concept is agreed.
 - scheduled-tasks: the order of work (state 11-08) to be restated by Jules; keyword-doorways inventory drift; finished submissions (ask before deleting).
 
-**SPLectrum surfaces**
-- Wider-landscape redefinition (10-07) carried to the landing, the positioning index ("Three rings"), and the SPL Positioning vocabulary ("Resonance and dissonance… SPLectrum takes part when a piece carries a mix of both"). The coloured report's missing opening paragraph is content (to Jules).
-- "The derivation is on the reality side" (six ring pages) against reality's "disclosure, not derivation"; the semantic-information ring points at no reality page.
-- Ring passages that grade or compare: politics "Where the field's eye does not usually reach"; ethics Habermas/Harman/Wong; pluralism ring "The family's fights, from inside"; two-pronged (Whitehead "retains a view from outside" — contradicts the Whitehead page); turn in Western philosophy; ontology ring "Goodman carries it furthest"; aesthetics bundle review notes in prose.
-- Term drift: "catalogue" (agreed: vocabulary); "convergent subjectivity" / "subjective objectivity" (standard: converged subjectivity); "a voice and not a medium" (shared voice) against P2; "carves at the joints" against "no seams"; "perimeter" two senses; community as subject vs new being.
-- Reality ripple: politics never mentions the shared voice; emergence hands a question to aesthetics that aesthetics doesn't carry; reality index glosses and the chicken-and-egg ordering; epistemology ring still "belonging-first from the side of the knower".
-- Reality evolution page: "the SPLectrum reading" ×4, scores rival readings, unbacked dates (research).
-- SPL Seed vocabulary rebuilt around current core terms; "persona" defined two ways; vocabulary concept pages contradict each other on "static view".
-- Seed index labels that no longer match pages (CAS, Language, Two-pronged).
-- Bare "the seed" on ring pages; descriptions outside the standard on ~24 own-voice and bottom-row pages.
+**SPLectrum surfaces** (done 2026-11-24: wider-landscape redefinition on the positioning index, the wider-landscape landing and the SPL Positioning vocabulary, Sapolsky entry dropped; "derivation" on six ring pages now "the account itself is built on the reality side"; grading and foils removed from the ethics (Habermas, Harman/Wong), politics ("The scale of one"), two-pronged (Whitehead's "cost" and "view from outside") and ontology ("furthest") rings; converged subjectivity on the core-values pillar; vocabulary for catalogue on the ontology ring.) Left, to Jules:
+- The coloured report's missing opening paragraph (the position stated once).
+- Pluralism ring "The family's fights, from inside" and "The same chair": the position answering objections in ring voice. With the pluralism rework.
+- The turn in Western philosophy: a trajectory told as progress ("saves the outside view", "cracked but not abandoned", "closes the gap"). Trajectory pieces are part of the seed ring's brief; whether the progress framing stays is a content call.
+- Shared voice "a language, not a medium" against P2's "language is the medium"; "perimeter" in two senses (the coin: the edge of a language's domain; emergence: the cut between lived and shared); community as a subject (P0 fires again) against community as a new being.
 
 **Persons and subjects**
 - Closer pass by rule on the remaining ~170 person closers (A–G 46 May pages; H–O 86 of 99 still have one; P–Z ~50 failing): keep only named pressers or the thinker's own tension; facts into the body; cut the rest. Subjects: ~10 of 20 remaining closers.
