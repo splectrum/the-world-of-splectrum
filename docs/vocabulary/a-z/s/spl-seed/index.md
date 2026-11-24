@@ -9,7 +9,7 @@ description: "The seed vocabulary — original terms, philosophical page vocabul
 
 # SPL Seed
 
-The vocabulary of the [seed](/seed/). Three layers: the seed's own terms — from the principles and the seed pages that extend them — a page vocabulary drawn from the philosophical seed page, and an engineering variant that translates seed terms into software.
+The vocabulary of the [seed](/seed/). Three layers: the seed's own terms — from the principles and the seed pages that extend them — a page vocabulary drawn from the seed ring's philosophy page, and an engineering variant that translates seed terms into software.
 
 ## Original
 
@@ -45,7 +45,7 @@ The seed's own vocabulary — terms as they appear in [the original principles](
 
 ## Philosophical — page vocabulary
 
-The vocabulary as it appears on [the seed and philosophy](/seed/philosophical/). These are terms drawn from external thinkers, used on that page to position the seed in philosophical traditions.
+The vocabulary as it appears on [the seed and philosophy](/positioning/seed/philosophical/), in the seed ring. These are terms drawn from external thinkers, used on that page to position the seed in philosophical traditions.
 
 <span id="differentiation">**Differentiation**</span> (P0) — The act through which being comes into existence ([Fichte](https://plato.stanford.edu/entries/johann-fichte/)). The cut that separates being from not-being.
 

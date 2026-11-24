@@ -28,5 +28,5 @@ This takes us back to the first principle. To be is to stand apart from your sur
 
 - [Positioning / Subjects / Structuralism](/positioning/subjects/s/structuralism/)
 - [Positioning / Subjects / Semiotics](/positioning/subjects/s/semiotics/)
-- [The Seed / The seed and Philosophy](/seed/philosophical/)
+- [Positioning / Seed / The seed and Philosophy](/positioning/seed/philosophical/)
 - [Language / Concepts / What is a language?](/language/concepts/what-is-a-language/)

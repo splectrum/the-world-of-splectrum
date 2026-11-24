@@ -14,9 +14,6 @@ The foundation of SPLectrum. Six principles on language and what languages all h
 **[The original principles](/seed/original/)**<br>
 P0–P5 in bare form. Five principles on relational, with a sixth creational added.
 
-**[The seed and Philosophy](/seed/philosophical/)**<br>
-How historical thinkers fit into the picture, convergences mapped principle by principle.
-
 **[The seed and Language](/seed/language/)**<br>
 What language is in the seed's terms — P0 and P1 as the structural base, contingency, and why pluralism follows.
 
@@ -35,8 +32,8 @@ The full dynamic of the seed — where SPLectrum gets its philosophical name.
 **[The Seed, Pluralism and the Coin](/seed/pluralism-and-the-coin/)**<br>
 The seed as a metalanguage of common principles: one approach on the how, equal standing on the what — and the perimeter as the place this can be said from.
 
-**[The seed, Privacy and Decentralisation](/seed/privacy-and-decentralisation/)**<br>
-Privacy as the essence of subject experience, and decentralisation as how communities naturally form.
+**[The seed, Own Experience and Decentralisation](/seed/privacy-and-decentralisation/)**<br>
+A subject's experience as its own, and decentralisation as how communities naturally form.
 
 **[The seed and Complex Adaptive Systems](/seed/complex-adaptive-systems/)**<br>
 The seed expressed in CAS vocabulary — agents, adaptation, self-organization, emergence. Where the rhymes are clean and where they stop.

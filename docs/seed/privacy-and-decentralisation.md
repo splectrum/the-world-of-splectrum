@@ -1,37 +1,37 @@
 ---
 layout: default
 lastmod: 2026-05-08
-title: "The seed, Privacy and Decentralisation"
-description: "The SPLectrum seed, privacy and decentralisation — a subject feels and thinks in private, a community exists from the subjects' shared reality."
+title: "The seed, Own Experience and Decentralisation"
+description: "The SPLectrum seed and decentralisation: what a subject feels and thinks is its own, and a community exists from its subjects' shared reality."
 ---
 
-[Home](/) > [The SPLectrum Seed](/seed/) > The seed, Privacy and Decentralisation
+[Home](/) > [The SPLectrum Seed](/seed/) > The seed, Own Experience and Decentralisation
 
-# The seed, Privacy and Decentralisation
+# The seed, Own Experience and Decentralisation
 
-This page builds on the [philosophical seed](/seed/philosophical/) and [historicity](/seed/historicity/). Privacy and decentralisation are not policy choices within the seed — they are structural consequences of how subjects and communities arise.
+This page builds on the [original principles](/seed/original/) and [historicity](/seed/historicity/). That a subject's experience is its own, and that communities form without a centre, are not policy choices — they are structural consequences of how subjects and communities arise.
 
 **P0 — Being implies language.**
 
-Differentiation produces a boundary: something is, because it is not its context. That boundary is constitutive — without it, there is no being. [Hans Jonas](/positioning/persons/j/jonas/) grounds this in metabolism: an organism maintains its own boundary against the environment, and that self-maintenance is what makes it a self. The boundary is not a wall — it is a dynamic, sustained from within. Privacy begins here, at the most basic level of what it means to be.
+Differentiation produces a boundary: something is, because it is not its context. That boundary is constitutive — without it, there is no being. [Hans Jonas](/positioning/persons/j/jonas/) grounds this in metabolism: an organism maintains its own boundary against the environment, and that self-maintenance is what makes it a self. The boundary is not a wall — it is a dynamic, sustained from within. Experience being one's own begins here, at the most basic level of what it means to be.
 
 **P1 — Language is relational.**
 
-As per the [philosophical seed](/seed/philosophical/). A relation's reach depends on what it relates to — a community's language reaches its members and does not reach outside without translation.
+As per the [original principles](/seed/original/). A relation's reach depends on what it relates to — a community's language reaches its members and does not reach outside without translation.
 
 **P2 — Language is the medium through which a subject experiences reality.**
 
-P2 is where privacy becomes irreducible. A subject's experience is constitutively its own — no outside access, no view from nowhere. [Husserl](/positioning/persons/h/husserl/) shows this through the phenomenological reduction: what remains when everything external is bracketed is the subject's own experiencing. [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) places the body as the medium — perception is always from here, never from there. [Zahavi](/positioning/persons/z/zahavi/) names it directly: every experience carries a for-me-ness, given to me differently than to anyone else. [Nagel](/positioning/persons/n/nagel/) supplies the ground: there is something it is like to be a subject, a point of view no objective description absorbs.
+P2 is where the subject's own experience becomes irreducible. A subject's experience is constitutively its own — no outside access, no view from nowhere. [Husserl](/positioning/persons/h/husserl/) shows this through the phenomenological reduction: what remains when everything external is bracketed is the subject's own experiencing. [Merleau-Ponty](/positioning/persons/m/merleau-ponty/) places the body as the medium — perception is always from here, never from there. [Zahavi](/positioning/persons/z/zahavi/) names it directly: every experience carries a for-me-ness, given to me differently than to anyone else. [Nagel](/positioning/persons/n/nagel/) supplies the ground: there is something it is like to be a subject, a point of view no objective description absorbs.
 
-The totality of what a subject feels and thinks is private — not as a preference or a right, but as a condition of being a subject at all. Privacy is not added to experience; it is experience.
+The totality of what a subject feels and thinks is its own — not as a preference or a right, but as a condition of being a subject at all. Being someone's is not added to experience; experience is always someone's.
 
 **P3 — Language is where subjects share knowledge about reality.**
 
-Sharing does not dissolve privacy — it operates between privacies. Subjects share through language, indirectly, reading each other through effects on a shared environment. What converges is shared reality, and with it shared knowledge, but convergence requires enough common ground. A community forms when subjects carry sufficient shared reality to synchronise. From inside, a private circle; from outside, opaque.
+Sharing does not dissolve this — it operates between subjects whose experience stays their own. Subjects share through language, indirectly, reading each other through effects on a shared environment. What converges is shared reality, and with it shared knowledge, but convergence requires enough common ground. A community forms when subjects carry sufficient shared reality to synchronise. From inside, a circle of its own; from outside, opaque.
 
 [Michael Polanyi](/positioning/persons/p/polanyi/) calls the knowledge that lives inside such circles *tacit* — unarticulated, carried in practice, inaccessible to those outside the practice. [Elinor Ostrom](/positioning/persons/o/ostrom/) demonstrated empirically that communities self-organise to govern shared resources — not through central command, but through local rules evolved from within.
 
-These are decentralised mechanisms. Communities form from shared reality upward, not from authority downward. Each community is itself a subject (P0 fires again), with its own privacy, its own boundary maintained from within. Centralisation — the imposition of a single language game across communities — works against this structure. It does not create shared reality; it replaces it.
+These are decentralised mechanisms. Communities form from shared reality upward, not from authority downward. Each community is itself a subject (P0 fires again), with its own experience, its own boundary maintained from within. Centralisation — the imposition of a single language game across communities — works against this structure. It does not create shared reality; it replaces it.
 
 **P4 — Languages are interrelational and have equal standing in potential.**
 

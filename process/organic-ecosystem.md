@@ -11,5 +11,6 @@ Interactive collaboration produces change. Rules treated as fixed create frictio
 - If a convention in a guide (posting-guide.md, rewrite plan, etc.) conflicts with what we're actually doing, **update the guide** rather than forcing the work to conform to the stale rule.
 - When flagging a rule-conflict, propose revising the rule as one option — don't default to "the existing rule wins".
 - **When a rule is made or changed, keeping the repo consistent is Claude's job, in the same session, without being asked.** Sweep the repo's rule documents (`process/`, `tone-of-voice/`, `posting-guide.md`, `README.md`, `scheduled-tasks.md`, `.claude/agents/`) for anything the change contradicts or leaves stale, and fix it. Also fix live memory. Jules should not have to find the leftovers.
+- **The site evolves; older text is not always updated when newer text supersedes it.** Where two pages (or two rules) disagree, the more recent version wins by default; bring the older one in line rather than asking which holds.
 - Be willing to propose new conventions when a pattern emerges in practice; don't wait for permission to document what's already happening.
 - The posting guide, rewrite plan, and similar live docs should be treated as working documents that get touched often, not sacred texts.

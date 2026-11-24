@@ -19,7 +19,7 @@ P2's gloss carries the beginning of the answer. Experience requires accumulation
 
 The process is within, not behind. A subject does not first experience reality and then do something with what arrived: the experiencing is the process running. Cognition works inside the medium — it extracts from language and it feeds language — and there is no separation between being in language, experiencing reality, and running the process. That is the answer to the question at the entrance: how is the world always already meaningful? Because the making-sense is always already running — there was no first delivery of neutral input, and the medium was never empty.
 
-Nor does the running start from nothing. A subject always belongs, and belonging delivers language tooling that already carries knowledge and understanding — the sediment of other subjects' cognition, shared and held in common. What any subject runs with is largely others' already-done: the always-already is funded twice, by a process that never wasn't running and by tooling that never arrived empty.
+Nor does the running start from nothing. A subject is always part of a community, and that delivers language tooling that already carries knowledge and understanding — the sediment of other subjects' cognition, shared and held in common. What any subject runs with is largely others' already-done: the always-already is funded twice, by a process that never wasn't running and by tooling that never arrived empty.
 
 While the process runs, reality is disclosed to the subject. Disclosure is one of the things the running does — a happening of the process, not its title.
 

@@ -2,10 +2,10 @@
 layout: default
 lastmod: 2026-10-12
 title: "The seed and Philosophy"
-description: "The SPLectrum seed and philosophy — how historical thinkers from Heidegger to Wittgenstein to Peirce map onto the six principles, one by one."
+description: "The six seed principles read across Western philosophy, one by one: from Heidegger and Fichte to Wittgenstein, Peirce, Goodman and Kuhn."
 ---
 
-[Home](/) > [The SPLectrum Seed](/seed/) > The seed and Philosophy
+[Home](/) > [Positioning](/positioning/) > [Seed](/positioning/seed/) > The seed and Philosophy
 
 # The seed and Philosophy
 

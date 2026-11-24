@@ -23,7 +23,7 @@ A language's reach depends on its relations — different relations, different r
 
 **P2 — Language is the medium through which a subject experiences reality.**
 
-Experience is personal. A subject's reality is its own accumulated retention — private, unique, not referential to an outside standard. There is no view from outside any subject's accumulation — no place to stand that is not already inside a language. What a subject has retained through its languages is its reality, and no two subjects hold the same accumulation. The multiplicity of P0 and P1 becomes lived: as many realities as there are subjects.
+Experience is personal. A subject's reality is its own accumulated retention — unique, not referential to an outside standard. There is no view from outside any subject's accumulation — no place to stand that is not already inside a language. What a subject has retained through its languages is its reality, and no two subjects hold the same accumulation. The multiplicity of P0 and P1 becomes lived: as many realities as there are subjects.
 
 **P3 — Language is where subjects share knowledge about reality.**
 

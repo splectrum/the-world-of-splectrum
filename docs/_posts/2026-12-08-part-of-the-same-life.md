@@ -9,7 +9,7 @@ status: draft
 words: 613
 ---
 
-<img src="IMAGE_URL" alt="Part of the Same Life" />
+<img src="https://images.unsplash.com/photo-1667372525724-16cede94db0b?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" alt="Part of the Same Life" />
 
 Much of the talk about artificial intelligence treats it as something arriving from outside: a new species, a rival, possibly a successor. [Sara Imari Walker](/positioning/persons/w/walker/), a physicist and astrobiologist at Arizona State University, puts it the other way round. "Technology is not artificially replacing life," she wrote in 2023, "— it is life."
 
@@ -30,4 +30,4 @@ Walker ends her essay on the future: "life is what we are evolving into." Techno
 <small>This post is part of the [conversations series](/blog/label/conversations/). See also <a href="/positioning/persons/w/walker/">Sara Imari Walker</a> and <a href="/positioning/subjects/a/assembly-theory/">Assembly Theory</a>.</small>
 
 ---
-<small>Photo: PHOTO_CREDIT / Unsplash</small>
+<small>Photo: <a href="https://unsplash.com/@growtika">Growtika</a> / Unsplash</small>

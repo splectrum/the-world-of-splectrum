@@ -12,7 +12,7 @@ sitemap: false
 
 **P2 — Language is the medium through which a subject experiences reality.**
 
-Nothing exists that isn't witnessed by something or someone. To exist means to be in relation to other things: to be witnessed by subjects. And that relation is expressed in language. A subject needn't be a person: it could be a stone in the sun. There is no reality standing on its own, behind the relations, for us to describe or experience. The experience is the reality.
+Nothing exists that isn't witnessed by something or someone. To exist means to be in relation to other things: to be witnessed by subjects. And that relation is expressed in language. A subject needn't be a person: it could be a stone in the sun. No reality is known to stand on its own, behind the relations, for us to describe or experience. The experience is the reality.
 
 Isn't that subjectivism, reality as whatever you happen to feel? It would be if we were unrelated. The principles that follow take that worry up.
 
