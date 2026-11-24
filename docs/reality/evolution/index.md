@@ -17,12 +17,14 @@ The major transitions in the history of reality arrive roughly an order of magni
 
 The SPLectrum reading: the transitions conform to thresholds in interaction density. Each threshold marks a point where something structurally new emerges — not predicted from below, recognisable in hindsight.
 
-- **~4 billion years ago** — stable chemistry from quantum interactions. [Decoherence](https://en.wikipedia.org/wiki/Quantum_decoherence): quantum interactions accumulating to the point where properties become effectively stable.
-- **~500 million years ago** — complex multicellular life. Self-maintaining systems sustaining their own interaction density.
+Underneath, from the start: stable chemistry from quantum interactions. [Decoherence](https://en.wikipedia.org/wiki/Quantum_decoherence): quantum interactions accumulating to the point where properties become effectively stable.
+
+- **~4 billion years ago** — life: self-maintaining chemistry. Systems sustaining their own interaction density.
+- **~500 million years ago** — complex multicellular life.
 - **~50 million years ago** — primate social cognition. Coordination multiplying interaction.
-- **~5 million years ago** — hominid tool use and proto-language.
+- **~5 million years ago** — the hominin line; tool use and proto-language follow.
 - **~500,000 years ago** — archaic human culture.
-- **~50,000 years ago** — symbolic thought, art, full language. Patterns decoupled from physical execution.
+- **~50,000–100,000 years ago** — symbolic thought, art, full language. Patterns decoupled from physical execution.
 
 The compression: each transition roughly an order of magnitude faster.
 

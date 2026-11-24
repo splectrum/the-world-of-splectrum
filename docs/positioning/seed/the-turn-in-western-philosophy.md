@@ -19,7 +19,7 @@ In SPLectrum's philosophy, language is the medium through which a subject experi
 
 **[Hegel](/positioning/persons/h/hegel/)** puts Kant's categories in motion. Understanding develops historically, through contradiction and resolution. The thing-in-itself dissolves — nothing exists only in relation to itself without relation to the other. Distinguishing and relating are the same act.
 
-**[Husserl](/positioning/persons/h/husserl/)** turns inward — examine what actually appears to consciousness, without theoretical baggage. Consciousness is always consciousness *of* something. The method is radical; the metaphysics is cautious — consciousness and reality divided by "a veritable abyss of sense" (*Ideas* I, 1913).
+**[Husserl](/positioning/persons/h/husserl/)** turns inward — examine what actually appears to consciousness, without theoretical baggage. Consciousness is always consciousness *of* something. The method is radical; consciousness and reality stay divided by "a veritable abyss of sense" (*Ideas* I, 1913).
 
 **[Heidegger](/positioning/persons/h/heidegger/)** closes the gap Husserl kept open. We don't observe the world from a distance — we're thrown into it. Language is "the house of being," the medium in which we exist.
 

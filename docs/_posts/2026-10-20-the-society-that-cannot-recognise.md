@@ -31,7 +31,7 @@ What I find worth keeping is not a verdict on the ants. It is the shape of the d
 
 That is a disagreement about a word, conducted by people who agree about the facts. The word has to be settled before the question can even be asked. Moffett's definition makes the supercolony one society; Gordon's makes it many. Both are coherent, and each licenses different research.
 
-It would have happened had he not asked. Moffett put the question in the title of a paper — *what is a society?* — and made his colleagues answer it, which they did. The question, asked and answered where it could be argued rather than assumed.
+It would not have happened had he not asked. Moffett put the question in the title of a paper — *what is a society?* — and made his colleagues answer it, which they did. The question, asked and answered where it could be argued rather than assumed.
 
 <small>This post is part of the [conversations series](/blog/label/conversations/). See also <a href="/positioning/persons/m/moffett/">Mark W. Moffett</a>.</small>
 

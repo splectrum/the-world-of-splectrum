@@ -44,7 +44,7 @@ Spencer Brown's formulation comes from within the field of mathematical logic.<b
 The most minimal formulation. One instruction: draw a distinction. Before it, nothing marked. After it, a marked state and an unmarked state. The distinction is the creation. Everything else follows. The entire calculus built from one act of differentiation.
 
 And as last group we have three formulations from the eastern tradition: Chinese cosmology, Hindu and Buddhist philosophy:
-Yin Yang comes from Chinese cosmology. Thousands of years older than any of the others.<br/>
+Yin Yang comes from Chinese cosmology. Thousands of years older than the modern Western ones.<br/>
 ***Yin-Yang — the dynamic interplay of complements***<br/>
 Being as the tension between complementary opposites. Neither exists without the other. Light contains dark, dark contains light. Neither is pure, nor fixed — constantly shifting, constantly in tension. The interplay IS the reality.
 
