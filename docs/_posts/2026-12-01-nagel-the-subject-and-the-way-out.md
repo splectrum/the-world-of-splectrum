@@ -28,4 +28,4 @@ Nagel walked a careful line inside analytic philosophy. Against physicalism he d
 <small>This post is part of the [positioning series](/blog/label/positioning/). See also the reference entries on <a href="/positioning/persons/n/nagel/">Nagel</a>.</small>
 
 ---
-<small>Photo: <a href="https://unsplash.com/@silverkblack">NAME</a> / Unsplash</small>
+<small>Photo: <a href="https://unsplash.com/@silverkblack">silverkblack</a> / Unsplash</small>

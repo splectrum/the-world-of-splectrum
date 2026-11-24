@@ -13,7 +13,7 @@ This page focuses on P2 — the medium, the subject, experience — and names th
 
 **P2 — Language is the medium through which a subject experiences reality.**
 
-[Heidegger](/positioning/persons/h/heidegger/)'s observation stands at the entrance: we are always already in the world. There is no moment before immersion — no subject that first exists and then acquires a meaningful world. The observation states a fact and leaves a question standing: how?
+P2 sets the entrance: a subject is in the medium from the start, always already in the world. There is no moment before immersion — no subject that first exists and then acquires a meaningful world. The principle states a fact and leaves a question standing: how?
 
 P2's gloss carries the beginning of the answer. Experience requires accumulation; a subject's reality is the totality of what has been retained; knowledge is information the subject turns into concepts, and understanding the insight it gains from them. Retaining, accumulating, turning information into concepts, gaining insight — none of this happens by itself; a process is at work. So the principle can carry its naming: language is the medium through which a subject experiences reality — *and it happens with a process called cognition*. The definition: *cognition is the process of acquiring knowledge and understanding through experience* — held wide, not confined to minds. Each subject runs its own process, a specific way of going about the acquiring; the brain is the most familiar case, not the only one.
 
@@ -25,4 +25,4 @@ While the process runs, reality is disclosed to the subject. Disclosure is one o
 
 How the making-sense runs in any particular subject — in brains, in cell chemistry, in machines that learn, in whatever else holds the position — is contested territory with many accounts and no owner; the seed does not pick among them. That there is some process is all P2 requires.
 
-See [The seed and Historicity](/seed/historicity/) for the accumulation the process works in — retention, memory, the span. See [The seed and Human Reality](/seed/human-reality/) for the shared side — what sharing does with what cognition deposits.
+See [The seed and Historicity](/seed/historicity/) for the accumulation the process works in — retention, memory, the span. See [The seed and Human Reality](/seed/human-reality/) for the shared side — what sharing does with what cognition deposits. The field's voices on the process are read in [Cognition and Core Philosophy](/positioning/seed/cognition/).

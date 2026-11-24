@@ -19,7 +19,7 @@ Three independent languages arrive at the same observation. The position's own: 
 
 Combine with the subject's access: reality reaches the subject only through the relational. Partial access. No outside view. The power is there in full; access is always partial. What follows: what we call creation is the walking of a relational path the medium held as possible but no one had walked yet.
 
-The distinction the account turns on: the *possibility* pre-exists — the path available, the medium ready — but the walked path is not a finished thing waiting to be found. It comes into reality in the walking, not before it. Both characters hold at once. From the side of what was possible, nothing was conjured from outside; from the side of the subject, something genuinely new has come into being. The newness is real. The power it draws on is not new.
+The distinction this rests on (the possibility pre-exists, the walked path comes into reality in the walking) is the seed's: see [The seed and Discovery](/seed/discovery/).
 
 ## Diversified discovery
 
