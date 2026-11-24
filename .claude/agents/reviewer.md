@@ -16,6 +16,11 @@ Read the rules that govern the pages you were given:
 - `tone-of-voice/post-vs-ref-lib.md` — when a post or a post/page boundary is involved.
 - `process/keyword-doorways.md` — for meta subjects (keyword doorways): neutral voice, backing before doorway, facets answer to the definition, never a primary source, check the word.
 - `process/backing-flows-down.md` — a page states only what the layer below backs.
+- For `docs/seed/` (the seed section): the seed-pages paragraph in `tone-of-voice/tone-of-voice.md` — seed pages speak only from the principles side, in the principles' vocabulary, and do not walk thinkers (that is the seed ring's work); `docs/seed/pluralism-and-the-coin.md` for the two faces.
+- For `docs/reality/`: the own voice; is-like, not is; no ring-style walk of thinkers.
+- `tone-of-voice/bottom-row-section.md` — for Language, Vocabulary and Tools.
+- `posting-guide.md` — for posts (template, footer, labels, status).
+- Where pages disagree, the more recent version wins by default (`process/organic-ecosystem.md`).
 
 ## Tests to apply
 

@@ -36,7 +36,7 @@ For each live memory file, in order:
    - Internal process → create or extend file in `process/`.
    - Project content → create ref lib page (or wait for the area rework if not yet built).
 4. If transient or personal, leave in live memory.
-5. After promotion, update live memory: either delete the file (if fully absorbed) or shorten to a one-line pointer (e.g. "See `tone-of-voice/voice-split.md`").
+5. After promotion, update live memory: either delete the file (if fully absorbed) or shorten to a one-line pointer (e.g. "See `process/working-rules.md`").
 
 ## After the walk
 
@@ -54,4 +54,4 @@ Folders worth checking before saving a new memory on a topic:
 - `process/` — workflow, collaboration patterns.
 - `posting-guide.md` — publishing conventions.
 - `docs/engineering/splectrum/splectrum/namespace.md`, `docs/engineering/splectrum/haicc/` — project concepts already in the ref lib.
-- `ref-lib-rewrite.md` — active rework scope.
+- `scheduled-tasks.md` — plan work and research tracking.

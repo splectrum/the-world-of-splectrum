@@ -16,7 +16,7 @@ Google's [Search Quality Rater Guidelines](https://static.googleusercontent.com/
 
 ### Three profiles
 
-**Ref lib (canonical):** Single narrator persona. All external and internal standards apply in full. Touchstone discipline over comprehensive. "Is like" not "is". A piece is publishable when no applicable cell scores below 3 and the SPLectrum block is High. Below 3 on Trust or Stays-in-type is blocking.
+**Ref lib (canonical):** Single narrator persona. All external and internal standards apply in full. Touchstone discipline over comprehensive. "Is like" not "is". A piece is publishable when no applicable criterion scores below 3. Below 3 on Trust or Stays-in-type is blocking.
 
 **Topnav (lightweight):** Author voice. Confidence allowed. The check is honesty vs performance — no slogan-creep, no humble-bowing, no promotional tics. Expertise and Authoritativeness omitted; ref-lib standing-back does not apply.
 
@@ -73,7 +73,7 @@ Every published page should be discoverable by someone who doesn't yet know SPLe
 - Every `<img>` must have an `alt` attribute describing what the image shows.
 
 ### Sitemap
-- Every new page gets `lastmod` in frontmatter at creation. Both sitemaps auto-generate from it.
+- Every new page gets `lastmod` in frontmatter at creation. The sitemaps (site, library, blog) generate from it automatically.
 
 ### What not to do
 - Don't write for search engines at the expense of the reader — tone-of-voice principles take precedence.

@@ -11,6 +11,22 @@ Every page gets reviewed when it is done — a new page, or a rework of an exist
 4a. **Then the ripple.** The site evolves by refinement: each new page or iteration should refine the positions that existing pages already hold. The review's outward look names the existing pages (subjects, affinity rings, reality pages, other persons) that now say less than, or something at odds with, what the new material carries; those refinements go through step 4 like any other finding and are made in the same round, not left as leftovers. A refined page then gets its own cold review before the commit (Jules, 2026-11-21, on the Henry, Stein and Zahavi pages).
 5. **Then commit.** Before every commit, check the front matter again against the text as it now stands, including Jules's own last edits: `description` (its wording, not only its content: a change in the body such as "we" to "one" carries over), `words`, `lastmod`. Front matter is Claude's responsibility. Bring it up to date before the commit without asking and say what changed; never commit with a mismatch flagged as an open question (Jules, 2026-11-17, on the Thermodynamics post).
 
+## Who applies what
+
+| What | Who decides | Who applies |
+|---|---|---|
+| Posts (drafted or published) | Jules: his voice and dated records; touched only on his word (`process/drafted-posts.md`). Factual errors are reported, with the smallest fix | Claude, on his word |
+| Seed, reality, ring pages (SPLectrum's voice) | Factual fixes: Claude. Wording that interprets: Jules, one point at a time | Claude |
+| Person and subject pages (neutral reference) | Claude, under the guidance; unclear aspects discussed | Claude, saying what was done |
+| Rule documents (`process/`, `tone-of-voice/`, guides, agents) | The rule: agreed together. Keeping the repo consistent with it: Claude, unasked (`process/organic-ecosystem.md`) | Claude |
+| Deleting files or pages | Jules, explicitly (`process/working-rules.md`) | Claude, on his word |
+| Planning files (`scheduled-tasks.md`) | Finished items are removed outright (`process/remove-completed.md`) | Claude |
+| Commits | Jules's word | Claude |
+
+## Sweeps
+
+A consistency sweep (one rule applied across many pages) is not a page done: there is no per-page cold review, `lastmod` stays unchanged, and the sweep is checked by grep and a sample read, then reported page by page. A sweep that rewrites a passage or changes what a page holds makes that page a rework, and the order above applies to it.
+
 ## Why
 
 The front matter is part of the page: it is what search results and link previews show before anyone reads the body. Reviewing a page whose description still describes the old version reviews the wrong thing — the reviews of Start Here and About (2026-10-12/13) both found descriptions that no longer matched the rewritten pages.

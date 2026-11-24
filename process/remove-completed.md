@@ -8,6 +8,6 @@ Planning files are forward-looking. Keeping completed items around clutters the 
 
 ## How to apply
 
-After marking anything done, remove it from the planning file in the same edit. When the planning file's track is closed, promote any still-useful framing into its durable home (tone-of-voice, process, README, ref lib) and delete the file. This applies to `scheduled-tasks.md`, `plan/positioning-entries-needed.md`, and any future tracking doc.
+After marking anything done, remove it from the planning file in the same edit. When the planning file's track is closed, promote any still-useful framing into its durable home (tone-of-voice, process, README, ref lib) and delete the file. This applies to `scheduled-tasks.md` and any other tracking doc.
 
 **Exception:** if a completed step produces durable context needed for next steps (e.g. a decision record), move that context into the relevant remaining section rather than leaving the "done" entry as its host.

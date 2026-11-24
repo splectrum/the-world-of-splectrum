@@ -54,6 +54,7 @@ words: NNN
   - **formalisation** — formal approaches to the seed as an umbrella: category theory first, physics-of-meaning and kin later.
   - **seed** / **reality** / **creativity** / **language** — the core storylines: the principles, the metaphysics, the generative value, the language work.
   - **preamble** — posts from before SPLectrum; closed, do not add.
+  - **A person post or a close-affinity page.** They are different instruments: the post is the author's voice on the person and the work; a close-affinity page is a structural resonance reading. Default to the post, which links down to the person page; a close-affinity page is earned only by a reading the hub cannot hold and that is singular to that thinker (2026-07-15).
   - A new series must earn its place — prefer an existing series or no series over minting one. The registration points are the label page, the label index, and the two hardcoded series lists (`blog-entries.html`, `post.html`).
 
 Filename: `YYYY-MM-DD-slug.md` in `docs/_posts/`.
@@ -297,7 +298,7 @@ The sitemaps are section sitemaps, each bringing one type of content together, l
 
 **Adding a section sitemap:** create `sitemap-<name>.xml` with a URL-prefix test, add the same prefixes to the `unless` in `sitemap-site.xml`, list the file in `sitemap.xml` and in the required files of `publish.sh`.
 
-**When editing a page or post:** bump `lastmod: YYYY-MM-DD` in the frontmatter only for a substantial update: new material, a rewritten passage, a section added or removed, a changed position. Leave it alone for typo and wording fixes, link fixes, a sentence trimmed, or a reference added in passing. Crawlers use lastmod to prioritise re-crawl, so a date that moves on every small touch tells them nothing.
+**When editing a page or post:** bump `lastmod: YYYY-MM-DD` in the frontmatter only for a substantial update: new material, a rewritten passage, a section added or removed, a changed position. Consistency sweeps across many pages leave it alone (`process/page-done.md` § Sweeps). Leave it alone for typo and wording fixes, link fixes, a sentence trimmed, or a reference added in passing. Crawlers use lastmod to prioritise re-crawl, so a date that moves on every small touch tells them nothing.
 
 **New pages** get `lastmod` in their frontmatter on creation (today's date). No manual sitemap edits needed — the template picks them up automatically.
 

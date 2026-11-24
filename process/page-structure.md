@@ -12,11 +12,18 @@ This doc covers structure only. The voice discipline these pages follow — outs
 4. **Intro paragraph**: what the thinker did and why it matters, in their own terms. Let the thinker speak first — no seed connection, no quiet pointer, no SPLectrum vocabulary, no P-tags. Report the work, don't adjudicate it ("argued", "developed an account of", not "established", "proved"). Internal links to other persons and related subjects
 5. **Biographical paragraph**: external SEP link, life and career, one paragraph
 6. **Key concepts**: bold term + explanation, one paragraph each. Outside voice — no seed references
-7. **Closing sections** ("where X stops"): synthesis work, not lifted from research — name what the thinker's own framework leaves unaddressed and the boundary that draws. Frame it as the thinker's own boundaries, not as the gap with SPLectrum. Deficit-naming ("X didn't reach Y"), not recharacterisation ("what X reached is less than it appears"). No P-tags, no seed vocabulary; keep it compact
+7. **Closer** (optional, "where X stops"): only when there is something worth carrying, and then only in one of the two safe modes in `tone-of-voice/positioning-section.md` (a named presser of the gap, or a tension in the thinker's own work). Never an absence stated in page voice; never the gap with SPLectrum. No P-tags, no seed vocabulary; keep it compact
 8. **Key works**: list with Wikipedia links, at the end before See also
 9. **See also**: only pages in direct relation to what this page says, never links found by looking for neighbours. If nothing relates directly, there is no See also. Within-positioning only — persons and subjects. No SPLectrum-side or blog links. The criteria are in `tone-of-voice/positioning-section.md` § See also on person/subject pages
 
 Reference: [Wittgenstein](/docs/positioning/persons/w/wittgenstein.md), [Rorty](/docs/positioning/persons/r/rorty.md)
+
+### Conventions across person pages
+
+- **Vocabulary boundary.** Terms a sister tradition already in the positioning section uses on its own (CAS's "adaptive agent" on an ecologist's page) are fine; bespoke SPLectrum vocabulary (P-tags, seed terms, retention as SPLectrum uses it) is not. Test: does the term exist independently in the tradition it comes from? Watch for clusters of individually harmless words that together carry the framework's fingerprint.
+- **Co-authored work.** One page carries the full treatment of a shared contribution, the other points to it and develops its author's distinct work (spandrels: Lewontin carries, Gould points; punctuated equilibrium: Gould carries, Eldredge points; island biogeography: MacArthur carries, Wilson points).
+- **Locus pages for debates.** Where a contested debate has a page that treats it substantively, other pages touching it link there rather than characterising it afresh (group selection: the D. S. Wilson page; the Mendelian–biometrician debate: the integration-with-genetics subject page).
+- **Contested legacy.** Voice the question substantively, the critics with their argument and the defenders with theirs; separate the contribution from the contested part; do not adjudicate. Several contested claims are each given their own reception status (the Margulis page). When a new page voices a debate an existing page doesn't reciprocate, the existing page picks up the connection.
 
 ## Subject page
 

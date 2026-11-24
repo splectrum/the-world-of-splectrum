@@ -1,21 +1,20 @@
 # Local Jekyll server
 
-The local site runs in a Docker container using the `jekyll/jekyll:pages` image. It needs two fixes at startup: `webrick` (removed from Ruby 3 stdlib) and `PAGES_REPO_NWO` (the container can't see the host git remote since only `docs/` is mounted).
+The local site runs in a Docker container using the `jekyll/jekyll:pages` image. It needs `webrick` installed at startup (removed from the Ruby 3 standard library).
 
 ## Start
 
 ```
-docker run --rm -d --name jekyll-tws \
+docker run -d --name jekyll-tws \
   -p 4000:4000 -p 35729:35729 \
-  -e PAGES_REPO_NWO=splectrum/the-world-of-splectrum \
   -v "/home/herma/splectrum/the-world-of-splectrum/docs:/srv/jekyll" \
-  --entrypoint sh jekyll/jekyll:pages \
-  -c "gem install webrick --no-document && jekyll serve --future --livereload --host 0.0.0.0"
+  jekyll/jekyll:pages \
+  bash -c "gem install webrick && jekyll serve --watch --force_polling --future"
 ```
 
-- `--future` shows all scheduled (future-dated) posts, not just published ones.
-- `--livereload` auto-refreshes the browser on file changes.
-- Site serves at http://localhost:4000/.
+- `--future` shows all scheduled (future-dated) posts, not just published ones; the production build (`./publish.sh`) holds them back.
+- `--watch --force_polling` rebuilds on file changes (polling is needed on the WSL-mounted drive).
+- Site serves at http://localhost:4000/. A full rebuild takes about 35 seconds.
 
 ## Stop
 

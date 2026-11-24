@@ -35,6 +35,8 @@ First full cold review of the site and repo. Eight reviewers: persons A–G, H�
 - **C (research round, 2026-11-23):** fact flags checked by six research agents and applied to ~70 neutral pages, then two cold reviews applied: four deaths (Searle, MacIntyre, Vrba, Ghiselin), Fisher, Foot, Fichte, Bertalanffy, the turnover pulse (Vrba's), Simard's invented citation, Smolin's credits, Taylor's *Sources* facets, Langton/Wolfram, Hamilton–Zuk, assembly-theory roles, Spinoza/Hegel, Eddington's "time's arrow", Landauer (erasure), Boltzmann's fluctuation answer, Kuhn on progress, and ~24 backing fills (definitions of life, languaging, heteroglossia, linguisticality, tychism/synechism and others). Undated persons carry no dates (Mitchell, Henrich). Smolin's 2026 Perimeter pause left out as a side issue (Jules).
 - **After the research round (decided):** core-values ring reads Taylor across *Sources* and "The Politics of Recognition", mapping marked as a reading; evolution curve corrected (quantum-to-chemistry undated base, ~4 Ga life, hominin line, 50–100 ka); Husserl's "cautious" dropped; Landauer's erasure cost placed at the reset of the ready state; the hurricane scores like the rock; post facts fixed (10-20, 09-28, 05-10, 08-12, RQM facts/Bohm), triune brain stands as phases, Copenhagen line stands. Unverifiable, left in place: Carroll and Prigogine quotations, the Red Queen quote.
 - **A2 (seed against the coin):** the more recent version wins where pages or rules disagree; seed pages speak only from the principles side, in the principles' vocabulary, and relating the principles to thinkers is the seed ring's work (recorded in organic-ecosystem and tone-of-voice). Own-experience page (formerly privacy) reworded and its thinker walk removed; cognition and historicity rewritten from P2 (historicity's walk moved into From Arrow to Historicity); the philosophical seed moved to the seed ring with a 301; Reality intro reads other accounts rather than hosting them; 101 P2 framed agnostically; discovery's shared distinction kept on the seed page, reality discovery points to it.
+- **A3 (category theory as identity):** parked until category theory is taken up as its own piece of work; the seed CT page, the language page's "a language is a category" and the coin's metalanguage against "no language sits above as meta" are dealt with then.
+- **A8 (threshold or gradient):** parked; the historicity position is not yet settled. Pages carrying it when it is taken up: from-arrow-to-historicity line 50 ("conditions not universally met") against its own open question; seed historicity ("Without retention… no experience"); the reality index ("no discontinuities across subject types"); the 101 ("a stone in the sun"); seed-ring semantic information.
 
 ## A. Position questions — to discuss with Jules
 
@@ -58,18 +60,10 @@ These gate other work. Ordered by how much depends on them.
 
 ## B. Consistency work — Claude's to apply (saying what was done)
 
-**Rules and repo**
-- page-structure.md item 7 still teaches the forbidden closer ("name what the framework leaves unaddressed"); memory `feedback_person_page_craft` and its MEMORY line likewise. Replace with a pointer to positioning-section.
-- ~15 working rules live only in memory (commit on word; never delete without asking; yes-but; docs standalone; groundwork; blocked sources; seed reserved; absolute links; blog links top row; person-page craft points; post-vs-page policy; pillar territory test). Move to repo homes.
-- One statement of link direction once A4 is settled; align page-structure, memory, reviewer test.
-- Who-applies-what table in page-done (posts / reference pages / rule documents / deletion), resolving drafted-posts vs page-done step 5 vs equal-standing-collaborator vs remove-completed.
-- A sweeps clause in page-done (how reviewed; lastmod stays for consistency sweeps) and adjust the posting guide's "substantial" sentence.
-- Stale files: rework-vs-research (closed phase), vocabulary-shadow-extraction (/vocabulary/site/ gone), local-jekyll (command not what runs), check-before-commit ("commit pushes live" no longer true), real-life-section tone file (describes a section that no longer exists — rewrite after the concept is agreed), standards rubric (cells/SPLectrum block undefined; "both sitemaps"), memory-maturation and remove-completed cite missing files.
-- scheduled-tasks: order of work stale (11-08); done annotations; metaphilosophy closed item; keyword-doorways inventory drift; finished submissions (ask before deleting).
-- Working notes: [C] means "Claude's suggestion" in captures and "checked" in research notes — rename one; one convention file for notes.
-- A short root CLAUDE.md as an index to the rules (the map now lives in live memory, with errors).
-- Agents: reviewer reading list beyond positioning; researcher's three marks and note location.
-- Memory: delete two resolved project files, fix stale lines and wrong references.
+**Rules and repo** (done 2026-11-24: page-structure closer; memory-only rules into `process/working-rules.md`, posting guide and positioning-section; one link-direction statement; who-applies-what and sweeps in page-done; check-before-commit, local-jekyll, memory-maturation, remove-completed, standards fixed; `process/working-notes.md`; root `CLAUDE.md`; reviewer and researcher reading lists; memory index.) Left:
+- Delete on Jules's word: `process/rework-vs-research.md` (closed phase), `process/vocabulary-shadow-extraction.md` (/vocabulary/site/ gone); two resolved memory files (drafts on hold, psychology facet).
+- real-life-section tone file: rewrite after the section concept is agreed.
+- scheduled-tasks: the order of work (state 11-08) to be restated by Jules; keyword-doorways inventory drift; finished submissions (ask before deleting).
 
 **SPLectrum surfaces**
 - Wider-landscape redefinition (10-07) carried to the landing, the positioning index ("Three rings"), and the SPL Positioning vocabulary ("Resonance and dissonance… SPLectrum takes part when a piece carries a mix of both"). The coloured report's missing opening paragraph is content (to Jules).
