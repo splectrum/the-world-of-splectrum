@@ -2,7 +2,7 @@
 layout: default
 lastmod: 2026-11-21
 title: "The three core values"
-description: "The three core values, belonging, privacy and creativity, as a philosophical triad: four thinkers who hold all three, and each value in depth."
+description: "The three core values, belonging, privacy and creativity, as a philosophical triad: four thinkers in whom all three surface, and each value in depth."
 ---
 
 [Home](/) > [Positioning](/positioning/) > [Close affinity](/positioning/close-affinity/) > The three core values
@@ -11,17 +11,17 @@ description: "The three core values, belonging, privacy and creativity, as a phi
 
 SPLectrum's metaphysics starts from three values disclosed from the subject's lived situation: belonging (what is mine living also in others), privacy (what I experience is internal to me), creativity (the tension between what is shared and what is privately mine). They are not a foundation but a stance — stand in them and a world comes into view.
 
-The tradition carries the three in different combinations. Four thinkers hold something like all three together, each from a different starting point; most develop one value in depth. The landscape below walks both: the four analogues, then each value across the traditions that carry it.
+The tradition carries the three in different combinations. In four thinkers something like all three surfaces together, each from a different starting point; most develop one value in depth. The landscape below walks both: the four analogues, then each value across the traditions that carry it.
 
 ---
 
-## The analogues — four thinkers who hold all three
+## The analogues — four thinkers in whom all three surface
 
-### Taylor — three axes of modern identity
+### Taylor — inwardness, recognition, expression
 
-[Charles Taylor's](/positioning/persons/t/taylor/) *Sources of the Self* (1989) traces three axes of modern identity: inwardness (the self has depth, an interior to be explored and expressed), the dialogical self (identity formed through shared language and recognition), and authenticity (the demand to be true to one's own originality). The mapping is close: inwardness rhymes with privacy, the dialogical self with belonging, authenticity with creativity.
+[Charles Taylor's](/positioning/persons/t/taylor/) *Sources of the Self* (1989) traces facets of modern identity, among them inwardness (the self as having inner depths) and the expressivist idea of nature as an inner source, a voice within that has to be articulated to have force. "The Politics of Recognition" (1992) adds that identity is formed in dialogue with others and depends on their recognition. Taylor sets out no triad; read across the two works, inwardness rhymes with privacy, dialogical identity and recognition with belonging, expression with creativity.
 
-Taylor's project is genealogical — a history of how the modern West came to live selfhood this way, the three axes a historical achievement traced through its sources, and the scope the human language animal by design.
+Taylor's project is historical — an account of how the modern West came to live selfhood this way, and its scope is the human language animal by design.
 
 ### Whitehead — Creativity, Many, One
 
@@ -91,7 +91,7 @@ Bakhtin holds the three as features of how language works — of the utterance, 
 
 The three values arrive separately across the tradition. Belonging is carried by the dialogical and communitarian thinkers (Buber, Levinas, Heidegger, MacIntyre, Sandel); privacy by the phenomenologists and philosophers of subjectivity (Merleau-Ponty, Levinas's interiority, Zahavi's for-me-ness, and Nagel for the irreducible point of view it rests on); creativity by the process philosophers and the theorists of social imagination (Whitehead, Bergson, Castoriadis, Arendt, James, Deleuze). Each strand carries its value with depth and precision.
 
-Four thinkers hold something like all three at once, each through a different material: Taylor through a genealogy of the modern self, Whitehead through a cosmology, Nishida through the self-aware act, Bakhtin through the working of language. That the triad surfaces whole in materials this far apart — history, cosmos, act, utterance — is the resonance: the three tend to arrive together wherever thought takes up the subject among others.
+In four thinkers something like all three comes together, each through a different material: Taylor across his history of the modern self and his politics of recognition, Whitehead through a cosmology, Nishida through the self-aware act, Bakhtin through the working of language. That the three surface together in materials this far apart — history, cosmos, act, utterance — is the resonance: the three tend to arrive together wherever thought takes up the subject among others.
 
 Held together as a stance — belonging gives shared language, privacy gives something to express, creativity is the act of expression — the three bring a world into view: thick (privacy), porous (belonging), unfinished (creativity).
 
