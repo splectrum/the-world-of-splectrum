@@ -61,7 +61,6 @@ These gate other work. Ordered by how much depends on them.
 ## B. Consistency work — Claude's to apply (saying what was done)
 
 **Rules and repo** (done 2026-11-24: page-structure closer; memory-only rules into `process/working-rules.md`, posting guide and positioning-section; one link-direction statement; who-applies-what and sweeps in page-done; check-before-commit, local-jekyll, memory-maturation, remove-completed, standards fixed; `process/working-notes.md`; root `CLAUDE.md`; reviewer and researcher reading lists; memory index.) Left:
-- Delete on Jules's word: `process/rework-vs-research.md` (closed phase), `process/vocabulary-shadow-extraction.md` (/vocabulary/site/ gone); two resolved memory files (drafts on hold, psychology facet).
 - real-life-section tone file: rewrite after the section concept is agreed.
 - scheduled-tasks: the order of work (state 11-08) to be restated by Jules; keyword-doorways inventory drift; finished submissions (ask before deleting).
 
