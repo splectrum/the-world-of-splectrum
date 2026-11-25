@@ -361,7 +361,7 @@ Reference pages (e.g. the infrastructure hub) end with a **Sources** block point
 Creating a page is only half the job. The figure was almost always already mentioned elsewhere — as plain text or an external Wikipedia link — and those mentions should now point inward. After adding a person/subject page:
 - `grep` the whole `docs/` tree for the name (and surname variants). Convert the **first mention** on each page from plain text / external link to an internal link; leave later mentions on the same page unlinked.
 - Don't forget bold-name list entries on subject pages (e.g. structuralism's "**Roland Barthes** extended…") and inline prose on *other person pages* (e.g. Kreps naming his Kafka co-creators).
-- Add the new figure to the relevant subject pages' **Persons** row and, where they're a genuine neighbour, to **See also** — and add reciprocal See-also links back from related person pages.
+- Add the new figure to See also only on pages that discuss them without linking them in the body (`tone-of-voice/positioning-section.md` § See also on person/subject pages); no reciprocal See-also links by default.
 - Skip kw spans (index keyword text), `description:` frontmatter, and second mentions — those stay plain.
 - Then verify: every internal link resolves to a file, and any external link used for a still-pageless figure returns 200 (drop to plain text if the Wikipedia article 404s, per the no-broken-links rule).
 

@@ -14,7 +14,7 @@ This doc covers structure only. The voice discipline these pages follow — outs
 6. **Key concepts**: bold term + explanation, one paragraph each. Outside voice — no seed references
 7. **Closer** (optional, "where X stops"): only when there is something worth carrying, and then only in one of the two safe modes in `tone-of-voice/positioning-section.md` (a named presser of the gap, or a tension in the thinker's own work). Never an absence stated in page voice; never the gap with SPLectrum. No P-tags, no seed vocabulary; keep it compact
 8. **Key works**: list with Wikipedia links, at the end before See also
-9. **See also**: only pages in direct relation to what this page says, never links found by looking for neighbours. If nothing relates directly, there is no See also. Within-positioning only — persons and subjects. No SPLectrum-side or blog links. The criteria are in `tone-of-voice/positioning-section.md` § See also on person/subject pages
+9. **See also**: only pages in direct relation to what this page says, never links found by looking for neighbours, and not pages the body already links. If nothing relates directly, there is no See also. Within-positioning only — persons and subjects. No SPLectrum-side or blog links. The criteria are in `tone-of-voice/positioning-section.md` § See also on person/subject pages
 
 Reference: [Wittgenstein](/docs/positioning/persons/w/wittgenstein.md), [Rorty](/docs/positioning/persons/r/rorty.md)
 

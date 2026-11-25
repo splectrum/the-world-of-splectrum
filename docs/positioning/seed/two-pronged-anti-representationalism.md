@@ -19,7 +19,7 @@ The diagnostic move is in *The Concept of Nature* (1920). The bifurcation of nat
 
 What he builds in its place is the [philosophy of organism](/positioning/subjects/p/philosophy-of-organism/) — a speculative metaphysics in which the split never opens because relations are constitutive of what anything is. The apparatus of *Process and Reality* (1929) — actual entities, prehension, concrescence — is built so that nothing stands outside its relations. There is no primary substrate of mind-independent qualities for science to mirror; there are only actual occasions, each one constituted by how it takes account of others.
 
-Whitehead's metaphysics stays on the being side. An account of what is needs an organising principle. Whitehead's God is that principle — the primordial ordering of all possibilities, from which each actual occasion receives its initial aim. The God-view is structural to the metaphysical project, not a contingent residue.
+Whitehead's metaphysics stays on the being side. An account of what is needs an organising principle. Whitehead's God is that principle — the primordial ordering of all possibilities, from which each actual occasion receives its initial aim. On Whitehead's own account the God-view is structural: without it "there could be nothing new in the world, and no order in the world."
 
 ---
 

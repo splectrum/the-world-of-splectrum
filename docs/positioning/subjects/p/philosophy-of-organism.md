@@ -77,13 +77,13 @@ Harman has argued that there is a substantive divide within the contemporary rev
 
 ## Key works
 
-- [*The Concept of Nature*](https://en.wikipedia.org/wiki/The_Concept_of_Nature) (1920) — the diagnostic move: the bifurcation of nature
-- [*Science and the Modern World*](https://en.wikipedia.org/wiki/Science_and_the_Modern_World) (1925) — the fallacy of misplaced concreteness
+- *The Concept of Nature* (1920) — the diagnostic move: the bifurcation of nature
+- *Science and the Modern World* (1925) — the fallacy of misplaced concreteness
 - [*Process and Reality*](https://en.wikipedia.org/wiki/Process_and_Reality) (1929; corrected edition, ed. Griffin and Sherburne, Free Press, 1978) — the full speculative system
-- [*Adventures of Ideas*](https://en.wikipedia.org/wiki/Adventures_of_Ideas) (1933) — the system applied to civilisation, history, and value
+- *Adventures of Ideas* (1933) — the system applied to civilisation, history, and value
 - *Modes of Thought* (1938) — late synthesis, more accessible than *Process and Reality*
 - Cobb and Griffin, *Process Theology: An Introductory Exposition* (1976) — the standard theological introduction
-- Stengers, [*Thinking with Whitehead*](https://en.wikipedia.org/wiki/Thinking_with_Whitehead) (2002 / English 2011) — the continental-scholarly reading
+- Stengers, *Thinking with Whitehead* (2002 / English 2011) — the continental-scholarly reading
 - Shaviro, *Without Criteria* (2009) — Whitehead alongside Deleuze
 - Gaskill and Nocek, eds., *The Lure of Whitehead* (2014) — map of the contemporary revival
 

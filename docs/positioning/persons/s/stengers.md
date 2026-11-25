@@ -71,7 +71,7 @@ Sole-authored or with other collaborators:
 - *L'Invention des sciences modernes* (1993) / *The Invention of Modern Science* (2000) — constitutive practices of the modern sciences
 - [*Cosmopolitiques*](https://en.wikipedia.org/wiki/Cosmopolitics) (7 vols, 1996–97) / *Cosmopolitics I & II* (English 2010, 2011) — ecology of practices, the cosmos as construction
 - *Power and Invention: Situating Science* (English 1997)
-- *Penser avec Whitehead* (2002) / [*Thinking with Whitehead*](https://en.wikipedia.org/wiki/Thinking_with_Whitehead) (English 2011) — Whitehead's constructivism, the free and wild creation of concepts
+- *Penser avec Whitehead* (2002) / *Thinking with Whitehead* (English 2011) — Whitehead's constructivism, the free and wild creation of concepts
 - *La Sorcellerie capitaliste* (with P. Pignarre, 2005) / *Capitalist Sorcery* (English 2011) — infernal alternatives, breaking the spell
 - *Au temps des catastrophes* (2009) / *In Catastrophic Times* (English 2015) — resisting barbarism in the face of catastrophe
 - *Une autre science est possible!* (2013) / *Another Science is Possible* (English 2018) — manifesto for slow science

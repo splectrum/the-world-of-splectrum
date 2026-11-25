@@ -133,16 +133,17 @@ The strategy, the rules and the keyword inventory are in `process/keyword-doorwa
 
 ## See also on person/subject pages
 
-Only pages in direct relation to what the page itself says (Jules, 2026-11-23):
+Only pages in direct relation to what the page itself says (Jules, 2026-11-23; narrowed 2026-11-25):
 
 - the subjects the page belongs to;
-- persons and subjects the page actually discusses, or with a plain relation a neutral reader would recognise — teacher, rival, co-author, the tradition;
+- persons and subjects the page actually discusses;
+- not pages the body already links: See also holds what the body does not reach, on person and subject pages alike;
 - no neighbours by affinity: nothing listed only because SPLectrum reads the two together;
 - a soft limit of about six entries.
 
 Do not go looking for links, and do not list pages only because they relate to pages the body links to. Within-positioning interlinking only.
 
-Links flow one way only: reality → affinity rings → subjects → persons, never up. "Up" means the SPLectrum side: inside the field, persons and subjects link to each other in both directions. A person page links to the subjects it belongs to (in the body at first mention, and in See also), just as a subject links to its persons. A person or subject page links **only** to other persons, subjects, or external references — never to the seed, the close-affinity or wider-landscape rings, or any other SPLectrum-side surface. Not woven into the See also, not as a separate sub-block, not as a quiet pointer. An upward link is a link-direction breach, not a formatting question — the same intrusion as SPLectrum vocabulary in the body, just wearing a hyperlink. The resonance rings link *down* to the person; the person does not link back up. Readers reach the SPLectrum-side reading from those rings, not from here.
+Links flow one way only: reality → affinity rings → subjects → persons, never up. "Up" means the SPLectrum side: inside the field, persons and subjects link to each other in both directions. A person page links to the subjects it belongs to (in the body at first mention, or in See also where the body does not link them), just as a subject links to its persons. A person or subject page links **only** to other persons, subjects, or external references — never to the seed, the close-affinity or wider-landscape rings, or any other SPLectrum-side surface. Not woven into the See also, not as a separate sub-block, not as a quiet pointer. An upward link is a link-direction breach, not a formatting question — the same intrusion as SPLectrum vocabulary in the body, just wearing a hyperlink. The resonance rings link *down* to the person; the person does not link back up. Readers reach the SPLectrum-side reading from those rings, not from here.
 
 Empty See also is acceptable, and is the right answer when nothing relates directly. Honest beats filler.
 

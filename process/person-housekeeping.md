@@ -10,7 +10,7 @@ Person pages make information available to SPLectrum, so the site is self-contai
 4. **What relies on the page.** List everything that points to it — posts, rings, reality, seed, subjects, the 101 — and what each uses. Material something relies on is not cut.
 5. **Accuracy.** Dates and living status, birth years (sourced or absent, never inferred), attributions, and quotations checked at source or attributed to a named secondary source.
 6. **One home per story.** A debate told on several pages is told once, on the page where it lives; the others point there (`process/page-structure.md` § Conventions across person pages).
-7. **The link network.** Who links to the person (and whether nothing does); internal links where pages exist; labels that name their target; same-surname slugs checked; See also supported by the body.
+7. **The link network.** Who links to the person (and whether nothing does); internal links where pages exist; labels that name their target; same-surname slugs checked; See also supported by the body and not repeating its links.
 8. **Against the rules.** The tone of voice and the positioning rules: the field's voice, no SPLectrum vocabulary, no page-voice verdicts or self-narration, closer only in its safe modes, headlines not details.
 9. **Index entry and front matter** match the page: label, keywords, dates, description.
 10. **Does the person still earn a page?** Raised with Jules for discussion when doubtful, never decided alone (positioning-section, on who earns a person page).
@@ -24,3 +24,9 @@ Person pages make information available to SPLectrum, so the site is self-contai
 5. **Report** to Jules per batch: what changed, what needs his call (content, who earns a page, sources to fetch). Commit on his word.
 
 A first batch is a pilot: review it with Jules before widening the batch size or handing editing to agents.
+
+## Learned from the pilot (Whitehead, 2026-11-25)
+
+- **Quote with context.** The research note gives each quotation with the sentences around it in the source, not only its words. A passage can be verbatim and still misplaced: the pilot's "It is an example of…" referred, in the source, to a different error than the page made it define.
+- **Check the Wikipedia links.** Research checks every external link on the page, Key works included; three of five were broken in the pilot. A work without an article stays plain text.
+- **A lead rebuild is shown first.** A rebuilt lead goes to Jules written out before it goes on the page, together with the body backing it needs.
