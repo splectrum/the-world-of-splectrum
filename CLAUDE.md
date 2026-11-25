@@ -22,6 +22,7 @@ The site is a Jekyll site under `docs/` (live at https://splectrum.world). This 
 - `tone-of-voice/post-vs-ref-lib.md` — posts against reference pages.
 - `tone-of-voice/standards.md` — quality rubric and SEO.
 - `process/page-structure.md`, `process/keyword-doorways.md`, `process/backing-flows-down.md`, `process/a-z-structure.md` — page structure and building.
+- `process/person-housekeeping.md` — the recurring upkeep of person pages (subjects to follow).
 
 ## Publishing
 

@@ -231,6 +231,10 @@ The structure is doing its job if each familiar confusion comes apart into branc
 - Persons (for discussion, not decided): Guest, van Rooij, Rumelhart, Hinton, Bender, Perez, Andy Clark (note: the slug `clark` is James Clark).
 - The cognition subject currently has philosophy, psychology and neuroscience branches but, judging by its URLs, no computational/AI branch.
 
+**Sources to consult in research**
+
+- [alignment.anthropic.com](https://alignment.anthropic.com/) — Anthropic's alignment research site (added 2026-11-25): a primary source for the alignment and interpretability work of an AI developer, relevant to the technology branch, mechanistic interpretability and the mind questions.
+
 **SPLectrum-side, later**
 
 - A reality-side treatment of AI drawing on §3.1.

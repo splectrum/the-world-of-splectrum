@@ -4,6 +4,8 @@ Plan work and research tracking. Drafted posts are not tracked here (`process/dr
 
 ## Recurring reviews
 
+- **Person housekeeping** (`process/person-housekeeping.md`) — batches of about five persons, most-relied-on first; the first batch is a pilot reviewed with Jules. Subjects follow after the person pilot, in `process/subject-housekeeping.md` (to write): one process, the person checks adapted as a shared core, and three sections: **ordinary subjects** (breadth as the main test, principals linked in the body, hub and pieces agree; a breadth round for the thin backing subjects, philosophy of science first, then pragmatism, structuralism, German idealism, process philosophy), **meta subjects** (the keyword doorways plus metaphysics, epistemology and pluralism: the pointer-layer test, the word test, SPLectrum-inspired arrangement with each section comprehensive; last in any cycle) and **technical subjects** (Avro, Kafka, Git, URI, XPath, DSL: current against the latest version or specification, exact, never trimmed; alongside the Engineering rework). Order: persons, ordinary subjects, meta subjects, technical subjects.
+
 - **Reading path** (`docs/real-life/spl/start-here/index.md`, part of the Real Life topic) — check when a new blog series starts or a section changes shape.
 
 ## Plan documentation
