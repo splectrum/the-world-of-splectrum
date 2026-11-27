@@ -1,6 +1,6 @@
 # Person housekeeping — keeping person pages relevant
 
-Person pages make information available to SPLectrum, so the site is self-contained (`tone-of-voice/positioning-section.md` § What person and subject pages are for). As the site evolves they need regular upkeep: the overview kept current, depth kept where it is useful, gaps filled where SPLectrum's pages lean on the person. This is the regular research update the positioning rules count on. It is recurring work, done person by person in small batches, not a one-off sweep. Subject pages follow the same pattern after the person pilot, in three kinds (ordinary, meta and technical subjects), with breadth in place of the person-and-work scope.
+Person pages make information available to SPLectrum, so the site is self-contained (`tone-of-voice/positioning-section.md` § What person and subject pages are for). As the site evolves they need regular upkeep: the overview kept current, depth kept where it is useful, gaps filled where SPLectrum's pages lean on the person. This is the regular research update the positioning rules count on. It is recurring work, done one person at a time, not a one-off sweep. Subject pages follow the same pattern after the person pilot, in three kinds (ordinary, meta and technical subjects), with breadth in place of the person-and-work scope.
 
 ## The checks, per person
 
@@ -17,13 +17,13 @@ Person pages make information available to SPLectrum, so the site is self-contai
 
 ## How it runs
 
-1. **Pick a batch** of about five persons. Order: the persons SPLectrum leans on most first (most inbound links from posts, rings, reality and seed); persons with no inbound link come last or are raised under check 10.
-2. **Research.** A research agent (`.claude/agents/researcher.md`) reads each page and everything that links to it, checks against sources, and writes one note per person under the checks above: what is current or wrong, what detail does not connect, which gaps SPLectrum's references open, what relies on what. Marks [C]/[U] (`process/working-notes.md`); blocked sources listed for Jules.
+1. **Pick the next person.** One person per round, so each page and its ripple get a real review and each round's lessons reach the next. Persons who share a story (a debate both pages tell) can be taken together as a pair or small group, raised with Jules first. Order: the persons SPLectrum leans on most first (most inbound links from posts, rings, reality and seed); persons with no inbound link come last or are raised under check 10.
+2. **Research.** A research agent (`.claude/agents/researcher.md`) reads each page and everything that links to it, checks against sources, and writes a note under the checks above: what is current or wrong, what detail does not connect, which gaps SPLectrum's references open, what relies on what. Marks [C]/[U] (`process/working-notes.md`); blocked sources listed for Jules.
 3. **Edit** from the note, under `process/working-rules.md` § Delegated editing: cut and replace, no rewording of claims without the source in hand, reliance checked before any cut, quotes stay quotes, exact stays exact. New material goes in from [C] findings only. `lastmod` moves when the page gains or loses substance (`posting-guide.md` § Sitemap lastmod).
 4. **Cold review** of the diffs by the reviewer agent; agreed fixes applied.
-5. **Report** to Jules per batch: what changed, what needs his call (content, who earns a page, sources to fetch). Commit on his word.
+5. **Report** to Jules per round: what changed, what needs his call (content, who earns a page, sources to fetch). Commit on his word.
 
-A first batch is a pilot: review it with Jules before widening the batch size or handing editing to agents.
+The first round (Whitehead) was the pilot. Editing stays in the main conversation; handing it to agents is a decision for Jules.
 
 ## Learned from the pilot (Whitehead, 2026-11-25)
 

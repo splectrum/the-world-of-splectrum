@@ -159,7 +159,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Hayek, Friedrich (1899–1992)](/positioning/persons/h/hayek/) · economist, political philosopher<span class="kw">the knowledge problem, spontaneous order, the price mechanism, the critique of central planning</span>
 - [Hazen, Robert (1948–)](/positioning/persons/h/hazen/) · mineralogist, astrobiologist<span class="kw">mineral evolution, evolutionary system of mineralogy, mineral ecology, assembly theory exchange</span>
 - [Hegel, Georg Wilhelm Friedrich (1770–1831)](/positioning/persons/h/hegel/) · philosopher<span class="kw">dialectic, sublation, determinate negation, historical development</span>
-- [Heidegger, Martin (1889–1976)](/positioning/persons/h/heidegger/) · philosopher<span class="kw">being-in-the-world, disclosure, Dasein, readiness-to-hand</span>
+- [Heidegger, Martin (1889–1976)](/positioning/persons/h/heidegger/) · philosopher<span class="kw">the question of being, Dasein, being-in-the-world, disclosure, technology</span>
 - [Heisenberg, Werner (1901–1976)](/positioning/persons/h/heisenberg/) · physicist<span class="kw">matrix mechanics, the uncertainty principle, the Copenhagen interpretation, nuclear physics</span>
 - [Henrich, Joseph](/positioning/persons/h/henrich/) · anthropologist<span class="kw">cumulative culture, the WEIRDest people, cultural evolution, the cultural brain, gene-culture coevolution</span>
 - [Henry, Michel (1922–2002)](/positioning/persons/h/henry/) · philosopher<span class="kw">radical immanence, life as self-revelation, material phenomenology, the subjective body, invisible community</span>

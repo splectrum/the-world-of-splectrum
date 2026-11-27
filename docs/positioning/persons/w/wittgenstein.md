@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-10-19
+lastmod: 2026-11-27
 title: "Ludwig Wittgenstein (1889–1951)"
 description: "Wittgenstein turned from logical structure to language games and forms of life — meaning is use, not representation."
 ---
@@ -26,6 +26,8 @@ The *Tractatus Logico-Philosophicus* (1921) proposed that language mirrors reali
 **Meaning is use.** *Philosophical Investigations* §43: "the meaning of a word is its use in the language." This opposes what Wittgenstein calls the Augustinian picture of language (§1) — the idea that words get their meaning by standing for objects.
 
 **Language games.** Wittgenstein introduces the term at §7 and gives a deliberately open-ended list at §23: "Giving orders, and obeying them — Describing the appearance of an object — Reporting an event — Speculating about an event — Forming and testing a hypothesis — ..." He adds: "the term 'language-game' is meant to bring into prominence the fact that the speaking of language is part of an activity, or of a form of life."
+
+**The ancient city.** "Our language can be seen as an ancient city: a maze of little streets and squares, of old and new houses, and of houses with additions from various periods; and this surrounded by a multitude of new boroughs with straight regular streets and uniform houses" (§18). The symbolism of chemistry and the notation of the infinitesimal calculus are, so to speak, "suburbs of our language"; and "how many houses or streets does it take before a town begins to be a town?"
 
 **Family resemblance.** §66–67: "Consider for example the proceedings that we call 'games'. ... What is common to them all? — Don't say: 'There must be something common' ... but look and see." What emerges is "a complicated network of similarities overlapping and criss-crossing: sometimes overall similarities, sometimes similarities of detail. I can think of no better expression to characterize these similarities than 'family resemblances'."
 

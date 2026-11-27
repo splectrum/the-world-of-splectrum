@@ -13,7 +13,7 @@ Marcuse argued that advanced industrial society produces a form of unfreedom tha
 
 ## Life
 
-Born in Berlin in 1898 into an assimilated Jewish family. He studied philosophy at Freiburg under [Husserl](/positioning/persons/h/husserl/) and [Heidegger](/positioning/persons/h/heidegger/), completing his habilitation with Heidegger in 1932. His early attempt to synthesise Heidegger's existential phenomenology with [Marx's](/positioning/persons/m/marx/) historical materialism was cut short by the Nazi seizure of power — and by Heidegger's embrace of the regime, which Marcuse never forgave.
+Born in Berlin in 1898 into an assimilated Jewish family. He studied philosophy at Freiburg under [Husserl](/positioning/persons/h/husserl/) and [Heidegger](/positioning/persons/h/heidegger/), writing a habilitation thesis under Heidegger, which Heidegger never approved; it was published in 1932, the year the two parted ways. His early attempt to synthesise Heidegger's existential phenomenology with [Marx's](/positioning/persons/m/marx/) historical materialism was cut short by the Nazi seizure of power — and by Heidegger's embrace of the regime, which Marcuse never forgave.
 
 He emigrated in 1933 and joined the [Frankfurt School](https://plato.stanford.edu/entries/critical-theory/) (the Institute for Social Research) in exile, alongside Horkheimer and Adorno. During the war he worked for the U.S. Office of Strategic Services (OSS) and the State Department, analysing German society and denazification. After the war he held academic positions at Columbia, Harvard, Brandeis, and finally the University of California, San Diego.
 
