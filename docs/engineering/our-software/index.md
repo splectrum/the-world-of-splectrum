@@ -27,7 +27,7 @@ The engines of the HAICC platform, written from the ground up on [Bare](/enginee
 
 The modules come in families, named by their prefix:
 
-- `mycelium-`: the data repository, on its languages (URI, XPath, git, Kafka topics).
+- `mycelium-`: the data repository, on its languages (Kafka, Git, AVRO, URI, XPath).
 - `p2p-`: the swarm and its nodes, and Mycelium on the p2p layer. Among them [p2p-git](/engineering/our-software/p2p-git/), the git engine on Hyperdrive.
 - `splectral-`: the SPLectral platform, from the browser shell to its server.
 - `haicc-` and `pkgm-`: the boot, deployment and packages.

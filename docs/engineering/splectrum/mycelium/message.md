@@ -10,7 +10,7 @@ sitemap: false
 
 # Mycelium Message
 
-The message is the tree in motion. When the identifier structure becomes active — when it travels — it goes into a [Kafka record](/engineering/spl/platform/substrate/kafka/). The Kafka record does not introduce new structure. It introduces *directionality*. The tree is symmetric. The Kafka record says: this part is the question, this part is the answer. Same structure, now polarised.
+The message is the tree in motion. When the identifier structure becomes active — when it travels — it goes into a [Kafka record](/engineering/mycelium/kafka/). The Kafka record does not introduce new structure. It introduces *directionality*. The tree is symmetric. The Kafka record says: this part is the question, this part is the answer. Same structure, now polarised.
 
 ## Headers and Value
 

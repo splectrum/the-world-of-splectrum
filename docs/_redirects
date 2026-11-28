@@ -10,6 +10,13 @@
 /engineering/infrastructure/bare-for-pear/p2p-git/ /engineering/our-software/p2p-git/ 301
 /engineering/infrastructure/bare-for-pear/* /engineering/our-software/bare-for-pear/:splat 301
 /engineering/spl/software/* /engineering/our-software/:splat 301
+/engineering/spl/platform/mycelium/ /engineering/mycelium/ 301
+/engineering/spl/platform/substrate/git/ /engineering/mycelium/git/ 301
+/engineering/spl/platform/substrate/kafka/ /engineering/mycelium/kafka/ 301
+/engineering/spl/platform/substrate/avro/ /engineering/mycelium/avro/ 301
+/engineering/spl/platform/substrate/uri/ /engineering/mycelium/uri/ 301
+/engineering/spl/platform/substrate/xpath/ /engineering/mycelium/xpath/ 301
+/engineering/spl/platform/substrate/ /engineering/mycelium/ 301
 /engineering/our-software/bare-for-pear/avsc/types/ /engineering/our-software/bare-for-pear/avsc/ 301
 /engineering/our-software/bare-for-pear/avsc/serialization/ /engineering/our-software/bare-for-pear/avsc/ 301
 /engineering/our-software/bare-for-pear/avsc/containers/ /engineering/our-software/bare-for-pear/avsc/ 301

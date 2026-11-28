@@ -13,6 +13,8 @@ description: "SPLectrum engineering — the SPLectrum philosophy and human-AI co
 
 **[Engineering Principles](/engineering/engineering-principles/)** — the principles the platform is built on, with AI autonomy as the aim.
 
+**[Mycelium](/engineering/mycelium/)**: the data repository concept, built on five languages (Kafka, Git, AVRO, URI and XPath), logical apart from physical, linking and layering repositories.
+
 **[Third Party Software](/engineering/third-party-software/)** — external software maintained by third parties: runtimes, platforms and modules, as they come from upstream.
 
 **[Our Software](/engineering/our-software/)** — the GitHub organisations our software lives in and what each is for: the engines, the projects and packages, SPLectral's components, the planning and the site, and outside code adapted for Bare.

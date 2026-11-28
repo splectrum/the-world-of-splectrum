@@ -13,9 +13,9 @@ The SPL platform consists of a P2P swarm with common structure, where node membe
 
 **[P2P Swarm and Bridgehead](/engineering/spl/platform/swarm/)** — the infrastructure for the swarm setup and the node bridgehead that runs locally.
 
-**[Language Substrate](/engineering/spl/platform/substrate/)** — the five committed languages that constitute the fabric: Git, Kafka, AVRO, URI, XPath.
+**[Language Substrate](/engineering/mycelium/)** — the five committed languages that constitute the fabric: Git, Kafka, AVRO, URI, XPath.
 
-**[Mycelium](/engineering/spl/platform/mycelium/)** — the data fabric. The substrate in which data state lives.
+**[Mycelium](/engineering/mycelium/)** — the data fabric. The substrate in which data state lives.
 
 **[SPLectrum](/engineering/spl/platform/splectrum/)** — the language fabric. Protocols, operators, personas — embedded as metadata on the data fabric.
 
