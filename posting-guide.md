@@ -215,7 +215,7 @@ When reviewing existing or new posts, check:
 
 1. **Front matter** — layout: post, title, date, labels (1–2 category, 0–1 series, max 3)
 2. **Image** — no inline float styles (CSS handles sizing). Just `<img src="..." alt="..." />`
-3. **Internal links** — use absolute paths (`/seed`, `/engineering/splectrum/mycelium/`). No old Blogger URLs, no `jules-tenbos.github.io`, no `.html` extensions
+3. **Internal links** — use absolute paths (`/seed`, `/engineering/mycelium/`). No old Blogger URLs, no `jules-tenbos.github.io`, no `.html` extensions
 4. **External links** — People and subjects with internal person/subject pages → use internal links. External (SEP/Wikipedia) only for names without a page. Works → Wikipedia links on person pages, not in posts
 5. **Footer** — `<small>This post is part of the [series name](/blog/label/series/). See also <a href="/area/page/">Page Title</a>.</small>` "See also" followed by the target pages' titles (several joined with commas and "and"); no "More in…" or "the reference entry on…". A post without a series keeps only the See also; a post without a See also keeps only the series line. Preamble and earlier-moment posts keep their own dated line.
 6. **Photo credit** — `<small>Photo: <a href="...">Name</a> / Unsplash</small>` separated by `---`

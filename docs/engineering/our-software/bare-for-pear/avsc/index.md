@@ -30,8 +30,10 @@ has not released (npm's latest is 5.7.9) and which has
 not moved since April 2025. Where these pages say v6,
 they mean that line.
 
-Not used by the HAICC platform now: Avro is a direction
-for SPLectrum's language layer.
+In use by the HAICC platform: its [type system](/engineering/mycelium/avro/)
+runs on this copy, with a fix to the fork's text-encoding
+polyfill (texts longer than its 4,096-byte buffer were
+written cut short).
 
 **Source:** [github.com/bare-for-pear/avsc](https://github.com/bare-for-pear/avsc)
 **Upstream:** [github.com/mtth/avsc](https://github.com/mtth/avsc)

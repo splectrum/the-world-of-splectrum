@@ -31,7 +31,7 @@ The standards themselves are on their subject pages: [Kafka](/positioning/subjec
 
 ## Logical over physical
 
-A query is logical: it moves through the data structure, irrespective of its storage structure. The storage structure is the physical side: folders, file names, the way a topic's records are laid out, all out of the query's sight. Translating the logical query into reads of the storage happens underneath, and that work is logged, so both sides stay visible.
+A query is logical: it moves through the data structure, irrespective of its storage structure. The storage structure is the physical side: folders, file names, the way a topic's records are laid out, all out of the query's sight. Translating the logical query into reads of the storage happens underneath.
 
 Because a query knows only the data structure, what lies beneath a node can be anything that answers to it. Today that is the repository's own storage, in more than one structure. A different way of storing is another translation underneath; readers do not change. Other repositories, remote or stored differently, are where that leads.
 
@@ -39,7 +39,7 @@ Because a query knows only the data structure, what lies beneath a node can be a
 
 The logical reading is what lets Mycelium link in other repositories. A link is a node whose data comes from another repository. What is built is the first hop: a command that reaches a link is sent on, with what is left of its URI, to the repository the link leads to, on the same machine. A query answered across links, and links to remote repositories, are the direction.
 
-Layering is the same principle in depth, also a direction. Several layers are overlaid at one position: what a query sees is their combination, in an assigned order where several read-only layers stand together, while what is stored stays apart and a write goes to the local side only.
+Layering is the same principle in depth, also a direction. Git gives an mrepo its layers, one concern each; layering is within `main`: more than one data layer at a position, in a specific order, navigated by XPath as a stack. What a query sees is their combination, while what is stored stays apart and a write goes to the local side only.
 
 ## P2P underneath
 

@@ -6,7 +6,7 @@ description: "The HAICC persona that owns the public voice of the World of SPLec
 sitemap: false
 ---
 
-[Home](/) > [Engineering](/engineering/) > [SPLectrum](/engineering/splectrum/) > [HAICC](/engineering/splectrum/haicc/) > [Personas](/engineering/splectrum/haicc/personas/) > Public Conscious Persona
+[Home](/) > [Engineering](/engineering/) > [Engineering Principles](/engineering/engineering-principles/) > [Personas](/engineering/personas/) > Public Conscious Persona
 
 # Public Conscious Persona
 

@@ -37,7 +37,7 @@ The multiplication is not additive. Each discovery opens adjacent paths visible 
 
 ## The process model
 
-Scan — surface what the landscape makes available. Diversify — multiple independent responses, each from its own position. Evolve — what yields further discovery reinforces, what does not fades. Selection by the relational space itself, not by an authority. The pattern resembles what is observed across levels: Neural Darwinism, the immune system, evolution, engineering [process models](/engineering/splectrum/haicc/process-models/). Whether these are instances of one structural pattern or structurally similar patterns in different domains is an open question.
+Scan — surface what the landscape makes available. Diversify — multiple independent responses, each from its own position. Evolve — what yields further discovery reinforces, what does not fades. Selection by the relational space itself, not by an authority. The pattern resembles what is observed across levels: Neural Darwinism, the immune system, evolution, engineering's [data-driven processing](/engineering/vision/#data-driven-processing). Whether these are instances of one structural pattern or structurally similar patterns in different domains is an open question.
 
 ## Connection to evolutionary transitions
 

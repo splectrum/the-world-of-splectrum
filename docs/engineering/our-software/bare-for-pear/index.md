@@ -11,7 +11,7 @@ description: "Outside code barified for the Bare runtime: avsc and avsc-rpc for 
 
 Outside code brought to the [Bare](/engineering/third-party-software/bare/) runtime, published in the [bare-for-pear](https://github.com/bare-for-pear) GitHub organisation. The modules are barified: changed to run on Bare, which has no Node.js standard library. Some are whole clones, some extracts, and one wraps a command line.
 
-They come from the first rounds of work on Bare, April to June 2026, and rest while the HAICC platform does not need them: none is used by it now. Avro, which avsc carries, is a direction for SPLectrum's language layer. One of them has grown into our own: [p2p-git](/engineering/our-software/p2p-git/) began here, as a clone of isomorphic-git, and now lives in pear-full-square.
+They come from the first rounds of work on Bare, April to June 2026, and most rest while the HAICC platform does not need them. avsc is in use again: the platform's [type system](/engineering/mycelium/avro/) runs on it, with a fix to the fork's text-encoding polyfill. One of them has grown into our own: [p2p-git](/engineering/our-software/p2p-git/) began here, as a clone of isomorphic-git, and now lives in `pear-full-square`.
 
 ## The modules and their upstream
 

@@ -53,5 +53,5 @@ Folders worth checking before saving a new memory on a topic:
 - `tone-of-voice/` — voice, register, authoring.
 - `process/` — workflow, collaboration patterns.
 - `posting-guide.md` — publishing conventions.
-- `docs/engineering/splectrum/splectrum/namespace.md`, `docs/engineering/splectrum/haicc/` — project concepts already in the ref lib.
+- `docs/engineering/` — the engineering concepts (HAICC, Mycelium and its languages, principles, vision), already in the ref lib.
 - `scheduled-tasks.md` — plan work and research tracking.
